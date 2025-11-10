@@ -1,0 +1,11 @@
+{
+  "name": "lockedin-handeler",
+  "version": "1.6.0",
+  "summary": "A simple Python package for managing space availability in Convex",
+  "author": "KAO",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/convex-space-manager",
+  "download_filename": "lockedin_handeler-1.6.0.tar.gz",
+  "download_time": "2025-11-10T14:46:32.083087",
+  "package_url": "https://pypi.org/project/lockedin-handeler/"
+}

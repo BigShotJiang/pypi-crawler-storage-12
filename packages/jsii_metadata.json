@@ -1,0 +1,11 @@
+{
+  "name": "jsii",
+  "version": "1.119.0",
+  "summary": "Python client for jsii runtime",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/jsii",
+  "download_filename": "jsii-1.119.0.tar.gz",
+  "download_time": "2025-11-10T14:46:49.374186",
+  "package_url": "https://pypi.org/project/jsii/"
+}

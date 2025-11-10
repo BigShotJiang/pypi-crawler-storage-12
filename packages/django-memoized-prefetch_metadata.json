@@ -1,0 +1,11 @@
+{
+  "name": "django-memoized-prefetch",
+  "version": "0.1.2",
+  "summary": "A memoized prefetch for Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_memoized_prefetch-0.1.2.tar.gz",
+  "download_time": "2025-11-10T14:46:16.179342",
+  "package_url": "https://pypi.org/project/django-memoized-prefetch/"
+}

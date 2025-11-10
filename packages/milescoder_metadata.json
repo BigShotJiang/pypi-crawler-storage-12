@@ -1,0 +1,11 @@
+{
+  "name": "milescoder",
+  "version": "0.1.0",
+  "summary": "A Python package for encoding and decoding MILES (Material Input Line Entry System) strings - a standardized notation system for describing comprehensive material properties in a compact, machine-readable format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "milescoder-0.1.0.tar.gz",
+  "download_time": "2025-11-10T14:46:28.789979",
+  "package_url": "https://pypi.org/project/milescoder/"
+}

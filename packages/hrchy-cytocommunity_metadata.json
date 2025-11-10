@@ -1,0 +1,11 @@
+{
+  "name": "hrchy-cytocommunity",
+  "version": "0.0.7",
+  "summary": "A computational method for identifying hierarchical tissue structures in a cell phenotype-annotated cellular spatial map.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hrchy_cytocommunity-0.0.7.tar.gz",
+  "download_time": "2025-11-10T14:46:11.317227",
+  "package_url": "https://pypi.org/project/hrchy-cytocommunity/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lloca",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Lorentz Local Canonicalization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lloca-1.3.0.tar.gz",
-  "download_time": "2025-11-10T11:20:45.131723",
+  "download_filename": "lloca-1.3.1.tar.gz",
+  "download_time": "2025-11-10T14:46:05.209738",
   "package_url": "https://pypi.org/project/lloca/"
 }

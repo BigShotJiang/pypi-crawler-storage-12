@@ -1,0 +1,11 @@
+{
+  "name": "aitraining",
+  "version": "0.0.0",
+  "summary": "Advanced Machine Learning Training Platform - IN DEVELOPMENT",
+  "author": "HuggingFace Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/huggingface/autotrain-advanced",
+  "download_filename": "aitraining-0.0.0.tar.gz",
+  "download_time": "2025-11-10T14:46:12.940566",
+  "package_url": "https://pypi.org/project/aitraining/"
+}
