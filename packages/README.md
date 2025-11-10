@@ -1,32 +1,13 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T10:29:17.671065
-- **Total Packages**: 90
-- **Total Size**: 54.59 MB
+- **Download Time**: 2025-11-10T10:49:47.245482
+- **Total Packages**: 89
+- **Total Size**: 3.26 MB
 
 ## Packages List
-- sssekai
-- dvt-core
-- digimat.mbio
-- dv-pipecat-flows
-- sqla-fancy-core
-- agent-queue
-- universal-mcp
-- openmeteo-sdk
-- py-mcp-travelplanner
-- agentos-client
-- testtools
-- rasa-pro
-- nebius
-- mxcubeweb
-- helmkit
-- cesnet-service-path-plugin
-- dfm-python
-- graphio
-- MaFreDo
-- claude-worktree
 - django-cotton-bs5
+- dv-pipecat-flows
 - logs-py
 - bfact-core
 - python-md2docx
@@ -45,6 +26,7 @@
 - pab-cli
 - lupislabs
 - orange-biosci
+- dfm-python
 - pydevd-pycharm
 - netbox-interface-view
 - aynse
@@ -59,6 +41,7 @@
 - langmiddle
 - aipyapp
 - history4feed
+- mxcubeweb
 - spec-kitty-cli
 - devforge-cli
 - bloqade-circuit
@@ -96,3 +79,19 @@
 - legit-api-client
 - mplang-nightly
 - brynq-sdk-sodeco
+- iflow-mcp_mcp-server-python
+- spArgValidatorPy
+- iflow-mcp_bonsai-mcp
+- fast-bitrix24-mcp
+- tina4-python
+- pydivkit
+- peakrdl-python
+- mkdocs-to-confluence
+- devlake-mcp
+- odoo-addon-l10n-ch-cooperator
+- sber-tunnel
+- import-linter
+- holm
+- cg
+- kmoe-manga-downloader
+- MRILong

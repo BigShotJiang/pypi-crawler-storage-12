@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_bonsai-mcp",
+  "version": "0.1.1",
+  "summary": "A minimal MCP Server to illusrate the interaction between Bonsai BIM (Blender) and Claude.",
+  "author": "JotaDeRodriguez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_bonsai_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-10T10:49:38.807227",
+  "package_url": "https://pypi.org/project/iflow-mcp_bonsai-mcp/"
+}
