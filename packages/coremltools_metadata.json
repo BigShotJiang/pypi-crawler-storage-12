@@ -1,0 +1,11 @@
+{
+  "name": "coremltools",
+  "version": "9.0",
+  "summary": "Community Tools for Core ML",
+  "author": "Apple Inc.",
+  "license": "BSD",
+  "home_page": "https://github.com/apple/coremltools",
+  "download_filename": "coremltools-9.0.tar.gz",
+  "download_time": "2025-11-10T21:53:52.740804",
+  "package_url": "https://pypi.org/project/coremltools/"
+}

@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T21:42:38.252330
-- **Total Packages**: 78
-- **Total Size**: 25.01 MB
+- **Download Time**: 2025-11-10T21:54:38.782667
+- **Total Packages**: 80
+- **Total Size**: 5.08 MB
 
 ## Packages List
+- qpuiq
+- sier2
+- coremltools
+- spArgValidatorPy
+- cicada-mcp
+- teehr
+- openinference-instrumentation-langchain
+- telemux
+- osism
+- channel3-sdk
+- pydagu
+- azula
+- glycogenius-GUI
+- frame-fwl
+- glycogenius
+- plinkformatter
+- okin-gui
 - depquery
 - ilc-models
 - mousetail
@@ -49,7 +66,6 @@
 - openbase
 - arx-x5-sdk
 - fhir-cda
-- telemux
 - pytransportnswv2
 - QChemy
 - ob-metaflow
@@ -70,17 +86,3 @@
 - pachinko-sdlr-dv
 - flet-charts
 - serial-usbipclient
-- peppy-sage
-- faster-eth-abi
-- fastlifeweb
-- revenium-mcp
-- metient
-- codrone-edu
-- formfyxer
-- HeroTeams1103
-- dekad
-- cw-sdk
-- datawrapper-mcp
-- sql-adapters
-- lightwave-smart
-- pulumi-provider-boilerplate
