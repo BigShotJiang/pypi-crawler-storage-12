@@ -1,0 +1,11 @@
+{
+  "name": "ansible-playbook-grapher",
+  "version": "2.10.1",
+  "summary": "A command line tool to create a graph representing your Ansible playbook tasks and roles.",
+  "author": "HAIDARA Mohamed El Mouctar",
+  "license": "MIT",
+  "home_page": "https://github.com/haidaraM/ansible-playbook-grapher",
+  "download_filename": "ansible_playbook_grapher-2.10.1-py2.py3-none-any.whl",
+  "download_time": "2025-11-10T13:55:35.983601",
+  "package_url": "https://pypi.org/project/ansible-playbook-grapher/"
+}

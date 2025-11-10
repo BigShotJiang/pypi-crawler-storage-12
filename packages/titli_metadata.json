@@ -1,0 +1,11 @@
+{
+  "name": "titli",
+  "version": "0.0.9",
+  "summary": "A library for collection of IDS and tools for evaluating them",
+  "author": "Subrat Kumar Swain",
+  "license": "MIT",
+  "home_page": "https://github.com/spg-iitd/titli",
+  "download_filename": "titli-0.0.9.tar.gz",
+  "download_time": "2025-11-10T13:55:06.038730",
+  "package_url": "https://pypi.org/project/titli/"
+}

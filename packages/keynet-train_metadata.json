@@ -1,11 +1,11 @@
 {
   "name": "keynet-train",
-  "version": "0.5.6",
+  "version": "0.6.0",
   "summary": "Training utilities for keynet - MLflow and model training support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keynet_train-0.5.6.tar.gz",
-  "download_time": "2025-11-10T09:37:51.741718",
+  "download_filename": "keynet_train-0.6.0.tar.gz",
+  "download_time": "2025-11-10T13:55:26.278517",
   "package_url": "https://pypi.org/project/keynet-train/"
 }

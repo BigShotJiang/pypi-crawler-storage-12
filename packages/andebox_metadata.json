@@ -1,0 +1,11 @@
+{
+  "name": "andebox",
+  "version": "1.7.1",
+  "summary": "Ansible Developers Box",
+  "author": "Alexei Znamensky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "andebox-1.7.1.tar.gz",
+  "download_time": "2025-11-10T13:55:32.671677",
+  "package_url": "https://pypi.org/project/andebox/"
+}

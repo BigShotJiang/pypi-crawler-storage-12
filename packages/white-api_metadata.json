@@ -1,11 +1,11 @@
 {
   "name": "white-api",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Python client for White API (api.wscode.ru)",
   "author": "devinpython",
   "license": null,
   "home_page": null,
-  "download_filename": "white_api-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-10T13:35:06.307062",
+  "download_filename": "white_api-1.0.3.tar.gz",
+  "download_time": "2025-11-10T13:55:08.381122",
   "package_url": "https://pypi.org/project/white-api/"
 }

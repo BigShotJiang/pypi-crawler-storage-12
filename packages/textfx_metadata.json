@@ -1,0 +1,11 @@
+{
+  "name": "textfx",
+  "version": "2.4.3",
+  "summary": "textfx is a Python library for creating dynamic and visually engaging text effects and Loading Animation.",
+  "author": "Ilia Karimi",
+  "license": "MIT",
+  "home_page": "https://github.com/iliakarimi/textfx",
+  "download_filename": "textfx-2.4.3.tar.gz",
+  "download_time": "2025-11-10T13:55:31.521714",
+  "package_url": "https://pypi.org/project/textfx/"
+}

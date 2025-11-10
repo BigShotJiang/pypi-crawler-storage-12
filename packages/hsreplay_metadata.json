@@ -1,0 +1,11 @@
+{
+  "name": "hsreplay",
+  "version": "1.16.2",
+  "summary": "A library for creating and parsing HSReplay files",
+  "author": "Jerome Leclanche",
+  "license": null,
+  "home_page": "https://github.com/HearthSim/python-hsreplay/",
+  "download_filename": "hsreplay-1.16.2.tar.gz",
+  "download_time": "2025-11-10T13:55:11.831149",
+  "package_url": "https://pypi.org/project/hsreplay/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "copydata",
+  "version": "0.1.4",
+  "summary": "CLI to compare two tabular datasets and produce a concise markdown report",
+  "author": "Mohd Azmat",
+  "license": "MIT",
+  "home_page": "https://github.com/azmatsiddique/dw-compare",
+  "download_filename": "copydata-0.1.4.tar.gz",
+  "download_time": "2025-11-10T13:55:03.738264",
+  "package_url": "https://pypi.org/project/copydata/"
+}

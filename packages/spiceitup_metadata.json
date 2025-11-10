@@ -1,11 +1,11 @@
 {
   "name": "spiceitup",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "Quicklook tool for level 2 SPICE imaging",
   "author": "David Picard",
   "license": null,
   "home_page": "https://git.ias.u-psud.fr/spice/data_quicklook",
-  "download_filename": "spiceitup-1.2.2.tar.gz",
-  "download_time": "2025-11-10T12:52:02.257803",
+  "download_filename": "spiceitup-1.3.0.tar.gz",
+  "download_time": "2025-11-10T13:55:12.403199",
   "package_url": "https://pypi.org/project/spiceitup/"
 }
