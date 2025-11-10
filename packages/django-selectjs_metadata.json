@@ -1,0 +1,11 @@
+{
+  "name": "django-selectjs",
+  "version": "0.3.5",
+  "summary": "Django SelectJS - A replacement for Select2 that uses plain HTML and Javascript",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_selectjs-0.3.5.tar.gz",
+  "download_time": "2025-11-10T19:40:14.269426",
+  "package_url": "https://pypi.org/project/django-selectjs/"
+}

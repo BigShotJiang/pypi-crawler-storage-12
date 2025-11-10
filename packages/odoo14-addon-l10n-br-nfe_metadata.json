@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-nfe",
+  "version": "14.0.19.5.0",
+  "summary": "Eletronic Invoicing for Brazil / NF-e",
+  "author": "Akretion,KMEE,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_nfe-14.0.19.5.0-py3-none-any.whl",
+  "download_time": "2025-11-10T19:39:35.672974",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-nfe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-ninja",
+  "version": "1.4.5",
+  "summary": "Django Ninja - Fast Django REST framework",
+  "author": "Vitaliy Kucheryaviy",
+  "license": null,
+  "home_page": "https://django-ninja.dev",
+  "download_filename": "django_ninja-1.4.5.tar.gz",
+  "download_time": "2025-11-10T19:39:50.776783",
+  "package_url": "https://pypi.org/project/django-ninja/"
+}

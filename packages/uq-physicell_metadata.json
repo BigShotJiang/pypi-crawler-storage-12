@@ -1,0 +1,11 @@
+{
+  "name": "uq-physicell",
+  "version": "1.2.2",
+  "summary": "Project to perform uncertainty quantification of PhysiCell models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uq_physicell-1.2.2.tar.gz",
+  "download_time": "2025-11-10T19:39:45.537054",
+  "package_url": "https://pypi.org/project/uq-physicell/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-fiscal-dfe",
+  "version": "14.0.2.5.0",
+  "summary": "Distribuição de documentos fiscais",
+  "author": "KMEE,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_fiscal_dfe-14.0.2.5.0-py3-none-any.whl",
+  "download_time": "2025-11-10T19:39:30.999145",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-fiscal-dfe/"
+}

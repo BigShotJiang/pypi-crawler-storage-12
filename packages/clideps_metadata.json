@@ -1,0 +1,11 @@
+{
+  "name": "clideps",
+  "version": "0.1.8",
+  "summary": "Terminal environment setup with less pain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clideps-0.1.8.tar.gz",
+  "download_time": "2025-11-10T19:39:37.780664",
+  "package_url": "https://pypi.org/project/clideps/"
+}

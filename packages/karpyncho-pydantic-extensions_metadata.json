@@ -1,11 +1,11 @@
 {
   "name": "karpyncho-pydantic-extensions",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "A collection of extensions and enhancements for the Pydantic library, providing custom mixins and utilities to enhance your data validation and serialization capabilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karpyncho_pydantic_extensions-0.3.3.tar.gz",
-  "download_time": "2025-11-10T18:55:10.049565",
+  "download_filename": "karpyncho_pydantic_extensions-0.3.4.tar.gz",
+  "download_time": "2025-11-10T19:39:47.639742",
   "package_url": "https://pypi.org/project/karpyncho-pydantic-extensions/"
 }

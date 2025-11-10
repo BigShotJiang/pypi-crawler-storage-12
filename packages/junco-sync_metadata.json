@@ -1,0 +1,11 @@
+{
+  "name": "junco-sync",
+  "version": "0.0.4",
+  "summary": "Sync Snowflake to DuckDB",
+  "author": "Cooper Richason",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cooper-richason/junco-sync",
+  "download_filename": "junco_sync-0.0.4.tar.gz",
+  "download_time": "2025-11-10T19:39:56.482949",
+  "package_url": "https://pypi.org/project/junco-sync/"
+}

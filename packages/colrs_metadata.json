@@ -1,0 +1,11 @@
+{
+  "name": "colrs",
+  "version": "0.4",
+  "summary": "A simple and elegant Python library for terminal text coloring.",
+  "author": "hussain_syrer",
+  "license": null,
+  "home_page": "https://github.com/HussainAlkhatib/colrs",
+  "download_filename": "colrs-0.4.tar.gz",
+  "download_time": "2025-11-10T19:39:27.889740",
+  "package_url": "https://pypi.org/project/colrs/"
+}
