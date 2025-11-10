@@ -1,11 +1,11 @@
 {
   "name": "qastudio-pytest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "pytest plugin for QAStudio.dev test management platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qastudio_pytest-1.0.3.tar.gz",
-  "download_time": "2025-11-10T21:42:23.119050",
+  "download_filename": "qastudio_pytest-1.0.4.tar.gz",
+  "download_time": "2025-11-10T22:44:15.525049",
   "package_url": "https://pypi.org/project/qastudio-pytest/"
 }

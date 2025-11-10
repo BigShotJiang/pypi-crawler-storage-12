@@ -1,11 +1,11 @@
 {
   "name": "pycarlo",
-  "version": "0.11.5",
+  "version": "0.11.6",
   "summary": "Monte Carlo's Python SDK",
   "author": "Monte Carlo Data, Inc",
   "license": "Apache Software License (Apache 2.0)",
   "home_page": "https://www.montecarlodata.com/",
-  "download_filename": "pycarlo-0.11.5.tar.gz",
-  "download_time": "2025-11-10T20:29:06.718647",
+  "download_filename": "pycarlo-0.11.6.tar.gz",
+  "download_time": "2025-11-10T22:44:13.845441",
   "package_url": "https://pypi.org/project/pycarlo/"
 }

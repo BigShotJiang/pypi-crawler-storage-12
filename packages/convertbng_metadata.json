@@ -1,0 +1,11 @@
+{
+  "name": "convertbng",
+  "version": "0.7.9",
+  "summary": "Fast lon, lat to and from ETRS89 and BNG (OSGB36) using the OS OSTN15 transform via Rust FFI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "convertbng-0.7.9.tar.gz",
+  "download_time": "2025-11-10T22:44:30.431983",
+  "package_url": "https://pypi.org/project/convertbng/"
+}

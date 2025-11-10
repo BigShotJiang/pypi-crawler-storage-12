@@ -1,15 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T22:24:37.379943
-- **Total Packages**: 85
-- **Total Size**: 45.11 MB
+- **Download Time**: 2025-11-10T22:44:55.600232
+- **Total Packages**: 81
+- **Total Size**: 8.21 MB
 
 ## Packages List
+- aioptdevices
+- purdy
+- tomtoolkit
+- testrail_api_module
+- python-ecd
+- marqeta-diva-mcp
+- docent-python
+- shared-multiprocess-queue
+- pycarlo
+- hat-drivers
+- google-meridian
+- qastudio-pytest
+- homa
+- beekeeper-monitors-watsonx
+- youdotcom
+- pulumi-provider-boilerplate
+- uv-lock-report
+- SciFiReaders
+- wipac-dev-tools
+- cicada-mcp
+- login-auth-tui
+- mtasklite
+- mmspy
+- cosma
+- stellars-jupyterlab-sublime-theme
+- piezense
+- splunk-otel-util-genai
+- ctdproc
+- bucketbase
+- auggie-sdk
+- strawberry-graphql
+- qctrl-fire-opal-riken-commons
+- ankigammon
+- qctrl-fire-opal-riken-client
+- praetorian-cli
+- elluminate
+- sclab
+- pymammotion
+- convertbng
 - verysimplepackage
+- ui-setup
+- cfn-check
+- cb-events
+- logsentinel
+- mdformat-py-edu-fr
+- gaik
+- landingai-ade
+- wizit-context-ingestor
+- soia-client
+- tanabesugano
 - dayhoff-tools
 - spotoptim
-- pulumi-provider-boilerplate
 - smoosense
 - gamspy
 - optimum-intel
@@ -27,7 +75,6 @@
 - nominal-api
 - pyhive-integration
 - brewse
-- mmspy
 - ogcore
 - mhr
 - jupyterlab-makefile-file-type-extension
@@ -39,55 +86,4 @@
 - django-helpdesk
 - vibe-coded-decorator
 - rda-python-icoads
-- piezense
 - rda-python-metrics
-- datview
-- solokit
-- regula-documentreader-webclient
-- lager-cli
-- llmsbrieftxt
-- splendaq
-- lfm-ai-upgrade
-- censys-platform
-- annotated-doc
-- nrtk-albumentations
-- pydantic-fixturegen
-- basket-viz
-- telemux
-- toonify
-- indent
-- crcc
-- hopx-ai
-- cleanlab-tlm
-- zoo-kcl
-- marqeta-diva-mcp
-- spectacles
-- arbi
-- torchmesh
-- flyteplugins-pytorch
-- openkitx403
-- flyteplugins-spark
-- flyte
-- imap-processing
-- gsply
-- flyteplugins-openai
-- canvasapi
-- flyteplugins-connectors
-- flyteplugins-ray
-- flyteplugins-dask
-- openkitx403-client
-- PyESPER
-- roman-snpit-snappl
-- lf-pollywog
-- minchoc
-- tictacsync
-- paradigm_garlic
-- hytils
-- primate-run
-- GoekenDataScience
-- ethyca-fides
-- ragmint
-- mellifera
-- structifyai
-- nextroute
-- mozichem-mcp-fastmcp
