@@ -1,0 +1,11 @@
+{
+  "name": "sceneweaver",
+  "version": "0.5",
+  "summary": "A tool for creating videos from YAML specification files",
+  "author": "SceneWeaver Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sceneweaver-0.5-py3-none-any.whl",
+  "download_time": "2025-11-10T16:36:56.789261",
+  "package_url": "https://pypi.org/project/sceneweaver/"
+}

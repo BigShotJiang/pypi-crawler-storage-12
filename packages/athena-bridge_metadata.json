@@ -1,0 +1,11 @@
+{
+  "name": "athena-bridge",
+  "version": "0.0.4",
+  "summary": "athena_bridge lets you run PySpark-style code using Python + AWS Athena, replicating PySpark’s syntax and functions. Write new code or migrate existing ones without EMR or Glue, leveraging Athena to cut costs and boost performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "athena_bridge-0.0.4.tar.gz",
+  "download_time": "2025-11-10T16:37:08.755705",
+  "package_url": "https://pypi.org/project/athena-bridge/"
+}
