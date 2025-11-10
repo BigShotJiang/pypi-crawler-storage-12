@@ -1,0 +1,11 @@
+{
+  "name": "aws-cost-calculator-cli",
+  "version": "2.1.0",
+  "summary": "AWS Cost Calculator CLI - Calculate daily and annual AWS costs across multiple accounts",
+  "author": "Cost Optimization Team",
+  "license": null,
+  "home_page": "https://github.com/trilogy-group/aws-cost-calculator",
+  "download_filename": "aws_cost_calculator_cli-2.1.0.tar.gz",
+  "download_time": "2025-11-10T09:53:53.212749",
+  "package_url": "https://pypi.org/project/aws-cost-calculator-cli/"
+}

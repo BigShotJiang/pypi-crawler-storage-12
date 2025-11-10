@@ -1,0 +1,11 @@
+{
+  "name": "indipyclient",
+  "version": "0.9.1",
+  "summary": "Pure python package, providing a set of classes which can be used to create scripts or clients to control remote instruments using the INDI protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "indipyclient-0.9.1.tar.gz",
+  "download_time": "2025-11-10T09:53:52.065353",
+  "package_url": "https://pypi.org/project/indipyclient/"
+}

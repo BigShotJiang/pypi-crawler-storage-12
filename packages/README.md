@@ -1,12 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T09:38:10.639841
-- **Total Packages**: 95
-- **Total Size**: 57.42 MB
+- **Download Time**: 2025-11-10T09:54:24.655523
+- **Total Packages**: 87
+- **Total Size**: 26.29 MB
 
 ## Packages List
+- devforge-cli
+- crcc
+- istr-python
+- spArgValidatorPy
+- mmar-llm
+- realtimex-computer-use
+- cligram
+- modusa
+- firecrest-streamer
+- chromin
+- cqp-tree
+- nucleation
+- ben-music-mcp
+- py3dframe
+- homa
+- apify
+- graphistry
+- smart-augmentation
+- compose-rename
+- odoo-addon-animal
+- iflow-mcp_whatsapp-mcp-server
 - utils-devops
+- maturin
+- ai4ce-helpers
+- tfp-nightly
+- rl-rock
+- iflow-mcp_elasticsearch7-mcp-server
+- ioxio-data-product-definition-tooling
+- fair-search-packages
+- adxp-sdk
+- indipyclient
+- daliuge-common
+- aws-cost-calculator-cli
+- lfss
+- modelslab_py
+- tidy3d
+- matchbox-db
+- license-scanner
+- remotivelabs-broker
 - codemie-tools
 - testit-python-commons
 - testit-adapter-nose
@@ -45,7 +83,6 @@
 - elemento-customers
 - speciesot
 - GrnGame
-- ben-music-mcp
 - port-ocean
 - mxcubecore
 - cc-py-commons
@@ -56,48 +93,3 @@
 - iflow-mcp_bilibili-video-info-mcp
 - sparc-puzzle
 - aimodelshare
-- q1simulator
-- netease-audiodiff
-- nanovdb-editor-dev
-- ceccomp
-- sora-sdk-rpi
-- sora-sdk
-- detectkit
-- waldiez-studio
-- keynet-inference
-- keynet-train
-- keynet-core
-- batplot
-- voice-mode-install
-- voice-mode
-- sigilyph
-- python-undef
-- netbox-interface-view
-- QCPROGS
-- waldiez-runner
-- dicom-tools-mcp
-- dynamicforms
-- pandora-plugin-libsgm
-- meshagent-otel
-- meshagent
-- meshagent-api
-- meshagent-tools
-- meshagent-openai
-- meshagent-computers
-- meshagent-cli
-- meshagent-markitdown
-- ghkit
-- meshagent-mcp
-- meshagent-livekit
-- meshagent-agents
-- digiflow
-- phun-reps
-- bizyui
-- netizen
-- pandora-plugin-mccnn
-- torchopticsy
-- shibuya
-- legit-api-client
-- adxp-sdk
-- nvidia-nat-llama-index
-- mytest-6bb91b9d-0e17-4664-b7da-d07f7c251ef4

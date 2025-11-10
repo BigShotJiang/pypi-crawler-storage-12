@@ -1,0 +1,11 @@
+{
+  "name": "cqp-tree",
+  "version": "0.1a1",
+  "summary": "Translate queries from tree-based formats to sequential CQP format used by Corpus Workbench.",
+  "author": "Niklas Deworetzki, Arianna Masciolini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cqp_tree-0.1a1.tar.gz",
+  "download_time": "2025-11-10T09:53:39.588011",
+  "package_url": "https://pypi.org/project/cqp-tree/"
+}

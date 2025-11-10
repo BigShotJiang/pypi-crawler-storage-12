@@ -1,0 +1,11 @@
+{
+  "name": "ioxio-data-product-definition-tooling",
+  "version": "0.18.0",
+  "summary": "IOXIO Data Product Definition Tooling",
+  "author": "IOXIO Ltd",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ioxio-dataspace/ioxio-data-product-definition-tooling",
+  "download_filename": "ioxio_data_product_definition_tooling-0.18.0.tar.gz",
+  "download_time": "2025-11-10T09:53:50.314782",
+  "package_url": "https://pypi.org/project/ioxio-data-product-definition-tooling/"
+}
