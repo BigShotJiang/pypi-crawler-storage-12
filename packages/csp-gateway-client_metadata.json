@@ -1,0 +1,11 @@
+{
+  "name": "csp-gateway-client",
+  "version": "2.4.3",
+  "summary": "csp-gateway is a framework for building high-performance streaming applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "csp_gateway_client-2.4.3.tar.gz",
+  "download_time": "2025-11-10T18:55:13.688295",
+  "package_url": "https://pypi.org/project/csp-gateway-client/"
+}

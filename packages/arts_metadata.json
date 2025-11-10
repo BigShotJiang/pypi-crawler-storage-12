@@ -1,0 +1,11 @@
+{
+  "name": "arts",
+  "version": "2025.11.12",
+  "summary": "本项目封装了一些Python开发中常用的功能，帮助你更高效地开发应用。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arts-2025.11.12.tar.gz",
+  "download_time": "2025-11-10T18:55:29.032531",
+  "package_url": "https://pypi.org/project/arts/"
+}

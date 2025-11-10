@@ -1,0 +1,11 @@
+{
+  "name": "netmiko-2fa-google-authenticator",
+  "version": "0.2",
+  "summary": "Out of tree netmiko driver for 2FA with google-authenticator",
+  "author": "Wilhelm Putz",
+  "license": "ASL V2",
+  "home_page": "https://github.com/cancom-austria-network-solutions/netmiko_2fa_google_authenticator",
+  "download_filename": "netmiko_2fa_google_authenticator-0.2-py3-none-any.whl",
+  "download_time": "2025-11-10T18:54:58.043267",
+  "package_url": "https://pypi.org/project/netmiko-2fa-google-authenticator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sql-smith",
+  "version": "1.1.2",
+  "summary": "sql-smith is an SQL query builder with zero dependencies and a fluent interface.",
+  "author": "Zumuta!",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_smith-1.1.2.tar.gz",
+  "download_time": "2025-11-10T18:55:01.015107",
+  "package_url": "https://pypi.org/project/sql-smith/"
+}

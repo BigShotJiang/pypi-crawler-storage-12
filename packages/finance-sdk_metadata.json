@@ -1,0 +1,11 @@
+{
+  "name": "finance-sdk",
+  "version": "1.0.2",
+  "summary": "SDK for Finance Module",
+  "author": "WLC Soluções",
+  "license": null,
+  "home_page": "https://github.com/wlc-solucoes/wlc-sdk-financeiro.git",
+  "download_filename": "finance_sdk-1.0.2.tar.gz",
+  "download_time": "2025-11-10T18:54:48.030545",
+  "package_url": "https://pypi.org/project/finance-sdk/"
+}
