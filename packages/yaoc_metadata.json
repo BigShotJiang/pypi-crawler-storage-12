@@ -1,0 +1,11 @@
+{
+  "name": "yaoc",
+  "version": "0.1.11",
+  "summary": "Yet Another OpenAI-compatible CLI",
+  "author": "Dory",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/doryiii/yaoc",
+  "download_filename": "yaoc-0.1.11.tar.gz",
+  "download_time": "2025-11-10T20:47:45.469724",
+  "package_url": "https://pypi.org/project/yaoc/"
+}

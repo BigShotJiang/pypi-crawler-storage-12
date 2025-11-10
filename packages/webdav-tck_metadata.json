@@ -1,0 +1,11 @@
+{
+  "name": "webdav-tck",
+  "version": "2025.11.1",
+  "summary": "WebDAV server protocol compliance test suite",
+  "author": "webdav_tck contributors",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "webdav_tck-2025.11.1.tar.gz",
+  "download_time": "2025-11-10T20:48:13.048237",
+  "package_url": "https://pypi.org/project/webdav-tck/"
+}

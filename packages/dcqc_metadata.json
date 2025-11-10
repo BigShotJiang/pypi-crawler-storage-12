@@ -1,0 +1,11 @@
+{
+  "name": "dcqc",
+  "version": "1.8.0",
+  "summary": "Python package for performing quality control (QC) for data coordination (DC)",
+  "author": "Bruno Grande",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Sage-Bionetworks-Workflows/py-dcqc",
+  "download_filename": "dcqc-1.8.0.tar.gz",
+  "download_time": "2025-11-10T20:48:04.252253",
+  "package_url": "https://pypi.org/project/dcqc/"
+}
