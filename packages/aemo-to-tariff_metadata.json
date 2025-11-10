@@ -1,0 +1,11 @@
+{
+  "name": "aemo-to-tariff",
+  "version": "0.7.3",
+  "summary": "Convert spot prices from $/MWh to c/kWh for different networks and tariffs",
+  "author": "Ian Connor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aemo_to_tariff-0.7.3-py3-none-any.whl",
+  "download_time": "2025-11-10T23:41:14.333023",
+  "package_url": "https://pypi.org/project/aemo-to-tariff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-pipeline-components",
+  "version": "2.22.0",
+  "summary": "This SDK enables a set of First Party (Google owned) pipeline components that allow users to take their experience from Vertex AI SDK and other Google Cloud services and create a corresponding pipeline using KFP or Managed Pipelines.",
+  "author": "The Google Cloud Pipeline Components authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/kubeflow/pipelines/tree/master/components/google-cloud",
+  "download_filename": "google_cloud_pipeline_components-2.22.0-py3-none-any.whl",
+  "download_time": "2025-11-10T23:41:32.806085",
+  "package_url": "https://pypi.org/project/google-cloud-pipeline-components/"
+}

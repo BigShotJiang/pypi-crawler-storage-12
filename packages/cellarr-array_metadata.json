@@ -1,0 +1,11 @@
+{
+  "name": "cellarr-array",
+  "version": "0.3.2",
+  "summary": "Base class for handling TileDB backed arrays.",
+  "author": "Jayaram Kancherla",
+  "license": "MIT",
+  "home_page": "https://github.com/cellarr/cellarr-array",
+  "download_filename": "cellarr_array-0.3.2.tar.gz",
+  "download_time": "2025-11-10T23:41:18.742972",
+  "package_url": "https://pypi.org/project/cellarr-array/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "trixenpdf",
-  "version": "1.0",
+  "version": "1.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trixenpdf-1.0.tar.gz",
-  "download_time": "2025-11-10T23:25:49.072351",
+  "download_filename": "trixenpdf-1.0.1.tar.gz",
+  "download_time": "2025-11-10T23:41:19.285308",
   "package_url": "https://pypi.org/project/trixenpdf/"
 }

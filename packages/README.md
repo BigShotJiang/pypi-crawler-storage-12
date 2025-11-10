@@ -1,15 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T23:26:22.858777
-- **Total Packages**: 82
-- **Total Size**: 35.36 MB
+- **Download Time**: 2025-11-10T23:41:59.789108
+- **Total Packages**: 85
+- **Total Size**: 6.68 MB
 
 ## Packages List
+- abstract-clipit
+- langchain-google-genai
+- aemo-to-tariff
+- abstract-utilities
+- fastworkflow
+- amplitude-experiment
+- llmsbrieftxt
+- prism-pruner
+- xslope
+- sidan-gin
+- cellarr-array
+- trixenpdf
+- cybrid-api-id-python
+- eth-portfolio-temp
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- robo_appian
+- cybrid-api-bank-python
+- openmeter
+- rustest
+- microevals
+- wpiformat
+- langchain-google-vertexai
+- cybrid-api-organization-python
+- pangea-sdk
+- reasoning-deployment-service
+- dsrag
+- qastudio-pytest
+- cb-events
+- rastr
+- componentize-py
+- frist
+- smartasync
+- google-cloud-pipeline-components
+- PM-JPL
 - gaik
 - pyvlasiator
 - grabpy
 - ds-xbom-lib
+- ds-server-lib
 - ds-reporting-lib
 - ds-analysis-lib
 - outerbounds
@@ -23,13 +60,11 @@
 - beautiful-traceback
 - nous
 - lilya
-- llmsbrieftxt
 - octotui
 - statezero
 - openbb-pydantic-ai
 - mqt-core
 - groundx
-- trixenpdf
 - pyanime4k
 - chalkpy
 - cetragm
@@ -40,8 +75,6 @@
 - httpx-qs
 - pymetadata
 - plone.meta
-- robo_appian
-- openmeter
 - splunk-otel-util-genai-translator-traceloop
 - splunk-otel-instrumentation-langchain
 - splunk-otel-genai-evals-deepeval
@@ -58,33 +91,3 @@
 - lifx-emulator
 - iam-policy-validator
 - auggie-sdk
-- wpiformat
-- nati-log
-- prime-evals
-- abstract-clipit
-- rnftools
-- chuchichaestli
-- ai-edge-model-explorer
-- sagemaker-studio
-- barsukov
-- laketower
-- claude-mpm
-- pixmatch
-- oups
-- label-studio-sdk
-- dapr-agents
-- g4music-discord-rpc
-- abstract-utilities
-- cad-to-dagmc
-- idc-index-data
-- langgraph-runtime-inmem
-- mito-ai
-- mitosheet
-- nautobot
-- ardupilot-methodic-configurator
-- omnipkg
-- luminarycloud
-- citrascope
-- synqly
-- amplitude-experiment
-- fastapi-new

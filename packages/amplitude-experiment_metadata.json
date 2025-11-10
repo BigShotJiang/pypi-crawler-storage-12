@@ -1,11 +1,11 @@
 {
   "name": "amplitude-experiment",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": "The official Amplitude Experiment Python SDK for server-side instrumentation.",
   "author": "Amplitude Inc.",
   "license": "MIT License",
   "home_page": "https://github.com/amplitude/experiment-python-server",
-  "download_filename": "amplitude_experiment-1.8.2.tar.gz",
-  "download_time": "2025-11-10T22:56:46.677230",
+  "download_filename": "amplitude_experiment-1.8.3.tar.gz",
+  "download_time": "2025-11-10T23:41:15.997030",
   "package_url": "https://pypi.org/project/amplitude-experiment/"
 }

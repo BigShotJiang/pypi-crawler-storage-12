@@ -1,0 +1,11 @@
+{
+  "name": "microevals",
+  "version": "0.1.0",
+  "summary": "Automated evaluation framework for AI-generated code quality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microevals-0.1.0.tar.gz",
+  "download_time": "2025-11-10T23:41:24.935688",
+  "package_url": "https://pypi.org/project/microevals/"
+}
