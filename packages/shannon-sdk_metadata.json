@@ -1,0 +1,11 @@
+{
+  "name": "shannon-sdk",
+  "version": "0.2.2",
+  "summary": "Python SDK for Shannon multi-agent AI platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shannon_sdk-0.2.2.tar.gz",
+  "download_time": "2025-11-10T10:29:14.595918",
+  "package_url": "https://pypi.org/project/shannon-sdk/"
+}

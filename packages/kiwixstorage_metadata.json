@@ -1,0 +1,11 @@
+{
+  "name": "kiwixstorage",
+  "version": "0.10.1",
+  "summary": "Kiwix S3 Cache wrapper to use within Kiwix/OpenZIM projects",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "kiwixstorage-0.10.1.tar.gz",
+  "download_time": "2025-11-10T10:28:46.102812",
+  "package_url": "https://pypi.org/project/kiwixstorage/"
+}

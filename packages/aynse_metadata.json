@@ -1,0 +1,11 @@
+{
+  "name": "aynse",
+  "version": "1.1.0",
+  "summary": "A lean and modern python library to fetch data from NSE",
+  "author": null,
+  "license": "*CMIT",
+  "home_page": null,
+  "download_filename": "aynse-1.1.0.tar.gz",
+  "download_time": "2025-11-10T10:28:52.300144",
+  "package_url": "https://pypi.org/project/aynse/"
+}

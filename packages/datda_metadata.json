@@ -1,0 +1,11 @@
+{
+  "name": "datda",
+  "version": "0.1.0",
+  "summary": "DATDA — Defense Against The Dark Arts: Inference-time image purifier and robust CNN defense pipeline",
+  "author": "Qamar Muneer Akbar",
+  "license": null,
+  "home_page": "https://github.com/qmamab/DATDA",
+  "download_filename": "datda-0.1.0.tar.gz",
+  "download_time": "2025-11-10T10:28:55.922109",
+  "package_url": "https://pypi.org/project/datda/"
+}

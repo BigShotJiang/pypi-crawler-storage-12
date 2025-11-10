@@ -1,0 +1,11 @@
+{
+  "name": "WaLSAtools",
+  "version": "1.0.0.post5",
+  "summary": "Wave analysis tools: A package for analyzing wave and oscillatory signals",
+  "author": "WaLSA Team - Shahin Jafarzadeh",
+  "license": null,
+  "home_page": "https://github.com/WaLSAteam/WaLSAtools",
+  "download_filename": "walsatools-1.0.0.post5.tar.gz",
+  "download_time": "2025-11-10T10:29:00.667262",
+  "package_url": "https://pypi.org/project/WaLSAtools/"
+}

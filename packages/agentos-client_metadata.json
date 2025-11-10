@@ -1,0 +1,11 @@
+{
+  "name": "agentos-client",
+  "version": "0.1.0",
+  "summary": "AgentOS SDK",
+  "author": "AgentOS",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "agentos_client-0.1.0.tar.gz",
+  "download_time": "2025-11-10T10:28:35.206604",
+  "package_url": "https://pypi.org/project/agentos-client/"
+}
