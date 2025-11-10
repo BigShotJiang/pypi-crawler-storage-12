@@ -1,0 +1,11 @@
+{
+  "name": "cmissh",
+  "version": "2025.11.0",
+  "summary": "CMIS Python client library and command-line shell",
+  "author": "Apache Chemistry Project",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmissh-2025.11.0.tar.gz",
+  "download_time": "2025-11-10T18:35:27.937588",
+  "package_url": "https://pypi.org/project/cmissh/"
+}

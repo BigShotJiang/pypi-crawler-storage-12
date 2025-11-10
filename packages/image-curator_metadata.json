@@ -1,0 +1,11 @@
+{
+  "name": "image-curator",
+  "version": "0.1.0",
+  "summary": "A production-ready Python tool for curating and downloading images from multiple sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "image_curator-0.1.0.tar.gz",
+  "download_time": "2025-11-10T18:35:35.785501",
+  "package_url": "https://pypi.org/project/image-curator/"
+}

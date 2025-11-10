@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-tarantula",
+  "version": "0.1.0",
+  "summary": "A professional CLI tool for scraping LinkedIn profiles via Google Search (linkedin-spider was taken)",
+  "author": "quantium",
+  "license": "MIT",
+  "home_page": "https://github.com/quantium/linkedin-spider",
+  "download_filename": "linkedin_tarantula-0.1.0.tar.gz",
+  "download_time": "2025-11-10T18:35:19.564286",
+  "package_url": "https://pypi.org/project/linkedin-tarantula/"
+}

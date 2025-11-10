@@ -1,0 +1,11 @@
+{
+  "name": "turkanime-gui",
+  "version": "9.3.6",
+  "summary": "Türkanime video oynatıcı ve indirici",
+  "author": "barkeser2002",
+  "license": "CC-BY-NC-ND-4.0",
+  "home_page": null,
+  "download_filename": "turkanime_gui-9.3.6.tar.gz",
+  "download_time": "2025-11-10T18:35:52.250533",
+  "package_url": "https://pypi.org/project/turkanime-gui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "run-snapshot-tests",
+  "version": "0.3.1",
+  "summary": "Runner for Python [inline-snapshot](https://github.com/15r10nk/inline-snapshot/) tests with a better interface and cleaner terminal output.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "run_snapshot_tests-0.3.1.tar.gz",
+  "download_time": "2025-11-10T18:35:07.477954",
+  "package_url": "https://pypi.org/project/run-snapshot-tests/"
+}

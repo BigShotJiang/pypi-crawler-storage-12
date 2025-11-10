@@ -1,0 +1,11 @@
+{
+  "name": "rgbterminal",
+  "version": "0.3.0",
+  "summary": "A Python library for terminal-colored text with 256-color and truecolor support",
+  "author": "Ulus Vatansever",
+  "license": "MIT",
+  "home_page": "https://github.com/cvcvka5/rgbterminal",
+  "download_filename": "rgbterminal-0.3.0.tar.gz",
+  "download_time": "2025-11-10T18:35:25.310143",
+  "package_url": "https://pypi.org/project/rgbterminal/"
+}

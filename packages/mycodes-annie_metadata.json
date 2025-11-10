@@ -1,0 +1,11 @@
+{
+  "name": "mycodes-annie",
+  "version": "0.1.2",
+  "summary": "ML scripts bundle (CNN/FNN/Autoencoders/CBOW)",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mycodes_annie-0.1.2.tar.gz",
+  "download_time": "2025-11-10T18:35:30.010855",
+  "package_url": "https://pypi.org/project/mycodes-annie/"
+}

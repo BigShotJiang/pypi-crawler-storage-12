@@ -1,0 +1,11 @@
+{
+  "name": "channels-kafka",
+  "version": "0.1.1",
+  "summary": "Kafka Channels backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "channels_kafka-0.1.1.tar.gz",
+  "download_time": "2025-11-10T18:35:37.867310",
+  "package_url": "https://pypi.org/project/channels-kafka/"
+}
