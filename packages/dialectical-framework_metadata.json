@@ -1,0 +1,11 @@
+{
+  "name": "dialectical-framework",
+  "version": "0.7.6",
+  "summary": "A dialectical framework for augmented intelligence. AI reasoning powered with dialectics supports humans in: system optimization (psychology, engineering, business, politics, etc.); dispute resolution (mediation, conflicts, negotiations, etc.); decision-making (dilemmas, challenging situations, win-win, etc.).",
+  "author": "Evaldas Taroza",
+  "license": "MIT",
+  "home_page": "https://github.com/dialexity/dialectical-framework",
+  "download_filename": "dialectical_framework-0.7.6.tar.gz",
+  "download_time": "2025-11-10T13:35:13.145994",
+  "package_url": "https://pypi.org/project/dialectical-framework/"
+}

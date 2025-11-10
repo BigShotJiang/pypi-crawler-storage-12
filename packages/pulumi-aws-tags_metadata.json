@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-aws-tags",
+  "version": "3.0.0",
+  "summary": "Pulumi package that helps manage tags for AWS resources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_aws_tags-3.0.0.tar.gz",
+  "download_time": "2025-11-10T13:34:54.318646",
+  "package_url": "https://pypi.org/project/pulumi-aws-tags/"
+}

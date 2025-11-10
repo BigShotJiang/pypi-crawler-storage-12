@@ -1,0 +1,11 @@
+{
+  "name": "finiteautomata",
+  "version": "1.2.0",
+  "summary": "A more intuitive way to create finite automata diagrams.",
+  "author": "Vishruth Bharath",
+  "license": null,
+  "home_page": "https://github.com/vishruthb/finiteautomata",
+  "download_filename": "finiteautomata-1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-10T13:34:56.028029",
+  "package_url": "https://pypi.org/project/finiteautomata/"
+}

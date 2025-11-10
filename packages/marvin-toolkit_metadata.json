@@ -1,0 +1,11 @@
+{
+  "name": "marvin-toolkit",
+  "version": "0.1.5",
+  "summary": "Biblioteca de automação padrão para a equipe de QA (Projeto Marvin).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marvin_toolkit-0.1.5.tar.gz",
+  "download_time": "2025-11-10T13:34:39.453562",
+  "package_url": "https://pypi.org/project/marvin-toolkit/"
+}

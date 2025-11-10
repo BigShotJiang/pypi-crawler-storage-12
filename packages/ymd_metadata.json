@@ -1,0 +1,11 @@
+{
+  "name": "ymd",
+  "version": "0.1.4",
+  "summary": "The ymd module supplies functions for manipulating dates",
+  "author": "Andrey Melnikov",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/andmeln/ymd/",
+  "download_filename": "ymd-0.1.4.tar.gz",
+  "download_time": "2025-11-10T13:35:04.025327",
+  "package_url": "https://pypi.org/project/ymd/"
+}

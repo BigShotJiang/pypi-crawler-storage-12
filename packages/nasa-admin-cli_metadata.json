@@ -1,0 +1,11 @@
+{
+  "name": "nasa-admin-cli",
+  "version": "0.1.7",
+  "summary": "NASA Admin CLI tool — cross-platform login system",
+  "author": "Ashlesh Deshmukh",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/nasa-admin-cli",
+  "download_filename": "nasa_admin_cli-0.1.7.tar.gz",
+  "download_time": "2025-11-10T13:35:07.489078",
+  "package_url": "https://pypi.org/project/nasa-admin-cli/"
+}

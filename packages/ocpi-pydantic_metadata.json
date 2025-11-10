@@ -1,0 +1,11 @@
+{
+  "name": "ocpi-pydantic",
+  "version": "0.9.1",
+  "summary": "OCPI Pydantic models",
+  "author": "Leon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocpi_pydantic-0.9.1.tar.gz",
+  "download_time": "2025-11-10T13:34:50.174918",
+  "package_url": "https://pypi.org/project/ocpi-pydantic/"
+}

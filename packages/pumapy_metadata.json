@@ -1,0 +1,11 @@
+{
+  "name": "pumapy",
+  "version": "3.0.0",
+  "summary": null,
+  "author": "Netherlands Forensic Institute",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/NetherlandsForensicInstitute/puma",
+  "download_filename": "pumapy-3.0.0.tar.gz",
+  "download_time": "2025-11-10T13:35:01.167647",
+  "package_url": "https://pypi.org/project/pumapy/"
+}

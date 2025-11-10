@@ -1,0 +1,11 @@
+{
+  "name": "klassez",
+  "version": "0.5a2",
+  "summary": "A collection of functions for NMR data handling.",
+  "author": "Francesco Bruno, Letizia Fiorucci",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/MetallerTM/klassez",
+  "download_filename": "klassez-0.5a2-py3-none-any.whl",
+  "download_time": "2025-11-10T13:35:05.165674",
+  "package_url": "https://pypi.org/project/klassez/"
+}

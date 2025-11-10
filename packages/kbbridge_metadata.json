@@ -1,0 +1,11 @@
+{
+  "name": "kbbridge",
+  "version": "0.1.1",
+  "summary": "MCP server for intelligent knowledge base search and retrieval with Dify integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kbbridge-0.1.1.tar.gz",
+  "download_time": "2025-11-10T13:35:18.893922",
+  "package_url": "https://pypi.org/project/kbbridge/"
+}

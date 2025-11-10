@@ -1,0 +1,11 @@
+{
+  "name": "lexiquery",
+  "version": "0.2.0",
+  "summary": "A small boolean + positional query engine with a proper parser.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lexiquery-0.2.0.tar.gz",
+  "download_time": "2025-11-10T13:35:10.872698",
+  "package_url": "https://pypi.org/project/lexiquery/"
+}
