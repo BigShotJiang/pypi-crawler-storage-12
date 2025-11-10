@@ -1,0 +1,11 @@
+{
+  "name": "mk8dx-table-reader",
+  "version": "0.5.5",
+  "summary": "A package to extract player names and scores from MK8DX tables using YOLO and EasyOCR.",
+  "author": "Julien ABADIE",
+  "license": null,
+  "home_page": "https://github.com/PrizeWhipser/shortcat.tips",
+  "download_filename": "mk8dx_table_reader-0.5.5.tar.gz",
+  "download_time": "2025-11-10T17:27:00.095047",
+  "package_url": "https://pypi.org/project/mk8dx-table-reader/"
+}

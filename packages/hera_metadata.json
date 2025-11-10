@@ -1,0 +1,11 @@
+{
+  "name": "hera",
+  "version": "5.26.1",
+  "summary": "Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python.",
+  "author": "Flaviu Vadan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hera-5.26.1.tar.gz",
+  "download_time": "2025-11-10T17:27:29.918555",
+  "package_url": "https://pypi.org/project/hera/"
+}

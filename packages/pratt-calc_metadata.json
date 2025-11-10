@@ -1,0 +1,11 @@
+{
+  "name": "pratt-calc",
+  "version": "0.1.0",
+  "summary": "Arithmetic calculator which uses a Pratt parser",
+  "author": "Brandon C. Irizarry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pratt_calc-0.1.0.tar.gz",
+  "download_time": "2025-11-10T17:26:52.114413",
+  "package_url": "https://pypi.org/project/pratt-calc/"
+}

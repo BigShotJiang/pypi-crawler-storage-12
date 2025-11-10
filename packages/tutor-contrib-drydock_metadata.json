@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-drydock",
+  "version": "20.1.0",
+  "summary": "A Tutor plugin to manage our opinionated Open edX operations",
+  "author": "eduNEXT",
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "tutor_contrib_drydock-20.1.0.tar.gz",
+  "download_time": "2025-11-10T17:27:01.250810",
+  "package_url": "https://pypi.org/project/tutor-contrib-drydock/"
+}

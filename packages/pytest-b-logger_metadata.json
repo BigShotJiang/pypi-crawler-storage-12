@@ -1,0 +1,11 @@
+{
+  "name": "pytest-b-logger",
+  "version": "1.1.6",
+  "summary": "BLogger is a Pytest plugin for enhanced test logging and generating convenient and lightweight reports.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_b_logger-1.1.6.tar.gz",
+  "download_time": "2025-11-10T17:27:04.677305",
+  "package_url": "https://pypi.org/project/pytest-b-logger/"
+}
