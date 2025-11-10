@@ -1,0 +1,11 @@
+{
+  "name": "netease-audiodiff",
+  "version": "1.0.5",
+  "summary": "With this Toolset and one audio cable you can simply built end2end audio test paltform base on mac,which means,Its very Lightweight，Easy to build and carry",
+  "author": "PAN SONGSHENG",
+  "license": "MIT",
+  "home_page": "https://g.hz.netease.com/hzpansongsheng/audio_diff/-/tree/feature/pypi",
+  "download_filename": "netease_audiodiff-1.0.5.tar.gz",
+  "download_time": "2025-11-10T09:37:47.233184",
+  "package_url": "https://pypi.org/project/netease-audiodiff/"
+}

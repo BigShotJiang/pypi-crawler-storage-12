@@ -1,0 +1,11 @@
+{
+  "name": "sqlglot-clickzetta",
+  "version": "23.12.6",
+  "summary": "An easily customizable SQL parser and transpiler",
+  "author": "Toby Mao",
+  "license": "MIT",
+  "home_page": "https://github.com/tobymao/sqlglot",
+  "download_filename": "sqlglot_clickzetta-23.12.6-py3-none-any.whl",
+  "download_time": "2025-11-10T09:37:31.876190",
+  "package_url": "https://pypi.org/project/sqlglot-clickzetta/"
+}

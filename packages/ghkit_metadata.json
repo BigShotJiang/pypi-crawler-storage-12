@@ -1,0 +1,11 @@
+{
+  "name": "ghkit",
+  "version": "0.0.6",
+  "summary": "Grand Honor Kit - 一个 Python 项目通用工具包，提供缓存、数据库、日志、消息通知等功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghkit-0.0.6.tar.gz",
+  "download_time": "2025-11-10T09:38:02.756311",
+  "package_url": "https://pypi.org/project/ghkit/"
+}

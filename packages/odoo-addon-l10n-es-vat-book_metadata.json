@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-vat-book",
+  "version": "18.0.2.0.2",
+  "summary": "Libro de IVA",
+  "author": "PRAXYA, ForgeFlow, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_vat_book-18.0.2.0.2-py3-none-any.whl",
+  "download_time": "2025-11-10T09:37:24.948899",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-vat-book/"
+}

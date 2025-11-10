@@ -1,0 +1,11 @@
+{
+  "name": "birdnet-analyzer",
+  "version": "2.4.0",
+  "summary": "BirdNET analyzer for scientific audio data processing and bird classification.",
+  "author": "Stefan Kahl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "birdnet_analyzer-2.4.0.tar.gz",
+  "download_time": "2025-11-10T09:37:30.299186",
+  "package_url": "https://pypi.org/project/birdnet-analyzer/"
+}

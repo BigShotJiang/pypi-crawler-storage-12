@@ -1,0 +1,11 @@
+{
+  "name": "phun-reps",
+  "version": "0.1.2",
+  "summary": "A fun Python package for creating topological descriptors for nanoporous materials with persistent homology using nets (PHuN).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phun_reps-0.1.2.tar.gz",
+  "download_time": "2025-11-10T09:38:05.354851",
+  "package_url": "https://pypi.org/project/phun-reps/"
+}

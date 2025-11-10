@@ -1,0 +1,11 @@
+{
+  "name": "dict-hash",
+  "version": "1.3.7",
+  "summary": "Python package to hash dictionaries using default hash, md5, sha256 and more.",
+  "author": "Luca Cappelletti",
+  "license": "MIT",
+  "home_page": "https://github.com/LucaCappelletti94/dict_hash",
+  "download_filename": "dict_hash-1.3.7.tar.gz",
+  "download_time": "2025-11-10T09:37:36.064959",
+  "package_url": "https://pypi.org/project/dict-hash/"
+}

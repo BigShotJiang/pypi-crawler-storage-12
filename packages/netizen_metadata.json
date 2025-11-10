@@ -1,0 +1,11 @@
+{
+  "name": "netizen",
+  "version": "0.0.1",
+  "summary": "Netizen is a minimalist HTTP client with a symmetrical interface between async and sync modes.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "netizen-0.0.1.tar.gz",
+  "download_time": "2025-11-10T09:38:06.427099",
+  "package_url": "https://pypi.org/project/netizen/"
+}

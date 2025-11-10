@@ -1,0 +1,11 @@
+{
+  "name": "gtgt",
+  "version": "0.2.7",
+  "summary": "Genetic Therapy Generator Toolkit",
+  "author": "Redmar van den Berg",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/DCRT-LUMC/GTGT",
+  "download_filename": "gtgt-0.2.7.tar.gz",
+  "download_time": "2025-11-10T09:37:33.950705",
+  "package_url": "https://pypi.org/project/gtgt/"
+}
