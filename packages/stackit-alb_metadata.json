@@ -1,0 +1,11 @@
+{
+  "name": "stackit-alb",
+  "version": "0.6.1",
+  "summary": "Application Load Balancer API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_alb-0.6.1.tar.gz",
+  "download_time": "2025-11-10T11:20:49.862719",
+  "package_url": "https://pypi.org/project/stackit-alb/"
+}

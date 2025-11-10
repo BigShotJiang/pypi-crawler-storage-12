@@ -1,0 +1,11 @@
+{
+  "name": "jaxmod",
+  "version": "0.3.0",
+  "summary": "Lightweight utility functions for JAX arrays, batching, and pytrees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxmod-0.3.0.tar.gz",
+  "download_time": "2025-11-10T11:21:12.373427",
+  "package_url": "https://pypi.org/project/jaxmod/"
+}

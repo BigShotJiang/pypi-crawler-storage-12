@@ -1,0 +1,11 @@
+{
+  "name": "crc-ct",
+  "version": "2.0.2",
+  "summary": "Deprecated package. Please use 'crcc' instead.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crc_ct-2.0.2.tar.gz",
+  "download_time": "2025-11-10T11:20:27.695997",
+  "package_url": "https://pypi.org/project/crc-ct/"
+}

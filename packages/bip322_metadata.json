@@ -1,0 +1,11 @@
+{
+  "name": "bip322",
+  "version": "0.2.0",
+  "summary": "Python ↔ Rust bridge for verifying BIP-322 Bitcoin message signatures.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bip322-0.2.0.tar.gz",
+  "download_time": "2025-11-10T11:21:07.682940",
+  "package_url": "https://pypi.org/project/bip322/"
+}

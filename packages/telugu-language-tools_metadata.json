@@ -1,0 +1,11 @@
+{
+  "name": "telugu-language-tools",
+  "version": "5.5.0",
+  "summary": "Modern Telugu v3.0 compliant library with present continuous tense, modern pronouns, comprehensive validation, and 100% test coverage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telugu_language_tools-5.5.0.tar.gz",
+  "download_time": "2025-11-10T11:21:10.813926",
+  "package_url": "https://pypi.org/project/telugu-language-tools/"
+}

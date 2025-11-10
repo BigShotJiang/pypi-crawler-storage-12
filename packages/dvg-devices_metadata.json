@@ -1,0 +1,11 @@
+{
+  "name": "dvg-devices",
+  "version": "1.5.2",
+  "summary": "Collection of I/O interfaces to communicate with microcontroller boards and laboratory devices, with optional PyQt/PySide multithread support and graphical user-interfaces.",
+  "author": "Dennis van Gils",
+  "license": "MIT",
+  "home_page": "https://python-dvg-devices.readthedocs.io",
+  "download_filename": "dvg_devices-1.5.2.tar.gz",
+  "download_time": "2025-11-10T11:21:08.210902",
+  "package_url": "https://pypi.org/project/dvg-devices/"
+}

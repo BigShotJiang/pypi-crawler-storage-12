@@ -1,0 +1,11 @@
+{
+  "name": "dataeyes-mcp-server",
+  "version": "1.0.7",
+  "summary": "This is a MCP server for Dataeyes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataeyes_mcp_server-1.0.7.tar.gz",
+  "download_time": "2025-11-10T11:21:11.332724",
+  "package_url": "https://pypi.org/project/dataeyes-mcp-server/"
+}

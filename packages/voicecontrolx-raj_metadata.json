@@ -1,0 +1,11 @@
+{
+  "name": "voicecontrolx-raj",
+  "version": "0.1.0",
+  "summary": "Offline Windows voice assistant in Python",
+  "author": "RAJALINGAMT",
+  "license": null,
+  "home_page": "https://github.com/TRajalingam/voicecontrolx-raj",
+  "download_filename": "voicecontrolx_raj-0.1.0.tar.gz",
+  "download_time": "2025-11-10T11:21:06.641614",
+  "package_url": "https://pypi.org/project/voicecontrolx-raj/"
+}

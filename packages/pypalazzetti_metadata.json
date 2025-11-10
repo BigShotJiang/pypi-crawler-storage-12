@@ -1,0 +1,11 @@
+{
+  "name": "pypalazzetti",
+  "version": "0.1.20",
+  "summary": "A Python library to access and control a Palazzetti stove through a Palazzetti Connection Box",
+  "author": "Vincent Roukine",
+  "license": "MIT",
+  "home_page": "https://github.com/dotvav/py-palazzetti-api",
+  "download_filename": "pypalazzetti-0.1.20.tar.gz",
+  "download_time": "2025-11-10T11:20:39.911343",
+  "package_url": "https://pypi.org/project/pypalazzetti/"
+}

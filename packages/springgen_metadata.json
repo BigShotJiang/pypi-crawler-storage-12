@@ -1,0 +1,11 @@
+{
+  "name": "springgen",
+  "version": "1.0.0",
+  "summary": "Interactive Spring Boot CRUD CLI",
+  "author": "Ajoy Deb Nath",
+  "license": "MIT",
+  "home_page": "https://github.com/Ajoy-1704001/springgen",
+  "download_filename": "springgen-1.0.0.tar.gz",
+  "download_time": "2025-11-10T11:20:38.853043",
+  "package_url": "https://pypi.org/project/springgen/"
+}

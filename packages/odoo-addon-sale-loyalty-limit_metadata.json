@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-loyalty-limit",
+  "version": "18.0.1.0.0.2",
+  "summary": "Restrict number of promotions per customer or salesman",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-promotion",
+  "download_filename": "odoo_addon_sale_loyalty_limit-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-10T11:20:28.733001",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-loyalty-limit/"
+}
