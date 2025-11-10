@@ -1,0 +1,11 @@
+{
+  "name": "beautiful-traceback",
+  "version": "0.2.0",
+  "summary": "Beautiful, readable Python tracebacks with colors and formatting",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beautiful_traceback-0.2.0.tar.gz",
+  "download_time": "2025-11-10T23:25:44.097609",
+  "package_url": "https://pypi.org/project/beautiful-traceback/"
+}

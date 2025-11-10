@@ -1,0 +1,11 @@
+{
+  "name": "netbook",
+  "version": "0.5.0",
+  "summary": "Jupyter notebook for terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbook-0.5.0.tar.gz",
+  "download_time": "2025-11-10T23:25:58.662551",
+  "package_url": "https://pypi.org/project/netbook/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nati-log",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "summary": "Librería para interactuar con la API de NatiLog",
   "author": "Natalí",
   "license": null,
   "home_page": null,
-  "download_filename": "nati_log-2.1.5.tar.gz",
-  "download_time": "2025-11-10T22:56:49.326302",
+  "download_filename": "nati_log-2.1.6.tar.gz",
+  "download_time": "2025-11-10T23:26:06.206766",
   "package_url": "https://pypi.org/project/nati-log/"
 }

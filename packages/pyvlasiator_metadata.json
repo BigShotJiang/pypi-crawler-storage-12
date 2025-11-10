@@ -1,0 +1,11 @@
+{
+  "name": "pyvlasiator",
+  "version": "0.1.10",
+  "summary": "Python utilities for processing Vlasiator data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvlasiator-0.1.10.tar.gz",
+  "download_time": "2025-11-10T23:25:36.864262",
+  "package_url": "https://pypi.org/project/pyvlasiator/"
+}

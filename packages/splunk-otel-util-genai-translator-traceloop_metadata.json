@@ -1,0 +1,11 @@
+{
+  "name": "splunk-otel-util-genai-translator-traceloop",
+  "version": "0.1.3",
+  "summary": "Traceloop -> GenAI translator emitter for OpenTelemetry GenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_otel_util_genai_translator_traceloop-0.1.3.tar.gz",
+  "download_time": "2025-11-10T23:25:56.428501",
+  "package_url": "https://pypi.org/project/splunk-otel-util-genai-translator-traceloop/"
+}

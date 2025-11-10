@@ -1,11 +1,11 @@
 {
   "name": "llmsbrieftxt",
-  "version": "1.9.0",
+  "version": "1.11.0",
   "summary": "Generate llms-brief.txt files from documentation websites using AI",
   "author": "llmsbrieftxt contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmsbrieftxt-1.9.0.tar.gz",
-  "download_time": "2025-11-10T22:24:11.319002",
+  "download_filename": "llmsbrieftxt-1.11.0.tar.gz",
+  "download_time": "2025-11-10T23:25:45.747659",
   "package_url": "https://pypi.org/project/llmsbrieftxt/"
 }
