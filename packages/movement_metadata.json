@@ -1,0 +1,11 @@
+{
+  "name": "movement",
+  "version": "0.11.1",
+  "summary": "A Python toolbox for analysing animal body movements across space and time",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "movement-0.11.1.tar.gz",
+  "download_time": "2025-11-10T19:20:40.147992",
+  "package_url": "https://pypi.org/project/movement/"
+}

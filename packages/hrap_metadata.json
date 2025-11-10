@@ -1,0 +1,11 @@
+{
+  "name": "hrap",
+  "version": "0.1.5",
+  "summary": "HRAP is a versatile tool for simulation of hybrid rocket engines.",
+  "author": "Drew Nickel, Thomas A. Scott",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hrap-0.1.5.tar.gz",
+  "download_time": "2025-11-10T19:20:40.747301",
+  "package_url": "https://pypi.org/project/hrap/"
+}

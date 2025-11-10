@@ -1,11 +1,11 @@
 {
   "name": "tyco",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python library for the Typed Configuration language",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tyco-0.2.0.tar.gz",
-  "download_time": "2025-11-10T18:35:26.890519",
+  "download_filename": "tyco-0.2.1.tar.gz",
+  "download_time": "2025-11-10T19:20:14.396014",
   "package_url": "https://pypi.org/project/tyco/"
 }
