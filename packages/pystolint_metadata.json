@@ -1,0 +1,11 @@
+{
+  "name": "pystolint",
+  "version": "0.6.1",
+  "summary": "Linters composer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystolint-0.6.1.tar.gz",
+  "download_time": "2025-11-10T12:52:37.812136",
+  "package_url": "https://pypi.org/project/pystolint/"
+}

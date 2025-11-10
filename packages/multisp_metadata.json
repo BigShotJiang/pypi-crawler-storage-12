@@ -1,0 +1,11 @@
+{
+  "name": "multisp",
+  "version": "1.1.0",
+  "summary": "MultiSP deciphers tissue structure and multicellular communication from spatial multi-omics data",
+  "author": "Chenfeng Mo",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenfengMo316/MultiSP",
+  "download_filename": "multisp-1.1.0.tar.gz",
+  "download_time": "2025-11-10T12:51:56.479000",
+  "package_url": "https://pypi.org/project/multisp/"
+}

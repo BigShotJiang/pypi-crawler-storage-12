@@ -1,0 +1,11 @@
+{
+  "name": "plantmeter",
+  "version": "1.7.12",
+  "summary": "OpenERP module and library to manage multisite energy generation",
+  "author": "Som Energia SCCL",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/Som-Energia/plantmeter",
+  "download_filename": "plantmeter-1.7.12.tar.gz",
+  "download_time": "2025-11-10T12:52:23.770405",
+  "package_url": "https://pypi.org/project/plantmeter/"
+}

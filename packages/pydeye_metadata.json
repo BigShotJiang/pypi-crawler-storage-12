@@ -1,0 +1,11 @@
+{
+  "name": "pydeye",
+  "version": "0.0.11",
+  "summary": "A Python library for interacting with Deye Inverters using ModbusTCP",
+  "author": "Jakob Salmič",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "pydeye-0.0.11.tar.gz",
+  "download_time": "2025-11-10T12:51:59.194770",
+  "package_url": "https://pypi.org/project/pydeye/"
+}

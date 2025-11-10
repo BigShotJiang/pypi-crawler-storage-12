@@ -1,0 +1,11 @@
+{
+  "name": "mdtpy",
+  "version": "25.11.10",
+  "summary": "MDT client for Python",
+  "author": "Kang-Woo Lee",
+  "license": null,
+  "home_page": "https://github.com/kwlee0220/mdtpy",
+  "download_filename": "mdtpy-25.11.10-py3-none-any.whl",
+  "download_time": "2025-11-10T12:51:55.317310",
+  "package_url": "https://pypi.org/project/mdtpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "covet",
+  "version": "0.1.0b5",
+  "summary": "A high-performance Python web framework with Rust-optimized components for modern async applications",
+  "author": "Vipin Kumar",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "covet-0.1.0b5.tar.gz",
+  "download_time": "2025-11-10T12:51:57.662104",
+  "package_url": "https://pypi.org/project/covet/"
+}

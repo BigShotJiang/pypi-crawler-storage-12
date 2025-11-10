@@ -1,0 +1,11 @@
+{
+  "name": "composio-llamaindex",
+  "version": "0.9.2",
+  "summary": "Use Composio to get array of tools with LlamaIndex Agent Workflows.",
+  "author": "composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_llamaindex-0.9.2.tar.gz",
+  "download_time": "2025-11-10T12:52:14.317142",
+  "package_url": "https://pypi.org/project/composio-llamaindex/"
+}

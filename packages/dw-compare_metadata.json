@@ -1,0 +1,11 @@
+{
+  "name": "dw-compare",
+  "version": "0.1.0",
+  "summary": "A Python CLI tool that compares two tabular datasets and reports what truly changed",
+  "author": "Mohd Azmat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dw_compare-0.1.0.tar.gz",
+  "download_time": "2025-11-10T12:52:12.193199",
+  "package_url": "https://pypi.org/project/dw-compare/"
+}
