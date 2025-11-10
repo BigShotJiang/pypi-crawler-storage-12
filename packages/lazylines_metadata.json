@@ -1,0 +1,11 @@
+{
+  "name": "lazylines",
+  "version": "0.1.0",
+  "summary": "A lazy way to process lines from files",
+  "author": "Vincent D. Warmerdam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lazylines-0.1.0.tar.gz",
+  "download_time": "2025-11-10T11:41:01.156890",
+  "package_url": "https://pypi.org/project/lazylines/"
+}

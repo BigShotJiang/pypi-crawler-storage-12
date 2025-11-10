@@ -1,0 +1,11 @@
+{
+  "name": "tnscli",
+  "version": "1.0.0",
+  "summary": "Command-line interface for TAO Name Service - Similar to btcli for Bittensor",
+  "author": "TNS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/taonames/tns-cli",
+  "download_filename": "tnscli-1.0.0.tar.gz",
+  "download_time": "2025-11-10T11:40:49.644006",
+  "package_url": "https://pypi.org/project/tnscli/"
+}

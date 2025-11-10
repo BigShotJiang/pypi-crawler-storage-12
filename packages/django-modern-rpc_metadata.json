@@ -1,0 +1,11 @@
+{
+  "name": "django-modern-rpc",
+  "version": "2.0.0",
+  "summary": "Simple and powerful RPC server for your Django project",
+  "author": "Antoine Lorence",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_modern_rpc-2.0.0.tar.gz",
+  "download_time": "2025-11-10T11:41:04.769903",
+  "package_url": "https://pypi.org/project/django-modern-rpc/"
+}
