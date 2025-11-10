@@ -1,11 +1,11 @@
 {
   "name": "telemux",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Bidirectional Telegram integration for tmux sessions - monitor commands and interact with agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telemux-1.0.3.tar.gz",
-  "download_time": "2025-11-10T21:22:35.427207",
+  "download_filename": "telemux-1.0.4.tar.gz",
+  "download_time": "2025-11-10T21:42:19.431864",
   "package_url": "https://pypi.org/project/telemux/"
 }

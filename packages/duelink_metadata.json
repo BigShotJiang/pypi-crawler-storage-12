@@ -1,0 +1,11 @@
+{
+  "name": "duelink",
+  "version": "1.2.2",
+  "summary": "GHI Electronics DUELink Python library.",
+  "author": "GHI Electronics",
+  "license": "MIT",
+  "home_page": "https://www.duelink.com/",
+  "download_filename": "duelink-1.2.2-py3-none-any.whl",
+  "download_time": "2025-11-10T21:42:13.568824",
+  "package_url": "https://pypi.org/project/duelink/"
+}

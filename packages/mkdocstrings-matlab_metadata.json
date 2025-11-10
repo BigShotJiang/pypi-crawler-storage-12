@@ -1,0 +1,11 @@
+{
+  "name": "mkdocstrings-matlab",
+  "version": "1.0.12",
+  "summary": "A MATLAB handler for mkdocstrings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocstrings_matlab-1.0.12.tar.gz",
+  "download_time": "2025-11-10T21:42:16.744963",
+  "package_url": "https://pypi.org/project/mkdocstrings-matlab/"
+}
