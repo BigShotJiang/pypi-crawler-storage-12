@@ -1,0 +1,11 @@
+{
+  "name": "GTFS-flex-to-GOFS",
+  "version": "0.5.2",
+  "summary": "Convert GTFS Flex to GOFS",
+  "author": "Nicholas Paun, Jonathan Milot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gtfs_flex_to_gofs-0.5.2.tar.gz",
+  "download_time": "2025-11-10T15:27:39.349708",
+  "package_url": "https://pypi.org/project/GTFS-flex-to-GOFS/"
+}

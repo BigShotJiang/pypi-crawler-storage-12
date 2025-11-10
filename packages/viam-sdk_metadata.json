@@ -1,0 +1,11 @@
+{
+  "name": "viam-sdk",
+  "version": "0.59.0",
+  "summary": "Viam Robotics Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viam_sdk-0.59.0-py3-none-linux_armv6l.whl",
+  "download_time": "2025-11-10T15:27:50.332703",
+  "package_url": "https://pypi.org/project/viam-sdk/"
+}

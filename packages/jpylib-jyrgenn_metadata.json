@@ -1,0 +1,11 @@
+{
+  "name": "jpylib-jyrgenn",
+  "version": "2025.1110.1610",
+  "summary": "Utilities library with several more or less independent components",
+  "author": "Juergen Nickelsen",
+  "license": null,
+  "home_page": "https://codeberg.org/jyrgenn/jpylib/",
+  "download_filename": "jpylib_jyrgenn-2025.1110.1610.tar.gz",
+  "download_time": "2025-11-10T15:27:46.824152",
+  "package_url": "https://pypi.org/project/jpylib-jyrgenn/"
+}

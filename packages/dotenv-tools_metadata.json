@@ -1,0 +1,11 @@
+{
+  "name": "dotenv-tools",
+  "version": "0.0.1",
+  "summary": "A comprehensive CLI tool to manage environment variables in .env files with complete syntax support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotenv_tools-0.0.1.tar.gz",
+  "download_time": "2025-11-10T15:27:39.926803",
+  "package_url": "https://pypi.org/project/dotenv-tools/"
+}

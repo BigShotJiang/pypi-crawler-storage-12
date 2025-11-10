@@ -1,0 +1,11 @@
+{
+  "name": "yemot",
+  "version": "0.1.2",
+  "summary": "Python client for the Yemot (Call2All) API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yemot-0.1.2.tar.gz",
+  "download_time": "2025-11-10T15:27:22.378228",
+  "package_url": "https://pypi.org/project/yemot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nkotranslit",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A bidirectional Latin ↔ N'Ko transliteration library for Bamanankan.",
   "author": "sudopnig01@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "nkotranslit-1.0.1.tar.gz",
-  "download_time": "2025-11-10T12:52:05.385489",
+  "download_filename": "nkotranslit-1.1.0.tar.gz",
+  "download_time": "2025-11-10T15:27:17.555602",
   "package_url": "https://pypi.org/project/nkotranslit/"
 }
