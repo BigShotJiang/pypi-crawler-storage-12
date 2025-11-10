@@ -1,11 +1,11 @@
 {
   "name": "SCMG-toolkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Scaffold-Constrained-Molecule-Generation",
   "author": "Xinyu Wang",
   "license": null,
   "home_page": "https://github.com/xinyuwang1209/SCMG",
-  "download_filename": "scmg_toolkit-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-10T16:36:49.896581",
+  "download_filename": "scmg_toolkit-0.1.1.tar.gz",
+  "download_time": "2025-11-10T16:58:44.305948",
   "package_url": "https://pypi.org/project/SCMG-toolkit/"
 }

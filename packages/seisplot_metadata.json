@@ -1,0 +1,11 @@
+{
+  "name": "seisplot",
+  "version": "1.4.0",
+  "summary": "Plotting of seismic data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seisplot-1.4.0.tar.gz",
+  "download_time": "2025-11-10T16:58:33.437533",
+  "package_url": "https://pypi.org/project/seisplot/"
+}

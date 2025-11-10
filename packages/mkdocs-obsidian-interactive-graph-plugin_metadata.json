@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-obsidian-interactive-graph-plugin",
+  "version": "0.3.1",
+  "summary": "A MkDocs plugin that generates a obsidian like interactive graph",
+  "author": "daxcore",
+  "license": "MIT",
+  "home_page": "https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin",
+  "download_filename": "mkdocs_obsidian_interactive_graph_plugin-0.3.1.tar.gz",
+  "download_time": "2025-11-10T16:58:42.760418",
+  "package_url": "https://pypi.org/project/mkdocs-obsidian-interactive-graph-plugin/"
+}

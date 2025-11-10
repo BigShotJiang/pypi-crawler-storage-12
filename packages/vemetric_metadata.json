@@ -1,0 +1,11 @@
+{
+  "name": "vemetric",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for Vemetric",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vemetric-0.2.0.tar.gz",
+  "download_time": "2025-11-10T16:58:11.639514",
+  "package_url": "https://pypi.org/project/vemetric/"
+}

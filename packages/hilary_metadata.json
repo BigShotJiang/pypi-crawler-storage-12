@@ -1,0 +1,11 @@
+{
+  "name": "hilary",
+  "version": "1.2.4",
+  "summary": null,
+  "author": "Gabriel Athènes,Natanael Spisak",
+  "license": null,
+  "home_page": "https://github.com/statbiophys/HILARy/",
+  "download_filename": "hilary-1.2.4.tar.gz",
+  "download_time": "2025-11-10T16:58:34.492560",
+  "package_url": "https://pypi.org/project/hilary/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-work",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A local-first chat UI for Pydantic AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_work-0.1.0.tar.gz",
-  "download_time": "2025-11-10T16:36:42.560108",
+  "download_filename": "pydantic_work-0.1.1.tar.gz",
+  "download_time": "2025-11-10T16:58:20.968582",
   "package_url": "https://pypi.org/project/pydantic-work/"
 }

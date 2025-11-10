@@ -1,0 +1,11 @@
+{
+  "name": "uvitility",
+  "version": "0.1.4",
+  "summary": "UVIT utility functions",
+  "author": "Prajwel Joseph",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/prajwel/uvitility",
+  "download_filename": "uvitility-0.1.4.tar.gz",
+  "download_time": "2025-11-10T16:58:31.872001",
+  "package_url": "https://pypi.org/project/uvitility/"
+}
