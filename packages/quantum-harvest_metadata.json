@@ -1,11 +1,11 @@
 {
   "name": "quantum-harvest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A competitive 1v1 AI simulation game combining quantum mechanics with strategic resource management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantum_harvest-1.0.2.tar.gz",
-  "download_time": "2025-11-10T11:52:55.365909",
+  "download_filename": "quantum_harvest-1.0.3.tar.gz",
+  "download_time": "2025-11-10T15:57:42.681562",
   "package_url": "https://pypi.org/project/quantum-harvest/"
 }

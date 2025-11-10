@@ -1,0 +1,11 @@
+{
+  "name": "ai4-metadata",
+  "version": "2.4.2",
+  "summary": "AI4OS Hub applications metadata utilities",
+  "author": "Álvaro López García",
+  "license": "Apache-2",
+  "home_page": "https://github.com/ai4os/ai4-metadata",
+  "download_filename": "ai4_metadata-2.4.2.tar.gz",
+  "download_time": "2025-11-10T15:57:33.313342",
+  "package_url": "https://pypi.org/project/ai4-metadata/"
+}

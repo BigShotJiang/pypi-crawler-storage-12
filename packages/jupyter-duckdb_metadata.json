@@ -5,7 +5,7 @@
   "author": "Eric Tröbs",
   "license": null,
   "home_page": "https://github.com/erictroebs/jupyter-duckdb",
-  "download_filename": "jupyter_duckdb-1.4.112-py3-none-any.whl",
-  "download_time": "2025-11-10T15:45:23.508409",
+  "download_filename": "jupyter_duckdb-1.4.112.tar.gz",
+  "download_time": "2025-11-10T15:58:06.647650",
   "package_url": "https://pypi.org/project/jupyter-duckdb/"
 }
