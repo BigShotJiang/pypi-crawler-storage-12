@@ -1,0 +1,11 @@
+{
+  "name": "davis-rig-parser",
+  "version": "0.4.0",
+  "summary": "Data parser for the Davis Rig",
+  "author": "Avi Patel, Bradly Stone, Daniel Svedberg",
+  "license": null,
+  "home_page": "https://github.com/<your-github-username>/my_module",
+  "download_filename": "davis_rig_parser-0.4.0.tar.gz",
+  "download_time": "2025-11-10T21:22:48.004697",
+  "package_url": "https://pypi.org/project/davis-rig-parser/"
+}

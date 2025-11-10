@@ -1,0 +1,11 @@
+{
+  "name": "taguette",
+  "version": "1.5.1",
+  "summary": "Free and open source qualitative research tool",
+  "author": "Remi Rampin",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "taguette-1.5.1.tar.gz",
+  "download_time": "2025-11-10T21:22:34.260563",
+  "package_url": "https://pypi.org/project/taguette/"
+}

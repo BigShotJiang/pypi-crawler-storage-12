@@ -1,0 +1,11 @@
+{
+  "name": "sensei-cli",
+  "version": "0.0.3",
+  "summary": "Command-line-interface for Sensei Robotics data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensei_cli-0.0.3.tar.gz",
+  "download_time": "2025-11-10T21:22:14.238627",
+  "package_url": "https://pypi.org/project/sensei-cli/"
+}

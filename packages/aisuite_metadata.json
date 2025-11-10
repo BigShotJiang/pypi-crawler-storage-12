@@ -1,0 +1,11 @@
+{
+  "name": "aisuite",
+  "version": "0.1.13",
+  "summary": "Uniform access layer for LLMs",
+  "author": "Andrew Ng, Rohit P",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aisuite-0.1.13.tar.gz",
+  "download_time": "2025-11-10T21:22:36.522535",
+  "package_url": "https://pypi.org/project/aisuite/"
+}

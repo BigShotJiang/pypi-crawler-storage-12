@@ -1,11 +1,11 @@
 {
   "name": "sql-adapters",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "SQL adapters for various databases - SQLAlchemy simplifed",
-  "author": null,
+  "author": "jealouscloud",
   "license": null,
   "home_page": null,
-  "download_filename": "sql_adapters-0.1.0.tar.gz",
-  "download_time": "2025-11-10T20:29:04.478184",
+  "download_filename": "sql_adapters-0.2.0.tar.gz",
+  "download_time": "2025-11-10T21:22:26.077085",
   "package_url": "https://pypi.org/project/sql-adapters/"
 }

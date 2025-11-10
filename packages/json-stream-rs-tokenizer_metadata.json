@@ -1,0 +1,11 @@
+{
+  "name": "json-stream-rs-tokenizer",
+  "version": "0.4.32",
+  "summary": "A faster tokenizer for the json-stream Python library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_stream_rs_tokenizer-0.4.32.tar.gz",
+  "download_time": "2025-11-10T21:22:28.956078",
+  "package_url": "https://pypi.org/project/json-stream-rs-tokenizer/"
+}

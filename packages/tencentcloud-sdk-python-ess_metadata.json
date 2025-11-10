@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-ess",
+  "version": "3.0.1486",
+  "summary": "Tencent Cloud Ess SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_ess-3.0.1486.tar.gz",
+  "download_time": "2025-11-10T21:22:53.961815",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ess/"
+}

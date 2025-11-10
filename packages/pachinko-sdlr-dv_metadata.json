@@ -1,11 +1,11 @@
 {
   "name": "pachinko-sdlr-dv",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Simulador de Pachinko con modo fiebre y números aleatorios.",
-  "author": null,
+  "author": "Daniel Vega, Sergio de la Rubia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pachinko_sdlr_dv-0.1.2.tar.gz",
-  "download_time": "2025-11-10T19:39:43.441767",
+  "download_filename": "pachinko_sdlr_dv-0.1.3.tar.gz",
+  "download_time": "2025-11-10T21:22:17.269807",
   "package_url": "https://pypi.org/project/pachinko-sdlr-dv/"
 }
