@@ -1,0 +1,11 @@
+{
+  "name": "dublindistance",
+  "version": "0.1.0",
+  "summary": "Simple Dublin area distance and transport suggestion tool",
+  "author": "Jeevanjot Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dublindistance-0.1.0.tar.gz",
+  "download_time": "2025-11-10T20:29:31.999931",
+  "package_url": "https://pypi.org/project/dublindistance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dari-python",
+  "version": "0.1.2",
+  "summary": "Tiny Python client for the Dari workflow automation API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dari_python-0.1.2.tar.gz",
+  "download_time": "2025-11-10T20:29:12.681939",
+  "package_url": "https://pypi.org/project/dari-python/"
+}

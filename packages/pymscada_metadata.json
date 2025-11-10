@@ -1,0 +1,11 @@
+{
+  "name": "pymscada",
+  "version": "0.2.5",
+  "summary": "Shared tag value SCADA with python backup and Angular UI",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pymscada-0.2.5.tar.gz",
+  "download_time": "2025-11-10T20:28:51.214186",
+  "package_url": "https://pypi.org/project/pymscada/"
+}

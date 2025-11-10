@@ -1,0 +1,11 @@
+{
+  "name": "juice-json-schemas",
+  "version": "0.0.1",
+  "summary": "A short description of the project",
+  "author": "JUICE SOC Team",
+  "license": "MIT",
+  "home_page": "https://.github.io/juice-json-schemas",
+  "download_filename": "juice_json_schemas-0.0.1.tar.gz",
+  "download_time": "2025-11-10T20:29:14.818765",
+  "package_url": "https://pypi.org/project/juice-json-schemas/"
+}

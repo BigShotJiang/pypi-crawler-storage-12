@@ -1,0 +1,11 @@
+{
+  "name": "postman-runner",
+  "version": "0.2.0",
+  "summary": "Local-only Postman collection runner CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "postman_runner-0.2.0.tar.gz",
+  "download_time": "2025-11-10T20:29:15.373677",
+  "package_url": "https://pypi.org/project/postman-runner/"
+}

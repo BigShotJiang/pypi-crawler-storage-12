@@ -1,11 +1,11 @@
 {
   "name": "lando4",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "My personal example code package hehe",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lando4-0.1.1.tar.gz",
-  "download_time": "2025-11-10T19:39:40.360060",
+  "download_filename": "lando4-0.1.2.tar.gz",
+  "download_time": "2025-11-10T20:29:01.198924",
   "package_url": "https://pypi.org/project/lando4/"
 }

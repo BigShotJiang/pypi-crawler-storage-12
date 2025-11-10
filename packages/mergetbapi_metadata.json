@@ -1,0 +1,11 @@
+{
+  "name": "mergetbapi",
+  "version": "1.3.42",
+  "summary": "Client interface to the MergeTB API",
+  "author": "Brian Kocoloski",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/mergetb/api",
+  "download_filename": "mergetbapi-1.3.42.tar.gz",
+  "download_time": "2025-11-10T20:29:39.156025",
+  "package_url": "https://pypi.org/project/mergetbapi/"
+}

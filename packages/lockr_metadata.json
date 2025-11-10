@@ -1,0 +1,11 @@
+{
+  "name": "lockr",
+  "version": "0.1.3",
+  "summary": "A simple python CLI application to encrypt and decrypt files with a password, using symmetric AES encryption.",
+  "author": "Paarth Bhasin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lockr-0.1.3.tar.gz",
+  "download_time": "2025-11-10T20:29:01.732908",
+  "package_url": "https://pypi.org/project/lockr/"
+}

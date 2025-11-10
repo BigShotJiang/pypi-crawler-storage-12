@@ -1,11 +1,11 @@
 {
   "name": "bfportal_grpc_bf6",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "bf6 portal web grpc as python package ",
   "author": "iiTzArcur",
   "license": null,
   "home_page": "https://github.com/community-network/bfportal-grpc-bf6",
-  "download_filename": "bfportal_grpc_bf6-0.1.5.tar.gz",
-  "download_time": "2025-11-10T19:39:55.965521",
+  "download_filename": "bfportal_grpc_bf6-0.1.7.tar.gz",
+  "download_time": "2025-11-10T20:29:27.118814",
   "package_url": "https://pypi.org/project/bfportal_grpc_bf6/"
 }

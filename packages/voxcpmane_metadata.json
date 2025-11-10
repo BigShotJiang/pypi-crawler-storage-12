@@ -1,0 +1,11 @@
+{
+  "name": "voxcpmane",
+  "version": "0.0.2",
+  "summary": "VoxCPM TTS model with Apple Neural Engine backend server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voxcpmane-0.0.2.tar.gz",
+  "download_time": "2025-11-10T20:29:11.030717",
+  "package_url": "https://pypi.org/project/voxcpmane/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "revenium-mcp",
+  "version": "0.2.0",
+  "summary": "Model Context Protocol (MCP) server for Revenium API monitoring, analytics, and AI spending management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "revenium_mcp-0.2.0.tar.gz",
+  "download_time": "2025-11-10T20:28:54.526408",
+  "package_url": "https://pypi.org/project/revenium-mcp/"
+}
