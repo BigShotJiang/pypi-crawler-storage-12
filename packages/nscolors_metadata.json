@@ -1,0 +1,11 @@
+{
+  "name": "nscolors",
+  "version": "1.0.2",
+  "summary": "Lightweight cross-platform terminal coloring & utilities for Python",
+  "author": "NullSpecter404",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nscolors-1.0.2.tar.gz",
+  "download_time": "2025-11-10T14:24:58.112604",
+  "package_url": "https://pypi.org/project/nscolors/"
+}

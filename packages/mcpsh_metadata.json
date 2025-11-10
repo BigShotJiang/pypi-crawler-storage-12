@@ -1,0 +1,11 @@
+{
+  "name": "mcpsh",
+  "version": "1.0.0",
+  "summary": "Progressive CLI and Python API for MCP servers - discover tools naturally and import directly in scripts",
+  "author": "Foad Kesheh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpsh-1.0.0.tar.gz",
+  "download_time": "2025-11-10T14:25:03.281752",
+  "package_url": "https://pypi.org/project/mcpsh/"
+}

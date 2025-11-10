@@ -1,0 +1,11 @@
+{
+  "name": "QGISLibrary",
+  "version": "1.7.9",
+  "summary": "A library based on Robot Framework for QGIS UI Automation and Testing",
+  "author": null,
+  "license": "MIT - free and open-source licence",
+  "home_page": null,
+  "download_filename": "qgislibrary-1.7.9.tar.gz",
+  "download_time": "2025-11-10T14:24:31.209636",
+  "package_url": "https://pypi.org/project/QGISLibrary/"
+}

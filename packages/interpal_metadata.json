@@ -1,0 +1,11 @@
+{
+  "name": "interpal",
+  "version": "1.2.0",
+  "summary": "A comprehensive Python library for the Interpals API with sync/async support",
+  "author": "Interpals Python Library Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/interpal-python-lib",
+  "download_filename": "interpal-1.2.0.tar.gz",
+  "download_time": "2025-11-10T14:24:25.166973",
+  "package_url": "https://pypi.org/project/interpal/"
+}

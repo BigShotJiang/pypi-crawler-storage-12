@@ -1,0 +1,11 @@
+{
+  "name": "imgenx-mcp",
+  "version": "0.4.0",
+  "summary": "AI Image/Video Generation MCP Server with OSS Upload - Powered by Doubao API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imgenx_mcp-0.4.0.tar.gz",
+  "download_time": "2025-11-10T14:24:55.984756",
+  "package_url": "https://pypi.org/project/imgenx-mcp/"
+}

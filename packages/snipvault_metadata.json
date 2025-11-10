@@ -1,0 +1,11 @@
+{
+  "name": "snipvault",
+  "version": "1.0.0",
+  "summary": "LLM-Powered Code Snippet Manager with vector search",
+  "author": "SnipVault Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ARTHURFLECK1828/snipvault",
+  "download_filename": "snipvault-1.0.0.tar.gz",
+  "download_time": "2025-11-10T14:24:38.410810",
+  "package_url": "https://pypi.org/project/snipvault/"
+}
