@@ -1,0 +1,11 @@
+{
+  "name": "nautobot",
+  "version": "2.4.22",
+  "summary": "Source of truth and network automation platform.",
+  "author": "Network to Code",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot-2.4.22-py3-none-any.whl",
+  "download_time": "2025-11-10T22:56:43.418503",
+  "package_url": "https://pypi.org/project/nautobot/"
+}

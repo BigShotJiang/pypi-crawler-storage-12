@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T22:44:55.600232
-- **Total Packages**: 81
-- **Total Size**: 8.21 MB
+- **Download Time**: 2025-11-10T22:57:24.447357
+- **Total Packages**: 80
+- **Total Size**: 31.5 MB
 
 ## Packages List
+- mito-ai
+- mitosheet
+- abstract-utilities
+- nautobot
+- ardupilot-methodic-configurator
+- omnipkg
+- luminarycloud
+- citrascope
+- synqly
+- amplitude-experiment
+- fastapi-new
+- auggie-sdk
+- sagemaker-jupyterlab-extension-common
+- nati-log
+- clang-tool-chain
+- bloomr
+- clickhouse-driver
+- nemo-toolkit
+- imfp
+- python3-core-api-client
+- ragmint
+- frist
+- pulumi-provider-boilerplate
+- parsl
+- letschatty
+- moose-lib
+- whatdidyoudo
+- octue
 - aioptdevices
 - purdy
 - tomtoolkit
@@ -21,7 +49,6 @@
 - homa
 - beekeeper-monitors-watsonx
 - youdotcom
-- pulumi-provider-boilerplate
 - uv-lock-report
 - SciFiReaders
 - wipac-dev-tools
@@ -35,7 +62,6 @@
 - splunk-otel-util-genai
 - ctdproc
 - bucketbase
-- auggie-sdk
 - strawberry-graphql
 - qctrl-fire-opal-riken-commons
 - ankigammon
@@ -60,30 +86,3 @@
 - spotoptim
 - smoosense
 - gamspy
-- optimum-intel
-- mlquantify
-- django-session-security-continued
-- pymscada
-- napari-musa
-- ayechat
-- augment-sdk
-- fastworkflow
-- sc-napalm
-- qpytorch
-- llama-index
-- nominal-api-protos
-- nominal-api
-- pyhive-integration
-- brewse
-- ogcore
-- mhr
-- jupyterlab-makefile-file-type-extension
-- pyqrackising
-- letschatty
-- arx-x5-sdk
-- nati-log
-- matflow-new
-- django-helpdesk
-- vibe-coded-decorator
-- rda-python-icoads
-- rda-python-metrics

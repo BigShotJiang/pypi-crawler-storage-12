@@ -1,0 +1,11 @@
+{
+  "name": "bloomr",
+  "version": "0.1.1",
+  "summary": "Memory-efficient Chinese Postman Problem solver using Rust blossom algorithm",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bloomr-0.1.1.tar.gz",
+  "download_time": "2025-11-10T22:56:50.416577",
+  "package_url": "https://pypi.org/project/bloomr/"
+}

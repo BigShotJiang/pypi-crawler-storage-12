@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-driver",
+  "version": "0.2.10",
+  "summary": "Python driver with native interface for ClickHouse",
+  "author": "Konstantin Lebedev",
+  "license": "MIT",
+  "home_page": "https://github.com/mymarilyn/clickhouse-driver",
+  "download_filename": "clickhouse_driver-0.2.10.tar.gz",
+  "download_time": "2025-11-10T22:56:50.940777",
+  "package_url": "https://pypi.org/project/clickhouse-driver/"
+}

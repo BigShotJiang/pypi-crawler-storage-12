@@ -1,0 +1,11 @@
+{
+  "name": "whatdidyoudo",
+  "version": "0.2.5",
+  "summary": "A minimal Flask app that shows the amount of OpenStreetMap changes made by a user on a day.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatdidyoudo-0.2.5.tar.gz",
+  "download_time": "2025-11-10T22:56:56.288010",
+  "package_url": "https://pypi.org/project/whatdidyoudo/"
+}
