@@ -1,58 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T17:27:30.419437
-- **Total Packages**: 91
-- **Total Size**: 30.66 MB
+- **Download Time**: 2025-11-10T17:42:35.574153
+- **Total Packages**: 86
+- **Total Size**: 4.55 MB
 
 ## Packages List
-- speclike
-- langmiddle
-- winipedia-utils
-- ghostguard
-- tyco
-- natilog-lib
-- vexor
-- fortytwo-client
-- alff
-- nanobench
-- gate-io-api
-- bingx
-- mexc-exchange-api
-- kucoin-api
-- binance
-- woo-api
-- woofipro-api
-- bybit-api
-- coinex-api
-- bitget
-- okx-exchange
-- bitmart
-- crypto-com-sdk
-- bitmex-api
-- htx
-- conjur-api
-- pratt-calc
-- kadoa_sdk
-- omnigen-usf
-- servicekit
-- pywxwork
-- droughtscan
-- poxiaoai
-- alibabacloud-sas20181203
-- alibabacloud-computenest20210601
-- alibabacloud-resourcedirectorymaster20220419
-- clue-api
-- earlyexit
-- caactus
-- mk8dx-table-reader
-- vcard-graph
 - tutor-contrib-drydock
+- clue-api
 - gam7
 - smoothglue_django_core
 - graphconstructor
 - thkit
 - pytest-b-logger
+- pywxwork
 - dulwich
 - git-cai-cli
 - hopx-ai
@@ -65,6 +26,7 @@
 - my-exes
 - datalayer
 - deepcompress
+- kadoa_sdk
 - tictacsync
 - pulumi-awsx
 - arcade-intercom-api
@@ -81,9 +43,11 @@
 - tspay-client
 - sanguine
 - langchain-model-profiles
+- pydantic-work
 - zenable-mcp
 - spotoptim
 - sromaster
+- omnigen-usf
 - plain.dev
 - plain
 - queues-manager
@@ -97,3 +61,34 @@
 - nipyapi
 - hera-workflows
 - hera
+- putplace
+- scc-firewall-manager-sdk
+- rtty-soda
+- botobuddy
+- wandas
+- fetchcraft-parsing-docling
+- fetchcraft-openapi-server
+- fetchcraft-openai-server
+- fetchcraft-mcp-server
+- fetchcraft-ingestion-admin
+- fetchcraft-core
+- jobflow
+- baldaquin
+- modal
+- ray-ease
+- hyperscale-kite
+- uqlm
+- cmflib
+- deep-toon
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- vemetric
+- sdss-almanac
+- airbyte-source-facebook-marketing
