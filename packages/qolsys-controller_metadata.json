@@ -1,0 +1,11 @@
+{
+  "name": "qolsys-controller",
+  "version": "0.0.52",
+  "summary": "A Python module that emulates a virtual IQ Remote device, enabling full local control of a Qolsys IQ Panel",
+  "author": "Eric Hylands",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qolsys_controller-0.0.52.tar.gz",
+  "download_time": "2025-11-10T19:53:14.420044",
+  "package_url": "https://pypi.org/project/qolsys-controller/"
+}

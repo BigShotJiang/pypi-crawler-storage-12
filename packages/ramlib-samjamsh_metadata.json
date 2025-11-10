@@ -1,11 +1,11 @@
 {
   "name": "ramlib-samjamsh",
-  "version": "1.0",
-  "summary": "A simple random library with a Python prototype and a C main version, generating time-based pseudo-random numbers for lightweight projects.",
+  "version": "1.1",
+  "summary": "A random number generator library, it generates time-based pseudo-random numbers.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ramlib_samjamsh-1.0.tar.gz",
-  "download_time": "2025-11-10T19:39:51.812564",
+  "download_filename": "ramlib_samjamsh-1.1.tar.gz",
+  "download_time": "2025-11-10T19:53:32.228008",
   "package_url": "https://pypi.org/project/ramlib-samjamsh/"
 }

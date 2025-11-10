@@ -1,0 +1,11 @@
+{
+  "name": "arcade-customerio-track-api",
+  "version": "0.1.0",
+  "summary": "Tools that enable LLMs to interact directly with the Customer.io Track API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_customerio_track_api-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-10T19:53:38.382541",
+  "package_url": "https://pypi.org/project/arcade-customerio-track-api/"
+}

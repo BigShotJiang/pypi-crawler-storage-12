@@ -1,0 +1,11 @@
+{
+  "name": "seaborne",
+  "version": "1.0.8",
+  "summary": "A Python library for processing hyperspectral data cubes.",
+  "author": "Prasad, Aryan, Tanishka",
+  "license": "MIT License",
+  "home_page": "https://github.com/pras2005/proqub",
+  "download_filename": "seaborne-1.0.8.tar.gz",
+  "download_time": "2025-11-10T19:53:22.231356",
+  "package_url": "https://pypi.org/project/seaborne/"
+}

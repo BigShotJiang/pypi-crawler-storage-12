@@ -1,0 +1,11 @@
+{
+  "name": "ckanapi",
+  "version": "4.9",
+  "summary": "A command line interface and Python module for accessing the CKAN Action API",
+  "author": "Ian Ward",
+  "license": "MIT",
+  "home_page": "https://github.com/ckan/ckanapi",
+  "download_filename": "ckanapi-4.9.tar.gz",
+  "download_time": "2025-11-10T19:53:21.095576",
+  "package_url": "https://pypi.org/project/ckanapi/"
+}

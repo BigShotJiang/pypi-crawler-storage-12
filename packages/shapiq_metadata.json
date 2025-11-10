@@ -1,0 +1,11 @@
+{
+  "name": "shapiq",
+  "version": "1.4.1",
+  "summary": "Shapley Interactions for Machine Learning",
+  "author": "Hubert Baniecki, Fabian Fumagalli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shapiq-1.4.1.tar.gz",
+  "download_time": "2025-11-10T19:53:39.982125",
+  "package_url": "https://pypi.org/project/shapiq/"
+}
