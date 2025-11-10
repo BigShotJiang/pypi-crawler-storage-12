@@ -1,0 +1,11 @@
+{
+  "name": "pydynamo-w",
+  "version": "0.0.3",
+  "summary": "Pydynamo is a module to define, run and analyse system dynamics. I intially created it to play with the World3 model, which was written in DYNAMO, with Python.",
+  "author": "Achille Baucher",
+  "license": null,
+  "home_page": "https://gitlab.inria.fr/abaucher/pydynamo/-/tree/package",
+  "download_filename": "pydynamo_w-0.0.3.tar.gz",
+  "download_time": "2025-11-10T11:52:55.967051",
+  "package_url": "https://pypi.org/project/pydynamo-w/"
+}

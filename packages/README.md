@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T11:41:25.987517
-- **Total Packages**: 93
-- **Total Size**: 37.63 MB
+- **Download Time**: 2025-11-10T11:53:37.694128
+- **Total Packages**: 89
+- **Total Size**: 45.48 MB
 
 ## Packages List
+- pptagent
+- dhti-elixir-base
+- xiaozhi-sdk
+- pytest-docker
+- mmar-carl
+- ayechat
+- nucleation
+- wellapi
+- color-match-tools
+- th2-grpc-read-db
+- nexusai
+- genai-prices
+- pulumi
+- dogtail
+- spinguin
+- python-tasker
+- docling
+- hopx-ai
+- quantum-harvest
+- pydynamo-w
+- paradime-io
+- pro-craft-infer
+- pyTooling
+- sqla-fancy-core
+- easyenv-cli
+- passagemath-rankwidth
+- passagemath-plot
+- passagemath-planarity
+- pyees
+- passagemath-objects
+- passagemath-homfly
+- passagemath-graphs
+- passagemath-glpk
+- krules-framework
+- passagemath-cmr
+- passagemath-cliquer
+- passagemath-cddlib
+- ravyn_simple_jwt
+- passagemath-categories
+- alm-traceability-mcp
+- odoo-addon-quality-control-product-manufacturer
+- odoo-addon-quality-control-oca
+- nitro-pandas
 - jentic-openapi-validator-spectral
 - jentic-openapi-validator-redocly
 - jentic-openapi-validator
@@ -22,7 +65,6 @@
 - numeth
 - adcp
 - hs-m3u8
-- wellapi
 - mds-cashbook
 - redbrick-sdk
 - langevin
@@ -32,7 +74,6 @@
 - paasta-tools
 - tnscli
 - tap-shopify
-- pyees
 - text-fabric
 - rubpy
 - ravyn
@@ -48,54 +89,9 @@
 - lerobot
 - kmoe-manga-downloader
 - nvidia-nat-all
-- hopx-ai
 - nvidia-nat-weave
 - pysimplicityhl
 - nvidia-nat-adk
 - lazylines
 - nvidia-nat-mem0ai
 - torchx-nightly
-- nvidia-nat-zep-cloud
-- nvidia-nat-mcp
-- acryl-datahub-actions
-- nvidia-nat-phoenix
-- django-modern-rpc
-- nvidia-nat-redis
-- agent-queue
-- prefect-datahub
-- cleaning-agent
-- acryl-datahub-dagster-plugin
-- acryl-datahub
-- acryl-datahub-gx-plugin
-- acryl-datahub-airflow-plugin
-- nvidia-nat-crewai
-- sharepointlib
-- nvidia-nat-ingestion
-- basketball-reference-webscrapper
-- nvidia-nat-test
-- hopx
-- film-recommender-cg
-- pydoover
-- doover
-- nvidia-nat-mysql
-- torchft-nightly
-- crc-ct
-- itp-interface
-- nvidia-nat-semantic-kernel
-- vibetuner
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- energy-base
-- videosdk-plugins-turn-detector
-- videosdk-plugins-speechify
-- nvidia-nat-ragaai
-- videosdk-plugins-smallestai
-- devilry
-- videosdk-plugins-simli
-- videosdk-plugins-silero
-- videosdk-plugins-sarvamai
-- videosdk-plugins-rnnoise
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- nvidia-nat-profiling
-- videosdk-plugins-papla

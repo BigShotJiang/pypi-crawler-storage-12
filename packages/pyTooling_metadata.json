@@ -1,0 +1,11 @@
+{
+  "name": "pyTooling",
+  "version": "8.8.0",
+  "summary": "pyTooling is a powerful collection of arbitrary useful classes, decorators, meta-classes and exceptions.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/pyTooling/pyTooling",
+  "download_filename": "pytooling-8.8.0.tar.gz",
+  "download_time": "2025-11-10T11:52:57.811205",
+  "package_url": "https://pypi.org/project/pyTooling/"
+}
