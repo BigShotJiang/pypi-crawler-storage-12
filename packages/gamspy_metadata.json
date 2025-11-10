@@ -1,0 +1,11 @@
+{
+  "name": "gamspy",
+  "version": "1.17.2",
+  "summary": "Python-based algebraic modeling interface to GAMS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamspy-1.17.2.tar.gz",
+  "download_time": "2025-11-10T22:23:50.028009",
+  "package_url": "https://pypi.org/project/gamspy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qpytorch",
+  "version": "0.2",
+  "summary": "An implementation of Q-Exponential Processes in Pytorch based on GPyTorch",
+  "author": "Shiwei Lan",
+  "license": "MIT",
+  "home_page": "https://lanzithinking.github.io/qepytorch/",
+  "download_filename": "qpytorch-0.2.tar.gz",
+  "download_time": "2025-11-10T22:23:56.658275",
+  "package_url": "https://pypi.org/project/qpytorch/"
+}

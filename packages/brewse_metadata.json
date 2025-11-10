@@ -1,11 +1,11 @@
 {
   "name": "brewse",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "An interactive TUI browser for Homebrew packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brewse-0.1.2.tar.gz",
-  "download_time": "2025-11-10T09:37:23.898100",
+  "download_filename": "brewse-0.2.0.tar.gz",
+  "download_time": "2025-11-10T22:24:00.466303",
   "package_url": "https://pypi.org/project/brewse/"
 }

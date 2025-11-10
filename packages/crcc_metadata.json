@@ -1,11 +1,11 @@
 {
   "name": "crcc",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "C and Python CRC calculations module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crcc-2.0.2.tar.gz",
-  "download_time": "2025-11-10T13:55:00.748163",
+  "download_filename": "crcc-2.0.3.tar.gz",
+  "download_time": "2025-11-10T22:24:18.325810",
   "package_url": "https://pypi.org/project/crcc/"
 }

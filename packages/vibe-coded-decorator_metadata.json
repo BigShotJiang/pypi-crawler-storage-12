@@ -1,0 +1,11 @@
+{
+  "name": "vibe-coded-decorator",
+  "version": "0.1.1",
+  "summary": "A decorator to mark functions as vibe-coded in their docstrings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibe_coded_decorator-0.1.1.tar.gz",
+  "download_time": "2025-11-10T22:24:06.261757",
+  "package_url": "https://pypi.org/project/vibe-coded-decorator/"
+}

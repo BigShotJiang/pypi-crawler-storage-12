@@ -1,0 +1,11 @@
+{
+  "name": "openkitx403",
+  "version": "0.1.1",
+  "summary": "Python server SDK for OpenKitx403 wallet authentication",
+  "author": "OpenKitx403 Contributors",
+  "license": "MIT",
+  "home_page": "https://www.openkitx403.dev",
+  "download_filename": "openkitx403-0.1.1.tar.gz",
+  "download_time": "2025-11-10T22:24:22.967935",
+  "package_url": "https://pypi.org/project/openkitx403/"
+}

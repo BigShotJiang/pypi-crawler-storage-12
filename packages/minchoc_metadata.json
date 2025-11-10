@@ -1,0 +1,11 @@
+{
+  "name": "minchoc",
+  "version": "0.1.0",
+  "summary": "Minimal Chocolatey-compatible NuGet server in a Django app.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": "https://tatsh.github.io/minchoc/",
+  "download_filename": "minchoc-0.1.0.tar.gz",
+  "download_time": "2025-11-10T22:24:30.173766",
+  "package_url": "https://pypi.org/project/minchoc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hopx-ai",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "Official Python SDK for HOPX.AI Sandboxes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hopx_ai-0.1.16.tar.gz",
-  "download_time": "2025-11-10T19:53:46.278661",
+  "download_filename": "hopx_ai-0.1.18.tar.gz",
+  "download_time": "2025-11-10T22:24:18.849043",
   "package_url": "https://pypi.org/project/hopx-ai/"
 }

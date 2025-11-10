@@ -1,11 +1,11 @@
 {
   "name": "sc-napalm",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sc_napalm-0.4.0.tar.gz",
-  "download_time": "2025-11-10T21:42:22.595960",
+  "download_filename": "sc_napalm-1.0.0.tar.gz",
+  "download_time": "2025-11-10T22:23:55.699533",
   "package_url": "https://pypi.org/project/sc-napalm/"
 }
