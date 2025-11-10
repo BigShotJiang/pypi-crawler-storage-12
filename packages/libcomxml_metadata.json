@@ -1,0 +1,11 @@
+{
+  "name": "libcomxml",
+  "version": "3.2.0",
+  "summary": "This library permits XML generation from Python objects",
+  "author": "GISCE-TI, S.L",
+  "license": "None",
+  "home_page": "https://github.com/gisce/libComXML",
+  "download_filename": "libcomxml-3.2.0.tar.gz",
+  "download_time": "2025-11-10T15:45:39.195174",
+  "package_url": "https://pypi.org/project/libcomxml/"
+}

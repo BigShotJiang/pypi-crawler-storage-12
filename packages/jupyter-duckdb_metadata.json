@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-duckdb",
+  "version": "1.4.112",
+  "summary": "a basic wrapper kernel for DuckDB",
+  "author": "Eric Tröbs",
+  "license": null,
+  "home_page": "https://github.com/erictroebs/jupyter-duckdb",
+  "download_filename": "jupyter_duckdb-1.4.112-py3-none-any.whl",
+  "download_time": "2025-11-10T15:45:23.508409",
+  "package_url": "https://pypi.org/project/jupyter-duckdb/"
+}

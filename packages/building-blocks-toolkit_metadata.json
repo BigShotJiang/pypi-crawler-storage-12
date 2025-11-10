@@ -1,0 +1,11 @@
+{
+  "name": "building-blocks-toolkit",
+  "version": "0.3.5",
+  "summary": "Composable toolkit for clean, testable, and maintainable Python applications",
+  "author": "BuildingBlocks Org",
+  "license": "MIT",
+  "home_page": "https://building-blocks-org.github.io/building-blocks/",
+  "download_filename": "building_blocks_toolkit-0.3.5.tar.gz",
+  "download_time": "2025-11-10T15:45:53.386487",
+  "package_url": "https://pypi.org/project/building-blocks-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "novemberff",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Custom implementation of the AMBER forcefield, focused on simplicity and verbose outputs.",
   "author": "DiegoBarMor",
   "license": "MIT",
   "home_page": "https://github.com/diegobarmor/novemberff",
-  "download_filename": "novemberff-0.2.0.tar.gz",
-  "download_time": "2025-11-10T15:27:24.167016",
+  "download_filename": "novemberff-0.3.0.tar.gz",
+  "download_time": "2025-11-10T15:45:35.805296",
   "package_url": "https://pypi.org/project/novemberff/"
 }
