@@ -1,15 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-10T23:41:59.789108
+- **Download Time**: 2025-11-10T23:54:44.416757
 - **Total Packages**: 85
-- **Total Size**: 6.68 MB
+- **Total Size**: 1.28 MB
 
 ## Packages List
+- laserbeamsize
+- phenoml
+- simulacrum-sdk
+- pyutilkit
+- deltadefi
+- trixenpdf
+- datasette-events-forward
+- sonika-langchain-bot
+- mastodon-finder
+- wpiformat
+- abstract-utilities
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- quilt-mcp
 - abstract-clipit
+- parallel-codex
 - langchain-google-genai
 - aemo-to-tariff
-- abstract-utilities
 - fastworkflow
 - amplitude-experiment
 - llmsbrieftxt
@@ -17,7 +35,6 @@
 - xslope
 - sidan-gin
 - cellarr-array
-- trixenpdf
 - cybrid-api-id-python
 - eth-portfolio-temp
 - nv-ingest
@@ -28,7 +45,6 @@
 - openmeter
 - rustest
 - microevals
-- wpiformat
 - langchain-google-vertexai
 - cybrid-api-organization-python
 - pangea-sdk
@@ -75,19 +91,3 @@
 - httpx-qs
 - pymetadata
 - plone.meta
-- splunk-otel-util-genai-translator-traceloop
-- splunk-otel-instrumentation-langchain
-- splunk-otel-genai-evals-deepeval
-- textual-reflect
-- netbook
-- pytest-tldr
-- splunk-otel-util-genai-evals
-- XspecT
-- rusterize
-- langgraph-api
-- cactus-test-definitions
-- lnmarkets-sdk
-- defectdojo-importer
-- lifx-emulator
-- iam-policy-validator
-- auggie-sdk

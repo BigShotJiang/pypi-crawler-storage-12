@@ -1,0 +1,11 @@
+{
+  "name": "mastodon-finder",
+  "version": "0.1.0",
+  "summary": "Search for mastodon profiles, use mechanical and LLM filtering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mastodon_finder-0.1.0.tar.gz",
+  "download_time": "2025-11-10T23:54:03.540364",
+  "package_url": "https://pypi.org/project/mastodon-finder/"
+}

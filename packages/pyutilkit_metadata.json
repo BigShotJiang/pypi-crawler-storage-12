@@ -1,0 +1,11 @@
+{
+  "name": "pyutilkit",
+  "version": "0.11.0",
+  "summary": "python's missing batteries",
+  "author": "Stephanos Kuma",
+  "license": "BSD-3-Clause",
+  "home_page": "https://pyutilkit.readthedocs.io/en/stable/",
+  "download_filename": "pyutilkit-0.11.0.tar.gz",
+  "download_time": "2025-11-10T23:54:00.890225",
+  "package_url": "https://pypi.org/project/pyutilkit/"
+}
