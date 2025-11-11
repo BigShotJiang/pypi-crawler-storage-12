@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-booking",
+  "version": "0.2.5",
+  "summary": "MCP server for CUHKSZ booking system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_booking-0.2.5.tar.gz",
+  "download_time": "2025-11-11T12:51:03.319923",
+  "package_url": "https://pypi.org/project/mcp-server-booking/"
+}

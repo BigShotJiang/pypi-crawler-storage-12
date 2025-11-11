@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-supplier-rank",
+  "version": "18.0.1.0.0.2",
+  "summary": "Update Supplier Rank when creating a Purchase Order",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_purchase_supplier_rank-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-11T12:50:57.911388",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-supplier-rank/"
+}

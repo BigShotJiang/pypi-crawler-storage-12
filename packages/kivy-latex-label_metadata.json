@@ -1,0 +1,11 @@
+{
+  "name": "kivy-latex-label",
+  "version": "1.0.8",
+  "summary": "A package that defines a new label class for Kivy to display text with LaTeX equations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kivy_latex_label-1.0.8.tar.gz",
+  "download_time": "2025-11-11T12:50:55.814363",
+  "package_url": "https://pypi.org/project/kivy-latex-label/"
+}

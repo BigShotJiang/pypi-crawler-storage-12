@@ -1,0 +1,11 @@
+{
+  "name": "django-dkron-dev",
+  "version": "0.21",
+  "summary": "Manage and run jobs in Dkron from your django project",
+  "author": "PPB - InfoSec Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/surface-security/django-dkron",
+  "download_filename": "django_dkron_dev-0.21.tar.gz",
+  "download_time": "2025-11-11T12:51:23.872173",
+  "package_url": "https://pypi.org/project/django-dkron-dev/"
+}
