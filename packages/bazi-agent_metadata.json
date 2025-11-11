@@ -1,0 +1,11 @@
+{
+  "name": "bazi-agent",
+  "version": "1.0.0",
+  "summary": "基于传统命理学的AI智能人物画像分析系统",
+  "author": "易晓白",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/bazi-agent",
+  "download_filename": "bazi_agent-1.0.0.tar.gz",
+  "download_time": "2025-11-11T07:56:30.123331",
+  "package_url": "https://pypi.org/project/bazi-agent/"
+}

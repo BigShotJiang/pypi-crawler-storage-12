@@ -1,0 +1,11 @@
+{
+  "name": "devcore-cli",
+  "version": "1.0.9",
+  "summary": "DevCore — WordPress & Laravel project automation CLI",
+  "author": "Puji Ermanto | <Engineer> Aka : AA. Tarmana , Jonathan Davis, Milisi Bambu Runcing Terhalang",
+  "license": null,
+  "home_page": "https://github.com/pujiermanto/devcore-cli",
+  "download_filename": "devcore_cli-1.0.9.tar.gz",
+  "download_time": "2025-11-11T07:56:23.432971",
+  "package_url": "https://pypi.org/project/devcore-cli/"
+}

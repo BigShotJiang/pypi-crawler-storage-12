@@ -1,0 +1,11 @@
+{
+  "name": "django-wilayah-indonesia",
+  "version": "0.2.0",
+  "summary": "A simple Django app to provide Indonesia region",
+  "author": "irfanpule",
+  "license": "MIT",
+  "home_page": "https://github.com/irfanpule/wilayah_indonesia",
+  "download_filename": "django_wilayah_indonesia-0.2.0.tar.gz",
+  "download_time": "2025-11-11T07:56:27.547298",
+  "package_url": "https://pypi.org/project/django-wilayah-indonesia/"
+}

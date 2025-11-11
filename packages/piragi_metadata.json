@@ -1,11 +1,11 @@
 {
   "name": "piragi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The best RAG interface yet - Built-in vector store, embeddings, citations, and auto-updates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piragi-0.1.0.tar.gz",
-  "download_time": "2025-11-11T07:44:08.798289",
+  "download_filename": "piragi-0.1.1.tar.gz",
+  "download_time": "2025-11-11T07:56:36.319219",
   "package_url": "https://pypi.org/project/piragi/"
 }

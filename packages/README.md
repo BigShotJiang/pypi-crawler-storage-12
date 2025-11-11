@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T07:44:53.642286
-- **Total Packages**: 88
-- **Total Size**: 25.98 MB
+- **Download Time**: 2025-11-11T07:57:00.721955
+- **Total Packages**: 90
+- **Total Size**: 23.36 MB
 
 ## Packages List
+- localcosmos-server
+- twilio
+- impit
+- data-engine-tes1
+- murf
+- realtimex-docs-server
+- polars-mcp
+- eodash_catalog
+- iflow-mcp_vibe-worldbuilding-mcp
+- imgenx-mcp
+- langchain-trigger-server
+- utils-devops
+- eagle-test-graphs
+- yolodt
+- aigroup-econ-mcp
+- amzsc
+- local-control
+- ospac
+- leymosun
+- devcore-cli
+- pydantic-fixedwidth
+- eventix
+- SURE-tools
+- python-undef
+- cognite-neat
+- metripy
+- django-wilayah-indonesia
+- geobox
+- libmata
+- eConEXG
+- pinecone-plugin-assistant
+- bazi-agent
+- aa-sov-timer
+- dodrio
+- end-of-file-fixer
 - MeUtils
 - boltz_client
 - zym-dataset-up
@@ -26,9 +61,7 @@
 - BoschRpaMagicBox
 - iflow-mcp_weknora-mcp-server
 - thermosteam
-- PyNetIM
 - heavyball
-- murf
 - pulumi-oci
 - tamar-model-client
 - pulumi-vault
@@ -52,45 +85,14 @@
 - mxx-tool
 - arts
 - pulumi-wavefront
-- aigroup-econ-mcp
 - sidsassignment
 - pulumi-vsphere
 - MemoLib
 - chora-mcp-gateway
 - pulumi-tls
-- data-engine-tes1
 - circle-user-controlled-wallets
 - circle-smart-contract-platform
 - circle-developer-controlled-wallets
 - chora-mcp-manifest
 - circle-configurations
 - circle-web3-sdk-util
-- agora-python-server-sdk
-- pulumi-venafi
-- ul-py-tool
-- openplx-bundles
-- flatflow
-- earth-rover-mini-plus-sdk
-- ai-edge-litert-nightly
-- connectedpapers-py
-- pilot.linkstec
-- gnetcli-server-bin
-- datachain
-- quash-mcp
-- pulumi-newrelic
-- pulumi-snowflake
-- universal-mcp-applications
-- torchani
-- tritonparse
-- realtimex-docs-server
-- fprime-fpp
-- pulumi-spotinst
-- pulumi-cloudflare
-- pelican-avatar
-- pulumi-tailscale
-- poffertjes
-- imgenx-mcp
-- legalmind-ai
-- wanna-ml
-- streamlit-nightly
-- pulumi-splunk

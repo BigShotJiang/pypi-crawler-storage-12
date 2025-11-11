@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-fixedwidth",
+  "version": "0.2.2",
+  "summary": "Custom Pydantic models for parsing and serializing fixed-width format of data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_fixedwidth-0.2.2.tar.gz",
+  "download_time": "2025-11-11T07:56:23.944483",
+  "package_url": "https://pypi.org/project/pydantic-fixedwidth/"
+}
