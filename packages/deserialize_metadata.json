@@ -1,0 +1,11 @@
+{
+  "name": "deserialize",
+  "version": "2.3.0",
+  "summary": "A library to make deserialization easy.",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/dalemyers/deserialize",
+  "download_filename": "deserialize-2.3.0.tar.gz",
+  "download_time": "2025-11-11T10:48:48.450150",
+  "package_url": "https://pypi.org/project/deserialize/"
+}

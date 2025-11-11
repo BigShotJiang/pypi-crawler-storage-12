@@ -1,0 +1,11 @@
+{
+  "name": "transkribus-metagrapho-api",
+  "version": "0.2.0",
+  "summary": "Transkribus Metagrapho API Client.",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "transkribus_metagrapho_api-0.2.0.tar.gz",
+  "download_time": "2025-11-11T10:49:00.270337",
+  "package_url": "https://pypi.org/project/transkribus-metagrapho-api/"
+}

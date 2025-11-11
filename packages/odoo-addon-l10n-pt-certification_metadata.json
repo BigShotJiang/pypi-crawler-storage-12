@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-pt-certification",
-  "version": "18.0.1.0.0.2",
+  "version": "18.0.1.0.0.4",
   "summary": "Portugal - Accounting (Certification)",
   "author": "Odoo",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/l10n-portugal",
-  "download_filename": "odoo_addon_l10n_pt_certification-18.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-11-11T10:28:38.796013",
+  "download_filename": "odoo_addon_l10n_pt_certification-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-11T10:49:02.375776",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-pt-certification/"
 }

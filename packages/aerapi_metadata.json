@@ -1,11 +1,11 @@
 {
   "name": "aerapi",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A comprehensive toolset for accessing REST APIs used by the data team",
   "author": "S.Nicholson",
   "license": null,
   "home_page": null,
-  "download_filename": "aerapi-0.2.1.tar.gz",
-  "download_time": "2025-11-10T15:57:37.510310",
+  "download_filename": "aerapi-0.2.2.tar.gz",
+  "download_time": "2025-11-11T10:48:54.441133",
   "package_url": "https://pypi.org/project/aerapi/"
 }

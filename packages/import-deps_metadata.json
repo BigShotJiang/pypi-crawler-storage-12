@@ -1,0 +1,11 @@
+{
+  "name": "import-deps",
+  "version": "0.4.0",
+  "summary": "find python module imports",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "import_deps-0.4.0.tar.gz",
+  "download_time": "2025-11-11T10:48:39.954129",
+  "package_url": "https://pypi.org/project/import-deps/"
+}

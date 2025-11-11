@@ -1,11 +1,11 @@
 {
   "name": "SimpleLinestring2",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": null,
   "author": "Chiliades",
   "license": "GPL license",
   "home_page": "https://github.com/",
-  "download_filename": "simplelinestring2-0.0.1-py2.py3-none-any.whl",
-  "download_time": "2025-11-11T10:28:22.878782",
+  "download_filename": "simplelinestring2-0.0.3-py2.py3-none-any.whl",
+  "download_time": "2025-11-11T10:48:58.119437",
   "package_url": "https://pypi.org/project/SimpleLinestring2/"
 }

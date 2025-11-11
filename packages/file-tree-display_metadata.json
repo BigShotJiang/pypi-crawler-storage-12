@@ -1,11 +1,11 @@
 {
   "name": "file-tree-display",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A utility for generating a visually structured directory tree.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "file_tree_display-1.0.2.tar.gz",
-  "download_time": "2025-11-11T10:28:48.117368",
+  "download_filename": "file_tree_display-1.0.3.tar.gz",
+  "download_time": "2025-11-11T10:48:43.246395",
   "package_url": "https://pypi.org/project/file-tree-display/"
 }

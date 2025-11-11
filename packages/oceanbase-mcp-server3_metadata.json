@@ -1,0 +1,11 @@
+{
+  "name": "oceanbase-mcp-server3",
+  "version": "1.0.8",
+  "summary": "A Model Context Protocol (MCP) server that enables secure interaction with OceanBase databases. Supports both MySQL and Oracle compatibility modes with high-performance async operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oceanbase_mcp_server3-1.0.8.tar.gz",
+  "download_time": "2025-11-11T10:49:06.534779",
+  "package_url": "https://pypi.org/project/oceanbase-mcp-server3/"
+}
