@@ -1,0 +1,11 @@
+{
+  "name": "ORForise",
+  "version": "1.5.1",
+  "summary": "ORForise - Platform for analysing and comparing Prokaryote CoDing Sequence (CDS) Gene Predictions.",
+  "author": "Nicholas Dimonaco",
+  "license": null,
+  "home_page": "https://github.com/NickJD/ORForise",
+  "download_filename": "orforise-1.5.1.tar.gz",
+  "download_time": "2025-11-11T18:37:50.807743",
+  "package_url": "https://pypi.org/project/ORForise/"
+}

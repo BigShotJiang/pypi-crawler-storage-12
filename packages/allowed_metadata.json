@@ -1,0 +1,11 @@
+{
+  "name": "allowed",
+  "version": "1.5.5",
+  "summary": "Check if a program only uses a subset of the Python language.",
+  "author": "Michel Wermelinger",
+  "license": "BSD-3-Clause",
+  "home_page": "https://dsa-ou.github.io/allowed",
+  "download_filename": "allowed-1.5.5.tar.gz",
+  "download_time": "2025-11-11T18:37:57.318506",
+  "package_url": "https://pypi.org/project/allowed/"
+}

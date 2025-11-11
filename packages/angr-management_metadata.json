@@ -1,0 +1,11 @@
+{
+  "name": "angr-management",
+  "version": "9.2.183",
+  "summary": "The official GUI for angr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "angr_management-9.2.183.tar.gz",
+  "download_time": "2025-11-11T18:38:24.334400",
+  "package_url": "https://pypi.org/project/angr-management/"
+}

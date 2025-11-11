@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-storage-plugin-pelican",
+  "version": "0.1.0",
+  "summary": "A Snakemake Storage Plugin for Pelican Federations",
+  "author": "Justin Hiemstra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_storage_plugin_pelican-0.1.0.tar.gz",
+  "download_time": "2025-11-11T18:38:41.483538",
+  "package_url": "https://pypi.org/project/snakemake-storage-plugin-pelican/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "angr",
+  "version": "9.2.183",
+  "summary": "A multi-architecture binary analysis toolkit, with the ability to perform dynamic symbolic execution and various static analyses on binaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "angr-9.2.183.tar.gz",
+  "download_time": "2025-11-11T18:38:25.193873",
+  "package_url": "https://pypi.org/project/angr/"
+}

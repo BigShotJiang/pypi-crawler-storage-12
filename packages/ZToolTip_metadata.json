@@ -1,11 +1,11 @@
 {
   "name": "ZToolTip",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "summary": "A modern and fully customizable tooltip library for PyQt and PySide",
   "author": "FaBuLuZz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ztooltip-1.2.0.tar.gz",
-  "download_time": "2025-11-11T15:57:51.058227",
+  "download_filename": "ztooltip-2.0.0.tar.gz",
+  "download_time": "2025-11-11T18:38:31.865188",
   "package_url": "https://pypi.org/project/ZToolTip/"
 }
