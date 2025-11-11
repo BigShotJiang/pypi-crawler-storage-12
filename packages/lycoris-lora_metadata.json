@@ -1,0 +1,11 @@
+{
+  "name": "lycoris-lora",
+  "version": "3.3.0",
+  "summary": "Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion",
+  "author": "Shih-Ying Yeh(KohakuBlueLeaf), Yu-Guan Hsieh, Zhidong Gao",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/KohakuBlueleaf/LyCORIS",
+  "download_filename": "lycoris_lora-3.3.0-py3-none-any.whl",
+  "download_time": "2025-11-11T16:36:42.038895",
+  "package_url": "https://pypi.org/project/lycoris-lora/"
+}

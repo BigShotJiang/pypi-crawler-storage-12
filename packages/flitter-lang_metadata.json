@@ -1,0 +1,11 @@
+{
+  "name": "flitter-lang",
+  "version": "1.0.0b28",
+  "summary": "Flitter is a functional programming language and declarative system for describing 2D and 3D visuals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flitter_lang-1.0.0b28.tar.gz",
+  "download_time": "2025-11-11T16:36:37.335427",
+  "package_url": "https://pypi.org/project/flitter-lang/"
+}

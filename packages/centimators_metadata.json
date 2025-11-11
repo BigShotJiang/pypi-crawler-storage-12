@@ -1,0 +1,11 @@
+{
+  "name": "centimators",
+  "version": "0.2.0",
+  "summary": "essential data transformers and model estimators for ML and data science competitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "centimators-0.2.0.tar.gz",
+  "download_time": "2025-11-11T16:36:26.116199",
+  "package_url": "https://pypi.org/project/centimators/"
+}

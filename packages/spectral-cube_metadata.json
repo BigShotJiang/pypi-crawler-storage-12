@@ -1,0 +1,11 @@
+{
+  "name": "spectral-cube",
+  "version": "0.6.7",
+  "summary": "A package for interaction with spectral cubes",
+  "author": "Adam Ginsburg, Tom Robitaille, Chris Beaumont, Adam Leroy, Erik Rosolowsky, Eric Koch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectral_cube-0.6.7.tar.gz",
+  "download_time": "2025-11-11T16:36:40.408437",
+  "package_url": "https://pypi.org/project/spectral-cube/"
+}

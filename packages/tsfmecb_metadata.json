@@ -1,0 +1,11 @@
+{
+  "name": "tsfmecb",
+  "version": "0.1.3",
+  "summary": "tsfm provides an easy interface to use TimeSeries Foundational Models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsfmecb-0.1.3.tar.gz",
+  "download_time": "2025-11-11T16:36:59.270577",
+  "package_url": "https://pypi.org/project/tsfmecb/"
+}
