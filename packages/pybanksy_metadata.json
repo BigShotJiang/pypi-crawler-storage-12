@@ -1,11 +1,11 @@
 {
   "name": "pybanksy",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "BANKSY: Spatial Clustering Algorithm that Unifies Cell-Typing and Tissue Domain Segmentation. It reduces the spatial clustering problem to a previously solved problem--generic graph based clustering--by augmenting transcriptional signatures with transcriptional features averaged over spatial microenvironments.",
   "author": "Yifei Yue",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pybanksy-1.3.0.tar.gz",
-  "download_time": "2025-11-11T08:35:03.073183",
+  "download_filename": "pybanksy-1.3.1.tar.gz",
+  "download_time": "2025-11-11T23:44:48.072203",
   "package_url": "https://pypi.org/project/pybanksy/"
 }

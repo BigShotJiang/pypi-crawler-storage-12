@@ -1,0 +1,11 @@
+{
+  "name": "ov-wag",
+  "version": "1.1.1",
+  "summary": "WGBH Open Vault Wagtail backend",
+  "author": "WGBH-MLA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ov_wag-1.1.1.tar.gz",
+  "download_time": "2025-11-11T23:44:55.821478",
+  "package_url": "https://pypi.org/project/ov-wag/"
+}

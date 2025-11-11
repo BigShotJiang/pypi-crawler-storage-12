@@ -1,0 +1,11 @@
+{
+  "name": "ratemaking",
+  "version": "0.3.1",
+  "summary": "A comprehensive Python library for P&C actuarial ratemaking",
+  "author": "Hugo Latendresse",
+  "license": null,
+  "home_page": "https://github.com/little-croissant/ratemaking",
+  "download_filename": "ratemaking-0.3.1.tar.gz",
+  "download_time": "2025-11-11T23:45:00.465939",
+  "package_url": "https://pypi.org/project/ratemaking/"
+}

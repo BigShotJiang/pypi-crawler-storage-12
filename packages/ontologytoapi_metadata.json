@@ -1,0 +1,11 @@
+{
+  "name": "ontologytoapi",
+  "version": "0.0.15",
+  "summary": "Multi purpose API Generator based on an Ontology Framework.",
+  "author": "Júlio César Guimarães Costa",
+  "license": "MIT License",
+  "home_page": "https://github.com/JCGCosta/OntologyToAPI",
+  "download_filename": "ontologytoapi-0.0.15.tar.gz",
+  "download_time": "2025-11-11T23:44:52.743298",
+  "package_url": "https://pypi.org/project/ontologytoapi/"
+}

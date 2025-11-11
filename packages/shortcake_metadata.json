@@ -1,0 +1,11 @@
+{
+  "name": "shortcake",
+  "version": "0.1.0",
+  "summary": "A CLI built with typer and uv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shortcake-0.1.0.tar.gz",
+  "download_time": "2025-11-11T23:44:22.941461",
+  "package_url": "https://pypi.org/project/shortcake/"
+}

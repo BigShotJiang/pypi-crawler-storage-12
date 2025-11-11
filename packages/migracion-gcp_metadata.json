@@ -1,0 +1,11 @@
+{
+  "name": "migracion-gcp",
+  "version": "1.0.0",
+  "summary": "Experimento de migración de un modelo de Fury a GCP.",
+  "author": "Juan Pablo Arango S.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "migracion_gcp-1.0.0.tar.gz",
+  "download_time": "2025-11-11T23:44:53.770906",
+  "package_url": "https://pypi.org/project/migracion-gcp/"
+}

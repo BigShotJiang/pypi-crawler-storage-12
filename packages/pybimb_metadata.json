@@ -1,0 +1,11 @@
+{
+  "name": "pybimb",
+  "version": "0.2.1",
+  "summary": "[WIP] A fast imageloader for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybimb-0.2.1.tar.gz",
+  "download_time": "2025-11-11T23:44:37.741919",
+  "package_url": "https://pypi.org/project/pybimb/"
+}
