@@ -1,0 +1,11 @@
+{
+  "name": "scUNAGI",
+  "version": "0.5.10",
+  "summary": "UNAGI: Deep Generative Model for Deciphering Cellular Dynamics and In-Silico Drug Discovery in Complex Diseases",
+  "author": "Yumin Zheng",
+  "license": null,
+  "home_page": "https://github.com/mcgilldinglab/UNAGI",
+  "download_filename": "scunagi-0.5.10.tar.gz",
+  "download_time": "2025-11-11T15:27:57.791937",
+  "package_url": "https://pypi.org/project/scUNAGI/"
+}

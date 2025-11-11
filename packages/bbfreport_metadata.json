@@ -1,0 +1,11 @@
+{
+  "name": "bbfreport",
+  "version": "2.4.0",
+  "summary": "Broadband Forum (BBF) Data Model Report Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbfreport-2.4.0.tar.gz",
+  "download_time": "2025-11-11T15:27:29.757084",
+  "package_url": "https://pypi.org/project/bbfreport/"
+}

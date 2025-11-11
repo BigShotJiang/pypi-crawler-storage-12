@@ -1,0 +1,11 @@
+{
+  "name": "arvi",
+  "version": "0.2.13",
+  "summary": "The Automated RV Inspector",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arvi-0.2.13.tar.gz",
+  "download_time": "2025-11-11T15:28:05.922472",
+  "package_url": "https://pypi.org/project/arvi/"
+}

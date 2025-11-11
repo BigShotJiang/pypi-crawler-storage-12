@@ -1,0 +1,11 @@
+{
+  "name": "pytest-reportportal",
+  "version": "5.5.4",
+  "summary": "Agent for Reporting results of tests to the Report Portal",
+  "author": "Report Portal Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/reportportal/agent-python-pytest",
+  "download_filename": "pytest_reportportal-5.5.4.tar.gz",
+  "download_time": "2025-11-11T15:28:01.785108",
+  "package_url": "https://pypi.org/project/pytest-reportportal/"
+}

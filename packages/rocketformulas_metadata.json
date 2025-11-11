@@ -1,0 +1,11 @@
+{
+  "name": "rocketformulas",
+  "version": "1.0.0",
+  "summary": "A Python library providing basic formulas for rocket engine performance and analysis.",
+  "author": "Amandeep Singh, Tuiba Ashraf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rocketformulas-1.0.0.tar.gz",
+  "download_time": "2025-11-11T15:28:07.075447",
+  "package_url": "https://pypi.org/project/rocketformulas/"
+}

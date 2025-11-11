@@ -1,0 +1,11 @@
+{
+  "name": "cureq",
+  "version": "1.2.16",
+  "summary": "Library for analyzing MEA files.",
+  "author": "CureQ",
+  "license": null,
+  "home_page": "https://github.com/CureQ/CureQ.git",
+  "download_filename": "cureq-1.2.16.tar.gz",
+  "download_time": "2025-11-11T15:27:39.202328",
+  "package_url": "https://pypi.org/project/cureq/"
+}
