@@ -1,0 +1,11 @@
+{
+  "name": "TPHATE",
+  "version": "1.2.1",
+  "summary": "Temporal PHATE (TPHATE) is a python package for learning robust manifold representations of timeseries data with high temporal autocorrelation.",
+  "author": "Erica Busch, Krishnaswamy Lab, Yale University",
+  "license": null,
+  "home_page": "https://github.com/KrishnaswamyLab/TPHATE",
+  "download_filename": "tphate-1.2.1.tar.gz",
+  "download_time": "2025-11-11T18:59:30.347910",
+  "package_url": "https://pypi.org/project/TPHATE/"
+}

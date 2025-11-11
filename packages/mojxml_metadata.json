@@ -1,0 +1,11 @@
+{
+  "name": "mojxml",
+  "version": "0.5.4",
+  "summary": "A tool for fast conversion of Japanese \"MOJ Map XML\" (land registration polygons) into geospatial formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mojxml-0.5.4.tar.gz",
+  "download_time": "2025-11-11T18:59:29.330292",
+  "package_url": "https://pypi.org/project/mojxml/"
+}

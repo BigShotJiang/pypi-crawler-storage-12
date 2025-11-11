@@ -1,0 +1,11 @@
+{
+  "name": "scope-classifier",
+  "version": "0.3.0",
+  "summary": "A scope classification library around your prompts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scope_classifier-0.3.0.tar.gz",
+  "download_time": "2025-11-11T18:59:31.897940",
+  "package_url": "https://pypi.org/project/scope-classifier/"
+}
