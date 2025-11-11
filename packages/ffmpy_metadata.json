@@ -1,0 +1,11 @@
+{
+  "name": "ffmpy",
+  "version": "1.0.0",
+  "summary": "A simple Python wrapper for FFmpeg",
+  "author": "Andrii Yurchuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpy-1.0.0.tar.gz",
+  "download_time": "2025-11-11T06:39:23.403473",
+  "package_url": "https://pypi.org/project/ffmpy/"
+}

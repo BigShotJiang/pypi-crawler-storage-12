@@ -1,0 +1,11 @@
+{
+  "name": "forging-blocks",
+  "version": "0.3.6",
+  "summary": "Composable toolkit for clean, testable, and maintainable Python applications",
+  "author": "ForgingBlocks Org",
+  "license": "MIT",
+  "home_page": "https://forging-blocks-org.github.io/forging-blocks/",
+  "download_filename": "forging_blocks-0.3.6.tar.gz",
+  "download_time": "2025-11-11T06:39:15.640938",
+  "package_url": "https://pypi.org/project/forging-blocks/"
+}

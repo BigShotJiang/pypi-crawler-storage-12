@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-clerk-auth",
+  "version": "0.0.9",
+  "summary": "FastAPI Auth Middleware for Clerk (https://clerk.com)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_clerk_auth-0.0.9.tar.gz",
+  "download_time": "2025-11-11T06:39:44.725659",
+  "package_url": "https://pypi.org/project/fastapi-clerk-auth/"
+}

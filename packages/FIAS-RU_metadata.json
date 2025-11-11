@@ -1,0 +1,11 @@
+{
+  "name": "FIAS-RU",
+  "version": "0.1.2",
+  "summary": "Простой и надёжный SDK для работы с ФИАС API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fias_ru-0.1.2.tar.gz",
+  "download_time": "2025-11-11T06:39:22.891334",
+  "package_url": "https://pypi.org/project/FIAS-RU/"
+}
