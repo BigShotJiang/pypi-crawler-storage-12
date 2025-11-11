@@ -1,0 +1,11 @@
+{
+  "name": "dns-lexicon",
+  "version": "3.22.0",
+  "summary": "Manipulate DNS records on various DNS providers in a standardized/agnostic way",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dns_lexicon-3.22.0.tar.gz",
+  "download_time": "2025-11-11T17:56:53.496022",
+  "package_url": "https://pypi.org/project/dns-lexicon/"
+}

@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T17:45:39.395311
-- **Total Packages**: 82
-- **Total Size**: 19.91 MB
+- **Download Time**: 2025-11-11T17:57:36.871592
+- **Total Packages**: 89
+- **Total Size**: 8.4 MB
 
 ## Packages List
+- cybrid-api-id-python
+- stocktrim-openapi-client
+- cybrid-api-organization-python
+- idf-converter
+- esteria-api-client
+- cml-mcp
+- selahx
+- viur-toolkit
+- zensical
+- dns-lexicon
+- never-jscore
+- dragohan-grimoire
+- xiaoya-teacher-mcp-server
+- pyrcmip
+- letschatty
+- gova-commons
+- chizhik-api
+- DeFiPy
+- hwp-metadata-mcp
+- comfykit
+- deltachat-rpc-client
+- dbos
+- m01.grid
+- pocket-option
+- dtpyfw
+- vnstock
+- grafana-weaver
+- kaiju-tools
+- finance-trading-ai-agents-mcp
+- sphinx-linter
 - wordlift-client
 - attipy
 - biblemategui
@@ -31,7 +61,6 @@
 - itp-interface
 - ok-script
 - malevich-app
-- dtpyfw
 - peer-review-agent
 - finance-sdk
 - pyochain
@@ -66,25 +95,3 @@
 - plain.jobs
 - plain.flags
 - plain.admin
-- plain
-- hyperscale-ozone
-- comfykit
-- duplifinder
-- auto-subs
-- db-dtypes
-- odoo-addon-mrp-stock-owner-restriction
-- ryn-data
-- janus-core
-- sz_semantics
-- fennec-ml
-- geondtffree
-- flaskteroids
-- kbbridge
-- matplotgl
-- perfview
-- brick-tq-shacl
-- dfttoolkit
-- loxodo-curses
-- beets-cdman
-- pythermal
-- utf8-tokenizer

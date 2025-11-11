@@ -1,11 +1,11 @@
 {
   "name": "m01.grid",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "MongoDB grid file implementation for Zope3",
   "author": "Roger Ineichen, Projekt01 GmbH",
   "license": "ZPL 2.1",
   "home_page": "http://pypi.python.org/pypi/m01.grid",
-  "download_filename": "m01_grid-3.2.0.tar.gz",
-  "download_time": "2025-11-11T16:57:56.461697",
+  "download_filename": "m01_grid-3.2.1.tar.gz",
+  "download_time": "2025-11-11T17:57:01.002483",
   "package_url": "https://pypi.org/project/m01.grid/"
 }

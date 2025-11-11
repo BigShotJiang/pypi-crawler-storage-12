@@ -1,0 +1,11 @@
+{
+  "name": "hwp-metadata-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for extracting metadata from Korean HWP/HWPX files",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "hwp_metadata_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-11T17:56:58.821012",
+  "package_url": "https://pypi.org/project/hwp-metadata-mcp/"
+}

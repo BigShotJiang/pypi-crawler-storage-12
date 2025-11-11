@@ -1,0 +1,11 @@
+{
+  "name": "DeFiPy",
+  "version": "1.0.10",
+  "summary": "Python SDK for DeFi Analytics, Simulation, and Agents",
+  "author": "icmoore",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/defipy-devs/defipy",
+  "download_filename": "defipy-1.0.10.tar.gz",
+  "download_time": "2025-11-11T17:56:58.294858",
+  "package_url": "https://pypi.org/project/DeFiPy/"
+}

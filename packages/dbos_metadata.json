@@ -1,11 +1,11 @@
 {
   "name": "dbos",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "Ultra-lightweight durable execution in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbos-2.3.0.tar.gz",
-  "download_time": "2025-11-11T04:54:40.506444",
+  "download_filename": "dbos-2.4.0.tar.gz",
+  "download_time": "2025-11-11T17:57:00.443195",
   "package_url": "https://pypi.org/project/dbos/"
 }
