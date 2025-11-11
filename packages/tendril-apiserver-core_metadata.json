@@ -1,0 +1,11 @@
+{
+  "name": "tendril-apiserver-core",
+  "version": "0.4.2",
+  "summary": "Tendril API Server Core Infrastructure",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-apiserver-core",
+  "download_filename": "tendril_apiserver_core-0.4.2.tar.gz",
+  "download_time": "2025-11-11T16:58:18.515258",
+  "package_url": "https://pypi.org/project/tendril-apiserver-core/"
+}

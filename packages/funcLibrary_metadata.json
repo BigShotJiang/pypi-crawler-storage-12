@@ -1,0 +1,11 @@
+{
+  "name": "funcLibrary",
+  "version": "0.1.0",
+  "summary": "A simple Python string utilities library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "funclibrary-0.1.0.tar.gz",
+  "download_time": "2025-11-11T16:57:52.294378",
+  "package_url": "https://pypi.org/project/funcLibrary/"
+}

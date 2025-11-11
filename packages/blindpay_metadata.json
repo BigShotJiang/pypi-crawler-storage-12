@@ -1,0 +1,11 @@
+{
+  "name": "blindpay",
+  "version": "1.1.0",
+  "summary": "Official Python SDK for the Blindpay API — Global payments infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blindpay-1.1.0.tar.gz",
+  "download_time": "2025-11-11T16:58:26.294993",
+  "package_url": "https://pypi.org/project/blindpay/"
+}

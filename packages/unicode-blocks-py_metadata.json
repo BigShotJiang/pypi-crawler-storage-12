@@ -1,11 +1,11 @@
 {
   "name": "unicode-blocks-py",
-  "version": "13.0.0",
+  "version": "14.0.0",
   "summary": "Unicode blocks data utility module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unicode_blocks_py-13.0.0.tar.gz",
-  "download_time": "2025-11-11T16:36:14.529586",
+  "download_filename": "unicode_blocks_py-14.0.0.tar.gz",
+  "download_time": "2025-11-11T16:58:03.186453",
   "package_url": "https://pypi.org/project/unicode-blocks-py/"
 }

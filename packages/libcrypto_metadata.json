@@ -1,11 +1,11 @@
 {
   "name": "libcrypto",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A professional library For Cryptography and Cryptocurrencies in Python.",
   "author": "Mmdrza",
   "license": "MIT",
   "home_page": "https://github.com/pymmdrza/libcrypto",
-  "download_filename": "libcrypto-1.2.1.tar.gz",
-  "download_time": "2025-11-11T15:46:31.433730",
+  "download_filename": "libcrypto-1.2.2.tar.gz",
+  "download_time": "2025-11-11T16:58:24.215328",
   "package_url": "https://pypi.org/project/libcrypto/"
 }

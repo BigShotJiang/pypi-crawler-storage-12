@@ -1,0 +1,11 @@
+{
+  "name": "quickhost-aws",
+  "version": "0.3.0",
+  "summary": "quickhost plugin for AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickhost_aws-0.3.0.tar.gz",
+  "download_time": "2025-11-11T16:58:36.701871",
+  "package_url": "https://pypi.org/project/quickhost-aws/"
+}

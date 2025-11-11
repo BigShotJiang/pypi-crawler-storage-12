@@ -1,11 +1,11 @@
 {
   "name": "mokaccino",
-  "version": "0.1.0",
+  "version": "0.4.1",
   "summary": null,
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "mokaccino-0.1.0.tar.gz",
-  "download_time": "2025-11-11T15:27:46.112310",
+  "home_page": "https://github.com/jeteve/mokaccino_py",
+  "download_filename": "mokaccino-0.4.1.tar.gz",
+  "download_time": "2025-11-11T16:58:21.615078",
   "package_url": "https://pypi.org/project/mokaccino/"
 }

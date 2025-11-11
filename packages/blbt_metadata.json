@@ -1,11 +1,11 @@
 {
   "name": "blbt",
-  "version": "1.0.4",
-  "summary": "Bambu Lab Boosts Tool - Calculate the gift card value of Makerworld boosts with live exchange rates.",
+  "version": "1.0.5",
+  "summary": "A command-line utility to calculate the real-world gift card value of your Makerworld boosts across different regional stores.",
   "author": "thefilipcom4607",
   "license": "MIT",
   "home_page": "https://github.com/thefilipcom4607/blbt",
-  "download_filename": "blbt-1.0.4.tar.gz",
-  "download_time": "2025-11-11T16:36:31.319495",
+  "download_filename": "blbt-1.0.5.tar.gz",
+  "download_time": "2025-11-11T16:58:35.151863",
   "package_url": "https://pypi.org/project/blbt/"
 }
