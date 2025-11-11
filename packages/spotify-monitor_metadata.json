@@ -1,0 +1,11 @@
+{
+  "name": "spotify-monitor",
+  "version": "2.6",
+  "summary": "Tool implementing real-time tracking of Spotify friends music activity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_monitor-2.6.tar.gz",
+  "download_time": "2025-11-11T04:34:05.954844",
+  "package_url": "https://pypi.org/project/spotify-monitor/"
+}

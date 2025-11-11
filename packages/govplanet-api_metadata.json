@@ -1,0 +1,11 @@
+{
+  "name": "govplanet-api",
+  "version": "1.0.0",
+  "summary": "A complete reverse-engineered API client for GovPlanet with extensive product search capabilities",
+  "author": "Jonathan Gan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/govplanet-api",
+  "download_filename": "govplanet_api-1.0.0.tar.gz",
+  "download_time": "2025-11-11T04:33:28.329708",
+  "package_url": "https://pypi.org/project/govplanet-api/"
+}

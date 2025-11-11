@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-coupon-chatter",
+  "version": "17.0.1.0.0.4",
+  "summary": "Register messages and activities on the sale coupon records",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-promotion",
+  "download_filename": "odoo_addon_coupon_chatter-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-11T04:33:55.654315",
+  "package_url": "https://pypi.org/project/odoo-addon-coupon-chatter/"
+}

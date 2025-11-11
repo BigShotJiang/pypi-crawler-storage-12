@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-tag",
+  "version": "18.0.1.1.0.2",
+  "summary": "Allows to add multiple tags to purchase orders",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_tag-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-11-11T04:34:00.273407",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-tag/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mooring-data-generator",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "Random-data generator to simulate fictional port data flows for use at a Hackathon",
   "author": "Ben Fitzhardinge",
   "license": null,
   "home_page": null,
-  "download_filename": "mooring_data_generator-0.11.0.tar.gz",
-  "download_time": "2025-11-11T03:18:48.215826",
+  "download_filename": "mooring_data_generator-0.11.1.tar.gz",
+  "download_time": "2025-11-11T04:33:57.704402",
   "package_url": "https://pypi.org/project/mooring-data-generator/"
 }

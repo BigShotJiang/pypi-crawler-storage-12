@@ -1,0 +1,11 @@
+{
+  "name": "kitty-common",
+  "version": "0.5.6",
+  "summary": "kitty games common library",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/rchen152/common",
+  "download_filename": "kitty_common-0.5.6.tar.gz",
+  "download_time": "2025-11-11T04:34:04.386627",
+  "package_url": "https://pypi.org/project/kitty-common/"
+}

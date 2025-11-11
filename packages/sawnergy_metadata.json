@@ -1,0 +1,11 @@
+{
+  "name": "sawnergy",
+  "version": "1.0.9",
+  "summary": "Toolkit for transforming molecular dynamics (MD) trajectories into rich graph representations",
+  "author": "Yehor Mishchyriak",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Yehor-Mishchyriak/SAWNERGY",
+  "download_filename": "sawnergy-1.0.9.tar.gz",
+  "download_time": "2025-11-11T04:33:26.271507",
+  "package_url": "https://pypi.org/project/sawnergy/"
+}

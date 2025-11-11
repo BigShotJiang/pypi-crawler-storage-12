@@ -1,0 +1,11 @@
+{
+  "name": "serverless-devs",
+  "version": "1.0.2",
+  "summary": "Serverless Devs 开发者工具 - Python 安装包（自动安装最新版本）",
+  "author": "Serverless Devs",
+  "license": "MIT",
+  "home_page": "https://github.com/Serverless-Devs/Serverless-Devs",
+  "download_filename": "serverless_devs-1.0.2.tar.gz",
+  "download_time": "2025-11-11T04:33:37.584633",
+  "package_url": "https://pypi.org/project/serverless-devs/"
+}
