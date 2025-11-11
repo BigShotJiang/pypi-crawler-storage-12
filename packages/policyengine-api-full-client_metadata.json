@@ -1,11 +1,11 @@
 {
   "name": "policyengine-api-full-client",
-  "version": "0.20251111.30",
+  "version": "0.20251111.32",
   "summary": "A client library for accessing policyengine-api-full",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_api_full_client-0.20251111.30.tar.gz",
-  "download_time": "2025-11-11T21:54:48.240676",
+  "download_filename": "policyengine_api_full_client-0.20251111.32.tar.gz",
+  "download_time": "2025-11-11T22:24:12.534449",
   "package_url": "https://pypi.org/project/policyengine-api-full-client/"
 }

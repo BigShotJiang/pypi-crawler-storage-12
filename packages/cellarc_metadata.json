@@ -1,0 +1,11 @@
+{
+  "name": "cellarc",
+  "version": "0.1.1",
+  "summary": "Generation and manipulation of cellular automata datasets",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cellarc-0.1.1.tar.gz",
+  "download_time": "2025-11-11T22:24:20.180325",
+  "package_url": "https://pypi.org/project/cellarc/"
+}

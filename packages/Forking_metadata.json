@@ -1,11 +1,11 @@
 {
   "name": "Forking",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "A context manager to fork.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forking-0.1.tar.gz",
-  "download_time": "2025-11-10T21:42:06.529360",
+  "download_filename": "forking-0.2.tar.gz",
+  "download_time": "2025-11-11T22:24:20.763490",
   "package_url": "https://pypi.org/project/Forking/"
 }

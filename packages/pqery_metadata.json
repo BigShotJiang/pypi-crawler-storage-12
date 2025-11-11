@@ -1,0 +1,11 @@
+{
+  "name": "pqery",
+  "version": "0.1.0",
+  "summary": "A query like syntax for python Path objects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pqery-0.1.0.tar.gz",
+  "download_time": "2025-11-11T22:24:09.117539",
+  "package_url": "https://pypi.org/project/pqery/"
+}

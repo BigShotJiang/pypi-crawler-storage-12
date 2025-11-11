@@ -1,0 +1,11 @@
+{
+  "name": "ensync-sdk",
+  "version": "0.4.0",
+  "summary": "Python SDK for EnSync Engine - high-performance real-time messaging via gRPC",
+  "author": "EnSync Team",
+  "license": null,
+  "home_page": "https://github.com/EnSync-engine/Python-SDK",
+  "download_filename": "ensync_sdk-0.4.0.tar.gz",
+  "download_time": "2025-11-11T22:23:36.581868",
+  "package_url": "https://pypi.org/project/ensync-sdk/"
+}

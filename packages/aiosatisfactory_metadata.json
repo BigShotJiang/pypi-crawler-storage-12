@@ -1,0 +1,11 @@
+{
+  "name": "aiosatisfactory",
+  "version": "0.1.0",
+  "summary": "Async client for Satisfactory dedicated server APIs",
+  "author": "Rikys",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiosatisfactory-0.1.0.tar.gz",
+  "download_time": "2025-11-11T22:24:00.801275",
+  "package_url": "https://pypi.org/project/aiosatisfactory/"
+}

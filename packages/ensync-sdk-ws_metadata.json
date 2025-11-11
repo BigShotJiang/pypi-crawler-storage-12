@@ -1,0 +1,11 @@
+{
+  "name": "ensync-sdk-ws",
+  "version": "0.4.0",
+  "summary": "WebSocket client for EnSync Engine - real-time messaging over WebSocket",
+  "author": "EnSync Team",
+  "license": null,
+  "home_page": "https://github.com/EnSync-engine/Python-SDK",
+  "download_filename": "ensync_sdk_ws-0.4.0.tar.gz",
+  "download_time": "2025-11-11T22:23:41.127428",
+  "package_url": "https://pypi.org/project/ensync-sdk-ws/"
+}

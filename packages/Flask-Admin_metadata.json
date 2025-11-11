@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Admin",
+  "version": "2.0.2",
+  "summary": "Simple and extensible admin interface framework for Flask",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_admin-2.0.2.tar.gz",
+  "download_time": "2025-11-11T22:24:19.650511",
+  "package_url": "https://pypi.org/project/Flask-Admin/"
+}
