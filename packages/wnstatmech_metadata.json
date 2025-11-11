@@ -1,11 +1,11 @@
 {
   "name": "wnstatmech",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Package for handling the statistical mechanics of fermions and bosons",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wnstatmech-1.0.3.tar.gz",
-  "download_time": "2025-11-11T19:22:16.750637",
+  "download_filename": "wnstatmech-1.0.4.tar.gz",
+  "download_time": "2025-11-11T19:44:16.276448",
   "package_url": "https://pypi.org/project/wnstatmech/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "Odooly",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Versatile tool for Odoo",
   "author": "Florent Xicluna",
   "license": "BSD-3-Clause",
   "home_page": "http://odooly.readthedocs.org/",
-  "download_filename": "odooly-2.5.0.tar.gz",
-  "download_time": "2025-11-11T13:55:17.085281",
+  "download_filename": "odooly-2.5.1.tar.gz",
+  "download_time": "2025-11-11T19:44:07.328424",
   "package_url": "https://pypi.org/project/Odooly/"
 }

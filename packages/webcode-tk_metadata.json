@@ -1,0 +1,11 @@
+{
+  "name": "webcode-tk",
+  "version": "1.2.8",
+  "summary": "A set of tools for inspecting HTML and CSS code",
+  "author": "hundredvisionsguy",
+  "license": "MIT",
+  "home_page": "https://github.com/HundredVisionsGuy/webcode-tk",
+  "download_filename": "webcode_tk-1.2.8.tar.gz",
+  "download_time": "2025-11-11T19:44:15.764365",
+  "package_url": "https://pypi.org/project/webcode-tk/"
+}

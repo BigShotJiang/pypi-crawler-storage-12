@@ -1,0 +1,11 @@
+{
+  "name": "niemarkov",
+  "version": "1.0.5",
+  "summary": "NieMarkov: Niema's Python implementation of Markov chains",
+  "author": "Niema Moshiri",
+  "license": null,
+  "home_page": "https://github.com/niemasd/NieMarkov",
+  "download_filename": "niemarkov-1.0.5.tar.gz",
+  "download_time": "2025-11-11T19:44:14.740636",
+  "package_url": "https://pypi.org/project/niemarkov/"
+}

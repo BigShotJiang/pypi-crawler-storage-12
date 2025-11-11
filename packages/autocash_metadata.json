@@ -1,0 +1,11 @@
+{
+  "name": "autocash",
+  "version": "0.3",
+  "summary": "AutoCash payments gateway lib",
+  "author": "KingZero",
+  "license": "MIT",
+  "home_page": "https://github.com/LSEGITHUB/VFCashPython",
+  "download_filename": "autocash-0.3.tar.gz",
+  "download_time": "2025-11-11T19:44:23.001182",
+  "package_url": "https://pypi.org/project/autocash/"
+}

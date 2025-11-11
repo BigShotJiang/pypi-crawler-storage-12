@@ -1,11 +1,11 @@
 {
   "name": "markdown-exec",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "summary": "Utilities to execute code blocks in Markdown files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_exec-1.12.0.tar.gz",
-  "download_time": "2025-11-10T14:46:10.234374",
+  "download_filename": "markdown_exec-1.12.1.tar.gz",
+  "download_time": "2025-11-11T19:44:20.891527",
   "package_url": "https://pypi.org/project/markdown-exec/"
 }
