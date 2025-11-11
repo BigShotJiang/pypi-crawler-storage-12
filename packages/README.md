@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T03:18:48.716748
-- **Total Packages**: 66
-- **Total Size**: 46.06 MB
+- **Download Time**: 2025-11-11T03:59:12.715486
+- **Total Packages**: 75
+- **Total Size**: 19.98 MB
 
 ## Packages List
+- aemo-to-tariff
+- git-llm-tool
+- tesseractpkg
+- crewplus
+- fountain-sdk
+- robust-python-demo
+- BoschRpaMagicBox
+- strands-mcp-server
+- gui-utilities
+- bluehive
+- realtimex-computer-use
+- odoo-addon-l10n-es-aeat-mod303
+- arthexis
+- panda3d-imgui
+- dr-wandb
+- tristero
+- matmech
+- aiinbx
+- thds.mops
+- thds.humenc
+- thds.adls
+- thds.termtool
+- thds.core
+- thds.attrs-utils
+- thds.atacama
+- thds.tabularasa
+- experl-core
+- withpi
+- iflow-mcp_slidev-mcp
+- yt-dlp-utils
+- dvt-core
+- pyAgrum-nightly
+- TransferQueue
+- odoo-addon-l10n-it-currency-rate-update-boi
+- odoo-addon-l10n-it-account-stamp
+- odoo-addon-l10n-it-vat-settlement-date
+- odoo-addon-l10n-it-riba-oca
 - mso4000
 - boxmot
 - iflow-mcp_modal-mcp-toolbox
@@ -13,7 +50,6 @@
 - pylunix-icon-kit
 - odino
 - e-invoice-api
-- git-llm-tool
 - absurd
 - arbi
 - django-shopify-app
@@ -21,10 +57,8 @@
 - langchain-cerebras
 - maleo-identity
 - SURE-tools
-- iflow-mcp_slidev-mcp
 - ato
 - tmo-api
-- tristero
 - types-psutil
 - types-tzdata
 - types-ttkthemes
@@ -33,14 +67,12 @@
 - disposable-email-domains
 - relaxai
 - pulumi-provider-boilerplate
-- matmech
 - odoo-addon-fleet-vehicle-inspection
 - odoo-addon-fleet-vehicle-log-fuel
 - gumnut-sdk
 - cartography-client
 - uiautodev
 - itam-assistant
-- dvt-core
 - python-roborock
 - mplang-nightly
 - django-cognito-saml
@@ -49,26 +81,3 @@
 - lucidaflow
 - leafmap
 - gpt-pr
-- flet-charts
-- pulumi-xyz
-- types-awscrt
-- rds-proxy-password-rotation
-- machineconfig
-- mcp-server-motherduck
-- odoo-addon-delivery-multi-destination
-- MeUtils
-- statsig-python-core
-- cjdata
-- actimai-genix
-- odoo-addon-crm-security-group
-- odoo-addons-oca-crm
-- restiny
-- odoo-addon-crm-stage-mail
-- pyivia
-- jl-ecms-server
-- jl-ecms-client
-- odoo-addons-oca-cooperative
-- odoo-addon-l10n-be-cooperator
-- dragon-ml-toolbox
-- ethspecify
-- mooring-data-generator

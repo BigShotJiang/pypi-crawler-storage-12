@@ -1,0 +1,11 @@
+{
+  "name": "yt-dlp-utils",
+  "version": "0.0.6",
+  "summary": "Utilities for programmatic use of yt-dlp.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_dlp_utils-0.0.6.tar.gz",
+  "download_time": "2025-11-11T03:58:41.843062",
+  "package_url": "https://pypi.org/project/yt-dlp-utils/"
+}
