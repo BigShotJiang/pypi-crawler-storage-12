@@ -1,0 +1,11 @@
+{
+  "name": "keras-tuner",
+  "version": "1.4.8",
+  "summary": "A Hyperparameter Tuning Library for Keras",
+  "author": "The KerasTuner authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/keras-team/keras-tuner",
+  "download_filename": "keras_tuner-1.4.8.tar.gz",
+  "download_time": "2025-11-11T05:44:11.343342",
+  "package_url": "https://pypi.org/project/keras-tuner/"
+}

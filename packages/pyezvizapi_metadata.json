@@ -1,0 +1,11 @@
+{
+  "name": "pyezvizapi",
+  "version": "1.0.4.3",
+  "summary": "EZVIZ API client for Home Assistant and CLI",
+  "author": "Renier Moorcroft",
+  "license": null,
+  "home_page": "https://github.com/RenierM26/pyEzvizApi/",
+  "download_filename": "pyezvizapi-1.0.4.3.tar.gz",
+  "download_time": "2025-11-11T05:44:24.074637",
+  "package_url": "https://pypi.org/project/pyezvizapi/"
+}
