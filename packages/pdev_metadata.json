@@ -1,0 +1,11 @@
+{
+  "name": "pdev",
+  "version": "0.1.1",
+  "summary": "CLI orchestrator for parallel Codex agents with tmux and git worktree integration.",
+  "author": "Parallel Developer Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdev-0.1.1.tar.gz",
+  "download_time": "2025-11-11T04:54:51.967278",
+  "package_url": "https://pypi.org/project/pdev/"
+}
