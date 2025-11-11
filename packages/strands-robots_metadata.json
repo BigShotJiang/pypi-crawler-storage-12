@@ -1,11 +1,11 @@
 {
   "name": "strands-robots",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Robot Control with LeRobot Integration for Strands Agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "strands_robots-0.1.0.tar.gz",
-  "download_time": "2025-11-11T18:38:44.117492",
+  "download_filename": "strands_robots-0.2.0.tar.gz",
+  "download_time": "2025-11-11T19:53:19.786080",
   "package_url": "https://pypi.org/project/strands-robots/"
 }

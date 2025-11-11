@@ -1,11 +1,11 @@
 {
   "name": "rubika-bot-api",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "summary": "A powerful asynchronous/synchronous library for Rubika Bot API with a focus on high performance.",
   "author": "rubika api bot",
   "license": null,
   "home_page": "https://github.com/rubika-bot-api/rubika_bot_api",
-  "download_filename": "rubika_bot_api-1.1.9.tar.gz",
-  "download_time": "2025-11-11T19:44:14.229401",
+  "download_filename": "rubika_bot_api-1.2.0.tar.gz",
+  "download_time": "2025-11-11T19:53:12.195622",
   "package_url": "https://pypi.org/project/rubika-bot-api/"
 }

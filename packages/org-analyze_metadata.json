@@ -1,0 +1,11 @@
+{
+  "name": "org-analyze",
+  "version": "0.1.7",
+  "summary": "Collect data from org-mode/org-roam pages and do some simple analyzing it.",
+  "author": "Jari Ojanen",
+  "license": null,
+  "home_page": "https://github.com/ojari/OrgAnalyze",
+  "download_filename": "org_analyze-0.1.7-py3-none-any.whl",
+  "download_time": "2025-11-11T19:53:15.956194",
+  "package_url": "https://pypi.org/project/org-analyze/"
+}

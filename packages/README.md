@@ -1,16 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T19:44:39.830795
-- **Total Packages**: 81
-- **Total Size**: 22.05 MB
+- **Download Time**: 2025-11-11T19:53:48.672583
+- **Total Packages**: 83
+- **Total Size**: 17.84 MB
 
 ## Packages List
-- yearn-treasury
+- letschatty
+- xenoform
+- moat-lib-cmd
+- moat-lib-priomap
+- moat-link-server
+- moat-micro
+- moat-link
+- deepcompress
+- moat-util
+- pyaxm
+- goldborn
 - auditry
+- memdocs
+- AquaSEBS
+- ibbi
+- rubika-bot-api
+- saanvi-calculator-pkg
+- jupyter-coder-server
+- pagerduty-mcp
+- statespacecheck
+- perceptic-core-client
+- openmetadata-managed-apis
+- org-analyze
+- policyengine-us
+- rainduck
+- process-improvement
+- tsfmecb
+- highway-dsl
+- strands-robots
+- babi-grammars
+- py-bcp-utils
+- meshoid
+- eval-protocol
+- gpder
+- openemr
+- serial-usbipclient
+- yearn-treasury
 - nllw
 - simpn
-- deepcompress
 - verse-sdk
 - spatialcl
 - milliontrees
@@ -23,13 +57,11 @@
 - skypilot-nightly
 - amigo_sdk
 - adirondax
-- eval-protocol
 - jupyterlab-github-markdown-alerts-extension
 - pyrelukko
 - openedx-authz
 - avd-cli
 - Odooly
-- openemr
 - typ2docx
 - vaxbnana
 - data-path-config
@@ -41,7 +73,6 @@
 - tapir-archicad-mcp
 - jupyterlab-refresh-view-extension
 - allooptim
-- rubika-bot-api
 - niemarkov
 - hatch-build
 - webcode-tk
@@ -51,7 +82,6 @@
 - gmns-ready
 - dpgcontainers
 - p2a
-- py-bcp-utils
 - sanguine
 - markdown-exec
 - cloud-diagnostics-xprof
@@ -59,31 +89,3 @@
 - autocash
 - marlos
 - pytest-semantic
-- tsfmecb
-- sf-quant
-- flaw2flow
-- palantir
-- orange3-regressionwidgets
-- targon-sdk
-- bgzip
-- memdocs
-- sec2md
-- iris-devtester
-- gui-utilities
-- glomos
-- SecretsServiceManager
-- methodwebscan
-- c108
-- kax
-- vital
-- indent
-- inspeakbot
-- ddapm-test-agent
-- arthur-client
-- quillsql
-- pycairo
-- wedeliver-core-plus
-- asgikit
-- ansys-api-discovery
-- airfeedback
-- Poker65
