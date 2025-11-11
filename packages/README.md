@@ -1,52 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T21:42:11.272249
-- **Total Packages**: 80
-- **Total Size**: 11.92 MB
+- **Download Time**: 2025-11-11T21:55:05.818531
+- **Total Packages**: 90
+- **Total Size**: 0.46 MB
 
 ## Packages List
-- nautobot
-- lvmguider
-- yolo-tiling
-- taste
-- dekeyrej-secretmanager
-- rayyan-sdk
-- teson
-- scrall
-- mrx-runway
-- mento
-- beyondtrust-bips-library
-- nancy-brain
-- zenable-mcp
-- seraa
-- madsci.experiment_application
-- madsci.data_manager
-- madsci.workcell_manager
-- madsci.experiment_manager
-- madsci.resource_manager
-- madsci.event_manager
-- madsci.node_module
-- madsci.client
-- madsci.common
-- gocam
-- selahx
-- py-rust-encode-varint
-- duper-python
-- promptheus
-- slimagents
-- grafana-weaver
-- notepasser
-- ligrad
-- cdk-factory
-- createsonline
-- monaco-dash-editor
-- graphiant-sdk
-- multimodal-timesfm
 - goofi
 - aa-blueprints
+- ligrad
 - mmar-llm
 - mlcpl
+- grafana-weaver
 - awsebcli
 - pycodb
 - hatch-cpp
@@ -66,6 +31,7 @@
 - ipyflow-core
 - ScriptCollection
 - pyhelper-utils
+- cdk-factory
 - pyxui-async
 - adafruit-circuitpython-esp32spi
 - fundi
@@ -76,8 +42,16 @@
 - skrample
 - pytest-delta
 - anki-niobium
-- apitelematel
 - malevich-coretools
+- madsci.experiment_application
+- madsci.data_manager
+- madsci.workcell_manager
+- madsci.experiment_manager
+- madsci.resource_manager
+- madsci.event_manager
+- madsci.node_module
+- madsci.client
+- madsci.common
 - perceptic-core-client
 - pkgbuild-parser
 - correction-helper
@@ -86,3 +60,39 @@
 - simple-resume
 - eval-protocol
 - openhands
+- batplot
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- megatron-core
+- megatron-fsdp
+- mmar-utils
+- kitconcept.solr
+- wmill-pg
+- wmill
+- windmill-api
+- context-async-sqlalchemy
+- hats
+- imgctl
+- one-py-sdk
+- django-bolt
+- novel-downloader
+- pyfelicita
+- azureml-registry-tools
+- transformerlab
+- TracerLL
+- earlyexit
+- robotdatapy
+- oldaplib
+- livekit-plugins-openai-sse-tts
+- sports-odds-api
+- dr-ingest
+- kalavai-client
+- crc-pulp-service-client
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- orange3-automl
+- crc-pulp-rpm-client
+- hpcforge-cli
+- crc-pulp-gem-client
+- brick-tq-shacl
+- crc-pulp-npm-client
