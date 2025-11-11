@@ -1,0 +1,11 @@
+{
+  "name": "EZSheets",
+  "version": "2025.11.11",
+  "summary": "A Pythonic interface to the Google Sheets API that actually works as of November 2025.",
+  "author": "Al Sweigart",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/asweigart/ezsheets",
+  "download_filename": "ezsheets-2025.11.11.tar.gz",
+  "download_time": "2025-11-11T15:58:03.910375",
+  "package_url": "https://pypi.org/project/EZSheets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kaas-cli",
+  "version": "0.1.287",
+  "summary": "Command line utility for K as a Service",
+  "author": "Runtime Verification, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaas_cli-0.1.287.tar.gz",
+  "download_time": "2025-11-11T15:57:52.597788",
+  "package_url": "https://pypi.org/project/kaas-cli/"
+}

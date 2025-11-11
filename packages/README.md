@@ -1,22 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T15:46:31.934688
-- **Total Packages**: 81
-- **Total Size**: 50.79 MB
+- **Download Time**: 2025-11-11T15:58:33.577165
+- **Total Packages**: 80
+- **Total Size**: 13.23 MB
 
 ## Packages List
+- buildgrid
+- pyterrier-anserini
+- ZToolTip
+- hakcer
+- pandas-plots
+- kaas-cli
+- highway-dsl
+- blbt
+- SortCraft
+- amsterdam-schema-tools
+- aspi
+- letschatty
+- bytedocs-django
+- anyid
+- unicode-blocks-py
+- textual-enhanced
+- upxlink
+- wordloom
+- utils-devops
+- comfykit
+- gustaf
+- Orange3-DataSieve
+- umbi
+- transformer-engine
+- annotex
+- EZSheets
+- fmdata
+- docbt
+- Contrai
+- odoo-addon-purchase-unreconciled
+- simba-uw-tf-dev
+- odoo-addon-account-loan
+- transformer-engine-torch
+- gui-utilities
+- redis-mcp-server3
+- transformer-engine-jax
+- odoo-addon-spec-driven-model
+- stFormer
+- debrepomanager
+- pyEMMP
+- picteus-extension-sdk
+- quantaxis-lance
+- sdss-almanac
+- libinephany
+- pivtools
+- getstream
+- vention-communication
 - omniback
 - json-schema-utils
 - moneycounter
 - peakrdl-busdecoder
-- unicode-blocks-py
 - lakebench
 - ok-script
-- letschatty
 - lightman_ai
-- gui-utilities
-- Contrai
 - sinq
 - srmbench
 - bullishpy
@@ -25,14 +68,11 @@
 - kdb-python
 - roman-snpit-snappl
 - zen-garden
-- hakcer
 - karellen-llvm-toolchain-tools
 - karellen-llvm-lldb
 - deepcompress
 - homcloud
 - gestionatr
-- ZToolTip
-- Orange3-DataSieve
 - exploitfarm
 - xfarm
 - quercix
@@ -41,49 +81,8 @@
 - retracesoftware-stream-debug
 - mousetail
 - versatyl
-- SortCraft
 - asim
 - fastdotrs
 - rubpy
 - vibetuner
 - joythief
-- napari-cci-annotator
-- llm-tracekit
-- json-toon-converter
-- fgutils
-- sentry-arroyo
-- cites-model
-- utf-queue-client
-- nia-mcp-server
-- wedge-lib
-- brynq-sdk-profit
-- policyengine-us
-- workrb
-- pratt-calc
-- retracesoftware-proxy-debug
-- fastapi-i18n
-- hiero-sdk-python
-- python-texttools
-- pp1221
-- bytedocs-django
-- AgentService
-- pyfscode
-- nanopyx
-- vibego
-- pymqttusb-tk
-- apache-tvm-ffi
-- djrealtime
-- jsonstat-validator
-- ximu3
-- mibbridge
-- libadalina-analytics
-- kurrentdbclient
-- sgwr
-- leymosun
-- libadalina-core
-- lx-anonymizer
-- ccd2md
-- pyhttplib
-- pyochain
-- python-iso639
-- libcrypto

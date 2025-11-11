@@ -1,11 +1,11 @@
 {
   "name": "redis-mcp-server3",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "summary": "A Model Context Protocol (MCP) server that enables secure interaction with Redis DataBases.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redis_mcp_server3-1.0.8.tar.gz",
-  "download_time": "2025-11-11T10:28:26.156090",
+  "download_filename": "redis_mcp_server3-1.1.0.tar.gz",
+  "download_time": "2025-11-11T15:58:08.626679",
   "package_url": "https://pypi.org/project/redis-mcp-server3/"
 }

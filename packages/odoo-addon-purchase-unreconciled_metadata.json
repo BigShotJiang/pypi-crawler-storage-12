@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-unreconciled",
+  "version": "18.0.1.0.0.4",
+  "summary": "Purchase Unreconciled",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_purchase_unreconciled-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-11T15:58:05.966965",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-unreconciled/"
+}

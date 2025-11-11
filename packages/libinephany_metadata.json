@@ -1,0 +1,11 @@
+{
+  "name": "libinephany",
+  "version": "1.1.11",
+  "summary": "Inephany library containing code commonly used by multiple subpackages.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "libinephany-1.1.11.tar.gz",
+  "download_time": "2025-11-11T15:58:13.297886",
+  "package_url": "https://pypi.org/project/libinephany/"
+}

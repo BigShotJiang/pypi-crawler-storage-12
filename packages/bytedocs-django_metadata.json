@@ -1,11 +1,11 @@
 {
   "name": "bytedocs-django",
-  "version": "0.1.1",
-  "summary": "Beautiful API documentation for Django - Alternative to Swagger/Scramble",
+  "version": "0.1.2",
+  "summary": "Alternative to Swagger with better design, auto-detection, and AI integration",
   "author": "ByteDocs Team",
   "license": null,
   "home_page": "https://github.com/bytedocs/bytedocs-django",
-  "download_filename": "bytedocs_django-0.1.1.tar.gz",
-  "download_time": "2025-11-11T15:46:19.104672",
+  "download_filename": "bytedocs_django-0.1.2.tar.gz",
+  "download_time": "2025-11-11T15:57:56.195280",
   "package_url": "https://pypi.org/project/bytedocs-django/"
 }
