@@ -1,11 +1,11 @@
 {
   "name": "netscaler-certbot-hook",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Automated SSL certificate management for Citrix NetScaler ADC using Certbot",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netscaler_certbot_hook-1.0.2.tar.gz",
-  "download_time": "2025-11-11T22:55:30.932553",
+  "download_filename": "netscaler_certbot_hook-1.0.3.tar.gz",
+  "download_time": "2025-11-11T23:22:09.194031",
   "package_url": "https://pypi.org/project/netscaler-certbot-hook/"
 }

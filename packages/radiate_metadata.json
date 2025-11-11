@@ -1,0 +1,11 @@
+{
+  "name": "radiate",
+  "version": "0.0.9",
+  "summary": "A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques.",
+  "author": null,
+  "license": null,
+  "home_page": "https://pkalivas.github.io/radiate/",
+  "download_filename": "radiate-0.0.9.tar.gz",
+  "download_time": "2025-11-11T23:22:08.110498",
+  "package_url": "https://pypi.org/project/radiate/"
+}

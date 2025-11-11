@@ -1,0 +1,11 @@
+{
+  "name": "jotui",
+  "version": "0.0.1",
+  "summary": "A Textual TUI for timestamped project notes (jots) in Markdown.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jotui-0.0.1.tar.gz",
+  "download_time": "2025-11-11T23:22:09.753185",
+  "package_url": "https://pypi.org/project/jotui/"
+}

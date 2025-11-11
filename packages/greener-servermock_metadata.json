@@ -1,0 +1,11 @@
+{
+  "name": "greener-servermock",
+  "version": "1.2.0",
+  "summary": "Python binding for Greener Servermock",
+  "author": "cephei8",
+  "license": null,
+  "home_page": "https://cephei8.github.io/greener",
+  "download_filename": "greener_servermock-1.2.0-py3-none-macosx_13_0_x86_64.whl",
+  "download_time": "2025-11-11T23:22:29.632030",
+  "package_url": "https://pypi.org/project/greener-servermock/"
+}

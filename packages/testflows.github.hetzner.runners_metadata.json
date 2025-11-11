@@ -1,0 +1,11 @@
+{
+  "name": "testflows.github.hetzner.runners",
+  "version": "1.10.251111.1225710",
+  "summary": "Autoscaling GitHub Actions Runners Using Hetzner Cloud",
+  "author": "Vitaliy Zakaznikov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/testflows/testflows-github-hetzner-runners",
+  "download_filename": "testflows_github_hetzner_runners-1.10.251111.1225710.tar.gz",
+  "download_time": "2025-11-11T23:22:36.945413",
+  "package_url": "https://pypi.org/project/testflows.github.hetzner.runners/"
+}
