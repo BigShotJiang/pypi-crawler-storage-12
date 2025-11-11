@@ -1,11 +1,11 @@
 {
   "name": "mso4000",
-  "version": "0.1.1",
-  "summary": "Simple library for Tektronix MSO4000 series oscilloscopes",
+  "version": "0.2.0",
+  "summary": "Simple library for Tektronix MSO4000 series oscilloscopes with correct time axis calculation and raw data capture",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mso4000-0.1.1.tar.gz",
-  "download_time": "2025-11-11T03:18:07.584576",
+  "download_filename": "mso4000-0.2.0.tar.gz",
+  "download_time": "2025-11-11T09:31:35.387638",
   "package_url": "https://pypi.org/project/mso4000/"
 }

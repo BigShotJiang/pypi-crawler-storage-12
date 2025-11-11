@@ -1,11 +1,11 @@
 {
   "name": "mysec",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": null,
   "author": "aan",
   "license": null,
   "home_page": null,
-  "download_filename": "mysec-0.3.0.tar.gz",
-  "download_time": "2025-11-10T15:57:59.835994",
+  "download_filename": "mysec-0.4.0.tar.gz",
+  "download_time": "2025-11-11T09:31:22.906052",
   "package_url": "https://pypi.org/project/mysec/"
 }

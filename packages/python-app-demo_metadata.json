@@ -1,0 +1,11 @@
+{
+  "name": "python-app-demo",
+  "version": "0.1.1",
+  "summary": "示例 Python 项目，通过 logging 输出简单信息。",
+  "author": "baiyx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_app_demo-0.1.1.tar.gz",
+  "download_time": "2025-11-11T09:31:05.510424",
+  "package_url": "https://pypi.org/project/python-app-demo/"
+}

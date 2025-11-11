@@ -1,11 +1,11 @@
 {
   "name": "pyresolvers",
-  "version": "1.1.0",
+  "version": "2.0.3",
   "summary": "High-performance async DNS resolver validation and speed testing library",
   "author": "Karl",
   "license": "GPL-3.0",
   "home_page": "https://github.com/PigeonSec/pyresolvers",
-  "download_filename": "pyresolvers-1.1.0.tar.gz",
-  "download_time": "2025-11-11T07:28:32.369421",
+  "download_filename": "pyresolvers-2.0.3.tar.gz",
+  "download_time": "2025-11-11T09:31:06.089979",
   "package_url": "https://pypi.org/project/pyresolvers/"
 }

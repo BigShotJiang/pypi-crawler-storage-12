@@ -1,0 +1,11 @@
+{
+  "name": "xkits-command",
+  "version": "0.5.3",
+  "summary": "Command line module",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/xcommand/",
+  "download_filename": "xkits_command-0.5.3.tar.gz",
+  "download_time": "2025-11-11T09:31:23.416292",
+  "package_url": "https://pypi.org/project/xkits-command/"
+}

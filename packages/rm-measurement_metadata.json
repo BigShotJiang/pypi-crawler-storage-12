@@ -1,0 +1,11 @@
+{
+  "name": "rm-measurement",
+  "version": "1.0.0",
+  "summary": "Defines the Measurement Entity",
+  "author": "Robert Mende",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rm_measurement-1.0.0.tar.gz",
+  "download_time": "2025-11-11T09:31:40.065638",
+  "package_url": "https://pypi.org/project/rm-measurement/"
+}
