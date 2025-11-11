@@ -1,11 +1,11 @@
 {
   "name": "jl-ecms-server",
-  "version": "0.2.24",
+  "version": "0.3.0",
   "summary": "Intuit ECMS Server - Multi-Agent Personal Assistant with Advanced Memory System",
   "author": "Mirix AI",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Mirix-AI/MIRIX",
-  "download_filename": "jl_ecms_server-0.2.24.tar.gz",
-  "download_time": "2025-11-11T04:33:45.353422",
+  "download_filename": "jl_ecms_server-0.3.0.tar.gz",
+  "download_time": "2025-11-11T22:44:01.819723",
   "package_url": "https://pypi.org/project/jl-ecms-server/"
 }

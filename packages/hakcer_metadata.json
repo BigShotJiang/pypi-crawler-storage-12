@@ -1,11 +1,11 @@
 {
   "name": "hakcer",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Animated ASCII banner with terminal effects and customizable themes for CLI tools",
   "author": "haKCer",
   "license": null,
   "home_page": "https://github.com/haKC-ai/hakcer",
-  "download_filename": "hakcer-1.2.3.tar.gz",
-  "download_time": "2025-11-11T22:23:59.697657",
+  "download_filename": "hakcer-1.2.4.tar.gz",
+  "download_time": "2025-11-11T22:43:43.209320",
   "package_url": "https://pypi.org/project/hakcer/"
 }

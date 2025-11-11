@@ -1,11 +1,11 @@
 {
   "name": "notepasser",
-  "version": "0.0.9",
+  "version": "0.0.12",
   "summary": "Discover users on the same network and send encrypted messages",
   "author": "AmNotAGoose",
   "license": null,
   "home_page": null,
-  "download_filename": "notepasser-0.0.9.tar.gz",
-  "download_time": "2025-11-11T22:23:40.581284",
+  "download_filename": "notepasser-0.0.12.tar.gz",
+  "download_time": "2025-11-11T22:43:42.697909",
   "package_url": "https://pypi.org/project/notepasser/"
 }

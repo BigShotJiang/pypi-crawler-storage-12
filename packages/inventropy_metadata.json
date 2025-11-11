@@ -1,0 +1,11 @@
+{
+  "name": "inventropy",
+  "version": "0.1.0",
+  "summary": "A Python package for computing inverse entropy in language models",
+  "author": "Haoyi Song",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/inventropy",
+  "download_filename": "inventropy-0.1.0.tar.gz",
+  "download_time": "2025-11-11T22:43:31.945606",
+  "package_url": "https://pypi.org/project/inventropy/"
+}

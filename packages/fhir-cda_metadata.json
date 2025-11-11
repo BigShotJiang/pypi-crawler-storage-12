@@ -1,11 +1,11 @@
 {
   "name": "fhir-cda",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Clinic Description Annotator for FHIR and SPARC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fhir_cda-1.2.4.tar.gz",
-  "download_time": "2025-11-10T21:42:18.905753",
+  "download_filename": "fhir_cda-1.2.5.tar.gz",
+  "download_time": "2025-11-11T22:43:57.183742",
   "package_url": "https://pypi.org/project/fhir-cda/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mistral-ocr-gui",
+  "version": "0.3.0",
+  "summary": "A graphical user interface for processing images with the Mistral OCR API.",
+  "author": "Danielnara24",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mistral_ocr_gui-0.3.0.tar.gz",
+  "download_time": "2025-11-11T22:43:58.209211",
+  "package_url": "https://pypi.org/project/mistral-ocr-gui/"
+}

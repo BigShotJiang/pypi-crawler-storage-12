@@ -1,0 +1,11 @@
+{
+  "name": "format-dedent",
+  "version": "0.1.1",
+  "summary": "Format only the literal string arguments of textwrap.dedent() calls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "format_dedent-0.1.1.tar.gz",
+  "download_time": "2025-11-11T22:43:33.986419",
+  "package_url": "https://pypi.org/project/format-dedent/"
+}

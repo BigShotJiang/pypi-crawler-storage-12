@@ -1,0 +1,11 @@
+{
+  "name": "aubio-ledfx",
+  "version": "0.5.1a0",
+  "summary": "a collection of tools for music analysis",
+  "author": "Paul Brossier",
+  "license": "GNU/GPL version 3",
+  "home_page": "https://aubio.org/",
+  "download_filename": "aubio_ledfx-0.5.1a0.tar.gz",
+  "download_time": "2025-11-11T22:43:50.990517",
+  "package_url": "https://pypi.org/project/aubio-ledfx/"
+}
