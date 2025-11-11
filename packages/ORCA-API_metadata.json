@@ -1,11 +1,11 @@
 {
   "name": "ORCA-API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orca_api-0.0.1.tar.gz",
-  "download_time": "2025-11-11T17:44:56.509681",
+  "download_filename": "orca_api-0.0.2.tar.gz",
+  "download_time": "2025-11-11T20:27:50.053274",
   "package_url": "https://pypi.org/project/ORCA-API/"
 }

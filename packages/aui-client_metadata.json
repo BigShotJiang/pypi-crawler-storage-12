@@ -1,11 +1,11 @@
 {
   "name": "aui-client",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aui_client-1.2.4.tar.gz",
-  "download_time": "2025-11-11T18:37:54.018178",
+  "download_filename": "aui_client-1.2.5.tar.gz",
+  "download_time": "2025-11-11T20:27:36.117062",
   "package_url": "https://pypi.org/project/aui-client/"
 }

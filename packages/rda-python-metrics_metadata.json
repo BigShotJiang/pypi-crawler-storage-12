@@ -1,11 +1,11 @@
 {
   "name": "rda-python-metrics",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "summary": "RDA Python Package to gather and view data usage metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rda_python_metrics-1.0.50.tar.gz",
-  "download_time": "2025-11-11T17:26:36.974840",
+  "download_filename": "rda_python_metrics-1.0.51.tar.gz",
+  "download_time": "2025-11-11T20:27:52.615342",
   "package_url": "https://pypi.org/project/rda-python-metrics/"
 }

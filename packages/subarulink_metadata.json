@@ -1,0 +1,11 @@
+{
+  "name": "subarulink",
+  "version": "0.7.17",
+  "summary": "A package for interacting with the MySubaru Connected Services API.",
+  "author": "G-Two",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/G-Two/subarulink",
+  "download_filename": "subarulink-0.7.17.tar.gz",
+  "download_time": "2025-11-11T20:27:51.588820",
+  "package_url": "https://pypi.org/project/subarulink/"
+}

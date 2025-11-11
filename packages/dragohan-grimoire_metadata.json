@@ -1,11 +1,11 @@
 {
   "name": "dragohan-grimoire",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "AI Automation Grimoire - HTTP requests with async superpowers",
   "author": "DragoHan",
   "license": null,
   "home_page": "https://github.com/farhanistopG1/my_grimoire",
-  "download_filename": "dragohan_grimoire-1.5.2.tar.gz",
-  "download_time": "2025-11-11T19:44:01.168257",
+  "download_filename": "dragohan_grimoire-1.5.3.tar.gz",
+  "download_time": "2025-11-11T20:27:59.847803",
   "package_url": "https://pypi.org/project/dragohan-grimoire/"
 }

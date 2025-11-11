@@ -1,0 +1,11 @@
+{
+  "name": "proxmox-cli",
+  "version": "0.4.1",
+  "summary": "A command-line interface for Proxmox Virtual Environment",
+  "author": "Ralph Brynard",
+  "license": "MIT",
+  "home_page": "https://github.com/rwgb/proxmox.cli",
+  "download_filename": "proxmox_cli-0.4.1.tar.gz",
+  "download_time": "2025-11-11T20:27:31.207835",
+  "package_url": "https://pypi.org/project/proxmox-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cell-eval",
+  "version": "0.6.6",
+  "summary": "Evaluation metrics for single-cell perturbation predictions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cell_eval-0.6.6.tar.gz",
+  "download_time": "2025-11-11T20:27:50.568354",
+  "package_url": "https://pypi.org/project/cell-eval/"
+}
