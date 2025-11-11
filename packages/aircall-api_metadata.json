@@ -1,11 +1,11 @@
 {
   "name": "aircall-api",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Python API Built to connect with aircall.io API Endpoints",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aircall_api-1.1.1.tar.gz",
-  "download_time": "2025-11-11T22:23:54.772442",
+  "download_filename": "aircall_api-1.1.2.tar.gz",
+  "download_time": "2025-11-11T22:55:44.253064",
   "package_url": "https://pypi.org/project/aircall-api/"
 }

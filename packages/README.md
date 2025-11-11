@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T22:44:05.408923
-- **Total Packages**: 86
-- **Total Size**: 18.81 MB
+- **Download Time**: 2025-11-11T22:56:16.150020
+- **Total Packages**: 89
+- **Total Size**: 13.48 MB
 
 ## Packages List
+- pytincture
+- dhxpyt
+- shared_memory_lock
+- copilotagent
+- netscaler-certbot-hook
+- opendors
+- inspeakbot
+- ccflow-emails
+- jsonargparse
+- bw2data
+- mcpower-proxy
+- umadb
+- dns-benchmark-tool
+- gustavballer
+- pelicanfs
+- mw75-streamer
+- matplobbot-shared
+- aibread
+- gdsfactoryplus
+- cureq
+- dsf-aml-sdk
+- py-ballisticcalc.exts
+- py-ballisticcalc
+- airavata-python-sdk
+- fin-infra
+- model-hosting-container-standards
+- marslab
+- ScriptCollection
+- proxio
+- aircall-api
+- ai4ce-helpers
+- fastapi-voyager
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- gmns-ready
+- hats-import
+- aoc-datastructures
 - qikits
 - tooluniverse
 - trainy-policy-nightly
@@ -42,8 +79,6 @@
 - vision-agents-plugins-aws
 - vision-agents-plugins-anthropic
 - vision-agents
-- netscaler-certbot-hook
-- ai4ce-helpers
 - pqery
 - homeharvest
 - fgex
@@ -60,35 +95,3 @@
 - ocrmypdf
 - pigeon-client
 - causal-time-series
-- jps-release-management-utils
-- cacheado
-- cua-computer
-- synvya-sdk
-- aubio-ledfx
-- nlweb-models
-- nlweb-retrieval
-- framegrab
-- nlweb-azure-vectordb
-- nlweb-azure-models
-- nlweb-network
-- fin-infra
-- nlweb-dataload
-- nlweb-core
-- AvatarFlow-R4
-- restiny
-- fhir-cda
-- whai
-- mistral-ocr-gui
-- ensync-sdk
-- threaded-order
-- ai-storyteller
-- ev-sdk
-- files-com
-- ensync-sdk-ws
-- jl-ecms-server
-- anonymask
-- ScriptCollection
-- jl-ecms-client
-- ensync-core
-- ai-edge-quantizer
-- terminusgps-payments

@@ -1,0 +1,11 @@
+{
+  "name": "shared_memory_lock",
+  "version": "0.1.2",
+  "summary": "A multiprocessing lock implemented using shared memory and atomics.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shared_memory_lock-0.1.2.tar.gz",
+  "download_time": "2025-11-11T22:55:29.883119",
+  "package_url": "https://pypi.org/project/shared_memory_lock/"
+}

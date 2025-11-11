@@ -1,0 +1,11 @@
+{
+  "name": "jsonargparse",
+  "version": "4.43.0",
+  "summary": "Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonargparse-4.43.0.tar.gz",
+  "download_time": "2025-11-11T22:55:33.025791",
+  "package_url": "https://pypi.org/project/jsonargparse/"
+}

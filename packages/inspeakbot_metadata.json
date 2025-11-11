@@ -1,11 +1,11 @@
 {
   "name": "inspeakbot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Official Python SDK for InSpeak Bot API .",
   "author": "Karim Mohamed",
   "license": "MIT",
   "home_page": "https://inspeak.levelupstudios.xyz",
-  "download_filename": "inspeakbot-0.1.1.tar.gz",
-  "download_time": "2025-11-11T22:24:04.051225",
+  "download_filename": "inspeakbot-0.1.2.tar.gz",
+  "download_time": "2025-11-11T22:55:31.973853",
   "package_url": "https://pypi.org/project/inspeakbot/"
 }

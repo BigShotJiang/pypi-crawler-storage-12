@@ -1,0 +1,11 @@
+{
+  "name": "aibread",
+  "version": "1.1.1",
+  "summary": "The official Python library for the bread API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aibread-1.1.1.tar.gz",
+  "download_time": "2025-11-11T22:55:37.810349",
+  "package_url": "https://pypi.org/project/aibread/"
+}
