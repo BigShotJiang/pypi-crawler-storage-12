@@ -1,11 +1,11 @@
 {
   "name": "mdformat-py-edu-fr",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Tiny wrapper around mdformat for the py-edu-fr project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdformat_py_edu_fr-0.1.7.tar.gz",
-  "download_time": "2025-11-10T22:44:33.661697",
+  "download_filename": "mdformat_py_edu_fr-0.1.8.tar.gz",
+  "download_time": "2025-11-11T05:24:54.287681",
   "package_url": "https://pypi.org/project/mdformat-py-edu-fr/"
 }

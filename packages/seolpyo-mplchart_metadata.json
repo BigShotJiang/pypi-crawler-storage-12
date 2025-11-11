@@ -1,0 +1,11 @@
+{
+  "name": "seolpyo-mplchart",
+  "version": "2.1.0.1",
+  "summary": "Fast candlestick chart using Python. Includes navigator, slider, navigation, and text information display functions",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "seolpyo_mplchart-2.1.0.1.tar.gz",
+  "download_time": "2025-11-11T05:24:49.684140",
+  "package_url": "https://pypi.org/project/seolpyo-mplchart/"
+}

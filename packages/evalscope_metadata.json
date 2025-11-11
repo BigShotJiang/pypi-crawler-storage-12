@@ -1,0 +1,11 @@
+{
+  "name": "evalscope",
+  "version": "1.2.0",
+  "summary": "EvalScope: Lightweight LLMs Evaluation Framework",
+  "author": "ModelScope team",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "evalscope-1.2.0.tar.gz",
+  "download_time": "2025-11-11T05:25:12.008477",
+  "package_url": "https://pypi.org/project/evalscope/"
+}

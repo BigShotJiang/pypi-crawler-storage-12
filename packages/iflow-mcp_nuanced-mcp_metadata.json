@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_nuanced-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server expose nuanced.dev functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_nuanced_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-11T05:24:49.104410",
+  "package_url": "https://pypi.org/project/iflow-mcp_nuanced-mcp/"
+}

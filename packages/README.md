@@ -1,18 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T04:55:22.180512
-- **Total Packages**: 84
-- **Total Size**: 30.36 MB
+- **Download Time**: 2025-11-11T05:25:35.683318
+- **Total Packages**: 88
+- **Total Size**: 11.41 MB
 
 ## Packages List
+- dotbins
+- pulumi-artifactory
+- nifti2bids
+- djangobible
+- serverless-devs
+- dialoghelper
+- iflow-mcp_nuanced-mcp
+- seolpyo-mplchart
+- levo-commons
+- lf-pollywog
+- pytest-clerk
+- odino
+- lisette
+- pulumi-archive
+- mdformat-py-edu-fr
+- my-aws-helpers
+- agentype
+- schemez
+- pulumi-aiven
+- pulumi-akamai
+- nomic
+- lcp-chart-mcp
+- uptick-splat
+- meaningful-pdf-names
+- iflow-mcp_mcp-gsuite
+- ocr-poetry-pkg
+- humalab
+- wexa-sdk
+- git-llm-tool
+- dokku-wrapper
+- compair-core
+- impi-devel
+- airbyte-connector-builder-mcp
+- ben-music-mcp
+- openrouter-provider
+- sleipnirgroup-jormungandr
+- formant
+- ara-cli
+- synthorus
+- pyxcp
+- maleo-identity
+- glide-mcp
+- BoschRpaMagicBox
+- realtimex-computer-use
+- sycommon-python-lib
+- evalscope
+- cacheado
+- vectorwave
+- httpx-gssapi
+- hcom
+- phys2cvr
+- scmrepo
 - octoprint-factor-plugin
 - solarwindpy
 - aws-cost-calculator-cli
 - pipeline-eds
 - whoruv
 - brom-drake
-- openrouter-provider
 - yearn-treasury
 - dbos
 - devobs
@@ -29,7 +80,6 @@
 - bouquin
 - impactx-noacc
 - langgraph-checkpoint-cassandra
-- git-llm-tool
 - pyrlutils
 - robotpy-pykit
 - cyberdesk
@@ -38,55 +88,9 @@
 - pdev
 - SURE-tools
 - ddns
-- ben-music-mcp
 - cryojax
 - cdk-factory
 - amzsc
 - iDEA-latest
 - zoomy-core
 - vibecore
-- glchat-plugin
-- dasl-client
-- cache-dit
-- realtimex-docs-server
-- kimvv
-- schema-scribe
-- alibabacloud-dingtalk
-- gllm-inference-binary
-- VeraGridServer
-- VeraGrid
-- VeraGridEngine
-- odoo-addon-web-chatter-camera
-- xiaozhi-sdk
-- odoo-addon-web-form-banner
-- synth-ai
-- saviialib
-- sawnergy
-- helper-cli
-- odoo-addon-survey-contact-generation
-- odoo-addon-survey-crm-generation
-- govplanet-api
-- nifti2bids
-- jupyterlab-biolm
-- contextflow-ai
-- pymscada
-- odoo-addon-stock-lot-image
-- odoo-addon-stock-warehouse-security
-- odoo-addon-stock-lot-condition
-- keras-nlp-nightly
-- keras-hub-nightly
-- agentlin-client
-- hakcer
-- github-monitor
-- pulumi-provider-boilerplate
-- enumex
-- serverless-devs
-- odoo-addon-res-company-mastodon-link
-- baldwin
-- lionherd-core
-- geoutils
-- bayesbay
-- odoo-addon-sign-oca
-- odoo-addon-bus-alt-connection
-- sgwr
-- odoo-addon-field-vector

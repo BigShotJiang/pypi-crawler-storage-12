@@ -1,0 +1,11 @@
+{
+  "name": "ocr-poetry-pkg",
+  "version": "0.1.0",
+  "summary": " OCR CLI for Arabic images using unsloth/surya",
+  "author": "alka gupta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_poetry_pkg-0.1.0.tar.gz",
+  "download_time": "2025-11-11T05:25:00.470177",
+  "package_url": "https://pypi.org/project/ocr-poetry-pkg/"
+}
