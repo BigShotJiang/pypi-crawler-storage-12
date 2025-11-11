@@ -1,0 +1,11 @@
+{
+  "name": "kystdatahuset-python-lib",
+  "version": "0.9.1",
+  "summary": "A python library for accessing and querying data from Kystdatahuset",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kystdatahuset_python_lib-0.9.1.tar.gz",
+  "download_time": "2025-11-11T05:56:30.859373",
+  "package_url": "https://pypi.org/project/kystdatahuset-python-lib/"
+}

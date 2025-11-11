@@ -1,0 +1,11 @@
+{
+  "name": "fontforge-stubs",
+  "version": "2025.11.10",
+  "summary": "Type stubs for FontForge's Python modules",
+  "author": "chanicpanic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fontforge_stubs-2025.11.10.tar.gz",
+  "download_time": "2025-11-11T05:56:38.962795",
+  "package_url": "https://pypi.org/project/fontforge-stubs/"
+}
