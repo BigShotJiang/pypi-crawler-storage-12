@@ -1,0 +1,11 @@
+{
+  "name": "poffertjes",
+  "version": "0.2.0",
+  "summary": "Friendly, pythonic interface for probabilistic queries on dataframes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poffertjes-0.2.0.tar.gz",
+  "download_time": "2025-11-11T07:28:28.626277",
+  "package_url": "https://pypi.org/project/poffertjes/"
+}

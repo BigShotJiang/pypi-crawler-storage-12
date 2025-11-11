@@ -1,0 +1,11 @@
+{
+  "name": "wanna-ml",
+  "version": "0.5.22",
+  "summary": "CLI tool for managing ML projects on Vertex AI",
+  "author": "Joao Da Silva",
+  "license": "MIT",
+  "home_page": "https://avast.github.io/wanna-ml",
+  "download_filename": "wanna_ml-0.5.22.tar.gz",
+  "download_time": "2025-11-11T07:28:30.160837",
+  "package_url": "https://pypi.org/project/wanna-ml/"
+}

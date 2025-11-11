@@ -1,0 +1,11 @@
+{
+  "name": "kraken-engine",
+  "version": "1.3.0",
+  "summary": "Python bindings for Kraken Engine",
+  "author": "Derrick Martinez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kraken_engine-1.3.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-11T07:28:45.676557",
+  "package_url": "https://pypi.org/project/kraken-engine/"
+}

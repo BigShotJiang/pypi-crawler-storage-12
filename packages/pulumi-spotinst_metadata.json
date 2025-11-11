@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-spotinst",
+  "version": "3.126.0",
+  "summary": "A Pulumi package for creating and managing spotinst cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_spotinst-3.126.0.tar.gz",
+  "download_time": "2025-11-11T07:28:26.320735",
+  "package_url": "https://pypi.org/project/pulumi-spotinst/"
+}

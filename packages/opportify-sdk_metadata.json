@@ -1,0 +1,11 @@
+{
+  "name": "opportify-sdk",
+  "version": "0.3.1",
+  "summary": "Opportify Insights API",
+  "author": "Opportify & OpenAPI-Generator",
+  "license": null,
+  "home_page": "https://github.com/opportify/opportify-sdk-python",
+  "download_filename": "opportify_sdk-0.3.1.tar.gz",
+  "download_time": "2025-11-11T07:28:32.879889",
+  "package_url": "https://pypi.org/project/opportify-sdk/"
+}
