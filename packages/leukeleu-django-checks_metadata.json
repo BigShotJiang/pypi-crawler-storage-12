@@ -1,0 +1,11 @@
+{
+  "name": "leukeleu-django-checks",
+  "version": "1.3.0",
+  "summary": "Additional deploy checks and other tools to validate if a Django project is set up correctly.",
+  "author": "Jaap Roes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leukeleu_django_checks-1.3.0.tar.gz",
+  "download_time": "2025-11-11T13:54:57.286316",
+  "package_url": "https://pypi.org/project/leukeleu-django-checks/"
+}

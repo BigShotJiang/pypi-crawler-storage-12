@@ -1,11 +1,11 @@
 {
   "name": "ds-server-lib",
-  "version": "6.0.0b4",
+  "version": "6.0.0b5",
   "summary": "Server library for owasp depscan",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ds_server_lib-6.0.0b4.tar.gz",
-  "download_time": "2025-11-10T23:41:35.948704",
+  "download_filename": "ds_server_lib-6.0.0b5.tar.gz",
+  "download_time": "2025-11-11T13:55:13.979275",
   "package_url": "https://pypi.org/project/ds-server-lib/"
 }

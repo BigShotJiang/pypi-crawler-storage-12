@@ -1,0 +1,11 @@
+{
+  "name": "hdc-installer",
+  "version": "0.1.0",
+  "summary": "A lightweight installer for HarmonyOS HDC tools",
+  "author": "youngfreefjs",
+  "license": null,
+  "home_page": "https://github.com/youngfreeFJS/harmony_hdc_bin_collection",
+  "download_filename": "hdc_installer-0.1.0.tar.gz",
+  "download_time": "2025-11-11T13:55:23.838519",
+  "package_url": "https://pypi.org/project/hdc-installer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-segmentation-models-trainer",
+  "version": "1.0.0",
+  "summary": "Image segmentation models training of popular architectures.",
+  "author": "Philipe Borba",
+  "license": "GPL",
+  "home_page": "https://github.com/phborba/pytorch_segmentation_models_trainer",
+  "download_filename": "pytorch_segmentation_models_trainer-1.0.0.tar.gz",
+  "download_time": "2025-11-11T13:55:37.591948",
+  "package_url": "https://pypi.org/project/pytorch-segmentation-models-trainer/"
+}

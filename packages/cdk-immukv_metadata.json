@@ -1,0 +1,11 @@
+{
+  "name": "cdk-immukv",
+  "version": "0.1.11",
+  "summary": "AWS CDK constructs for ImmuKV - Immutable key-value store using S3 versioning",
+  "author": "ImmuKV Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/Portfoligno/immukv.git",
+  "download_filename": "cdk_immukv-0.1.11.tar.gz",
+  "download_time": "2025-11-11T13:55:01.461804",
+  "package_url": "https://pypi.org/project/cdk-immukv/"
+}

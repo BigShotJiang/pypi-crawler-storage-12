@@ -1,11 +1,11 @@
 {
   "name": "ds-reporting-lib",
-  "version": "6.0.0b4",
+  "version": "6.0.0b5",
   "summary": "Reporting library for owasp depscan",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ds_reporting_lib-6.0.0b4.tar.gz",
-  "download_time": "2025-11-10T23:25:38.518395",
+  "download_filename": "ds_reporting_lib-6.0.0b5.tar.gz",
+  "download_time": "2025-11-11T13:55:14.488542",
   "package_url": "https://pypi.org/project/ds-reporting-lib/"
 }

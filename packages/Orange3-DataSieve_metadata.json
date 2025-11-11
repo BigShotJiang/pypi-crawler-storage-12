@@ -1,11 +1,11 @@
 {
   "name": "Orange3-DataSieve",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "This add-on includes a suite of widgets designed to extract and parse data from PDFs. It also offers advanced data cleaning features, including regex-based processing, string manipulation, and more. For collaboration or inquiries, contact Mehdi Benrabiaa at Todds496@gmail.com",
   "author": "EL_MEHDI_BEN_RABIAA",
   "license": "BSD",
   "home_page": null,
-  "download_filename": "orange3_datasieve-0.0.6.tar.gz",
-  "download_time": "2025-11-11T10:28:16.506227",
+  "download_filename": "orange3_datasieve-0.0.7.tar.gz",
+  "download_time": "2025-11-11T13:55:06.164288",
   "package_url": "https://pypi.org/project/Orange3-DataSieve/"
 }

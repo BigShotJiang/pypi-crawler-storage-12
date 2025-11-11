@@ -1,0 +1,11 @@
+{
+  "name": "kdb-python",
+  "version": "1.0.5",
+  "summary": "Automation testing",
+  "author": "Trucnt",
+  "license": "MIT",
+  "home_page": "https://github.com/Trucnt/kdb-python",
+  "download_filename": "kdb_python-1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-11T13:54:59.925280",
+  "package_url": "https://pypi.org/project/kdb-python/"
+}
