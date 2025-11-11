@@ -1,0 +1,11 @@
+{
+  "name": "uht-tooling",
+  "version": "0.1.6",
+  "summary": "Tooling for ultra-high throughput screening workflows.",
+  "author": "Matt115A",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uht_tooling-0.1.6.tar.gz",
+  "download_time": "2025-11-11T11:54:06.538040",
+  "package_url": "https://pypi.org/project/uht-tooling/"
+}

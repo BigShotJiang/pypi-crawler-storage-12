@@ -1,0 +1,11 @@
+{
+  "name": "certlin",
+  "version": "1.2",
+  "summary": "SageMath package for linear inequality systems and certifying (un)solvability",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/certlin",
+  "download_filename": "certlin-1.2.tar.gz",
+  "download_time": "2025-11-11T11:53:49.354270",
+  "package_url": "https://pypi.org/project/certlin/"
+}

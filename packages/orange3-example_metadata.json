@@ -1,11 +1,11 @@
 {
   "name": "orange3-example",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Orange3 LLM 기반 사용자 정의 예제 위젯입니다.",
   "author": "Gangjun Jo",
   "license": "MIT",
   "home_page": "https://github.com/whyz-dev/Orange3-Widget",
-  "download_filename": "orange3_example-0.1.8.tar.gz",
-  "download_time": "2025-11-11T11:41:46.545721",
+  "download_filename": "orange3_example-0.1.9.tar.gz",
+  "download_time": "2025-11-11T11:54:03.811032",
   "package_url": "https://pypi.org/project/orange3-example/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sign-vectors",
+  "version": "1.2",
+  "summary": "SageMath package for sign vectors, oriented matroids and chirotopes",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/sign_vectors",
+  "download_filename": "sign_vectors-1.2.tar.gz",
+  "download_time": "2025-11-11T11:53:49.907442",
+  "package_url": "https://pypi.org/project/sign-vectors/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pykitos",
+  "version": "0.1.0",
+  "summary": "简单的计算包 - 核心逻辑二进制保护",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykitos-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-11T11:54:11.919080",
+  "package_url": "https://pypi.org/project/pykitos/"
+}

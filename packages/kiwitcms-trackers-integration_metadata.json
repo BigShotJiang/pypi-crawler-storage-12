@@ -1,0 +1,11 @@
+{
+  "name": "kiwitcms-trackers-integration",
+  "version": "1.2.0",
+  "summary": "Integration between Kiwi TCMS and various Issue Trackers",
+  "author": "Kiwi TCMS",
+  "license": "AGPLv3+",
+  "home_page": "https://github.com/kiwitcms/trackers-integration/",
+  "download_filename": "kiwitcms_trackers_integration-1.2.0.tar.gz",
+  "download_time": "2025-11-11T11:54:09.777896",
+  "package_url": "https://pypi.org/project/kiwitcms-trackers-integration/"
+}

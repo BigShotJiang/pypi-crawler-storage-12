@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T11:42:13.148744
-- **Total Packages**: 90
-- **Total Size**: 19.69 MB
+- **Download Time**: 2025-11-11T11:54:36.412910
+- **Total Packages**: 86
+- **Total Size**: 7.9 MB
 
 ## Packages List
+- sign-crn
+- certlin
+- sign-vectors
+- scc-firewall-manager-sdk
+- tklr-dgraham
+- elementary-vectors
+- azpaddypy
+- OmniSlicer
+- pycint
+- regscale-cli
+- textuv
+- chatsee-ai
+- pycryptodome1
+- abstract-utilities
+- genmsgg
+- codeforlife
+- tgdl
+- pyxml2pdf
+- livekit-evals
+- centra-sdk
+- tencent-wedata-auto-ml
+- tree-sitter-analyzer
+- openlayer
+- bullishpy
+- taskrepo
+- orange3-example
+- django-omnitenant
+- basalam-sdk
+- sws-spark-dissemination-helper
+- openkitx403
+- uht-tooling
+- alpaxa-quant
+- tyco
+- fastmcp-app-launcher
+- TozaText
+- django-gm2m
+- kiwitcms-trackers-integration
+- unique_orchestrator
+- elevenlabs
+- pygraphar
+- pykitos
+- graphar
 - ansys-optislang-core
 - point-topic-mcp
 - Kurigram
@@ -18,7 +60,6 @@
 - prefect-rw
 - impresso-pipelines
 - spai
-- scc-firewall-manager-sdk
 - murf
 - nvidia-nat-llama-index
 - nvidia-nat-s3
@@ -47,52 +88,7 @@
 - nvidia-nat-crewai
 - nvidia-nat-ingestion
 - nvidia-nat-test
-- orange3-example
 - vnstock-mcp
 - nvidia-nat-mysql
 - nvidia-nat-semantic-kernel
 - django-file-form
-- torchft-nightly
-- fast-bitrix24-mcp
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- stigg-api-client-v2
-- japanese-address-parser-py
-- stigg-api-client
-- nvidia-nat-ragaai
-- anyforce
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- cognite-neat
-- logger-pauwels
-- aiqtoolkit-semantic-kernel
-- leapocr
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- extraction-methods
-- odoo-addon-crm-operating-unit
-- picteus-extension-sdk
-- aiqtoolkit-test
-- hpc-campaign
-- sromaster
-- webknossos
-- cluster_tools
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- aiqtoolkit-langchain
-- esp-ppq
-- edu-rdm-integration
-- prediction-market-agent-tooling
-- aiqtoolkit-crewai
-- cobra-color
-- aiqtoolkit-zep-cloud
-- antchain-ak-195dff03d395462ea294bafdba69df3f
-- alpaxa-quant
-- commodplot
-- ml-trainer-sdk
-- aiqtoolkit-agno
-- firedrake
-- fastmcp-app-launcher
-- opensynth-energy
-- genai-forge

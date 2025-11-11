@@ -1,0 +1,11 @@
+{
+  "name": "chatsee-ai",
+  "version": "0.1.3",
+  "summary": "A Python SDK for Chatsee AI.",
+  "author": "Chatsee Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatsee_ai-0.1.3.tar.gz",
+  "download_time": "2025-11-11T11:53:55.553859",
+  "package_url": "https://pypi.org/project/chatsee-ai/"
+}

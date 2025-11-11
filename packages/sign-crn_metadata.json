@@ -1,0 +1,11 @@
+{
+  "name": "sign-crn",
+  "version": "2.2",
+  "summary": "SageMath package for (chemical) reaction networks using sign vector conditions",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/sign_crn",
+  "download_filename": "sign_crn-2.2-py3-none-any.whl",
+  "download_time": "2025-11-11T11:53:48.802559",
+  "package_url": "https://pypi.org/project/sign-crn/"
+}

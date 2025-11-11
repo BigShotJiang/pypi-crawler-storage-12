@@ -1,0 +1,11 @@
+{
+  "name": "elementary-vectors",
+  "version": "2.2",
+  "summary": "SageMath package for elementary vectors (circuits and cocircuits of a matrix)",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/elementary_vectors",
+  "download_filename": "elementary_vectors-2.2-py3-none-any.whl",
+  "download_time": "2025-11-11T11:53:51.662030",
+  "package_url": "https://pypi.org/project/elementary-vectors/"
+}
