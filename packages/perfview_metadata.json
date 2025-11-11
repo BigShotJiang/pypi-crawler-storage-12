@@ -1,0 +1,11 @@
+{
+  "name": "perfview",
+  "version": "14.2.1",
+  "summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+  "author": "Will McGugan",
+  "license": "MIT",
+  "home_page": "https://github.com/Textualize/rich",
+  "download_filename": "perfview-14.2.1.tar.gz",
+  "download_time": "2025-11-11T17:26:52.264888",
+  "package_url": "https://pypi.org/project/perfview/"
+}

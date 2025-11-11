@@ -1,0 +1,11 @@
+{
+  "name": "pyspcodeanalyzer",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade code complexity analyzer supporting mutiple programming languages with standardized metrics.",
+  "author": "Gefin R Samuel",
+  "license": "MIT",
+  "home_page": "https://github.com/codeanalyzer/code-analyzer",
+  "download_filename": "pyspcodeanalyzer-1.0.0.tar.gz",
+  "download_time": "2025-11-11T17:27:03.010702",
+  "package_url": "https://pypi.org/project/pyspcodeanalyzer/"
+}

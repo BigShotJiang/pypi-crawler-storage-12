@@ -1,0 +1,11 @@
+{
+  "name": "nexshell",
+  "version": "1.0.0",
+  "summary": "A beautiful and feature-rich AI-powered CLI chatbot using Google Gemini",
+  "author": "NexShell Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/nexshell",
+  "download_filename": "nexshell-1.0.0.tar.gz",
+  "download_time": "2025-11-11T17:27:12.497384",
+  "package_url": "https://pypi.org/project/nexshell/"
+}

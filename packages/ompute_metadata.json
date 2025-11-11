@@ -1,0 +1,11 @@
+{
+  "name": "ompute",
+  "version": "1.0.2",
+  "summary": "Python package for Biological Omics Data Missing Value Imputation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ompute-1.0.2.tar.gz",
+  "download_time": "2025-11-11T17:27:10.404693",
+  "package_url": "https://pypi.org/project/ompute/"
+}

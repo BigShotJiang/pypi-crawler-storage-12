@@ -1,0 +1,11 @@
+{
+  "name": "esprit",
+  "version": "0.2.0",
+  "summary": "A minimal terminal-based spreadsheet editor",
+  "author": "Marcus Kazmierczak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "esprit-0.2.0.tar.gz",
+  "download_time": "2025-11-11T17:27:19.805055",
+  "package_url": "https://pypi.org/project/esprit/"
+}

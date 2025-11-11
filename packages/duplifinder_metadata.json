@@ -1,0 +1,11 @@
+{
+  "name": "duplifinder",
+  "version": "7.0.0",
+  "summary": "Detect duplicate Python definitions, text patterns, and token similarities for codebase maintainability.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duplifinder-7.0.0.tar.gz",
+  "download_time": "2025-11-11T17:26:43.308280",
+  "package_url": "https://pypi.org/project/duplifinder/"
+}

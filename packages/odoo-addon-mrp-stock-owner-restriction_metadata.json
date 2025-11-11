@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-stock-owner-restriction",
+  "version": "16.0.1.0.1",
+  "summary": "MRP Stock Owner Restriction",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_stock_owner_restriction-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-11T17:26:45.981502",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-stock-owner-restriction/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "db-dtypes",
+  "version": "1.4.4",
+  "summary": "Pandas Data Types for SQL systems (BigQuery, Spanner)",
+  "author": "The db-dtypes Authors",
+  "license": null,
+  "home_page": "https://github.com/googleapis/python-db-dtypes-pandas",
+  "download_filename": "db_dtypes-1.4.4.tar.gz",
+  "download_time": "2025-11-11T17:26:45.411971",
+  "package_url": "https://pypi.org/project/db-dtypes/"
+}

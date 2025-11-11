@@ -1,0 +1,11 @@
+{
+  "name": "rustoken",
+  "version": "0.1.1",
+  "summary": "JWT library implemented in Rust for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustoken-0.1.1-cp313-cp313-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-11-11T17:27:14.063523",
+  "package_url": "https://pypi.org/project/rustoken/"
+}
