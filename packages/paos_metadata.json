@@ -1,0 +1,11 @@
+{
+  "name": "paos",
+  "version": "1.2.11",
+  "summary": "PAOS, the Physical Optics Simulator, is a fast, modern, and reliable Python package for Physical Optics studies. It implements Physical Optics Propagation in Fresnel approximation and paraxial ray tracing to analyze complex waveform propagation through both generic and off-axes optical systems.",
+  "author": "Andrea Bocchieri",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "paos-1.2.11.tar.gz",
+  "download_time": "2025-11-11T14:26:19.885609",
+  "package_url": "https://pypi.org/project/paos/"
+}

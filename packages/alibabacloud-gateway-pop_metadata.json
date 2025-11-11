@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-gateway-pop",
+  "version": "0.1.1",
+  "summary": "Alibaba Cloud POP SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-gateway",
+  "download_filename": "alibabacloud_gateway_pop-0.1.1.tar.gz",
+  "download_time": "2025-11-11T14:26:24.180945",
+  "package_url": "https://pypi.org/project/alibabacloud-gateway-pop/"
+}
