@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_weknora-mcp-server",
+  "version": "1.0.0",
+  "summary": "WeKnora MCP Server - Model Context Protocol server for WeKnora API",
+  "author": "WeKnora Team",
+  "license": "MIT",
+  "home_page": "https://github.com/NannaOlympicBroadcast/WeKnoraMCP",
+  "download_filename": "iflow_mcp_weknora_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-11-11T07:44:14.625433",
+  "package_url": "https://pypi.org/project/iflow-mcp_weknora-mcp-server/"
+}

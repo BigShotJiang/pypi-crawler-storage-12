@@ -1,0 +1,11 @@
+{
+  "name": "gdata-vaas",
+  "version": "6.0.3",
+  "summary": "gdata-vaas is a Python library for the VaaS-API.",
+  "author": "G DATA CyberDefense AG",
+  "license": null,
+  "home_page": "https://github.com/GDATASoftwareAG/vaas/tree/main/python",
+  "download_filename": "gdata_vaas-6.0.3.tar.gz",
+  "download_time": "2025-11-11T07:44:26.400961",
+  "package_url": "https://pypi.org/project/gdata-vaas/"
+}

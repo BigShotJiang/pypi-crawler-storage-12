@@ -1,0 +1,11 @@
+{
+  "name": "pelican-linkclass",
+  "version": "2.1.6",
+  "summary": "Pelican plugin to set anchor tag's class attribute to differentiate between internal and external links",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "pelican_linkclass-2.1.6.tar.gz",
+  "download_time": "2025-11-11T07:44:05.819233",
+  "package_url": "https://pypi.org/project/pelican-linkclass/"
+}

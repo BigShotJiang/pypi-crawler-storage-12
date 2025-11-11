@@ -1,0 +1,11 @@
+{
+  "name": "sids-basic-processor",
+  "version": "0.0.2",
+  "summary": "A simple utility for text preprocessing (lower, punct removal, stop words).",
+  "author": "sidsassignment",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sids_basic_processor-0.0.2.tar.gz",
+  "download_time": "2025-11-11T07:44:08.256851",
+  "package_url": "https://pypi.org/project/sids-basic-processor/"
+}

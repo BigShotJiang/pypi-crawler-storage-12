@@ -1,24 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T07:28:51.965525
+- **Download Time**: 2025-11-11T07:44:53.642286
 - **Total Packages**: 88
-- **Total Size**: 62.87 MB
+- **Total Size**: 25.98 MB
 
 ## Packages List
+- MeUtils
+- boltz_client
+- zym-dataset-up
+- pelican-linkclass
+- jndataset-up
+- hamtaa-texttools
+- assisted-service-client
+- sids-basic-processor
+- piragi
+- feldera
+- gunicorn-django-canonical-logs
+- webviz-subsurface
+- pymscada
+- p1-taskqueue
+- holoscan-cli
+- universal-mcp-agents
+- sovant
+- BoschRpaMagicBox
+- iflow-mcp_weknora-mcp-server
+- thermosteam
+- PyNetIM
+- heavyball
+- murf
+- pulumi-oci
+- tamar-model-client
+- pulumi-vault
+- aa-wanderer-map
+- lazily
+- diarama-api
+- vipzenoxnet
+- juice-json-schemas
+- stonefish-runtime
+- dyff-schema
+- cmk-dev-site
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- redcodegen
+- gdata-vaas
+- mtmiifc
+- upgini
+- zym-dataset-down
 - jndataset-down
 - tundri
-- MeUtils
 - mxx-tool
 - arts
 - pulumi-wavefront
 - aigroup-econ-mcp
 - sidsassignment
 - pulumi-vsphere
-- murf
 - MemoLib
 - chora-mcp-gateway
-- redcodegen
 - pulumi-tls
 - data-engine-tes1
 - circle-user-controlled-wallets
@@ -37,7 +75,6 @@
 - connectedpapers-py
 - pilot.linkstec
 - gnetcli-server-bin
-- PyNetIM
 - datachain
 - quash-mcp
 - pulumi-newrelic
@@ -57,40 +94,3 @@
 - wanna-ml
 - streamlit-nightly
 - pulumi-splunk
-- iflow-mcp_splunk-mcp
-- pyresolvers
-- opportify-sdk
-- pymobiledevice3
-- sync-cwbq
-- pdfdancer-client-python
-- htmlgen-mcp
-- Nuitka-winsvc
-- paymentsgate
-- analysis3054
-- pulumi-azure
-- pulumi-sdwan
-- protein-quest
-- gammapbh
-- checkmk-dev-tools
-- kystdatahuset-python-lib
-- vibego
-- pulumi-slack
-- jixia
-- srx-lib-azure
-- coinex-mcp-server
-- pulumi-scm
-- yirgacheffe
-- pulumi-signalfx
-- ffseval
-- kraken-engine
-- python-ort
-- pulumi-random
-- pokemon-images
-- prism-models
-- pulumi-rancher2
-- helper-cli
-- synthorus
-- pulumi-aws-native
-- TozaText
-- socketsecurity
-- iflow-mcp_mcp-tool
