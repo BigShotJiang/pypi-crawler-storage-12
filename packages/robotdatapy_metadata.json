@@ -1,0 +1,11 @@
+{
+  "name": "robotdatapy",
+  "version": "1.1.4",
+  "summary": "Python package for interfacing with robot data",
+  "author": "Mason Peterson",
+  "license": "MIT",
+  "home_page": "https://github.com/mbpeterson70/robotdatapy",
+  "download_filename": "robotdatapy-1.1.4.tar.gz",
+  "download_time": "2025-11-11T21:02:02.681855",
+  "package_url": "https://pypi.org/project/robotdatapy/"
+}

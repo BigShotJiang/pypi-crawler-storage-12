@@ -1,0 +1,11 @@
+{
+  "name": "hats",
+  "version": "0.7.1",
+  "summary": "Hierarchical Adaptive Tiling Scheme Catalog",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hats-0.7.1.tar.gz",
+  "download_time": "2025-11-11T21:01:57.473186",
+  "package_url": "https://pypi.org/project/hats/"
+}

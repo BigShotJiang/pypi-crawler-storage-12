@@ -1,0 +1,11 @@
+{
+  "name": "hpcforge-cli",
+  "version": "0.1.0",
+  "summary": "A lightweight CLI toolkit for HPC automation (Makefiles, SLURM jobs, templates)",
+  "author": "Diogo Silva",
+  "license": "MIT",
+  "home_page": "https://github.com/diogocsilva12/hpctools",
+  "download_filename": "hpcforge_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-11T21:02:08.377426",
+  "package_url": "https://pypi.org/project/hpcforge-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "logsentinel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered log monitoring SDK for Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logsentinel-0.1.0.tar.gz",
-  "download_time": "2025-11-10T22:44:33.114056",
+  "download_filename": "logsentinel-0.1.1.tar.gz",
+  "download_time": "2025-11-11T21:02:27.955658",
   "package_url": "https://pypi.org/project/logsentinel/"
 }

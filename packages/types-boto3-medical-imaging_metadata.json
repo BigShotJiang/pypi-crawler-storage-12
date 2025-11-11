@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-medical-imaging",
+  "version": "1.40.71",
+  "summary": "Type annotations for boto3 HealthImaging 1.40.71 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_medical_imaging-1.40.71.tar.gz",
+  "download_time": "2025-11-11T21:02:37.290382",
+  "package_url": "https://pypi.org/project/types-boto3-medical-imaging/"
+}

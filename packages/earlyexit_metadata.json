@@ -1,11 +1,11 @@
 {
   "name": "earlyexit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Early exit pattern matching for command output with fast error detection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "earlyexit-0.0.2.tar.gz",
-  "download_time": "2025-11-11T18:38:00.528080",
+  "download_filename": "earlyexit-0.0.3.tar.gz",
+  "download_time": "2025-11-11T21:02:02.163714",
   "package_url": "https://pypi.org/project/earlyexit/"
 }

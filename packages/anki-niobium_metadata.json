@@ -1,11 +1,11 @@
 {
   "name": "anki-niobium",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "NIOBIUM: Nadia's Image Occlusion Booster Is UnManned - A CLI tool for extracting text and image-occlusion-style notes from images and PDFs for Anki",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "anki_niobium-0.1.0.tar.gz",
-  "download_time": "2025-11-11T20:27:45.441407",
+  "download_filename": "anki_niobium-0.2.2.tar.gz",
+  "download_time": "2025-11-11T21:02:32.093871",
   "package_url": "https://pypi.org/project/anki-niobium/"
 }

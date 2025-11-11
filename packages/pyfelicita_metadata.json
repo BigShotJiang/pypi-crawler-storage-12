@@ -1,11 +1,11 @@
 {
   "name": "pyfelicita",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "A Bluetooth scale integration for coffee machines",
   "author": "Kevin Guldager Stampe",
   "license": "MIT",
   "home_page": "https://github.com/kevinstampe/pyfelicita",
-  "download_filename": "pyfelicita-0.1.13.tar.gz",
-  "download_time": "2025-11-11T20:27:55.696872",
+  "download_filename": "pyfelicita-0.1.14.tar.gz",
+  "download_time": "2025-11-11T21:02:00.113388",
   "package_url": "https://pypi.org/project/pyfelicita/"
 }
