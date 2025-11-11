@@ -1,11 +1,11 @@
 {
   "name": "sync-cwbq",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "同步mongodb数据到数仓",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sync_cwbq-0.1.2.tar.gz",
-  "download_time": "2025-11-11T08:34:51.617699",
+  "download_filename": "sync_cwbq-0.1.3.tar.gz",
+  "download_time": "2025-11-11T08:57:52.313142",
   "package_url": "https://pypi.org/project/sync-cwbq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "twol",
+  "version": "0.9",
+  "summary": "Tools for simplified two-level morphology",
+  "author": "Kimmo Koskenniemi",
+  "license": null,
+  "home_page": "https://github.com/koskenni/twol",
+  "download_filename": "twol-0.9.tar.gz",
+  "download_time": "2025-11-11T08:58:16.542415",
+  "package_url": "https://pypi.org/project/twol/"
+}

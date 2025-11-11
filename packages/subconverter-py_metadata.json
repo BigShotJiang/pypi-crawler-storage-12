@@ -1,11 +1,11 @@
 {
   "name": "subconverter-py",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python-based proxy subscription converter for Clash",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "subconverter_py-0.1.0.tar.gz",
-  "download_time": "2025-11-11T08:34:56.839645",
+  "download_filename": "subconverter_py-0.1.2.tar.gz",
+  "download_time": "2025-11-11T08:57:57.055340",
   "package_url": "https://pypi.org/project/subconverter-py/"
 }

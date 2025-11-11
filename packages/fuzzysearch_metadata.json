@@ -1,0 +1,11 @@
+{
+  "name": "fuzzysearch",
+  "version": "0.8.1",
+  "summary": "fuzzysearch is useful for finding approximate subsequence matches",
+  "author": "Tal Einat",
+  "license": "MIT",
+  "home_page": "https://github.com/taleinat/fuzzysearch",
+  "download_filename": "fuzzysearch-0.8.1.tar.gz",
+  "download_time": "2025-11-11T08:58:03.451529",
+  "package_url": "https://pypi.org/project/fuzzysearch/"
+}

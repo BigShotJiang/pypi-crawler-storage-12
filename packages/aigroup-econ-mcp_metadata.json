@@ -1,11 +1,11 @@
 {
   "name": "aigroup-econ-mcp",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "summary": "专业计量经济学MCP工具 - 支持CSV/JSON/TXT/Excel格式，让大模型更智能地进行数据分析",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aigroup_econ_mcp-2.0.5.tar.gz",
-  "download_time": "2025-11-11T08:34:44.256426",
+  "download_filename": "aigroup_econ_mcp-2.0.7.tar.gz",
+  "download_time": "2025-11-11T08:58:10.779939",
   "package_url": "https://pypi.org/project/aigroup-econ-mcp/"
 }

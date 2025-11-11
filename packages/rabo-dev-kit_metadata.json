@@ -1,11 +1,11 @@
 {
   "name": "rabo-dev-kit",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "A ROS2 development toolkit for data recording, topic synchronization and utilities",
   "author": "origin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rabo_dev_kit-0.1.5-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
-  "download_time": "2025-11-10T14:24:43.983423",
+  "download_filename": "rabo_dev_kit-0.1.8-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-11-11T08:57:59.110730",
   "package_url": "https://pypi.org/project/rabo-dev-kit/"
 }

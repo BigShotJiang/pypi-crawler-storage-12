@@ -1,0 +1,11 @@
+{
+  "name": "libaio",
+  "version": "0.9.4",
+  "summary": "Linux AIO API wrapper",
+  "author": "Vincent Pelletier",
+  "license": "LGPLv3+",
+  "home_page": "http://github.com/vpelletier/python-libaio",
+  "download_filename": "libaio-0.9.4.tar.gz",
+  "download_time": "2025-11-11T08:57:55.451219",
+  "package_url": "https://pypi.org/project/libaio/"
+}

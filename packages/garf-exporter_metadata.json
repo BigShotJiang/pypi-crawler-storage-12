@@ -1,0 +1,11 @@
+{
+  "name": "garf-exporter",
+  "version": "0.1.0",
+  "summary": "Exports data from APIs to Prometheus",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "garf_exporter-0.1.0.tar.gz",
+  "download_time": "2025-11-11T08:58:15.518095",
+  "package_url": "https://pypi.org/project/garf-exporter/"
+}

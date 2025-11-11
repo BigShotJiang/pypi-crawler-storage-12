@@ -1,11 +1,11 @@
 {
   "name": "diarama-api",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "Python SDK для работы с API Diarama Studio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "diarama_api-0.1.28.tar.gz",
-  "download_time": "2025-11-11T08:35:04.110746",
+  "download_filename": "diarama_api-0.1.29.tar.gz",
+  "download_time": "2025-11-11T08:58:19.786784",
   "package_url": "https://pypi.org/project/diarama-api/"
 }

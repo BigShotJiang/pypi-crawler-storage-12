@@ -1,11 +1,11 @@
 {
   "name": "ul-py-tool",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "Python ul py tool",
   "author": "Unic-lab",
   "license": null,
   "home_page": "https://gitlab.neroelectronics.by/unic-lab/libraries/common-python-utils/ul-py-tool.git",
-  "download_filename": "ul_py_tool-2.2.3.tar.gz",
-  "download_time": "2025-11-11T07:28:15.628864",
+  "download_filename": "ul_py_tool-2.2.4.tar.gz",
+  "download_time": "2025-11-11T08:58:05.535318",
   "package_url": "https://pypi.org/project/ul-py-tool/"
 }
