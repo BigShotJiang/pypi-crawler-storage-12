@@ -1,0 +1,11 @@
+{
+  "name": "envd",
+  "version": "1.3.1",
+  "summary": "A development environment management tool for data scientists.",
+  "author": "TensorChord",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/tensorchord/envd",
+  "download_filename": "envd-1.3.1.tar.gz",
+  "download_time": "2025-11-11T10:28:20.436078",
+  "package_url": "https://pypi.org/project/envd/"
+}

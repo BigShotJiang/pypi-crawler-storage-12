@@ -1,0 +1,11 @@
+{
+  "name": "kicad-pycbnew",
+  "version": "0.1.1",
+  "summary": "kicad-pycbnew is a Python module for creating printed circuit boards designs compatible with KiCad's pcbnew,",
+  "author": "Vincent Raspal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kicad_pycbnew-0.1.1.tar.gz",
+  "download_time": "2025-11-11T10:28:42.035089",
+  "package_url": "https://pypi.org/project/kicad-pycbnew/"
+}

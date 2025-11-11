@@ -1,0 +1,11 @@
+{
+  "name": "grimoirelab-toolkit",
+  "version": "1.2.1",
+  "summary": "Toolkit of common functions used across GrimoireLab",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "grimoirelab_toolkit-1.2.1.tar.gz",
+  "download_time": "2025-11-11T10:28:32.758533",
+  "package_url": "https://pypi.org/project/grimoirelab-toolkit/"
+}

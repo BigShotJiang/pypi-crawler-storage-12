@@ -1,0 +1,11 @@
+{
+  "name": "protools4py",
+  "version": "1.3.2",
+  "summary": "A simple python package for protein process",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "protools4py-1.3.2.tar.gz",
+  "download_time": "2025-11-11T10:28:02.006524",
+  "package_url": "https://pypi.org/project/protools4py/"
+}

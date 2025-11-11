@@ -1,0 +1,11 @@
+{
+  "name": "ai-video-assistant",
+  "version": "1.0.5",
+  "summary": "AI-powered video lecture transcription, analysis, and subtitle generation",
+  "author": "Aditya Takawale",
+  "license": null,
+  "home_page": "https://github.com/Aditya-Takawale/AI-Summary",
+  "download_filename": "ai_video_assistant-1.0.5.tar.gz",
+  "download_time": "2025-11-11T10:28:42.581015",
+  "package_url": "https://pypi.org/project/ai-video-assistant/"
+}

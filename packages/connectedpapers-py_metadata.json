@@ -1,11 +1,11 @@
 {
   "name": "connectedpapers-py",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "The official python client for the connected papers API.",
   "author": "ConnectedPapersAdmin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "connectedpapers_py-0.2.3.tar.gz",
-  "download_time": "2025-11-11T07:28:18.465714",
+  "download_filename": "connectedpapers_py-0.2.5.tar.gz",
+  "download_time": "2025-11-11T10:28:19.876958",
   "package_url": "https://pypi.org/project/connectedpapers-py/"
 }

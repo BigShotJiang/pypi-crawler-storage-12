@@ -1,0 +1,11 @@
+{
+  "name": "grib-check",
+  "version": "0.0.6",
+  "summary": "Tools for checking GRIB files",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "grib_check-0.0.6.tar.gz",
+  "download_time": "2025-11-11T10:28:13.122058",
+  "package_url": "https://pypi.org/project/grib-check/"
+}

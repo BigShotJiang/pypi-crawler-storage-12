@@ -1,11 +1,11 @@
 {
   "name": "dynamicforms",
-  "version": "0.81.0",
+  "version": "0.81.1",
   "summary": "DyF performs all the visualisation & data entry of your DRF Serializers & ViewSets and adds some candy of its own",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "dynamicforms-0.81.0.tar.gz",
-  "download_time": "2025-11-10T09:37:57.510531",
+  "download_filename": "dynamicforms-0.81.1.tar.gz",
+  "download_time": "2025-11-11T10:28:34.402324",
   "package_url": "https://pypi.org/project/dynamicforms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "perceval-opnfv",
+  "version": "1.1.2",
+  "summary": "Bundle of Perceval backends for OPNFV ecosystem.",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "perceval_opnfv-1.1.2.tar.gz",
+  "download_time": "2025-11-11T10:28:15.403372",
+  "package_url": "https://pypi.org/project/perceval-opnfv/"
+}
