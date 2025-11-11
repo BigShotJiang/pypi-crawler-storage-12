@@ -1,11 +1,11 @@
 {
   "name": "locaria-integrated-testing",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A lightweight, automated testing system for data pipelines and tools",
   "author": "Locaria Data Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "locaria_integrated_testing-1.0.1.tar.gz",
-  "download_time": "2025-11-11T23:22:10.872594",
+  "download_filename": "locaria_integrated_testing-1.0.3.tar.gz",
+  "download_time": "2025-11-11T23:53:58.671594",
   "package_url": "https://pypi.org/project/locaria-integrated-testing/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aoc-data-structures",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": null,
   "author": "Justin",
   "license": null,
   "home_page": null,
-  "download_filename": "aoc_data_structures-0.0.1.tar.gz",
-  "download_time": "2025-11-11T23:22:35.696113",
+  "download_filename": "aoc_data_structures-0.0.5.tar.gz",
+  "download_time": "2025-11-11T23:53:50.921918",
   "package_url": "https://pypi.org/project/aoc-data-structures/"
 }

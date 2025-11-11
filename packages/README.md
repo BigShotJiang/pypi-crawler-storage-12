@@ -1,13 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-11T23:45:06.044613
-- **Total Packages**: 87
-- **Total Size**: 23.7 MB
+- **Download Time**: 2025-11-11T23:54:38.296975
+- **Total Packages**: 85
+- **Total Size**: 13.55 MB
 
 ## Packages List
-- frontmatter-utils
+- pybanksy
+- aoc-data-structures
+- apk-info
+- specpulse
+- vibego
+- mooring-data-generator
+- gustavballer
+- brick-tq-shacl
+- groundx
+- nltk-com-fsd
+- phys2cvr
+- py-rust-stemmers-tuned
+- leafmap
+- adpcli
 - locaria-integrated-testing
+- dragonfly-core
+- aws-inventory-manager
+- databento
+- submagic-mcp-server
+- dea-tools
+- frontmatter-utils
 - trackbear-api
 - roman-snpit-snappl
 - goliat
@@ -41,7 +60,6 @@
 - calc-pack-sdiaz
 - flpc-v2
 - decasify
-- gustavballer
 - pybimb
 - anthropic-haystack
 - morphZ
@@ -60,12 +78,10 @@
 - nv-ingest-client
 - nv-ingest-api
 - biblemategui
-- pybanksy
 - tombi
 - sayou-chunking-dev
 - sayou-connector-dev
 - sentinel-pii-sdk
-- adpcli
 - pycompound
 - ontologytoapi
 - anonymask
@@ -75,21 +91,3 @@
 - tortoise-plastron
 - ov-wag
 - whai
-- veri-helix
-- actions-tools
-- scahpy
-- onetick-py
-- cureq
-- apk-info
-- pfly
-- ratemaking
-- iblai
-- django-selectjs
-- spark-expectations
-- thants
-- policyengine-api-simulation-client
-- policyengine-api-full-client
-- tinybird
-- temporal-forecasting
-- ensync-sdk
-- ensync-sdk-ws
