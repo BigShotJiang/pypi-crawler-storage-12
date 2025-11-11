@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-esp32spi",
+  "version": "10.0.0",
+  "summary": "CircuitPython driver library for using ESP32 as WiFi  co-processor using SPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_esp32spi-10.0.0.tar.gz",
+  "download_time": "2025-11-11T21:24:09.543064",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-esp32spi/"
+}

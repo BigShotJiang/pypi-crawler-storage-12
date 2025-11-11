@@ -1,0 +1,11 @@
+{
+  "name": "apitelematel",
+  "version": "0.1.0",
+  "summary": "API hexagonal para Progress OpenEdge usando Flask y ODBC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apitelematel-0.1.0.tar.gz",
+  "download_time": "2025-11-11T21:24:15.336089",
+  "package_url": "https://pypi.org/project/apitelematel/"
+}

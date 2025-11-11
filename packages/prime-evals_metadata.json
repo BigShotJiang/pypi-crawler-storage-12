@@ -1,11 +1,11 @@
 {
   "name": "prime-evals",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Prime Intellect Evals SDK - Push and manage evaluations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prime_evals-0.1.3-py3-none-any.whl",
-  "download_time": "2025-11-10T23:26:06.738268",
+  "download_filename": "prime_evals-0.1.4-py3-none-any.whl",
+  "download_time": "2025-11-11T21:24:11.151550",
   "package_url": "https://pypi.org/project/prime-evals/"
 }

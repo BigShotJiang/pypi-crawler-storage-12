@@ -1,0 +1,11 @@
+{
+  "name": "pytest-delta",
+  "version": "0.4.1",
+  "summary": "Run only tests impacted by your code changes (delta-based selection) for pytest.",
+  "author": "Cem Alptürk",
+  "license": "MIT",
+  "home_page": "https://github.com/CemAlpturk/pytest-delta",
+  "download_filename": "pytest_delta-0.4.1.tar.gz",
+  "download_time": "2025-11-11T21:24:14.289696",
+  "package_url": "https://pypi.org/project/pytest-delta/"
+}
