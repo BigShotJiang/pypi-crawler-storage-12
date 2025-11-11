@@ -1,0 +1,11 @@
+{
+  "name": "matmech",
+  "version": "1.0.0",
+  "summary": "A library for analyzing data from universal test machines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matmech-1.0.0.tar.gz",
+  "download_time": "2025-11-11T03:18:25.078988",
+  "package_url": "https://pypi.org/project/matmech/"
+}

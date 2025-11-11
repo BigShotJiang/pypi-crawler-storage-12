@@ -1,0 +1,11 @@
+{
+  "name": "gpt-pr",
+  "version": "0.7.2",
+  "summary": "Automate your GitHub workflow with GPT-PR: an OpenAI powered library for streamlined PR generation.",
+  "author": "alissonperez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpt_pr-0.7.2.tar.gz",
+  "download_time": "2025-11-11T03:18:34.347645",
+  "package_url": "https://pypi.org/project/gpt-pr/"
+}

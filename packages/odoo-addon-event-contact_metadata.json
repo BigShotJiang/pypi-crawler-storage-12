@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-event-contact",
+  "version": "18.0.1.0.1.1",
+  "summary": "Add contacts to event and event type",
+  "author": "OpenSynergy Indonesia, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/event",
+  "download_filename": "odoo_addon_event_contact-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-11T03:18:31.847170",
+  "package_url": "https://pypi.org/project/odoo-addon-event-contact/"
+}

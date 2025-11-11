@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-stage-mail",
+  "version": "16.0.1.0.0.3",
+  "summary": "Crm Stage Mail",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/crm",
+  "download_filename": "odoo_addon_crm_stage_mail-16.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-11T03:18:43.713691",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-stage-mail/"
+}

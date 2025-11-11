@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cerebras",
+  "version": "0.6.0",
+  "summary": "An integration package connecting Cerebras and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-cerebras",
+  "download_filename": "langchain_cerebras-0.6.0.tar.gz",
+  "download_time": "2025-11-11T03:18:15.612178",
+  "package_url": "https://pypi.org/project/langchain-cerebras/"
+}
