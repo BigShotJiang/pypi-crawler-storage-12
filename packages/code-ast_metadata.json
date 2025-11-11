@@ -1,0 +1,11 @@
+{
+  "name": "code-ast",
+  "version": "0.1.2",
+  "summary": "Fast structural analysis of any programming language in Python",
+  "author": "Cedric Richter",
+  "license": null,
+  "home_page": "https://github.com/cedricrupb/code_ast",
+  "download_filename": "code_ast-0.1.2.tar.gz",
+  "download_time": "2025-11-11T17:44:59.282788",
+  "package_url": "https://pypi.org/project/code-ast/"
+}

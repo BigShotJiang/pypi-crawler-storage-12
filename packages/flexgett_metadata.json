@@ -1,11 +1,11 @@
 {
   "name": "flexgett",
-  "version": "3.18.41",
+  "version": "3.18.43",
   "summary": "FlexGet is a program aimed to automate downloading or processing content (torrents, podcasts, etc.) from different sources like RSS-feeds, html-pages, various sites and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flexgett-3.18.41.tar.gz",
-  "download_time": "2025-11-11T17:26:53.914940",
+  "download_filename": "flexgett-3.18.43.tar.gz",
+  "download_time": "2025-11-11T17:45:20.641981",
   "package_url": "https://pypi.org/project/flexgett/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "SnakeAltPromoter",
+  "version": "1.0.0",
+  "summary": "A Snakemake pipeline for alternative promoter analysis",
+  "author": "Yidan Sun",
+  "license": null,
+  "home_page": "https://github.com/YidanSunResearchLab/SnakeAltPromoter",
+  "download_filename": "snakealtpromoter-1.0.0.tar.gz",
+  "download_time": "2025-11-11T17:44:57.089185",
+  "package_url": "https://pypi.org/project/SnakeAltPromoter/"
+}

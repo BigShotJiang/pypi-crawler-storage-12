@@ -1,0 +1,11 @@
+{
+  "name": "dyca",
+  "version": "1.0.2",
+  "summary": "Dynamical Component Analysis - A method to decompose multivariate signals",
+  "author": "Annika Stiehl",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/HS-Ansbach-CCS/dyca",
+  "download_filename": "dyca-1.0.2.tar.gz",
+  "download_time": "2025-11-11T17:45:18.057912",
+  "package_url": "https://pypi.org/project/dyca/"
+}

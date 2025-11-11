@@ -1,0 +1,11 @@
+{
+  "name": "stopwords-plus",
+  "version": "0.1.0",
+  "summary": "Stopwords for 20+ languages + modern slang + social media tokens.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stopwords_plus-0.1.0.tar.gz",
+  "download_time": "2025-11-11T17:45:15.997033",
+  "package_url": "https://pypi.org/project/stopwords-plus/"
+}
