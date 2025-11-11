@@ -1,0 +1,11 @@
+{
+  "name": "gamsapi",
+  "version": "51.4.0",
+  "summary": "GAMS Python API",
+  "author": "GAMS Development Corporation",
+  "license": "MIT",
+  "home_page": "https://www.gams.com/",
+  "download_filename": "gamsapi-51.4.0-cp310-cp310-macosx_12_0_x86_64.whl",
+  "download_time": "2025-11-11T13:34:56.412044",
+  "package_url": "https://pypi.org/project/gamsapi/"
+}

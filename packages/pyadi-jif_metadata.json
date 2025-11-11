@@ -1,0 +1,11 @@
+{
+  "name": "pyadi-jif",
+  "version": "0.1.4",
+  "summary": "Python interface and configurator for ADI JESD Interface Framework",
+  "author": null,
+  "license": "EPL-2.0",
+  "home_page": null,
+  "download_filename": "pyadi_jif-0.1.4.tar.gz",
+  "download_time": "2025-11-11T13:35:13.658939",
+  "package_url": "https://pypi.org/project/pyadi-jif/"
+}

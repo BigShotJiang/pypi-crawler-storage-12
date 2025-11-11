@@ -1,0 +1,11 @@
+{
+  "name": "ml4cps",
+  "version": "0.1.192",
+  "summary": "Tools for learning, plotting, analyzing etc. of discrete, continuous, timed, and hybrid cyber-physical systems.",
+  "author": "Nemanja Hranisavljevic & Tom Westermann",
+  "license": null,
+  "home_page": "https://github.com/ai4cps-com/ml4cps",
+  "download_filename": "ml4cps-0.1.192.tar.gz",
+  "download_time": "2025-11-11T13:34:48.486296",
+  "package_url": "https://pypi.org/project/ml4cps/"
+}

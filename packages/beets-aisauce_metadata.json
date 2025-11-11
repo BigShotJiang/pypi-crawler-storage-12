@@ -1,0 +1,11 @@
+{
+  "name": "beets-aisauce",
+  "version": "0.2.1",
+  "summary": "AI autotagger source for beets (http://beets.io).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_aisauce-0.2.1.tar.gz",
+  "download_time": "2025-11-11T13:35:03.724221",
+  "package_url": "https://pypi.org/project/beets-aisauce/"
+}

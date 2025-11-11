@@ -1,0 +1,11 @@
+{
+  "name": "patchly",
+  "version": "0.0.19",
+  "summary": "A grid sampler for N-dimensional images",
+  "author": "Karol Gotkowski",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "patchly-0.0.19-py3-none-any.whl",
+  "download_time": "2025-11-11T13:34:55.288731",
+  "package_url": "https://pypi.org/project/patchly/"
+}
