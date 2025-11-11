@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-bitbucket",
+  "version": "0.1.0",
+  "summary": "MCP server for bitbucket python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_bitbucket-0.1.0.tar.gz",
+  "download_time": "2025-11-11T01:55:53.348973",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-bitbucket/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "helix-py",
+  "version": "0.2.31",
+  "summary": "HelixDB Python SDK",
+  "author": null,
+  "license": "This project is dual-licensed under either:\n        \n        - MIT license, see LICENSE-MIT\n        - Apache License, Version 2.0, see LICENSE-APACHE\n        \n        at your option.",
+  "home_page": null,
+  "download_filename": "helix_py-0.2.31.tar.gz",
+  "download_time": "2025-11-11T01:56:13.636510",
+  "package_url": "https://pypi.org/project/helix-py/"
+}
