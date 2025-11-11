@@ -1,0 +1,11 @@
+{
+  "name": "django-blocknote",
+  "version": "2025.11.11.1",
+  "summary": "BlockNote rich text editor integration for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_blocknote-2025.11.11.1.tar.gz",
+  "download_time": "2025-11-11T06:58:58.842241",
+  "package_url": "https://pypi.org/project/django-blocknote/"
+}

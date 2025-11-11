@@ -1,11 +1,11 @@
 {
   "name": "educommon",
-  "version": "3.27.4",
+  "version": "3.28.0",
   "summary": "Общая кодовая база для проектов БЦ Образование",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "educommon-3.27.4.tar.gz",
-  "download_time": "2025-11-10T11:40:55.939483",
+  "download_filename": "educommon-3.28.0.tar.gz",
+  "download_time": "2025-11-11T06:59:06.053928",
   "package_url": "https://pypi.org/project/educommon/"
 }

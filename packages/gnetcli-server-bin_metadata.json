@@ -1,0 +1,11 @@
+{
+  "name": "gnetcli-server-bin",
+  "version": "1.1.2rc7",
+  "summary": "Python shim for a prepackaged gnetcli_server binary.",
+  "author": "Fedor Zhukov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnetcli_server_bin-1.1.2rc7.tar.gz",
+  "download_time": "2025-11-11T06:58:54.682459",
+  "package_url": "https://pypi.org/project/gnetcli-server-bin/"
+}

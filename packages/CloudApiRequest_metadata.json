@@ -1,0 +1,11 @@
+{
+  "name": "CloudApiRequest",
+  "version": "1.2.0",
+  "summary": "天润cloud接口测试库",
+  "author": "天润-测试",
+  "license": "MIT",
+  "home_page": "https://www.ti-net.com.cn/",
+  "download_filename": "cloudapirequest-1.2.0.tar.gz",
+  "download_time": "2025-11-11T06:59:10.668122",
+  "package_url": "https://pypi.org/project/CloudApiRequest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reactivex",
+  "version": "4.1.0",
+  "summary": "ReactiveX (Rx) for Python",
+  "author": "Dag Brattli",
+  "license": "MIT",
+  "home_page": "http://reactivex.io",
+  "download_filename": "reactivex-4.1.0.tar.gz",
+  "download_time": "2025-11-11T06:59:07.591797",
+  "package_url": "https://pypi.org/project/reactivex/"
+}

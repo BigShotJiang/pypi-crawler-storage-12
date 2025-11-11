@@ -1,0 +1,11 @@
+{
+  "name": "quarkcircuit",
+  "version": "0.3.9",
+  "summary": "Construction, visualization, and transpilation of quantum circuits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quarkcircuit-0.3.9.tar.gz",
+  "download_time": "2025-11-11T06:59:05.532758",
+  "package_url": "https://pypi.org/project/quarkcircuit/"
+}

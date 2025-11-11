@@ -1,0 +1,11 @@
+{
+  "name": "django-botmanager",
+  "version": "0.2.23",
+  "summary": "Async tasks for django",
+  "author": "Dimoha",
+  "license": null,
+  "home_page": "https://github.com/dimoha/django-botmanager",
+  "download_filename": "django_botmanager-0.2.23.tar.gz",
+  "download_time": "2025-11-11T06:58:50.062450",
+  "package_url": "https://pypi.org/project/django-botmanager/"
+}

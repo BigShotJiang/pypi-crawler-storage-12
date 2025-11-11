@@ -1,0 +1,11 @@
+{
+  "name": "charlie-agents",
+  "version": "0.3.0",
+  "summary": "Universal command transpiler for AI agents, MCP servers, and rules",
+  "author": "Charlie Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "charlie_agents-0.3.0.tar.gz",
+  "download_time": "2025-11-11T06:59:11.691899",
+  "package_url": "https://pypi.org/project/charlie-agents/"
+}
