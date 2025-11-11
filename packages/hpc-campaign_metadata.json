@@ -1,0 +1,11 @@
+{
+  "name": "hpc-campaign",
+  "version": "0.6.0",
+  "summary": "Campaign management scripts for remote data access",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hpc_campaign-0.6.0.tar.gz",
+  "download_time": "2025-11-11T11:42:01.262078",
+  "package_url": "https://pypi.org/project/hpc-campaign/"
+}

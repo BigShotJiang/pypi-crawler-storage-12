@@ -1,0 +1,11 @@
+{
+  "name": "japanese-address-parser-py",
+  "version": "0.2.12",
+  "summary": "A library for processing addresses of Japan",
+  "author": "Yuuki Toriyama <github@toriyama.dev>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "japanese_address_parser_py-0.2.12.tar.gz",
+  "download_time": "2025-11-11T11:41:51.953960",
+  "package_url": "https://pypi.org/project/japanese-address-parser-py/"
+}

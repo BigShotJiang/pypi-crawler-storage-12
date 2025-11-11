@@ -1,0 +1,11 @@
+{
+  "name": "opensynth-energy",
+  "version": "1.0.0",
+  "summary": "Opensynth is a library forsynthetic energy demand generation.",
+  "author": "Opensynth",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "opensynth_energy-1.0.0.tar.gz",
+  "download_time": "2025-11-11T11:42:12.101164",
+  "package_url": "https://pypi.org/project/opensynth-energy/"
+}

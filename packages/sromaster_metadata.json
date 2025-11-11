@@ -1,11 +1,11 @@
 {
   "name": "sromaster",
-  "version": "0.1.30",
+  "version": "0.1.32",
   "summary": "SRO Master API",
   "author": "Nexium",
   "license": null,
   "home_page": null,
-  "download_filename": "sromaster-0.1.30.tar.gz",
-  "download_time": "2025-11-10T17:27:22.580154",
+  "download_filename": "sromaster-0.1.32.tar.gz",
+  "download_time": "2025-11-11T11:42:01.809175",
   "package_url": "https://pypi.org/project/sromaster/"
 }

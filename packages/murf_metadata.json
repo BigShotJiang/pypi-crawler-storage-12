@@ -1,11 +1,11 @@
 {
   "name": "murf",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "murf-2.2.3.tar.gz",
-  "download_time": "2025-11-11T07:56:15.657987",
+  "download_filename": "murf-2.2.4.tar.gz",
+  "download_time": "2025-11-11T11:41:30.818250",
   "package_url": "https://pypi.org/project/murf/"
 }

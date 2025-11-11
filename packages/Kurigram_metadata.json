@@ -1,0 +1,11 @@
+{
+  "name": "Kurigram",
+  "version": "2.2.15",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kurigram-2.2.15.tar.gz",
+  "download_time": "2025-11-11T11:41:24.029221",
+  "package_url": "https://pypi.org/project/Kurigram/"
+}
