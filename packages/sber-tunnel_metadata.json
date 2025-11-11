@@ -1,11 +1,11 @@
 {
   "name": "sber-tunnel",
-  "version": "2.2.0",
+  "version": "2.4.0",
   "summary": "CLI для передачи файлов между директориями через Confluence API",
   "author": "apaem",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sber_tunnel-2.2.0.tar.gz",
-  "download_time": "2025-11-10T11:20:47.766524",
+  "download_filename": "sber_tunnel-2.4.0.tar.gz",
+  "download_time": "2025-11-11T08:34:29.019845",
   "package_url": "https://pypi.org/project/sber-tunnel/"
 }

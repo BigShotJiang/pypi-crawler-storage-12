@@ -1,0 +1,11 @@
+{
+  "name": "pyedahelper",
+  "version": "1.0.3",
+  "summary": "A beginner-friendly Python library that simplifies Exploratory Data Analysis (EDA) with AI-powered guide, and provides an interactive cheat-sheet for quick reference and tools for data visualization, cleaning and feature engineering.",
+  "author": "Chidiebere V. Christopher",
+  "license": "MIT",
+  "home_page": "https://github.com/93Chidiebere/pyedahelper",
+  "download_filename": "pyedahelper-1.0.3.tar.gz",
+  "download_time": "2025-11-11T08:34:47.417545",
+  "package_url": "https://pypi.org/project/pyedahelper/"
+}

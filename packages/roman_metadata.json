@@ -1,0 +1,11 @@
+{
+  "name": "roman",
+  "version": "5.2",
+  "summary": "Integer to Roman numerals converter",
+  "author": "Mark Pilgrim",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/roman",
+  "download_filename": "roman-5.2.tar.gz",
+  "download_time": "2025-11-11T08:35:06.209523",
+  "package_url": "https://pypi.org/project/roman/"
+}

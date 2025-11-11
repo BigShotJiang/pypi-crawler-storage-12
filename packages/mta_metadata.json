@@ -1,0 +1,11 @@
+{
+  "name": "mta",
+  "version": "0.0.8",
+  "summary": "Multi-Touch Attribution Models for Marketing Analytics",
+  "author": "Igor Korostil",
+  "license": "MIT",
+  "home_page": "https://github.com/eeghor/mta",
+  "download_filename": "mta-0.0.8.tar.gz",
+  "download_time": "2025-11-11T08:35:06.728860",
+  "package_url": "https://pypi.org/project/mta/"
+}

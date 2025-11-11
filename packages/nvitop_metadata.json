@@ -1,0 +1,11 @@
+{
+  "name": "nvitop",
+  "version": "1.6.0",
+  "summary": "An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.",
+  "author": null,
+  "license": "Apache-2.0 AND GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "nvitop-1.6.0.tar.gz",
+  "download_time": "2025-11-11T08:35:02.033181",
+  "package_url": "https://pypi.org/project/nvitop/"
+}

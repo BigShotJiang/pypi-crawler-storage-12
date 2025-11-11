@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account_currency_communication",
+  "version": "18.0.1.0.0",
+  "summary": "Makes Configuration of Communication Standard on Currency possible.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_account_currency_communication-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-11T08:34:36.863488",
+  "package_url": "https://pypi.org/project/odoo-addon-account_currency_communication/"
+}

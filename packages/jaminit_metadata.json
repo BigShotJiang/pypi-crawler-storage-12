@@ -1,11 +1,11 @@
 {
   "name": "jaminit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "summary": "A command-line tool for initializing structured game jam projects.",
   "author": "Theodor Holmberg",
   "license": "MIT",
   "home_page": "https://github.com/egeltorp/jaminit",
-  "download_filename": "jaminit-0.0.0-py3-none-any.whl",
-  "download_time": "2025-11-11T06:59:08.613827",
+  "download_filename": "jaminit-0.1.0.tar.gz",
+  "download_time": "2025-11-11T08:34:59.436611",
   "package_url": "https://pypi.org/project/jaminit/"
 }

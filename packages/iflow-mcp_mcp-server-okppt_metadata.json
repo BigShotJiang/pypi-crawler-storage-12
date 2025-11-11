@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-okppt",
+  "version": "0.2.0",
+  "summary": "A Python package to insert SVG images into PowerPoint presentations, with MCP server capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_okppt-0.2.0.tar.gz",
+  "download_time": "2025-11-11T08:35:05.171575",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-okppt/"
+}

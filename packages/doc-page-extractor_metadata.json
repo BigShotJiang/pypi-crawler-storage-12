@@ -1,0 +1,11 @@
+{
+  "name": "doc-page-extractor",
+  "version": "1.0.2",
+  "summary": "Document page extraction tool powered by DeepSeek-OCR",
+  "author": "Tao Zeyu",
+  "license": "MIT",
+  "home_page": "https://github.com/moskize91/doc-page-extractor",
+  "download_filename": "doc_page_extractor-1.0.2.tar.gz",
+  "download_time": "2025-11-11T08:34:49.012901",
+  "package_url": "https://pypi.org/project/doc-page-extractor/"
+}
