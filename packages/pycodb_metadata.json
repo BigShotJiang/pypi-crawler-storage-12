@@ -1,0 +1,11 @@
+{
+  "name": "pycodb",
+  "version": "0.1.0",
+  "summary": "A simple module for working with NocoDB",
+  "author": "Helpmap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycodb-0.1.0.tar.gz",
+  "download_time": "2025-11-11T21:41:50.146531",
+  "package_url": "https://pypi.org/project/pycodb/"
+}

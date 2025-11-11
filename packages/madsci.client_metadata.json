@@ -1,11 +1,11 @@
 {
   "name": "madsci.client",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "The Modular Autonomous Discovery for Science (MADSci) Python Clients.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "madsci_client-0.5.2.tar.gz",
-  "download_time": "2025-11-11T21:24:19.955954",
+  "download_filename": "madsci_client-0.5.3.tar.gz",
+  "download_time": "2025-11-11T21:41:38.054674",
   "package_url": "https://pypi.org/project/madsci.client/"
 }

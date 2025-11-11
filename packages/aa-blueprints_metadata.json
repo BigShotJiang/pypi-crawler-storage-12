@@ -1,0 +1,11 @@
+{
+  "name": "aa-blueprints",
+  "version": "2.1.0",
+  "summary": "Blueprint Library plugin for Alliance Auth.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aa_blueprints-2.1.0.tar.gz",
+  "download_time": "2025-11-11T21:41:48.062702",
+  "package_url": "https://pypi.org/project/aa-blueprints/"
+}

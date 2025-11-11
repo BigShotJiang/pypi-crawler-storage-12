@@ -1,0 +1,11 @@
+{
+  "name": "lvmguider",
+  "version": "0.8.1",
+  "summary": "LVM guiding and focusing",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lvmguider-0.8.1.tar.gz",
+  "download_time": "2025-11-11T21:41:27.501509",
+  "package_url": "https://pypi.org/project/lvmguider/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gocam",
+  "version": "0.5.4",
+  "summary": "GO CAM Data Model (Python)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gocam-0.5.4.tar.gz",
+  "download_time": "2025-11-11T21:41:39.126416",
+  "package_url": "https://pypi.org/project/gocam/"
+}
