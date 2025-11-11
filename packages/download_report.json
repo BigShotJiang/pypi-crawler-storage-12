@@ -1,18 +1,11 @@
 {
-  "download_time": "2025-11-11T10:49:23.979333",
-  "total_packages_downloaded": 86,
-  "total_size_mb": 21.49,
+  "download_time": "2025-11-11T11:22:28.901999",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 2.67,
   "packages": [
-    "assisted-service-client",
-    "trainy-policy-nightly",
-    "alm-traceability-mcp",
-    "vibego",
-    "MetaRpcMT5",
-    "import-deps",
-    "MetaRpcMT4",
-    "x402-connector",
     "aas-http-client",
     "pytest-mark-ac",
+    "alm-traceability-mcp",
     "KiMoPack",
     "file-tree-display",
     "letta-nightly",
@@ -88,6 +81,16 @@
     "srmbench",
     "anemoi-transform",
     "ml_approach_suggestion_agent",
-    "datacontract-cli"
+    "datacontract-cli",
+    "vnstock-mcp",
+    "argscape",
+    "tgpy",
+    "ai-edge-torch-nightly",
+    "noqaexplain",
+    "perceval-mozilla",
+    "sycommon-python-lib",
+    "grib-check",
+    "worldalphabets",
+    "perceval-weblate"
   ]
 }

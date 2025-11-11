@@ -1,11 +1,11 @@
 {
   "name": "xmagic-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": null,
   "author": "Marcos Rivera Martínez, Glenn Ko, Subhash G N, Jatin Sarda",
   "license": null,
   "home_page": null,
-  "download_filename": "xmagic_sdk-0.0.2.tar.gz",
-  "download_time": "2025-11-11T10:28:03.153751",
+  "download_filename": "xmagic_sdk-0.0.3.tar.gz",
+  "download_time": "2025-11-11T11:22:18.029950",
   "package_url": "https://pypi.org/project/xmagic-sdk/"
 }
