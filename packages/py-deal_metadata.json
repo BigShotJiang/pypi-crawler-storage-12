@@ -1,0 +1,11 @@
+{
+  "name": "py-deal",
+  "version": "0.1.0",
+  "summary": "Simple .env-to-dataclass validator and static config holder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_deal-0.1.0.tar.gz",
+  "download_time": "2025-11-11T19:22:35.946671",
+  "package_url": "https://pypi.org/project/py-deal/"
+}

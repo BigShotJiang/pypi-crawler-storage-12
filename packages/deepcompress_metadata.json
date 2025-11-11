@@ -1,11 +1,11 @@
 {
   "name": "deepcompress",
-  "version": "1.3.7",
+  "version": "1.3.9",
   "summary": "Production-ready document compression library reducing LLM costs by 96% with DeepSeek-OCR integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepcompress-1.3.7.tar.gz",
-  "download_time": "2025-11-11T18:59:08.692950",
+  "download_filename": "deepcompress-1.3.9.tar.gz",
+  "download_time": "2025-11-11T19:22:10.875364",
   "package_url": "https://pypi.org/project/deepcompress/"
 }

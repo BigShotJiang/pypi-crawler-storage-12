@@ -1,0 +1,11 @@
+{
+  "name": "orange3-regressionwidgets",
+  "version": "0.1.7",
+  "summary": "Orange add-on with regression summary and backward elimination widgets",
+  "author": "Laurent Pauwels",
+  "license": "MIT",
+  "home_page": "https://github.com/laurentpauwels/orange3-regressionwidgets",
+  "download_filename": "orange3_regressionwidgets-0.1.7.tar.gz",
+  "download_time": "2025-11-11T19:22:09.276157",
+  "package_url": "https://pypi.org/project/orange3-regressionwidgets/"
+}

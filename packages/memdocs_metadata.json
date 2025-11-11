@@ -1,11 +1,11 @@
 {
   "name": "memdocs",
-  "version": "2.0.4",
+  "version": "2.0.7",
   "summary": "Persistent memory management for AI projects - Git-native documentation intelligence",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memdocs-2.0.4.tar.gz",
-  "download_time": "2025-11-11T17:27:07.773216",
+  "download_filename": "memdocs-2.0.7.tar.gz",
+  "download_time": "2025-11-11T19:22:11.452953",
   "package_url": "https://pypi.org/project/memdocs/"
 }

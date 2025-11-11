@@ -1,11 +1,11 @@
 {
   "name": "kax",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Biblioteca cliente de sistema de almacenamiento en memoria.",
   "author": "Julio Salazar",
   "license": null,
   "home_page": null,
-  "download_filename": "kax-0.1.0.tar.gz",
-  "download_time": "2025-11-11T18:38:11.144796",
+  "download_filename": "kax-0.1.2.tar.gz",
+  "download_time": "2025-11-11T19:22:17.270224",
   "package_url": "https://pypi.org/project/kax/"
 }
