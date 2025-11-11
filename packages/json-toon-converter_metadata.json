@@ -1,11 +1,11 @@
 {
   "name": "json-toon-converter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A package to convert JSON to TOON and TOON to JSON",
   "author": "Oren Grinker",
   "license": null,
   "home_page": "https://github.com/OrenGrinker/json-toon-converter",
-  "download_filename": "json_toon_converter-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-11T13:55:20.688067",
+  "download_filename": "json_toon_converter-0.1.1.tar.gz",
+  "download_time": "2025-11-11T15:46:09.888296",
   "package_url": "https://pypi.org/project/json-toon-converter/"
 }

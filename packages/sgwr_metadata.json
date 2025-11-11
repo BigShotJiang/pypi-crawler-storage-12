@@ -1,11 +1,11 @@
 {
   "name": "sgwr",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "Python implementation of SGWR and Fast SGWR (MPI-enhanced)",
   "author": "M. Naser Lessani (GIBD)",
   "license": "MIT",
   "home_page": "https://github.com/Lessani252/FastSGWR",
-  "download_filename": "sgwr-0.3.tar.gz",
-  "download_time": "2025-11-11T04:33:42.240343",
+  "download_filename": "sgwr-0.4.tar.gz",
+  "download_time": "2025-11-11T15:46:27.042954",
   "package_url": "https://pypi.org/project/sgwr/"
 }

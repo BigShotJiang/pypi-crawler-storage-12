@@ -1,0 +1,11 @@
+{
+  "name": "fgutils",
+  "version": "0.2.31",
+  "summary": "Library to get functional groups from molecular graphs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fgutils-0.2.31.tar.gz",
+  "download_time": "2025-11-11T15:46:10.506636",
+  "package_url": "https://pypi.org/project/fgutils/"
+}

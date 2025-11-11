@@ -1,0 +1,11 @@
+{
+  "name": "pyhttplib",
+  "version": "2.2.0",
+  "summary": "pyhttplib",
+  "author": "Omena0",
+  "license": "PolyForm Noncommercial 1.0.0",
+  "home_page": "https://github.com/Omena0/http",
+  "download_filename": "pyhttplib-2.2.0.tar.gz",
+  "download_time": "2025-11-11T15:46:29.828139",
+  "package_url": "https://pypi.org/project/pyhttplib/"
+}

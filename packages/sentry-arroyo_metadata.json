@@ -1,0 +1,11 @@
+{
+  "name": "sentry-arroyo",
+  "version": "2.32.5",
+  "summary": "Arroyo is a Python library for working with streaming data.",
+  "author": "Sentry",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/getsentry/arroyo",
+  "download_filename": "sentry_arroyo-2.32.5.tar.gz",
+  "download_time": "2025-11-11T15:46:11.109843",
+  "package_url": "https://pypi.org/project/sentry-arroyo/"
+}

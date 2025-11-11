@@ -1,0 +1,11 @@
+{
+  "name": "mibbridge",
+  "version": "0.1",
+  "summary": "Bridge VW up! MIB infotainment units and TCP clients via Bluetooth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mibbridge-0.1.tar.gz",
+  "download_time": "2025-11-11T15:46:25.410772",
+  "package_url": "https://pypi.org/project/mibbridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bullishpy",
-  "version": "0.78.0",
+  "version": "0.80.0",
   "summary": null,
   "author": "aan",
   "license": null,
   "home_page": null,
-  "download_filename": "bullishpy-0.78.0.tar.gz",
-  "download_time": "2025-11-11T11:54:02.714602",
+  "download_filename": "bullishpy-0.80.0.tar.gz",
+  "download_time": "2025-11-11T15:45:51.557591",
   "package_url": "https://pypi.org/project/bullishpy/"
 }
