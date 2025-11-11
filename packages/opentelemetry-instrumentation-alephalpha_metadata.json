@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-alephalpha",
+  "version": "0.48.0",
+  "summary": "OpenTelemetry Aleph Alpha instrumentation",
+  "author": "Gal Kleinman",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_alephalpha-0.48.0.tar.gz",
+  "download_time": "2025-11-11T09:54:01.639344",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-alephalpha/"
+}

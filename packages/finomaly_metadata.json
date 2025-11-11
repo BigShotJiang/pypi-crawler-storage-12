@@ -1,0 +1,11 @@
+{
+  "name": "finomaly",
+  "version": "0.1.5",
+  "summary": "A rule-based and machine learning-based anomaly detection library for financial transactions.",
+  "author": "Barisaksel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finomaly-0.1.5.tar.gz",
+  "download_time": "2025-11-11T09:54:09.291273",
+  "package_url": "https://pypi.org/project/finomaly/"
+}

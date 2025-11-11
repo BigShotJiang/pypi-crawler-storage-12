@@ -1,0 +1,11 @@
+{
+  "name": "mvtec-halcon",
+  "version": "25110.0.0",
+  "summary": "Native Python language bindings for MVTec HALCON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mvtec_halcon-25110.0.0.tar.gz",
+  "download_time": "2025-11-11T09:53:24.444366",
+  "package_url": "https://pypi.org/project/mvtec-halcon/"
+}
