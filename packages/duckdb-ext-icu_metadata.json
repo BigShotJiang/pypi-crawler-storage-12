@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-ext-icu",
+  "version": "1.4.2.20251112",
+  "summary": "DuckDB extension package for duckdb/core-extensions/icu",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_ext_icu-1.4.2.20251112-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-12T21:42:30.468073",
+  "package_url": "https://pypi.org/project/duckdb-ext-icu/"
+}

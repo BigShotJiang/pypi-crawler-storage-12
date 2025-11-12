@@ -1,11 +1,11 @@
 {
   "name": "compose-rename",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Rename a Docker Compose project by migrating volumes to a new project prefix.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "compose_rename-0.3.0.tar.gz",
-  "download_time": "2025-11-12T21:27:18.962617",
+  "download_filename": "compose_rename-0.3.1.tar.gz",
+  "download_time": "2025-11-12T21:42:35.411049",
   "package_url": "https://pypi.org/project/compose-rename/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pycse",
+  "version": "2.6.0",
+  "summary": "python computations in science and engineering",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pycse-2.6.0-py3-none-any.whl",
+  "download_time": "2025-11-12T21:42:19.866470",
+  "package_url": "https://pypi.org/project/pycse/"
+}
