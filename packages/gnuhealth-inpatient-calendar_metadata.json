@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-inpatient-calendar",
+  "version": "5.0.1",
+  "summary": "Hospitalization calendar management for GNU Health HIS",
+  "author": "GNU Solidario",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_inpatient_calendar-5.0.1.tar.gz",
+  "download_time": "2025-11-12T12:53:57.223127",
+  "package_url": "https://pypi.org/project/gnuhealth-inpatient-calendar/"
+}

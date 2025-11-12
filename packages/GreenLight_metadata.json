@@ -1,0 +1,11 @@
+{
+  "name": "GreenLight",
+  "version": "2.0.5",
+  "summary": "A platform for creating, modifying, and combining dynamic models, with a focus on horticultural greenhouses and crops",
+  "author": "David Katzin",
+  "license": null,
+  "home_page": "https://github.com/davkat1/GreenLight",
+  "download_filename": "greenlight-2.0.5.tar.gz",
+  "download_time": "2025-11-12T12:54:10.801614",
+  "package_url": "https://pypi.org/project/GreenLight/"
+}

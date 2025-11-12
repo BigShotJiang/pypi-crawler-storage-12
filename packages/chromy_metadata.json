@@ -1,0 +1,11 @@
+{
+  "name": "chromy",
+  "version": "0.1.6",
+  "summary": "一个处理以 Chromium 为核心的浏览器用户数据的 Python 库",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chromy-0.1.6.tar.gz",
+  "download_time": "2025-11-12T12:54:13.145693",
+  "package_url": "https://pypi.org/project/chromy/"
+}

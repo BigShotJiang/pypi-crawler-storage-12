@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-imaging",
+  "version": "5.0.1",
+  "summary": "Medical Imaging core package GNU Health HIS",
+  "author": "GNU Solidario",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_imaging-5.0.1.tar.gz",
+  "download_time": "2025-11-12T12:54:02.943328",
+  "package_url": "https://pypi.org/project/gnuhealth-imaging/"
+}

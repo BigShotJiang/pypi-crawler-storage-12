@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-surgery",
+  "version": "5.0.1",
+  "summary": "Surgery package for GNU Health HIS",
+  "author": "GNU Solidario",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_surgery-5.0.1.tar.gz",
+  "download_time": "2025-11-12T12:53:40.257634",
+  "package_url": "https://pypi.org/project/gnuhealth-surgery/"
+}

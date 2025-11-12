@@ -1,0 +1,11 @@
+{
+  "name": "minotaur",
+  "version": "0.3.0",
+  "summary": "Pythonic, asynchronous, inotify interface.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "minotaur-0.3.0.tar.gz",
+  "download_time": "2025-11-12T12:54:22.079991",
+  "package_url": "https://pypi.org/project/minotaur/"
+}

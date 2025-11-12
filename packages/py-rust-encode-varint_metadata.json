@@ -1,11 +1,11 @@
 {
   "name": "py-rust-encode-varint",
-  "version": "0.3.11",
+  "version": "0.3.13",
   "summary": "Encode varint using Protocol Buffers format (same as Python implementation)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_rust_encode_varint-0.3.11-cp314-cp314t-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-12T03:16:35.652112",
+  "download_filename": "py_rust_encode_varint-0.3.13-cp314-cp314t-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-12T12:54:24.195005",
   "package_url": "https://pypi.org/project/py-rust-encode-varint/"
 }

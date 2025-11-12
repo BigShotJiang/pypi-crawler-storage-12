@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-lab",
+  "version": "5.0.1",
+  "summary": "Laboratory Information System for GNU Health",
+  "author": "GNU Solidario",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_lab-5.0.1.tar.gz",
+  "download_time": "2025-11-12T12:53:55.687466",
+  "package_url": "https://pypi.org/project/gnuhealth-lab/"
+}

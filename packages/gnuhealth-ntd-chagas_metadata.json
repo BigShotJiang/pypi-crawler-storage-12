@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-ntd-chagas",
+  "version": "5.0.1",
+  "summary": "Neglected Tropical Diseases - Chagas disease package for GNU Health",
+  "author": "GNU Solidario",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_ntd_chagas-5.0.1.tar.gz",
+  "download_time": "2025-11-12T12:53:54.092986",
+  "package_url": "https://pypi.org/project/gnuhealth-ntd-chagas/"
+}

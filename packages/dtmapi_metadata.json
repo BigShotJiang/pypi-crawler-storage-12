@@ -1,0 +1,11 @@
+{
+  "name": "dtmapi",
+  "version": "0.1.8",
+  "summary": "A Python package for fetching data from the IOM's Displacement Tracking Matrix (DTM).",
+  "author": "Luong Bang Tran",
+  "license": "MIT",
+  "home_page": "https://github.com/Displacement-Tracking-Matrix/dtmapi",
+  "download_filename": "dtmapi-0.1.8.tar.gz",
+  "download_time": "2025-11-12T12:54:08.123119",
+  "package_url": "https://pypi.org/project/dtmapi/"
+}
