@@ -1,0 +1,11 @@
+{
+  "name": "lionagi-qe-fleet",
+  "version": "1.2.1",
+  "summary": "Agentic Quality Engineering Fleet powered by LionAGI - 19 specialized AI agents for comprehensive software testing and quality assurance",
+  "author": "LionAGI QE Fleet Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lionagi_qe_fleet-1.2.1.tar.gz",
+  "download_time": "2025-11-12T09:33:05.696004",
+  "package_url": "https://pypi.org/project/lionagi-qe-fleet/"
+}

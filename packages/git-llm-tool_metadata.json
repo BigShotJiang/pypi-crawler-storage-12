@@ -1,11 +1,11 @@
 {
   "name": "git-llm-tool",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "AI-powered git commit message and changelog generator",
   "author": "skyler-gogolook",
   "license": "MIT",
   "home_page": "https://github.com/z0890142/git-llm-tool",
-  "download_filename": "git_llm_tool-0.1.18.tar.gz",
-  "download_time": "2025-11-11T05:44:15.030190",
+  "download_filename": "git_llm_tool-0.1.20.tar.gz",
+  "download_time": "2025-11-12T09:33:10.057055",
   "package_url": "https://pypi.org/project/git-llm-tool/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fastuv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fast UV installer with China mirrors pre-configured - 预配置国内源的快速 uv 安装器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastuv-0.1.1.tar.gz",
-  "download_time": "2025-11-12T08:34:37.312947",
+  "download_filename": "fastuv-0.1.2.tar.gz",
+  "download_time": "2025-11-12T09:33:08.955845",
   "package_url": "https://pypi.org/project/fastuv/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-light-auth",
+  "version": "0.2.3",
+  "summary": "Django Lightweight Authentication without models and databases, only depend on the signed cookies and the Django's SessionMiddleware.",
+  "author": "Rex Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_light_auth-0.2.3.tar.gz",
+  "download_time": "2025-11-12T09:32:44.966452",
+  "package_url": "https://pypi.org/project/django-light-auth/"
+}

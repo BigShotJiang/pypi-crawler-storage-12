@@ -1,0 +1,11 @@
+{
+  "name": "mcp-songzhe-server",
+  "version": "0.1.1",
+  "summary": "这是一个使用高德地图的天气接口,获取当前城市天气的demo",
+  "author": "songzhe03",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_songzhe_server-0.1.1.tar.gz",
+  "download_time": "2025-11-12T09:33:03.639900",
+  "package_url": "https://pypi.org/project/mcp-songzhe-server/"
+}

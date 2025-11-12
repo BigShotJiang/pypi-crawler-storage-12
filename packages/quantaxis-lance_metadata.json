@@ -1,11 +1,11 @@
 {
   "name": "quantaxis-lance",
-  "version": "2.1.0a2",
+  "version": "2.1.5a2",
   "summary": "QUANTAXIS:Quantitative Financial Strategy Framework",
   "author": "yutiansut",
   "license": "MIT",
   "home_page": "https://github.com/quantaxis/quantaxis",
-  "download_filename": "quantaxis_lance-2.1.0a2.tar.gz",
-  "download_time": "2025-11-11T15:58:12.273492",
+  "download_filename": "quantaxis_lance-2.1.5a2.tar.gz",
+  "download_time": "2025-11-12T09:33:16.895606",
   "package_url": "https://pypi.org/project/quantaxis-lance/"
 }

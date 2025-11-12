@@ -1,0 +1,11 @@
+{
+  "name": "rstt",
+  "version": "0.6.7.1",
+  "summary": "Ranking Simulation Testing Tool",
+  "author": "Bucher David",
+  "license": "MIT",
+  "home_page": "https://github.com/Ematrion/rstt",
+  "download_filename": "rstt-0.6.7.1.tar.gz",
+  "download_time": "2025-11-12T09:32:58.992222",
+  "package_url": "https://pypi.org/project/rstt/"
+}
