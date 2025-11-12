@@ -1,0 +1,11 @@
+{
+  "name": "pyreason",
+  "version": "3.2.0",
+  "summary": "An explainable inference software supporting annotated, real valued, graph based and temporal logic",
+  "author": "Dyuman Aditya",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/lab-v2/pyreason",
+  "download_filename": "pyreason-3.2.0.tar.gz",
+  "download_time": "2025-11-12T16:34:41.221738",
+  "package_url": "https://pypi.org/project/pyreason/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nhisml",
+  "version": "0.3.0",
+  "summary": "NHIS baseline: fetch Adults 2023/2024 and run SRH prediction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nhisml-0.3.0.tar.gz",
+  "download_time": "2025-11-12T16:34:33.258794",
+  "package_url": "https://pypi.org/project/nhisml/"
+}

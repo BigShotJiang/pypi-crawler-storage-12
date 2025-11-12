@@ -1,0 +1,11 @@
+{
+  "name": "antennex-client",
+  "version": "3.4.0",
+  "summary": "ANTENNEX Reverberation Chamber API",
+  "author": "ANTENNEX B.V.",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "antennex_client-3.4.0.tar.gz",
+  "download_time": "2025-11-12T16:34:54.980580",
+  "package_url": "https://pypi.org/project/antennex-client/"
+}

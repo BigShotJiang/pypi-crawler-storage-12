@@ -1,0 +1,11 @@
+{
+  "name": "chanter",
+  "version": "0.0.9",
+  "summary": "Simple galaxy spectral modelling and fitting",
+  "author": "Struan Stevenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chanter-0.0.9.tar.gz",
+  "download_time": "2025-11-12T16:34:40.145372",
+  "package_url": "https://pypi.org/project/chanter/"
+}

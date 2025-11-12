@@ -1,11 +1,11 @@
 {
   "name": "quantaxis-pubsub-lance",
-  "version": "1.15",
+  "version": "1.19",
   "summary": "QUANTAXIS PUBSUB:QUANTAXIS PUB/SUB MODEL",
   "author": "yutiansut",
   "license": "MIT",
   "home_page": "https://github.com/yutiansut/QAPUBSUB",
-  "download_filename": "quantaxis_pubsub_lance-1.15.tar.gz",
-  "download_time": "2025-11-12T10:51:03.922425",
+  "download_filename": "quantaxis_pubsub_lance-1.19.tar.gz",
+  "download_time": "2025-11-12T16:34:40.666483",
   "package_url": "https://pypi.org/project/quantaxis-pubsub-lance/"
 }

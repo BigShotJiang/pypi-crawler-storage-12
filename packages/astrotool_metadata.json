@@ -1,0 +1,11 @@
+{
+  "name": "astrotool",
+  "version": "0.0.26",
+  "summary": "A Python package for astronomical calculations in Python or on the command line",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrotool-0.0.26.tar.gz",
+  "download_time": "2025-11-12T16:34:25.873685",
+  "package_url": "https://pypi.org/project/astrotool/"
+}

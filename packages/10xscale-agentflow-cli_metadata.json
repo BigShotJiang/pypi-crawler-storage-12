@@ -1,0 +1,11 @@
+{
+  "name": "10xscale-agentflow-cli",
+  "version": "0.1.8",
+  "summary": "CLI and API for 10xscale AgentFlow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "10xscale_agentflow_cli-0.1.8.tar.gz",
+  "download_time": "2025-11-12T16:35:00.203073",
+  "package_url": "https://pypi.org/project/10xscale-agentflow-cli/"
+}

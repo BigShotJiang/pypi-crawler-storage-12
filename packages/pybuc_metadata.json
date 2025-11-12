@@ -1,0 +1,11 @@
+{
+  "name": "pybuc",
+  "version": "0.56.1",
+  "summary": "Fast estimation of Bayesian structural time series models via Gibbs sampling.",
+  "author": "Devin D. Garcia",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "pybuc-0.56.1.tar.gz",
+  "download_time": "2025-11-12T16:34:32.199471",
+  "package_url": "https://pypi.org/project/pybuc/"
+}

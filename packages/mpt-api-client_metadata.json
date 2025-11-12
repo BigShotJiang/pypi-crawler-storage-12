@@ -1,0 +1,11 @@
+{
+  "name": "mpt-api-client",
+  "version": "0.0.2",
+  "summary": "SoftwareOne Marketplace API Client for Python",
+  "author": "SoftwareOne AG",
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "mpt_api_client-0.0.2.tar.gz",
+  "download_time": "2025-11-12T16:34:47.512060",
+  "package_url": "https://pypi.org/project/mpt-api-client/"
+}
