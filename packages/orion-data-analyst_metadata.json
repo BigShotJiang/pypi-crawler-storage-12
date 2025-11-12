@@ -1,0 +1,11 @@
+{
+  "name": "orion-data-analyst",
+  "version": "1.1.4",
+  "summary": "AI-powered BigQuery data analysis agent with natural language interface",
+  "author": "Gavriel Hannuna",
+  "license": "MIT",
+  "home_page": "https://github.com/gavrielhan/orion-data-analyst",
+  "download_filename": "orion_data_analyst-1.1.4.tar.gz",
+  "download_time": "2025-11-12T11:42:09.192090",
+  "package_url": "https://pypi.org/project/orion-data-analyst/"
+}

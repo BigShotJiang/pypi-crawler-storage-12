@@ -1,0 +1,11 @@
+{
+  "name": "jahn-teller-dynamics",
+  "version": "0.3.4",
+  "summary": "Dynamic Jahn-Teller Effect Calculator",
+  "author": "Balázs Tóth",
+  "license": "GPLv3",
+  "home_page": "https://github.com/tbalu98/Jahn-Teller-Dynamics",
+  "download_filename": "jahn_teller_dynamics-0.3.4.tar.gz",
+  "download_time": "2025-11-12T11:41:43.227891",
+  "package_url": "https://pypi.org/project/jahn-teller-dynamics/"
+}

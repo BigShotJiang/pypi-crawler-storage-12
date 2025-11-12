@@ -1,11 +1,11 @@
 {
   "name": "SmartSpliter",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "A balanced dataset splitter for multi-domain, multi-class AI tasks.",
   "author": "alpaka",
   "license": null,
   "home_page": "https://github.com/a1paka12/SmartSpliter",
-  "download_filename": "smartspliter-1.0.5.tar.gz",
-  "download_time": "2025-11-12T11:22:13.559298",
+  "download_filename": "smartspliter-1.0.7.tar.gz",
+  "download_time": "2025-11-12T11:42:28.303380",
   "package_url": "https://pypi.org/project/SmartSpliter/"
 }

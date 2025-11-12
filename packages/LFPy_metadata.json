@@ -1,0 +1,11 @@
+{
+  "name": "LFPy",
+  "version": "2.3.6",
+  "summary": "A module for modeling extracellular potentials of multicompartment neuron models built on NEURON",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": "http://LFPy.readthedocs.io",
+  "download_filename": "lfpy-2.3.6-py3-none-any.whl",
+  "download_time": "2025-11-12T11:41:57.245380",
+  "package_url": "https://pypi.org/project/LFPy/"
+}

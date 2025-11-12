@@ -1,11 +1,11 @@
 {
   "name": "TozaText",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "TozaText is a cleaning library for preprocessing raw Uzbek and multilingual text data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tozatext-0.1.4.tar.gz",
-  "download_time": "2025-11-12T08:34:26.328416",
+  "download_filename": "tozatext-0.1.5.tar.gz",
+  "download_time": "2025-11-12T11:42:11.263416",
   "package_url": "https://pypi.org/project/TozaText/"
 }

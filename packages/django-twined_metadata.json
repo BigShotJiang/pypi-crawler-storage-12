@@ -1,0 +1,11 @@
+{
+  "name": "django-twined",
+  "version": "0.8.17",
+  "summary": "A django app to manage octue services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_twined-0.8.17.tar.gz",
+  "download_time": "2025-11-12T11:42:16.392595",
+  "package_url": "https://pypi.org/project/django-twined/"
+}
