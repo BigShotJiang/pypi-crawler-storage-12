@@ -1,0 +1,11 @@
+{
+  "name": "query-to-command",
+  "version": "0.3.0",
+  "summary": "Natural Language to Shell Command Converter using OpenAI",
+  "author": "Lawrence",
+  "license": "MIT",
+  "home_page": "https://github.com/lawrence-carbon/cli-nlp",
+  "download_filename": "query_to_command-0.3.0.tar.gz",
+  "download_time": "2025-11-12T07:56:27.527925",
+  "package_url": "https://pypi.org/project/query-to-command/"
+}

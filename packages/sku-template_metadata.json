@@ -1,0 +1,11 @@
+{
+  "name": "sku-template",
+  "version": "1.0.0",
+  "summary": "SKU Template Client SDK for Python",
+  "author": "ouyangrunli",
+  "license": null,
+  "home_page": "https://github.com/your-username/sku-template",
+  "download_filename": "sku_template-1.0.0.tar.gz",
+  "download_time": "2025-11-12T07:56:18.597257",
+  "package_url": "https://pypi.org/project/sku-template/"
+}
