@@ -1,0 +1,11 @@
+{
+  "name": "nedo-vision-annotator",
+  "version": "1.0.0",
+  "summary": "Nedo Vision Annotator Service for Automated Image Annotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nedo_vision_annotator-1.0.0.tar.gz",
+  "download_time": "2025-11-12T03:16:22.406573",
+  "package_url": "https://pypi.org/project/nedo-vision-annotator/"
+}

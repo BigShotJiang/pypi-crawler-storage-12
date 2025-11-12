@@ -1,11 +1,11 @@
 {
   "name": "antchain-blockchain",
-  "version": "1.28.67",
+  "version": "1.28.68",
   "summary": "Ant Chain BLOCKCHAIN SDK Library for Python",
   "author": "Ant Chain SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
-  "download_filename": "antchain_blockchain-1.28.67.tar.gz",
-  "download_time": "2025-11-11T09:31:12.992152",
+  "download_filename": "antchain_blockchain-1.28.68.tar.gz",
+  "download_time": "2025-11-12T03:16:59.020588",
   "package_url": "https://pypi.org/project/antchain-blockchain/"
 }

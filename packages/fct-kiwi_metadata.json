@@ -1,0 +1,11 @@
+{
+  "name": "fct-kiwi",
+  "version": "1.16.0",
+  "summary": "Balena fleet management",
+  "author": "Juan Pablo Castillo",
+  "license": "MIT",
+  "home_page": "https://github.com/gokiwibot/fct-package",
+  "download_filename": "fct_kiwi-1.16.0.tar.gz",
+  "download_time": "2025-11-12T03:16:53.565811",
+  "package_url": "https://pypi.org/project/fct-kiwi/"
+}

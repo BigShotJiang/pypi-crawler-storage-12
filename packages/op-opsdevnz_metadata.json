@@ -1,0 +1,11 @@
+{
+  "name": "op-opsdevnz",
+  "version": "0.1.4",
+  "summary": "OpsDev.nz helpers for resolving 1Password secrets with Service Account + CLI fallback.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "op_opsdevnz-0.1.4.tar.gz",
+  "download_time": "2025-11-12T03:17:06.738571",
+  "package_url": "https://pypi.org/project/op-opsdevnz/"
+}

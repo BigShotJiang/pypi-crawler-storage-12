@@ -1,0 +1,11 @@
+{
+  "name": "certifi",
+  "version": "2025.11.12",
+  "summary": "Python package for providing Mozilla's CA Bundle.",
+  "author": "Kenneth Reitz",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/certifi/python-certifi",
+  "download_filename": "certifi-2025.11.12.tar.gz",
+  "download_time": "2025-11-12T03:16:51.895171",
+  "package_url": "https://pypi.org/project/certifi/"
+}

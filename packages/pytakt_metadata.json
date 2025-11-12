@@ -1,0 +1,11 @@
+{
+  "name": "pytakt",
+  "version": "1.0.0",
+  "summary": "A Python library for music description, generation, and processing with realtime MIDI I/O",
+  "author": "Satoshi Nishimura",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/snisim/pytakt/",
+  "download_filename": "pytakt-1.0.0.tar.gz",
+  "download_time": "2025-11-12T03:16:36.214808",
+  "package_url": "https://pypi.org/project/pytakt/"
+}

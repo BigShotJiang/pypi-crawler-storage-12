@@ -1,0 +1,11 @@
+{
+  "name": "pyodim",
+  "version": "0.5.6",
+  "summary": "An Odim hdf5 file reader.",
+  "author": "Valentin Louf",
+  "license": "ISC",
+  "home_page": "https://github.com/vlouf/pyodim",
+  "download_filename": "pyodim-0.5.6.tar.gz",
+  "download_time": "2025-11-12T03:16:45.305816",
+  "package_url": "https://pypi.org/project/pyodim/"
+}

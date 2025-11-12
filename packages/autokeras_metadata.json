@@ -1,0 +1,11 @@
+{
+  "name": "autokeras",
+  "version": "3.0.0",
+  "summary": "AutoML for deep learning",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "autokeras-3.0.0.tar.gz",
+  "download_time": "2025-11-12T03:16:48.527204",
+  "package_url": "https://pypi.org/project/autokeras/"
+}
