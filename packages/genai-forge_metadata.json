@@ -1,11 +1,11 @@
 {
   "name": "genai-forge",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Generative AI tools from ToolForge-AI organization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genai_forge-0.1.12.tar.gz",
-  "download_time": "2025-11-12T09:32:55.893176",
+  "download_filename": "genai_forge-0.1.13.tar.gz",
+  "download_time": "2025-11-12T09:54:10.155597",
   "package_url": "https://pypi.org/project/genai-forge/"
 }

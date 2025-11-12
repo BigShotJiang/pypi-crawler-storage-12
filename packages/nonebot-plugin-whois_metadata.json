@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-whois",
+  "version": "1.0.5",
+  "summary": "一个Nonebot2插件用于查询域名的whois信息",
+  "author": "Maizi",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_whois-1.0.5.tar.gz",
+  "download_time": "2025-11-12T09:54:27.543887",
+  "package_url": "https://pypi.org/project/nonebot-plugin-whois/"
+}

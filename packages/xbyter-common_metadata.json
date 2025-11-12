@@ -1,0 +1,11 @@
+{
+  "name": "xbyter-common",
+  "version": "0.3.18",
+  "summary": "Common config and utilities for Xbyter projects",
+  "author": "xbyter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xbyter_common-0.3.18.tar.gz",
+  "download_time": "2025-11-12T09:53:52.025449",
+  "package_url": "https://pypi.org/project/xbyter-common/"
+}

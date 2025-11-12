@@ -1,0 +1,11 @@
+{
+  "name": "ptmethods",
+  "version": "1.0.6",
+  "summary": "HTTP Methods Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3+",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptmethods-1.0.6.tar.gz",
+  "download_time": "2025-11-12T09:54:20.696973",
+  "package_url": "https://pypi.org/project/ptmethods/"
+}

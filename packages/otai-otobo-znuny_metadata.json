@@ -1,0 +1,11 @@
+{
+  "name": "otai-otobo-znuny",
+  "version": "1.5.14",
+  "summary": "OTOBO and Znuny (OTRS fork) ticket system integration plugin for Open Ticket AI - automated helpdesk workflows",
+  "author": null,
+  "license": "LGPL-2.1-only",
+  "home_page": null,
+  "download_filename": "otai_otobo_znuny-1.5.14.tar.gz",
+  "download_time": "2025-11-12T09:54:04.588506",
+  "package_url": "https://pypi.org/project/otai-otobo-znuny/"
+}
