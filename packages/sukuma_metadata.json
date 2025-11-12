@@ -1,0 +1,11 @@
+{
+  "name": "sukuma",
+  "version": "0.1.0a0",
+  "summary": "The all-encompassing finance manager on the command line.",
+  "author": "Manoel Pereira de Queiroz",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/nummertopia/sukuma",
+  "download_filename": "sukuma-0.1.0a0.tar.gz",
+  "download_time": "2025-11-12T21:54:53.257148",
+  "package_url": "https://pypi.org/project/sukuma/"
+}

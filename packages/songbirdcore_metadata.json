@@ -1,11 +1,11 @@
 {
   "name": "songbirdcore",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "core low level api for songbird",
   "author": "Christian Boin",
   "license": null,
   "home_page": null,
-  "download_filename": "songbirdcore-0.1.5.tar.gz",
-  "download_time": "2025-11-12T17:45:18.890163",
+  "download_filename": "songbirdcore-0.1.6.tar.gz",
+  "download_time": "2025-11-12T21:54:59.318620",
   "package_url": "https://pypi.org/project/songbirdcore/"
 }
