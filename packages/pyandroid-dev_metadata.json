@@ -1,0 +1,11 @@
+{
+  "name": "pyandroid-dev",
+  "version": "1.4.0",
+  "summary": "A comprehensive Python library for creating Android-like applications with GUI support, improved error handling, and full type hints.",
+  "author": "Subhobhai",
+  "license": "PyAndroid Custom License v1.0",
+  "home_page": "https://github.com/subhobhai943/pyandroid-dev",
+  "download_filename": "pyandroid_dev-1.4.0.tar.gz",
+  "download_time": "2025-11-12T17:30:25.329989",
+  "package_url": "https://pypi.org/project/pyandroid-dev/"
+}

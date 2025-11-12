@@ -1,0 +1,11 @@
+{
+  "name": "pylotoncycle",
+  "version": "0.9.0",
+  "summary": "Module to access your Peloton workout data",
+  "author": "Vikram Adukia",
+  "license": "BSD",
+  "home_page": "https://github.com/justmedude/pylotoncycle",
+  "download_filename": "pylotoncycle-0.9.0.tar.gz",
+  "download_time": "2025-11-12T17:30:20.469113",
+  "package_url": "https://pypi.org/project/pylotoncycle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mongoengine-plus",
+  "version": "1.2.1",
+  "summary": "Extras for mongoengine",
+  "author": "Cuenca",
+  "license": null,
+  "home_page": "https://github.com/cuenca-mx/mongoengine-plus",
+  "download_filename": "mongoengine_plus-1.2.1.tar.gz",
+  "download_time": "2025-11-12T17:30:08.566612",
+  "package_url": "https://pypi.org/project/mongoengine-plus/"
+}

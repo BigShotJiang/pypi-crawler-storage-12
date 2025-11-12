@@ -1,11 +1,11 @@
 {
   "name": "prompting-forge",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A lightweight, modular library for building, composing, and managing structured prompts for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prompting_forge-0.1.6.tar.gz",
-  "download_time": "2025-11-12T16:59:54.269218",
+  "download_filename": "prompting_forge-0.1.7.tar.gz",
+  "download_time": "2025-11-12T17:30:29.489599",
   "package_url": "https://pypi.org/project/prompting-forge/"
 }

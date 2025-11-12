@@ -1,11 +1,11 @@
 {
   "name": "curvtools",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "CLI tools for the Curv RISC-V CPU project",
   "author": "Mike Goelzer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "curvtools-0.0.14.tar.gz",
-  "download_time": "2025-11-12T16:34:29.579518",
+  "download_filename": "curvtools-0.0.15.tar.gz",
+  "download_time": "2025-11-12T17:30:07.543612",
   "package_url": "https://pypi.org/project/curvtools/"
 }
