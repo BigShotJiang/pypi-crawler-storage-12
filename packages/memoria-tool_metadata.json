@@ -1,11 +1,11 @@
 {
   "name": "memoria-tool",
-  "version": "0.1.9",
+  "version": "1.0.0",
   "summary": "Local-first digital memory management library with semantic AI and privacy controls.",
   "author": "IM_GJ",
   "license": null,
   "home_page": "https://github.com/imGJUser1/memoria-tool",
-  "download_filename": "memoria_tool-0.1.9.tar.gz",
-  "download_time": "2025-11-12T08:34:53.643816",
+  "download_filename": "memoria_tool-1.0.0.tar.gz",
+  "download_time": "2025-11-12T22:24:22.217214",
   "package_url": "https://pypi.org/project/memoria-tool/"
 }

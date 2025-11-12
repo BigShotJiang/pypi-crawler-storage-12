@@ -1,11 +1,11 @@
 {
   "name": "mcp-rag",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_rag-0.4.3.tar.gz",
-  "download_time": "2025-11-12T07:56:08.208306",
+  "download_filename": "mcp_rag-0.4.4.tar.gz",
+  "download_time": "2025-11-12T22:24:14.941631",
   "package_url": "https://pypi.org/project/mcp-rag/"
 }

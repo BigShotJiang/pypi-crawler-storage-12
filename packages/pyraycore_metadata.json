@@ -1,11 +1,11 @@
 {
   "name": "pyraycore",
-  "version": "0.1.2",
+  "version": "25.10.15",
   "summary": "Python gRPC bindings for Xray-core — control and monitor VLESS, REALITY and other protocols via gRPC API.",
-  "author": "Роман (ex3lite)",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyraycore-0.1.2.tar.gz",
-  "download_time": "2025-11-12T08:34:27.366344",
+  "download_filename": "pyraycore-25.10.15.tar.gz",
+  "download_time": "2025-11-12T22:24:17.560725",
   "package_url": "https://pypi.org/project/pyraycore/"
 }
