@@ -1,0 +1,11 @@
+{
+  "name": "pggm-mcp-snowflake-server",
+  "version": "1.0.7",
+  "summary": "Custom Model Context Protocol server for Snowflake",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pggm_mcp_snowflake_server-1.0.7.tar.gz",
+  "download_time": "2025-11-12T11:22:24.123895",
+  "package_url": "https://pypi.org/project/pggm-mcp-snowflake-server/"
+}

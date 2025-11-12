@@ -1,11 +1,11 @@
 {
   "name": "amberNPS",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A python api to make lethal blood concentrations using amberNPS",
   "author": "Daniel Pasin",
   "license": "MIT",
   "home_page": "https://github.com/dpasin/amberNPS-api",
-  "download_filename": "ambernps-0.1.0.tar.gz",
-  "download_time": "2025-11-12T10:51:10.674499",
+  "download_filename": "ambernps-0.1.2.tar.gz",
+  "download_time": "2025-11-12T11:21:56.483497",
   "package_url": "https://pypi.org/project/amberNPS/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lwcharts",
-  "version": "0.1.0",
-  "summary": "Ultra-simple TradingView Lightweight Charts for Jupyter notebooks",
+  "version": "0.1.1",
+  "summary": "TradingView Lightweight Charts for Jupyter notebooks",
   "author": "lwcharts contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lwcharts-0.1.0.tar.gz",
-  "download_time": "2025-11-12T09:32:46.508269",
+  "download_filename": "lwcharts-0.1.1.tar.gz",
+  "download_time": "2025-11-12T11:22:11.453782",
   "package_url": "https://pypi.org/project/lwcharts/"
 }

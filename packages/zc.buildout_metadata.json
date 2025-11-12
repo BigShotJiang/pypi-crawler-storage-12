@@ -1,0 +1,11 @@
+{
+  "name": "zc.buildout",
+  "version": "5.0.0",
+  "summary": "System for managing development buildouts",
+  "author": "Jim Fulton",
+  "license": "ZPL 2.1",
+  "home_page": "http://buildout.org",
+  "download_filename": "zc_buildout-5.0.0.tar.gz",
+  "download_time": "2025-11-12T11:22:16.326344",
+  "package_url": "https://pypi.org/project/zc.buildout/"
+}

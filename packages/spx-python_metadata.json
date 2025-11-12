@@ -1,0 +1,11 @@
+{
+  "name": "spx-python",
+  "version": "1.0.0rc2",
+  "summary": "A Python library for managing spx server.",
+  "author": "Aleksander Stanik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spx_python-1.0.0rc2.tar.gz",
+  "download_time": "2025-11-12T11:22:04.744838",
+  "package_url": "https://pypi.org/project/spx-python/"
+}

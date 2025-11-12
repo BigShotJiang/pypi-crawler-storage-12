@@ -1,0 +1,11 @@
+{
+  "name": "clappia-api-tools",
+  "version": "2.0.13",
+  "summary": "Python client for Clappia API integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clappia_api_tools-2.0.13.tar.gz",
+  "download_time": "2025-11-12T11:22:18.899075",
+  "package_url": "https://pypi.org/project/clappia-api-tools/"
+}

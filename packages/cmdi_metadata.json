@@ -1,0 +1,11 @@
+{
+  "name": "cmdi",
+  "version": "3.1.2",
+  "summary": "A command interface",
+  "author": "feluxe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/feluxe/cmdi",
+  "download_filename": "cmdi-3.1.2.tar.gz",
+  "download_time": "2025-11-12T11:22:23.102974",
+  "package_url": "https://pypi.org/project/cmdi/"
+}
