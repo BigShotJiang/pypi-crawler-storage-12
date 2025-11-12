@@ -1,0 +1,11 @@
+{
+  "name": "mini-ode",
+  "version": "0.1.4",
+  "summary": "A minimalistic ODE solvers library built on top of PyTorch",
+  "author": null,
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "mini_ode-0.1.4-cp313-abi3-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-11-12T20:57:50.797598",
+  "package_url": "https://pypi.org/project/mini-ode/"
+}

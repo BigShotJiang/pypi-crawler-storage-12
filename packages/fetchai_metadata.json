@@ -1,0 +1,11 @@
+{
+  "name": "fetchai",
+  "version": "0.1.45",
+  "summary": "Find the right AI at the right time and register your AI to be discovered.",
+  "author": "Devon Bleibtrey",
+  "license": "MIT",
+  "home_page": "https://github.com/flockx-official/fetchai",
+  "download_filename": "fetchai-0.1.45.tar.gz",
+  "download_time": "2025-11-12T20:57:56.442379",
+  "package_url": "https://pypi.org/project/fetchai/"
+}
