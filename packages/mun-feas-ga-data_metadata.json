@@ -1,11 +1,11 @@
 {
   "name": "mun-feas-ga-data",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "GA Data tools for Memorial's Faculty of Engineering and Applied Science",
   "author": "Jonathan Anderson",
   "license": null,
   "home_page": null,
-  "download_filename": "mun_feas_ga_data-0.2.0.tar.gz",
-  "download_time": "2025-11-12T17:30:23.664594",
+  "download_filename": "mun_feas_ga_data-0.2.1.tar.gz",
+  "download_time": "2025-11-12T17:45:27.133959",
   "package_url": "https://pypi.org/project/mun-feas-ga-data/"
 }

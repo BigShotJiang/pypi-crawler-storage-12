@@ -1,0 +1,11 @@
+{
+  "name": "rotem",
+  "version": "0.1.0",
+  "summary": "a simple python library used to draw text-based 2d grid game map and informations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotem-0.1.0.tar.gz",
+  "download_time": "2025-11-12T17:45:21.457813",
+  "package_url": "https://pypi.org/project/rotem/"
+}

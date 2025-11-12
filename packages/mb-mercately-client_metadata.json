@@ -1,0 +1,11 @@
+{
+  "name": "mb-mercately-client",
+  "version": "0.4.0",
+  "summary": "A Python client for interacting with Mercately WhatsApp service from Django applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mb_mercately_client-0.4.0.tar.gz",
+  "download_time": "2025-11-12T17:45:25.065852",
+  "package_url": "https://pypi.org/project/mb-mercately-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "metaspector",
+  "version": "0.1.8",
+  "summary": "Python library to inspect and export metadata from MP4/M4V/M4A, MP3 and FLAC media files.",
+  "author": "RSMVDL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaspector-0.1.8.tar.gz",
+  "download_time": "2025-11-12T17:45:09.639527",
+  "package_url": "https://pypi.org/project/metaspector/"
+}

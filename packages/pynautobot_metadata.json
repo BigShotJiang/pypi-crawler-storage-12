@@ -1,0 +1,11 @@
+{
+  "name": "pynautobot",
+  "version": "2.7.1",
+  "summary": "Nautobot API client library",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://nautobot.com",
+  "download_filename": "pynautobot-2.7.1.tar.gz",
+  "download_time": "2025-11-12T17:45:32.832197",
+  "package_url": "https://pypi.org/project/pynautobot/"
+}

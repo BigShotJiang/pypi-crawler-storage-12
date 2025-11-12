@@ -1,0 +1,11 @@
+{
+  "name": "lifesimmc",
+  "version": "1.1.2",
+  "summary": "LIFEsimMC",
+  "author": "Philipp A. Huber",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/pahuber/lifesimmc",
+  "download_filename": "lifesimmc-1.1.2.tar.gz",
+  "download_time": "2025-11-12T17:45:19.403339",
+  "package_url": "https://pypi.org/project/lifesimmc/"
+}
