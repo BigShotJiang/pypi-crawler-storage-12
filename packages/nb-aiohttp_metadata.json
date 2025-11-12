@@ -1,11 +1,11 @@
 {
   "name": "nb-aiohttp",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "更好用的 aiohttp 客户端，支持同步和异步使用。 性能碾压 httpx 和 requests 400%",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nb_aiohttp-1.0.tar.gz",
-  "download_time": "2025-11-12T08:34:14.235576",
+  "download_filename": "nb_aiohttp-1.1.tar.gz",
+  "download_time": "2025-11-12T08:59:55.518653",
   "package_url": "https://pypi.org/project/nb-aiohttp/"
 }

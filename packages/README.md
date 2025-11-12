@@ -1,12 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T08:35:00.383462
-- **Total Packages**: 87
-- **Total Size**: 35.31 MB
+- **Download Time**: 2025-11-12T09:00:32.661407
+- **Total Packages**: 86
+- **Total Size**: 5.33 MB
 
 ## Packages List
+- rlhelper2
+- kudb
+- ansys-api-discovery
+- jsonconversion
+- vibego
+- protenix
+- telugu-language-tools
+- git-cola
 - qmeasure
+- tdsbrondata
+- maxframe
+- openubmc-bingo
+- langsmith-mcp-server
+- Tool-hi
 - nb-aiohttp
 - xurpas-data-quality
 - datahub_binary
@@ -21,7 +34,6 @@
 - modal-cuda
 - theforecastingcompany
 - my-text-emojifier
-- scmagnify
 - rhodecode-mcp-server
 - lark-oapi
 - vexor
@@ -32,7 +44,6 @@
 - django-spire
 - TozaText
 - quash-mcp
-- pyraycore
 - ypricemagic
 - mmar-utils
 - open-case
@@ -81,15 +92,3 @@
 - classiq
 - pyglove
 - MetaRpcMT5
-- memoria-tool
-- linpgtoolbox
-- aws-lambda-powertools
-- anemone-daisy-maker
-- mmg
-- geoviews
-- MD2NMR
-- goldener
-- openlit
-- keep-gpu
-- test-ylang
-- financial-reports-generated-client
