@@ -1,0 +1,11 @@
+{
+  "name": "cdk-codeartifact",
+  "version": "1.1.1",
+  "summary": "This is an AWS CDK Construct to create a new AWS Codeartifact Domain and one or more Repositories",
+  "author": "Michael Walmsley (@walmsles)<2704782+walmsles@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/walmsles/cdk-codeartifact",
+  "download_filename": "cdk_codeartifact-1.1.1.tar.gz",
+  "download_time": "2025-11-12T06:41:48.989158",
+  "package_url": "https://pypi.org/project/cdk-codeartifact/"
+}

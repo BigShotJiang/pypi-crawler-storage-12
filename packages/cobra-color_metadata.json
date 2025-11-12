@@ -1,11 +1,11 @@
 {
   "name": "cobra-color",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Python library for enhanced terminal display.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cobra_color-0.2.2.tar.gz",
-  "download_time": "2025-11-11T11:42:07.263433",
+  "download_filename": "cobra_color-0.2.3.tar.gz",
+  "download_time": "2025-11-12T06:41:24.011663",
   "package_url": "https://pypi.org/project/cobra-color/"
 }

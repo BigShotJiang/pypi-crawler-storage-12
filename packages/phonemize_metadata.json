@@ -1,0 +1,11 @@
+{
+  "name": "phonemize",
+  "version": "0.2.4",
+  "summary": "Multilingual grapheme-to-phoneme (G2P) conversion using Transformer models.",
+  "author": "Arcosoph",
+  "license": "MIT",
+  "home_page": "https://github.com/arcosoph/phonemize",
+  "download_filename": "phonemize-0.2.4.tar.gz",
+  "download_time": "2025-11-12T06:41:08.994029",
+  "package_url": "https://pypi.org/project/phonemize/"
+}

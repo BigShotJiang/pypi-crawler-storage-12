@@ -1,11 +1,11 @@
 {
   "name": "sii-agent-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python SDK for SII-CLI - AI Agent Framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sii_agent_sdk-0.1.6-py3-none-any.whl",
-  "download_time": "2025-11-11T05:44:06.069130",
+  "download_filename": "sii_agent_sdk-0.1.7-py3-none-any.whl",
+  "download_time": "2025-11-12T06:41:19.327205",
   "package_url": "https://pypi.org/project/sii-agent-sdk/"
 }

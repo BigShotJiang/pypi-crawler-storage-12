@@ -1,0 +1,11 @@
+{
+  "name": "filerepack",
+  "version": "0.1.4",
+  "summary": "Repacks existing (un)compressed files for higher compression",
+  "author": "Ivan Begtin",
+  "license": "BSD",
+  "home_page": "https://github.com/ivbeg/filesrepack",
+  "download_filename": "filerepack-0.1.4.tar.gz",
+  "download_time": "2025-11-12T06:41:12.576825",
+  "package_url": "https://pypi.org/project/filerepack/"
+}

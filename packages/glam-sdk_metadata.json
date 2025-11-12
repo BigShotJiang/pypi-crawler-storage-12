@@ -1,0 +1,11 @@
+{
+  "name": "glam-sdk",
+  "version": "0.1.6",
+  "summary": "Python SDK for GLAM protocol",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "glam_sdk-0.1.6.tar.gz",
+  "download_time": "2025-11-12T06:41:50.520254",
+  "package_url": "https://pypi.org/project/glam-sdk/"
+}

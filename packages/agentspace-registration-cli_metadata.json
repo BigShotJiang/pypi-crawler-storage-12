@@ -1,0 +1,11 @@
+{
+  "name": "agentspace-registration-cli",
+  "version": "1.0.0",
+  "summary": "A CLI for managing agents in Google Cloud Gemini Enterprise (supports both Agent Engine and A2A protocol agents).",
+  "author": "Henry Cheng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentspace_registration_cli-1.0.0.tar.gz",
+  "download_time": "2025-11-12T06:41:52.060967",
+  "package_url": "https://pypi.org/project/agentspace-registration-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fyle",
+  "version": "1.1.2",
+  "summary": "Python SDK for accessing Fyle Platform APIs",
+  "author": "Siva Narayanan",
+  "license": "MIT",
+  "home_page": "https://github.com/fylein/fyle-platform-sdk-py",
+  "download_filename": "fyle-1.1.2.tar.gz",
+  "download_time": "2025-11-12T06:41:17.790359",
+  "package_url": "https://pypi.org/project/fyle/"
+}

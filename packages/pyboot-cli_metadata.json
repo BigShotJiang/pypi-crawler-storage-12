@@ -1,11 +1,11 @@
 {
   "name": "pyboot-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "PyBoot CLI - Python Spring Boot like framework command line tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyboot_cli-1.2.2.tar.gz",
-  "download_time": "2025-11-12T05:25:32.838561",
+  "download_filename": "pyboot_cli-1.2.3.tar.gz",
+  "download_time": "2025-11-12T06:41:42.118179",
   "package_url": "https://pypi.org/project/pyboot-cli/"
 }

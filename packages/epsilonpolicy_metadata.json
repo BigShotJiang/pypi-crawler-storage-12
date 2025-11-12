@@ -1,11 +1,11 @@
 {
   "name": "epsilonpolicy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A tiny epsilon-greedy action selection function for reinforcement learning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "epsilonpolicy-0.1.0.tar.gz",
-  "download_time": "2025-11-10T15:45:45.683203",
+  "download_filename": "epsilonpolicy-0.1.1.tar.gz",
+  "download_time": "2025-11-12T06:41:22.410212",
   "package_url": "https://pypi.org/project/epsilonpolicy/"
 }

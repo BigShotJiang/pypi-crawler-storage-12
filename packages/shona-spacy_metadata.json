@@ -1,11 +1,11 @@
 {
   "name": "shona-spacy",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "A rule-based spaCy pipeline for Shona NLP.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shona_spacy-0.1.1.tar.gz",
-  "download_time": "2025-11-12T05:57:24.148227",
+  "download_filename": "shona_spacy-0.1.5.tar.gz",
+  "download_time": "2025-11-12T06:41:38.535354",
   "package_url": "https://pypi.org/project/shona-spacy/"
 }

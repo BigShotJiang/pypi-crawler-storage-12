@@ -1,0 +1,11 @@
+{
+  "name": "lncn",
+  "version": "0.2.0",
+  "summary": "Simple Python CLI to count SLOC in a codebase",
+  "author": "qque",
+  "license": null,
+  "home_page": "https://github.com/qque/lncn",
+  "download_filename": "lncn-0.2.0.tar.gz",
+  "download_time": "2025-11-12T06:41:47.942196",
+  "package_url": "https://pypi.org/project/lncn/"
+}
