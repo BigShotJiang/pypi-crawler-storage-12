@@ -1,0 +1,11 @@
+{
+  "name": "bzip3",
+  "version": "0.1.9",
+  "summary": "bz3 compress and decompress",
+  "author": "synodriver",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/synodriver/python-bz3",
+  "download_filename": "bzip3-0.1.9-cp310-cp310-win32.whl",
+  "download_time": "2025-11-12T14:50:00.630961",
+  "package_url": "https://pypi.org/project/bzip3/"
+}

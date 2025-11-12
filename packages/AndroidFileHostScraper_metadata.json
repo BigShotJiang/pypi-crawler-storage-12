@@ -1,11 +1,11 @@
 {
   "name": "AndroidFileHostScraper",
-  "version": "1.0.3",
-  "summary": "A simple AndroidFileHost scraper for fetching links and metadata.",
+  "version": "2.0.0",
+  "summary": "Simple and powerful Python script to download files from AndroidFileHost by imitating their API calls.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "androidfilehostscraper-1.0.3.tar.gz",
-  "download_time": "2025-11-10T15:45:52.285862",
+  "download_filename": "androidfilehostscraper-2.0.0.tar.gz",
+  "download_time": "2025-11-12T14:50:14.589846",
   "package_url": "https://pypi.org/project/AndroidFileHostScraper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-cookie-cutter",
+  "version": "0.2.0",
+  "summary": "Intelligent MCP server generator from OpenAPI/Swagger specs",
+  "author": "Mahesh Mahadevan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_cookie_cutter-0.2.0.tar.gz",
+  "download_time": "2025-11-12T14:50:06.981026",
+  "package_url": "https://pypi.org/project/mcp-cookie-cutter/"
+}

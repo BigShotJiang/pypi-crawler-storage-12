@@ -1,0 +1,11 @@
+{
+  "name": "fa-htmlstream",
+  "version": "1.0.0",
+  "summary": "A simple streaming HTML parser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fa_htmlstream-1.0.0.tar.gz",
+  "download_time": "2025-11-12T14:50:10.882590",
+  "package_url": "https://pypi.org/project/fa-htmlstream/"
+}

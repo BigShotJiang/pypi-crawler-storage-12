@@ -1,0 +1,11 @@
+{
+  "name": "pyexasol",
+  "version": "1.2.2",
+  "summary": "Exasol python driver with extra features",
+  "author": "Vitaly Markov",
+  "license": "MIT",
+  "home_page": "https://www.exasol.com/",
+  "download_filename": "pyexasol-1.2.2.tar.gz",
+  "download_time": "2025-11-12T14:50:13.495785",
+  "package_url": "https://pypi.org/project/pyexasol/"
+}

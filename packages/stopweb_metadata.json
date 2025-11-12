@@ -1,11 +1,11 @@
 {
   "name": "stopweb",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A CLI tool to temporarily block websites by modifying the hosts file",
   "author": "StopWeb",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stopweb-0.1.3.tar.gz",
-  "download_time": "2025-11-11T16:58:20.576918",
+  "download_filename": "stopweb-0.1.4.tar.gz",
+  "download_time": "2025-11-12T14:50:19.974430",
   "package_url": "https://pypi.org/project/stopweb/"
 }

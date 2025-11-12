@@ -1,0 +1,11 @@
+{
+  "name": "virmet",
+  "version": "2.0.0",
+  "summary": "Viral metagenomics in clinical applications",
+  "author": "Osvaldo Zagordi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virmet-2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-12T14:49:59.564226",
+  "package_url": "https://pypi.org/project/virmet/"
+}
