@@ -1,0 +1,11 @@
+{
+  "name": "AmpliGone",
+  "version": "2.0.2",
+  "summary": "AmpliGone is a tool which accurately removes primer sequences from FastQ NGS reads in an amplicon sequencing experiment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ampligone-2.0.2.tar.gz",
+  "download_time": "2025-11-12T15:29:02.356349",
+  "package_url": "https://pypi.org/project/AmpliGone/"
+}

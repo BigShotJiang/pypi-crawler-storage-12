@@ -1,0 +1,11 @@
+{
+  "name": "ugrc-swapper",
+  "version": "1.2.4",
+  "summary": "Move data from one SDE database to another with minimal downtime",
+  "author": "UGRC",
+  "license": "MIT",
+  "home_page": "https://github.com/agrc/swapper",
+  "download_filename": "ugrc_swapper-1.2.4.tar.gz",
+  "download_time": "2025-11-12T15:29:45.569075",
+  "package_url": "https://pypi.org/project/ugrc-swapper/"
+}

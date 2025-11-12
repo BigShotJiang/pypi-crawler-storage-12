@@ -1,0 +1,11 @@
+{
+  "name": "torchvision",
+  "version": "0.24.0",
+  "summary": "image and video datasets and models for torch deep learning",
+  "author": "PyTorch Core Team",
+  "license": "BSD",
+  "home_page": "https://github.com/pytorch/vision",
+  "download_filename": "torchvision-0.24.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-12T15:28:59.179345",
+  "package_url": "https://pypi.org/project/torchvision/"
+}

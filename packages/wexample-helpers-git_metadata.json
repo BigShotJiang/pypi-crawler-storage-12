@@ -1,11 +1,11 @@
 {
   "name": "wexample-helpers-git",
-  "version": "0.0.92",
+  "version": "0.0.93",
   "summary": "Some python basic helpers for git.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_helpers_git-0.0.92.tar.gz",
-  "download_time": "2025-11-12T13:37:19.496922",
+  "download_filename": "wexample_helpers_git-0.0.93.tar.gz",
+  "download_time": "2025-11-12T15:29:43.509733",
   "package_url": "https://pypi.org/project/wexample-helpers-git/"
 }

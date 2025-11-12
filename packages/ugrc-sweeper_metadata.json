@@ -1,0 +1,11 @@
+{
+  "name": "ugrc-sweeper",
+  "version": "2.0.6",
+  "summary": "CLI tool for making good data",
+  "author": "UGRC",
+  "license": "MIT",
+  "home_page": "https://github.com/agrc/sweeper",
+  "download_filename": "ugrc_sweeper-2.0.6.tar.gz",
+  "download_time": "2025-11-12T15:29:44.543344",
+  "package_url": "https://pypi.org/project/ugrc-sweeper/"
+}

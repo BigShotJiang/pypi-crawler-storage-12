@@ -1,0 +1,11 @@
+{
+  "name": "brachinus",
+  "version": "1.0.0",
+  "summary": "AES-256 CBC file encryption library with support for individual files and directory batch operations.",
+  "author": null,
+  "license": "GPLv2 license",
+  "home_page": null,
+  "download_filename": "brachinus-1.0.0.tar.gz",
+  "download_time": "2025-11-12T15:29:08.690956",
+  "package_url": "https://pypi.org/project/brachinus/"
+}

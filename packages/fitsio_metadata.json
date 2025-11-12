@@ -1,0 +1,11 @@
+{
+  "name": "fitsio",
+  "version": "1.2.8",
+  "summary": "A full featured python library to read from and write to FITS files.",
+  "author": "Erin Scott Sheldon",
+  "license": "GPL",
+  "home_page": "https://github.com/esheldon/fitsio",
+  "download_filename": "fitsio-1.2.8.tar.gz",
+  "download_time": "2025-11-12T15:29:00.795006",
+  "package_url": "https://pypi.org/project/fitsio/"
+}

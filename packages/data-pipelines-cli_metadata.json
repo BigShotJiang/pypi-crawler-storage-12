@@ -1,0 +1,11 @@
+{
+  "name": "data-pipelines-cli",
+  "version": "0.32.0",
+  "summary": "CLI for data platform",
+  "author": "Andrzej Swatowski",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": "https://github.com/getindata/data-pipelines-cli/",
+  "download_filename": "data_pipelines_cli-0.32.0.tar.gz",
+  "download_time": "2025-11-12T15:29:19.006002",
+  "package_url": "https://pypi.org/project/data-pipelines-cli/"
+}
