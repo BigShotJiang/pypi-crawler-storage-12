@@ -1,0 +1,11 @@
+{
+  "name": "rl-epsilon-decay",
+  "version": "0.1.0",
+  "summary": "A simple epsilon decay function for Reinforcement Learning.",
+  "author": "SAAHIL DESAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rl_epsilon_decay-0.1.0.tar.gz",
+  "download_time": "2025-11-12T08:34:42.035380",
+  "package_url": "https://pypi.org/project/rl-epsilon-decay/"
+}

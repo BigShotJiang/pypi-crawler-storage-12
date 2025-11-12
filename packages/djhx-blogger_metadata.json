@@ -1,11 +1,11 @@
 {
   "name": "djhx-blogger",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "A simple static site generator, support only markdown file.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "djhx_blogger-0.1.9.tar.gz",
-  "download_time": "2025-11-11T06:58:44.923691",
+  "download_filename": "djhx_blogger-0.1.11.tar.gz",
+  "download_time": "2025-11-12T08:34:32.606068",
   "package_url": "https://pypi.org/project/djhx-blogger/"
 }
