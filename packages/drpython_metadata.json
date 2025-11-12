@@ -1,11 +1,11 @@
 {
   "name": "drpython",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Modular notifications: drpython.telegram & drpython.email",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drpython-0.1.1.tar.gz",
-  "download_time": "2025-11-12T20:57:48.723409",
+  "download_filename": "drpython-0.1.2.tar.gz",
+  "download_time": "2025-11-12T21:27:08.605309",
   "package_url": "https://pypi.org/project/drpython/"
 }

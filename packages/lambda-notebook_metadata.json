@@ -1,0 +1,11 @@
+{
+  "name": "lambda-notebook",
+  "version": "0.8.0",
+  "summary": "Tools for linguistic semantics (lambda calculus, logic, etc), aimed at Jupyter",
+  "author": "Kyle Rawlins",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/rawlins/lambda-notebook/",
+  "download_filename": "lambda_notebook-0.8.0-py3-none-any.whl",
+  "download_time": "2025-11-12T21:26:48.344215",
+  "package_url": "https://pypi.org/project/lambda-notebook/"
+}

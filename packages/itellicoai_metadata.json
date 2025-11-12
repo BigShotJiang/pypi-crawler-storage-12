@@ -1,0 +1,11 @@
+{
+  "name": "itellicoai",
+  "version": "1.0.0",
+  "summary": "The official Python library for the itellicoai API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "itellicoai-1.0.0.tar.gz",
+  "download_time": "2025-11-12T21:27:19.506278",
+  "package_url": "https://pypi.org/project/itellicoai/"
+}

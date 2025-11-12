@@ -1,0 +1,11 @@
+{
+  "name": "cql2",
+  "version": "0.4.2",
+  "summary": "Parse, validate, and convert Common Query Language (CQL2) text and JSON",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/developmentseed/cql2-rs",
+  "download_filename": "cql2-0.4.2.tar.gz",
+  "download_time": "2025-11-12T21:27:22.752474",
+  "package_url": "https://pypi.org/project/cql2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inpost",
+  "version": "0.1.6",
+  "summary": "Asynchronous InPost package allowing you to manage existing incoming parcels without mobile app",
+  "author": "loboda4450",
+  "license": "LGPL-2.1-only",
+  "home_page": "https://github.com/IFOSSA/inpost-python",
+  "download_filename": "inpost-0.1.6.tar.gz",
+  "download_time": "2025-11-12T21:26:45.069286",
+  "package_url": "https://pypi.org/project/inpost/"
+}

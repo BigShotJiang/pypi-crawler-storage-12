@@ -1,0 +1,11 @@
+{
+  "name": "snapinfra",
+  "version": "1.0.4",
+  "summary": "Revolutionary AI-powered CLI that generates production-ready infrastructure code, architectural diagrams, and comprehensive documentation from natural language descriptions. Supports Terraform, Kubernetes, Docker, CloudFormation, and more with multi-provider AI backends including OpenAI, Groq, AWS Bedrock, and Ollama.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snapinfra-1.0.4.tar.gz",
+  "download_time": "2025-11-12T21:27:14.566415",
+  "package_url": "https://pypi.org/project/snapinfra/"
+}

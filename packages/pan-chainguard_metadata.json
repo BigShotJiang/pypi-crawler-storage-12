@@ -1,0 +1,11 @@
+{
+  "name": "pan-chainguard",
+  "version": "0.12.0",
+  "summary": "Manage Root Store and Intermediate Certificate Chains on PAN-OS",
+  "author": "Palo Alto Networks, Inc.",
+  "license": "ISC",
+  "home_page": "https://github.com/PaloAltoNetworks/pan-chainguard",
+  "download_filename": "pan_chainguard-0.12.0.tar.gz",
+  "download_time": "2025-11-12T21:27:24.871470",
+  "package_url": "https://pypi.org/project/pan-chainguard/"
+}
