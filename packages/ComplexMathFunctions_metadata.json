@@ -1,11 +1,11 @@
 {
   "name": "ComplexMathFunctions",
-  "version": "0.6",
+  "version": "1",
   "summary": "Complex math",
   "author": "Enes523r",
   "license": null,
   "home_page": null,
-  "download_filename": "complexmathfunctions-0.6.tar.gz",
-  "download_time": "2025-11-12T19:23:26.111486",
+  "download_filename": "complexmathfunctions-1-py3-none-any.whl",
+  "download_time": "2025-11-12T19:53:36.968532",
   "package_url": "https://pypi.org/project/ComplexMathFunctions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sophosfirewall-python",
+  "version": "0.1.66",
+  "summary": "Python SDK for Sophos Firewall",
+  "author": "Matt Mullen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sophosfirewall_python-0.1.66.tar.gz",
+  "download_time": "2025-11-12T19:53:28.410981",
+  "package_url": "https://pypi.org/project/sophosfirewall-python/"
+}

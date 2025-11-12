@@ -1,0 +1,11 @@
+{
+  "name": "cn-Flask-MonitoringDashboard",
+  "version": "1.0.1",
+  "summary": "Automatically monitor the evolving performance of Flask/Python web services.",
+  "author": "coltennabers",
+  "license": null,
+  "home_page": "https://github.com/flask-dashboard/Flask-MonitoringDashboard",
+  "download_filename": "cn_flask_monitoringdashboard-1.0.1.tar.gz",
+  "download_time": "2025-11-12T19:53:35.940418",
+  "package_url": "https://pypi.org/project/cn-Flask-MonitoringDashboard/"
+}

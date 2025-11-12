@@ -1,11 +1,11 @@
 {
   "name": "cullinan",
-  "version": "0.63",
+  "version": "0.77",
   "summary": "Cullinan is written based on tornado and Sqlalchemy to help the project quickly build web application",
   "author": "plumeink",
-  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "license": "MIT",
   "home_page": "https://github.com/plumeink/Cullinan",
-  "download_filename": "cullinan-0.63.tar.gz",
-  "download_time": "2025-11-10T14:24:36.147430",
+  "download_filename": "cullinan-0.77.tar.gz",
+  "download_time": "2025-11-12T19:53:24.725646",
   "package_url": "https://pypi.org/project/cullinan/"
 }

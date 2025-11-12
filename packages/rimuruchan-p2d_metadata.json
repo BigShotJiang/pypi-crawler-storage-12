@@ -1,0 +1,11 @@
+{
+  "name": "rimuruchan-p2d",
+  "version": "0.4.2",
+  "summary": "Simple python script converting polygon package to domjudge(kattis) package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rimuruchan_p2d-0.4.2.tar.gz",
+  "download_time": "2025-11-12T19:53:24.207922",
+  "package_url": "https://pypi.org/project/rimuruchan-p2d/"
+}
