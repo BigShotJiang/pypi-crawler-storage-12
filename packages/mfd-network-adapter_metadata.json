@@ -1,0 +1,11 @@
+{
+  "name": "mfd-network-adapter",
+  "version": "14.4.0",
+  "summary": "Module which handle operations on network adapters installed on different operating systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mfd_network_adapter-14.4.0-py3-none-any.whl",
+  "download_time": "2025-11-12T10:29:12.206921",
+  "package_url": "https://pypi.org/project/mfd-network-adapter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mbxai",
+  "version": "2.6.0",
+  "summary": "MBX AI SDK",
+  "author": "MBX AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mbxai-2.6.0.tar.gz",
+  "download_time": "2025-11-12T10:28:55.568041",
+  "package_url": "https://pypi.org/project/mbxai/"
+}

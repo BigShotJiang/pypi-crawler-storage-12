@@ -1,0 +1,11 @@
+{
+  "name": "ebau-gwr",
+  "version": "0.8.3",
+  "summary": "GWR synchronisation for ebau projects",
+  "author": "Adfinis AG",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ebau_gwr-0.8.3.tar.gz",
+  "download_time": "2025-11-12T10:29:14.804753",
+  "package_url": "https://pypi.org/project/ebau-gwr/"
+}
