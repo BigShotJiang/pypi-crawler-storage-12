@@ -1,0 +1,11 @@
+{
+  "name": "ozi-spec",
+  "version": "1.1.12",
+  "summary": "Versioned specification standard metadata for OZI Project tools.",
+  "author": "Eden Ross Duff MSc",
+  "license": "file, LICENSE.txt",
+  "home_page": null,
+  "download_filename": "ozi_spec-1.1.12.tar.gz",
+  "download_time": "2025-11-12T22:55:13.388943",
+  "package_url": "https://pypi.org/project/ozi-spec/"
+}
