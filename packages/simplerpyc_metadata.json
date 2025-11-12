@@ -1,11 +1,11 @@
 {
   "name": "simplerpyc",
-  "version": "0.0.1a2",
+  "version": "0.0.1a3",
   "summary": "Simple Remote Python Call - WebSocket-based RPC with transparent proxies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simplerpyc-0.0.1a2.tar.gz",
-  "download_time": "2025-11-12T05:45:08.405301",
+  "download_filename": "simplerpyc-0.0.1a3.tar.gz",
+  "download_time": "2025-11-12T07:28:11.361137",
   "package_url": "https://pypi.org/project/simplerpyc/"
 }

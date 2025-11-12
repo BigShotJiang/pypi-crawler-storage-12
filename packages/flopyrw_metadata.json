@@ -1,0 +1,11 @@
+{
+  "name": "flopyrw",
+  "version": "1.0.3",
+  "summary": "Python interface based on FloPy to configure input files for MODPATH-RW",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flopyrw-1.0.3.tar.gz",
+  "download_time": "2025-11-12T07:28:02.196932",
+  "package_url": "https://pypi.org/project/flopyrw/"
+}

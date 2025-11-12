@@ -1,0 +1,11 @@
+{
+  "name": "atlan-application-sdk",
+  "version": "0.1.1rc63",
+  "summary": "Atlan Application SDK is a Python library for developing applications on the Atlan Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlan_application_sdk-0.1.1rc63.tar.gz",
+  "download_time": "2025-11-12T07:28:19.241565",
+  "package_url": "https://pypi.org/project/atlan-application-sdk/"
+}

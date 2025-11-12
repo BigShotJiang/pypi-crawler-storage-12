@@ -1,0 +1,11 @@
+{
+  "name": "dftd4",
+  "version": "4.0.0",
+  "summary": "Python API of the DFT-D4 project",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "dftd4-4.0.0.tar.gz",
+  "download_time": "2025-11-12T07:28:25.586283",
+  "package_url": "https://pypi.org/project/dftd4/"
+}

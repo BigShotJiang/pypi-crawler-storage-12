@@ -1,0 +1,11 @@
+{
+  "name": "Spec7DT",
+  "version": "0.9.15",
+  "summary": "Spectral image handling package for 7-Dimensional Telescope users by Won-Hyeong Lee",
+  "author": "Won-Hyeong Lee",
+  "license": null,
+  "home_page": "https://github.com/Yicircle/Spec7DT",
+  "download_filename": "spec7dt-0.9.15.tar.gz",
+  "download_time": "2025-11-12T07:28:01.144052",
+  "package_url": "https://pypi.org/project/Spec7DT/"
+}
