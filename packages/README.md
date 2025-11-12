@@ -1,15 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T06:41:52.561861
-- **Total Packages**: 81
-- **Total Size**: 14.5 MB
+- **Download Time**: 2025-11-12T06:59:43.308235
+- **Total Packages**: 78
+- **Total Size**: 21.58 MB
 
 ## Packages List
+- bqat
+- dataverse-sdk
+- pyboot-cli
+- leann-core
+- trisul-ai-cli
+- leann-backend-hnsw
+- mi-maica
+- leann-backend-diskann
+- leann
+- pybangla
+- earth-rover-mini-plus-sdk
+- easy-code-reader
+- upathtools
 - phonemize
 - xqcsendmessage
 - langswarm
-- earth-rover-mini-plus-sdk
 - structifyai
 - agent-mcp-gateway
 - filerepack
@@ -24,7 +36,6 @@
 - pulumi-aws-native
 - fyle
 - sageintacctsdk
-- pybangla
 - sii-agent-sdk
 - iowarp-core
 - git-autograder
@@ -67,23 +78,9 @@
 - pywreck
 - freva-client
 - kbcstorage
-- pyboot-cli
 - pyboot-dataflow
 - lyapprove
 - github-dependents-to-sqlite
 - upgini
 - django-codenerix
 - fast-bitrix24-mcp
-- gllm-pipeline-binary
-- auroraview
-- adbutils
-- pyg-nightly
-- lncn
-- runreporter
-- cdk-codeartifact
-- asciipal
-- sphinx-tabs-selector
-- glam-sdk
-- edx-enterprise-data
-- starbash
-- agentspace-registration-cli
