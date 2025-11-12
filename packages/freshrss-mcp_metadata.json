@@ -1,11 +1,11 @@
 {
   "name": "freshrss-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Model Context Protocol server for FreshRSS RSS reader",
   "author": "FreshRSS MCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "freshrss_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-12T08:34:24.239488",
+  "download_filename": "freshrss_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-12T13:37:03.190774",
   "package_url": "https://pypi.org/project/freshrss-mcp/"
 }

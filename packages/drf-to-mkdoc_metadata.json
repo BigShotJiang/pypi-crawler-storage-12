@@ -1,0 +1,11 @@
+{
+  "name": "drf-to-mkdoc",
+  "version": "0.3.4",
+  "summary": "Generate Markdown API docs from Django/DRF OpenAPI schema for MkDocs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_to_mkdoc-0.3.4.tar.gz",
+  "download_time": "2025-11-12T13:37:20.073337",
+  "package_url": "https://pypi.org/project/drf-to-mkdoc/"
+}

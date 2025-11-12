@@ -1,0 +1,11 @@
+{
+  "name": "cntext",
+  "version": "2.2.0",
+  "summary": "Chinese text analysis library, which can perform word frequency statistics, dictionary expansion, sentiment analysis, similarity, readability, co-occurrence analysis, social computing (attitude, prejudice, culture) on texts; Now support Ollama(LLM) analysis",
+  "author": "DaDeng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cntext-2.2.0.tar.gz",
+  "download_time": "2025-11-12T13:37:09.657264",
+  "package_url": "https://pypi.org/project/cntext/"
+}

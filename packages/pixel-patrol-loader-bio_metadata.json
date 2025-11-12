@@ -1,0 +1,11 @@
+{
+  "name": "pixel-patrol-loader-bio",
+  "version": "0.1.2",
+  "summary": "PixelPatrol add-on package for loading images with bioio and zarr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixel_patrol_loader_bio-0.1.2.tar.gz",
+  "download_time": "2025-11-12T13:37:41.156313",
+  "package_url": "https://pypi.org/project/pixel-patrol-loader-bio/"
+}

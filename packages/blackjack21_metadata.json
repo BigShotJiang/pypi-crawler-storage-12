@@ -1,0 +1,11 @@
+{
+  "name": "blackjack21",
+  "version": "4.0.0",
+  "summary": "A complete package for blackjack, with no players limit on a table, double down, and split features too.",
+  "author": "Rahul Nanwani",
+  "license": "MIT",
+  "home_page": "https://blackjack21.rtfd.io/en/latest/",
+  "download_filename": "blackjack21-4.0.0.tar.gz",
+  "download_time": "2025-11-12T13:37:41.732889",
+  "package_url": "https://pypi.org/project/blackjack21/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openapi-to-rdf",
+  "version": "0.1.1",
+  "summary": "Convert OpenAPI YAML specifications to RDF vocabularies and SHACL validation shapes for telecom intent-based automation and TMForum standards",
+  "author": "Jean Martins",
+  "license": "MIT",
+  "home_page": "https://github.com/EricssonResearch/openapi-to-rdf",
+  "download_filename": "openapi_to_rdf-0.1.1.tar.gz",
+  "download_time": "2025-11-12T13:36:59.044454",
+  "package_url": "https://pypi.org/project/openapi-to-rdf/"
+}

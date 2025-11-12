@@ -1,0 +1,11 @@
+{
+  "name": "astro-nest",
+  "version": "0.7.1",
+  "summary": "A python package that provides neural networks to estimate ages of stars.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astro_nest-0.7.1.tar.gz",
+  "download_time": "2025-11-12T13:37:34.090845",
+  "package_url": "https://pypi.org/project/astro-nest/"
+}
