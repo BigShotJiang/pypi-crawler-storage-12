@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-extra",
+  "version": "0.1.5",
+  "summary": "Extra Pulumi utils and resources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_extra-0.1.5.tar.gz",
+  "download_time": "2025-11-12T05:25:27.059827",
+  "package_url": "https://pypi.org/project/pulumi-extra/"
+}

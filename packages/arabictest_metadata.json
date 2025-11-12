@@ -1,0 +1,11 @@
+{
+  "name": "arabictest",
+  "version": "1.0.0",
+  "summary": "Professional unit root testing package with Arabic language support for econometric research",
+  "author": "Dr. Merwan Roudane",
+  "license": "MIT",
+  "home_page": "https://github.com/merwanroudane/arabictest",
+  "download_filename": "arabictest-1.0.0.tar.gz",
+  "download_time": "2025-11-12T05:25:27.620878",
+  "package_url": "https://pypi.org/project/arabictest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "frostfire",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A small library of helper functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frostfire-0.1.14.tar.gz",
-  "download_time": "2025-11-12T04:55:32.787782",
+  "download_filename": "frostfire-0.1.15.tar.gz",
+  "download_time": "2025-11-12T05:25:33.966501",
   "package_url": "https://pypi.org/project/frostfire/"
 }

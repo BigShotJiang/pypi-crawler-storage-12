@@ -1,0 +1,11 @@
+{
+  "name": "pytest-qaseio",
+  "version": "2.7.1",
+  "summary": "Pytest plugin for Qase.io integration",
+  "author": "Saritasa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_qaseio-2.7.1.tar.gz",
+  "download_time": "2025-11-12T05:25:31.146538",
+  "package_url": "https://pypi.org/project/pytest-qaseio/"
+}

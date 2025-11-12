@@ -1,11 +1,11 @@
 {
   "name": "anonymask",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Secure anonymization/de-anonymization library for PII data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "anonymask-0.1.6.tar.gz",
-  "download_time": "2025-11-12T04:33:47.386750",
+  "download_filename": "anonymask-0.1.8.tar.gz",
+  "download_time": "2025-11-12T05:25:31.711056",
   "package_url": "https://pypi.org/project/anonymask/"
 }
