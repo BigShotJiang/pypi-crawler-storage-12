@@ -1,11 +1,11 @@
 {
   "name": "promptron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python package for generating evaluation datasets using LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "promptron-1.0.0.tar.gz",
-  "download_time": "2025-11-12T05:57:17.792423",
+  "download_filename": "promptron-1.0.1.tar.gz",
+  "download_time": "2025-11-12T07:44:10.143780",
   "package_url": "https://pypi.org/project/promptron/"
 }
