@@ -1,11 +1,11 @@
 {
   "name": "tanabesugano",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A python-solver for Tanabe-Sugano and Energy-Correlation diagrams",
-  "author": "Anselm Hahn",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tanabesugano-1.5.0.tar.gz",
-  "download_time": "2025-11-10T22:44:36.424573",
+  "download_filename": "tanabesugano-1.6.0.tar.gz",
+  "download_time": "2025-11-12T18:56:59.031665",
   "package_url": "https://pypi.org/project/tanabesugano/"
 }

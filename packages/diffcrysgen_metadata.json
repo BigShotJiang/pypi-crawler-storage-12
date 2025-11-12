@@ -1,0 +1,11 @@
+{
+  "name": "diffcrysgen",
+  "version": "0.1.0",
+  "summary": "\"DiffCrysGen is a score-based diffusion model for accelerated design of diverse inorganic crystalline materials.\"",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/SouravMal/DiffCrysGen.git",
+  "download_filename": "diffcrysgen-0.1.0.tar.gz",
+  "download_time": "2025-11-12T18:57:05.794251",
+  "package_url": "https://pypi.org/project/diffcrysgen/"
+}

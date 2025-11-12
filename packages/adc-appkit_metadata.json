@@ -1,0 +1,11 @@
+{
+  "name": "adc-appkit",
+  "version": "0.1.0",
+  "summary": "ADC AppKit - библиотека для управления компонентами и состоянием приложения",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adc_appkit-0.1.0.tar.gz",
+  "download_time": "2025-11-12T18:56:55.421641",
+  "package_url": "https://pypi.org/project/adc-appkit/"
+}

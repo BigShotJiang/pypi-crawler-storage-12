@@ -1,0 +1,11 @@
+{
+  "name": "adc-logger",
+  "version": "0.1.0",
+  "summary": "Python logging library with JSON formatting support",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/ascet-dev/adc-logger",
+  "download_filename": "adc_logger-0.1.0.tar.gz",
+  "download_time": "2025-11-12T18:56:58.516815",
+  "package_url": "https://pypi.org/project/adc-logger/"
+}
