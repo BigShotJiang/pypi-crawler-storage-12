@@ -1,11 +1,11 @@
 {
   "name": "nmsi",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "No More Search for Installation - Easy installation tool for open source software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nmsi-0.1.1.tar.gz",
-  "download_time": "2025-11-10T12:52:21.215100",
+  "download_filename": "nmsi-0.1.4.tar.gz",
+  "download_time": "2025-11-12T13:57:15.083403",
   "package_url": "https://pypi.org/project/nmsi/"
 }

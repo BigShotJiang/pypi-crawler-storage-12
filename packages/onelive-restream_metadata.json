@@ -1,0 +1,11 @@
+{
+  "name": "onelive-restream",
+  "version": "0.2.10",
+  "summary": "Restreaming for the customer",
+  "author": "Nexium",
+  "license": "MIT",
+  "home_page": "https://nexium.me",
+  "download_filename": "onelive_restream-0.2.10.tar.gz",
+  "download_time": "2025-11-12T13:57:23.689412",
+  "package_url": "https://pypi.org/project/onelive-restream/"
+}
