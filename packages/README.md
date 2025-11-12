@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T03:17:08.327578
-- **Total Packages**: 81
-- **Total Size**: 22.28 MB
+- **Download Time**: 2025-11-12T03:58:20.684714
+- **Total Packages**: 83
+- **Total Size**: 18.87 MB
 
 ## Packages List
+- basic-colormath
+- facial-recognition
+- asyncfast
+- amgi-types
+- amgi-common
+- amgi-aiokafka
+- hitoshura25-gemini-workflow-bridge
+- dnamite
+- nightowl
+- rdap
+- odoo-addons-oca-operating-unit
+- mat3ra-api-examples
+- iflow-mcp_tavily
+- hui2
+- keras-rs-nightly
+- gui-utilities
+- smdata
+- llmling-models
+- repo-smith
+- GANDLF
+- daplug-ddb
+- liwancai
+- odoo-addons-oca-manufacture
+- odoo-addon-quality-control-product-manufacturer
+- odoo-addon-mrp-bom-priority
+- odoo-addon-quality-control-stock-oca
+- glide-mcp
+- AgentService
+- code-index-mcp
+- bluehive
+- pranavi-convert
+- lisaanalysistools-cuda12x
+- pyobfus
+- lisaanalysistools-cuda11x
+- aiinbx
+- lisaanalysistools
+- iso2mesh
+- anonymask
+- odoo-addon-ebill-postfinance
+- iflow-mcp_databricks
+- py-rust-stemmers-tuned
+- python-undef
+- odoo-addon-l10n-es-aeat-sii-oca
+- minikai
+- lyapprove
+- oracledb
+- cidocker
+- pyAgrum-nightly
+- withpi
+- rainstorm
+- e-invoice-api
+- suga-client
 - arbi
 - gllm-inference-binary
 - nedo-vision-annotator
@@ -28,7 +80,6 @@
 - evo-sdk
 - cartography-client
 - daita-agents
-- glide-mcp
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - py-rust-encode-varint
@@ -38,52 +89,3 @@
 - gumnut-sdk
 - mzy-py
 - pyuepak
-- megatron-core
-- megatron-fsdp
-- iflow-mcp_mcp-youtube-transcript
-- glowpython2
-- unidep
-- HongTaQuant
-- cloud-autopkg-runner
-- gui-utilities
-- iflow-mcp_ai-kline
-- pyodim
-- AgentService
-- doi2bib3
-- cacheado
-- tictacsync
-- secsgem_cyg
-- autokeras
-- webull-openapi-python-sdk
-- odoo-addons-oca-e-commerce
-- pocketorm
-- vibego
-- certifi
-- odoo-addon-delivery-cbl
-- resume-generator-mcp
-- fct-kiwi
-- tetrascience-cli
-- msis21py
-- pystran
-- odoo-addons-oca-crm
-- general-intelligence
-- odoo-addon-crm-stage-mail
-- django-revision
-- odoo-addon-l10n-be-cooperator
-- odoo-addon-l10n-ch-cooperator
-- antchain-blockchain
-- tencent-wedata-auto-ml
-- evo-objects
-- why-tools
-- evo-sdk-common
-- etops-nightly
-- aa-srp
-- iri20py
-- hpcp
-- iflow-mcp_qgis-mcp
-- odoo-addon-account-commission
-- odoo-addon-commission
-- pyadvincekit
-- op-opsdevnz
-- glitterin
-- siena_mls

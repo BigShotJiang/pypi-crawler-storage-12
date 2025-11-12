@@ -1,0 +1,11 @@
+{
+  "name": "nightowl",
+  "version": "0.1.1",
+  "summary": "Base metrics and monitoring utilities for consistent Prometheus monitoring across services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nightowl-0.1.1.tar.gz",
+  "download_time": "2025-11-12T03:57:35.502524",
+  "package_url": "https://pypi.org/project/nightowl/"
+}

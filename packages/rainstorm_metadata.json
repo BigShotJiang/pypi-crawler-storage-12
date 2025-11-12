@@ -1,11 +1,11 @@
 {
   "name": "rainstorm",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "Real & Artificial Intelligence for Neuroscience – Simple Tracker for Object Recognition Memory",
   "author": "Santiago D'hers",
   "license": "MIT",
   "home_page": "https://github.com/sdhers/RAINSTORM",
-  "download_filename": "rainstorm-1.0.8.tar.gz",
-  "download_time": "2025-11-10T13:55:28.010369",
+  "download_filename": "rainstorm-1.0.11.tar.gz",
+  "download_time": "2025-11-12T03:58:00.248547",
   "package_url": "https://pypi.org/project/rainstorm/"
 }

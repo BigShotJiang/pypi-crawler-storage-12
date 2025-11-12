@@ -1,0 +1,11 @@
+{
+  "name": "daplug-ddb",
+  "version": "1.0.0b14",
+  "summary": "Schema-aware DynamoDB adapter with prefixing, SNS hooks, and batching.",
+  "author": "Paul Cruse III",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dual/daplug-ddb",
+  "download_filename": "daplug_ddb-1.0.0b14.tar.gz",
+  "download_time": "2025-11-12T03:57:42.631262",
+  "package_url": "https://pypi.org/project/daplug-ddb/"
+}

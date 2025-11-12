@@ -1,0 +1,11 @@
+{
+  "name": "rdap",
+  "version": "1.7.0",
+  "summary": "Registration Data Access Protocol tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdap-1.7.0.tar.gz",
+  "download_time": "2025-11-12T03:57:36.085846",
+  "package_url": "https://pypi.org/project/rdap/"
+}
