@@ -1,11 +1,11 @@
 {
   "name": "curvpyutils",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "summary": "Utility functions for Curv Python packages",
   "author": "Mike Goelzer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "curvpyutils-0.0.35.tar.gz",
-  "download_time": "2025-11-12T11:41:45.789125",
+  "download_filename": "curvpyutils-0.0.36.tar.gz",
+  "download_time": "2025-11-12T11:54:24.870675",
   "package_url": "https://pypi.org/project/curvpyutils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-text-styles",
+  "version": "0.2.1",
+  "summary": "Sphinx extension for custom text formatting roles",
+  "author": "Martin Priestley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_text_styles-0.2.1.tar.gz",
+  "download_time": "2025-11-12T11:54:21.236504",
+  "package_url": "https://pypi.org/project/sphinxcontrib-text-styles/"
+}

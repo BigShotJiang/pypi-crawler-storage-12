@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T11:42:30.842171
-- **Total Packages**: 93
-- **Total Size**: 44.66 MB
+- **Download Time**: 2025-11-12T11:55:06.866633
+- **Total Packages**: 89
+- **Total Size**: 11.21 MB
 
 ## Packages List
+- anubis-cli
+- type-bridge
+- aixtools
+- hossam
+- sphinxcontrib-text-styles
+- job-template
+- mewo_ovhcloud
+- gitcrumbs
+- oarepo-runtime
+- financial-reports-generated-client
+- pulumi
+- curvpyutils
+- django-userpack
+- pyquantile
+- stocklens-sdk
+- django-cotton-bs5
+- tictacsync
+- dfm-python
+- absurd
+- mzy-py
+- karma-medeval
+- lagents
+- orng
+- task-scheduling
+- recov
+- alphapulldown-input-parser
+- bwd
+- django-gcp
+- bae-mem
+- icoapi
+- upathtools
+- unike
+- atptools
+- mobidec-package-test
+- tts-text-norm
+- xlsxdatagrid
+- SimplHDL
+- dd-coresets
+- wriftai
 - veda-pytorch
 - scout-ch-djangocms-who-is-who
 - cloud-governance
@@ -15,7 +54,6 @@
 - sumo-logger
 - aveytense
 - talentro-commons
-- curvpyutils
 - clappia-api-tools
 - qpay-client
 - nvidia-nat-weave
@@ -57,45 +95,3 @@
 - nvidia-nat-agno
 - nvidia-nat-opentelemetry
 - kadoa-sdk
-- deampy
-- powerblog-toolkit
-- orion-data-analyst
-- masscube
-- openremote-client
-- fist
-- TozaText
-- nvidia-nat-ragaai
-- foxypack-youtube-pytubefix
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- torchft-nightly
-- compute-wer
-- hyperquant
-- django-twined
-- datamarket
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-weave
-- somnia-data-streams-sdk
-- aiqtoolkit-mem0ai
-- pg-stream-copy
-- aui-client
-- siga-mcp
-- aiqtoolkit-test
-- nidx-binding
-- aiqtoolkit-llama-index
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- aiqtoolkit
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- aiqtoolkit-langchain
-- SmartSpliter
-- mzy-py
-- aiqtoolkit-crewai
-- csspin-ce
-- realtimex-docs-server

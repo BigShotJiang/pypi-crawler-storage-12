@@ -1,0 +1,11 @@
+{
+  "name": "tts-text-norm",
+  "version": "1.0.0",
+  "summary": "多语言文本规范化库，支持中文、日语和英语",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://gitlab.com/<group>/<project>",
+  "download_filename": "tts_text_norm-1.0.0.tar.gz",
+  "download_time": "2025-11-12T11:54:38.346764",
+  "package_url": "https://pypi.org/project/tts-text-norm/"
+}

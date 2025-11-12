@@ -1,0 +1,11 @@
+{
+  "name": "lagents",
+  "version": "0.1.1",
+  "summary": "L'Agent - Minimal experimental framework for building agents with local LLM deployments. Zero bloat, maximum simplicity.",
+  "author": "BenevolentJoker",
+  "license": null,
+  "home_page": "https://github.com/BenevolentJoker-JohnL/agents",
+  "download_filename": "lagents-0.1.1.tar.gz",
+  "download_time": "2025-11-12T11:54:30.635702",
+  "package_url": "https://pypi.org/project/lagents/"
+}
