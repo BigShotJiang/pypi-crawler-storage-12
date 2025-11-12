@@ -1,11 +1,11 @@
 {
   "name": "gigachat-cli",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "GigaChat CLI utility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gigachat_cli-2.1.1.tar.gz",
-  "download_time": "2025-11-12T10:28:50.571530",
+  "download_filename": "gigachat_cli-2.1.2.tar.gz",
+  "download_time": "2025-11-12T10:51:25.616594",
   "package_url": "https://pypi.org/project/gigachat-cli/"
 }

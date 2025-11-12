@@ -1,0 +1,11 @@
+{
+  "name": "loopfinder",
+  "version": "3.0.1",
+  "summary": "A library for loop centring in MX crystallography",
+  "author": "KITS",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.maxiv.lu.se/kits-maxiv/lib-maxiv-loopfinder",
+  "download_filename": "loopfinder-3.0.1.tar.gz",
+  "download_time": "2025-11-12T10:51:04.945955",
+  "package_url": "https://pypi.org/project/loopfinder/"
+}

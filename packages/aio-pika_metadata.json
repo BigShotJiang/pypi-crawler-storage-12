@@ -1,0 +1,11 @@
+{
+  "name": "aio-pika",
+  "version": "9.5.8",
+  "summary": "Wrapper around the aiormq for asyncio and humans",
+  "author": "Dmitry Orlov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mosquito/aio-pika",
+  "download_filename": "aio_pika-9.5.8.tar.gz",
+  "download_time": "2025-11-12T10:51:13.266114",
+  "package_url": "https://pypi.org/project/aio-pika/"
+}

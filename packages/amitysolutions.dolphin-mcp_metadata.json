@@ -1,0 +1,11 @@
+{
+  "name": "amitysolutions.dolphin-mcp",
+  "version": "0.2.21",
+  "summary": "A flexible Python client for interacting with Model Context Protocol (MCP) servers",
+  "author": "Dolphin MCP Team, Amity Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amitysolutions_dolphin_mcp-0.2.21.tar.gz",
+  "download_time": "2025-11-12T10:51:21.521755",
+  "package_url": "https://pypi.org/project/amitysolutions.dolphin-mcp/"
+}

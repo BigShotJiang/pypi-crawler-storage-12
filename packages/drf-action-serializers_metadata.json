@@ -1,0 +1,11 @@
+{
+  "name": "drf-action-serializers",
+  "version": "0.2.1",
+  "summary": "Easily specify a serializer for each action and method combination",
+  "author": "Kevin Renskers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_action_serializers-0.2.1.tar.gz",
+  "download_time": "2025-11-12T10:51:18.430688",
+  "package_url": "https://pypi.org/project/drf-action-serializers/"
+}

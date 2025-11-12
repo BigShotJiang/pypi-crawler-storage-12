@@ -1,11 +1,11 @@
 {
   "name": "filekits",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "一个简洁高效的Python文件处理工具包，提供文件读写、网络下载、文件夹操作等常用功能",
   "author": "tinycen",
   "license": null,
   "home_page": "https://github.com/tinycen/filekits",
-  "download_filename": "filekits-0.2.1.tar.gz",
-  "download_time": "2025-11-12T10:28:51.150225",
+  "download_filename": "filekits-0.2.2.tar.gz",
+  "download_time": "2025-11-12T10:51:26.671070",
   "package_url": "https://pypi.org/project/filekits/"
 }

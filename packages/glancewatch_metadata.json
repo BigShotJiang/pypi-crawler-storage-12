@@ -1,11 +1,11 @@
 {
   "name": "glancewatch",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Lightweight monitoring adapter bridging Glances metrics with Uptime Kuma",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glancewatch-1.0.2.tar.gz",
-  "download_time": "2025-11-12T09:33:26.060277",
+  "download_filename": "glancewatch-1.0.4.tar.gz",
+  "download_time": "2025-11-12T10:51:13.778188",
   "package_url": "https://pypi.org/project/glancewatch/"
 }

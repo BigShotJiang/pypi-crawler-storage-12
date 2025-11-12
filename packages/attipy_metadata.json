@@ -1,11 +1,11 @@
 {
   "name": "attipy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Attitude and motion sensing toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attipy-0.0.1.tar.gz",
-  "download_time": "2025-11-11T17:44:55.483446",
+  "download_filename": "attipy-0.0.2.tar.gz",
+  "download_time": "2025-11-12T10:51:25.103293",
   "package_url": "https://pypi.org/project/attipy/"
 }

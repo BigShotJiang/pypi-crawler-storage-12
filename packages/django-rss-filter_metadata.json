@@ -1,0 +1,11 @@
+{
+  "name": "django-rss-filter",
+  "version": "0.14.1",
+  "summary": "Filter public RSS feeds, remove articles that contain certain keywords or categories.",
+  "author": "Kevin Renskers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_rss_filter-0.14.1.tar.gz",
+  "download_time": "2025-11-12T10:51:09.125232",
+  "package_url": "https://pypi.org/project/django-rss-filter/"
+}

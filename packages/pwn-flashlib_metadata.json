@@ -1,0 +1,11 @@
+{
+  "name": "pwn-flashlib",
+  "version": "0.3.1",
+  "summary": "A wrapper around pwntools but also with a few of the functions that I use on a daily basis.",
+  "author": "TheFlash2k",
+  "license": null,
+  "home_page": "https://github.com/theflash2k/flashlib",
+  "download_filename": "pwn_flashlib-0.3.1.tar.gz",
+  "download_time": "2025-11-12T10:51:02.896955",
+  "package_url": "https://pypi.org/project/pwn-flashlib/"
+}
