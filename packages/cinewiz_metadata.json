@@ -1,0 +1,11 @@
+{
+  "name": "cinewiz",
+  "version": "1.0.0",
+  "summary": "**Cinewiz** is an open-source Python package designed to streamline the development of **multimodal applications** powered by **LLMs**, **RAG (Retrieval-Augmented Generation)**, and **web crawling**. It’s built for workflows that require dynamic content generation and automation in creative environments.",
+  "author": "#ASYTRICK",
+  "license": null,
+  "home_page": "https://github.com/ssmool/cinewiz",
+  "download_filename": "cinewiz-1.0.0.tar.gz",
+  "download_time": "2025-11-12T18:37:37.903452",
+  "package_url": "https://pypi.org/project/cinewiz/"
+}

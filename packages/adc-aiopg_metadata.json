@@ -1,0 +1,11 @@
+{
+  "name": "adc-aiopg",
+  "version": "0.1.0",
+  "summary": "Async PostgreSQL client with connection pooling",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/ascet-dev/adc-aiopg",
+  "download_filename": "adc_aiopg-0.1.0.tar.gz",
+  "download_time": "2025-11-12T18:37:34.706929",
+  "package_url": "https://pypi.org/project/adc-aiopg/"
+}

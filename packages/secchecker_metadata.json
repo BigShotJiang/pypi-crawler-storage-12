@@ -1,0 +1,11 @@
+{
+  "name": "secchecker",
+  "version": "0.2.1",
+  "summary": "A comprehensive CLI tool to detect secrets and sensitive information in repositories for maintaining security best practices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "secchecker-0.2.1.tar.gz",
+  "download_time": "2025-11-12T18:37:36.269335",
+  "package_url": "https://pypi.org/project/secchecker/"
+}

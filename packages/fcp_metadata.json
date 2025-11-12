@@ -1,0 +1,11 @@
+{
+  "name": "fcp",
+  "version": "0.56.4",
+  "summary": "CAN bus manager",
+  "author": "Joao Freitas",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.com/joajfreitas/fcp-core",
+  "download_filename": "fcp-0.56.4.tar.gz",
+  "download_time": "2025-11-12T18:38:02.632758",
+  "package_url": "https://pypi.org/project/fcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sparse3d",
-  "version": "1.2.6",
+  "version": "1.2.9",
   "summary": null,
   "author": "Christina Hedges",
   "license": null,
   "home_page": null,
-  "download_filename": "sparse3d-1.2.6.tar.gz",
-  "download_time": "2025-11-10T19:53:31.713482",
+  "download_filename": "sparse3d-1.2.9.tar.gz",
+  "download_time": "2025-11-12T18:37:56.765073",
   "package_url": "https://pypi.org/project/sparse3d/"
 }

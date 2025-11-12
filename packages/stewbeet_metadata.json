@@ -1,11 +1,11 @@
 {
   "name": "stewbeet",
-  "version": "2.2.26",
+  "version": "2.2.27",
   "summary": "Beet Framework made to help generating advanced Minecraft datapack contents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stewbeet-2.2.26.tar.gz",
-  "download_time": "2025-11-11T18:59:33.456144",
+  "download_filename": "stewbeet-2.2.27.tar.gz",
+  "download_time": "2025-11-12T18:37:39.986510",
   "package_url": "https://pypi.org/project/stewbeet/"
 }

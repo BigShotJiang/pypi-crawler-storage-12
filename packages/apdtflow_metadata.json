@@ -1,0 +1,11 @@
+{
+  "name": "apdtflow",
+  "version": "0.3.0",
+  "summary": "APDTFlow: A modular forecasting framework for time series data",
+  "author": "Yotam Barun",
+  "license": "MIT",
+  "home_page": "https://github.com/yotambraun/APDTFlow",
+  "download_filename": "apdtflow-0.3.0.tar.gz",
+  "download_time": "2025-11-12T18:37:41.011294",
+  "package_url": "https://pypi.org/project/apdtflow/"
+}
