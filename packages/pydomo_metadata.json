@@ -1,0 +1,11 @@
+{
+  "name": "pydomo",
+  "version": "0.3.0.15",
+  "summary": "The official Python3 Domo API SDK - Domo, Inc.",
+  "author": "Jeremy Morris",
+  "license": "MIT",
+  "home_page": "https://github.com/domoinc/domo-python-sdk",
+  "download_filename": "pydomo-0.3.0.15.tar.gz",
+  "download_time": "2025-11-12T15:49:56.058655",
+  "package_url": "https://pypi.org/project/pydomo/"
+}

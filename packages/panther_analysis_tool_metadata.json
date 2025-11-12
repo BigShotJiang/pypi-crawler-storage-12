@@ -1,0 +1,11 @@
+{
+  "name": "panther_analysis_tool",
+  "version": "1.2.0",
+  "summary": "Panther command line interface for writing, testing, and packaging policies/rules.",
+  "author": "Panther Labs Inc",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/panther-labs/panther_analysis_tool",
+  "download_filename": "panther_analysis_tool-1.2.0.tar.gz",
+  "download_time": "2025-11-12T15:49:18.249696",
+  "package_url": "https://pypi.org/project/panther_analysis_tool/"
+}

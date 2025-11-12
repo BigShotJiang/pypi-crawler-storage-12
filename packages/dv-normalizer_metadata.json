@@ -1,0 +1,11 @@
+{
+  "name": "dv-normalizer",
+  "version": "0.1.4",
+  "summary": "A Python library for normalizing Dhivehi text and converting numbers to Dhivehi text format, supporting written, spoken and year forms",
+  "author": "Alakxender",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dv_normalizer-0.1.4.tar.gz",
+  "download_time": "2025-11-12T15:49:35.535842",
+  "package_url": "https://pypi.org/project/dv-normalizer/"
+}

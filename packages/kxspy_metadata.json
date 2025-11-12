@@ -1,0 +1,11 @@
+{
+  "name": "kxspy",
+  "version": "1.0.3b0",
+  "summary": "Kxspy is a async python client for KxsClient Network.",
+  "author": "lavecat",
+  "license": null,
+  "home_page": "https://github.com/lavecat/Kxspy",
+  "download_filename": "kxspy-1.0.3b0.tar.gz",
+  "download_time": "2025-11-12T15:49:31.746741",
+  "package_url": "https://pypi.org/project/kxspy/"
+}

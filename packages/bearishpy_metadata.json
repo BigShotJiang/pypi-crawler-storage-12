@@ -1,11 +1,11 @@
 {
   "name": "bearishpy",
-  "version": "0.39.0",
+  "version": "0.40.0",
   "summary": null,
   "author": "aan",
   "license": null,
   "home_page": null,
-  "download_filename": "bearishpy-0.39.0.tar.gz",
-  "download_time": "2025-11-11T15:45:52.110634",
+  "download_filename": "bearishpy-0.40.0.tar.gz",
+  "download_time": "2025-11-12T15:49:42.749163",
   "package_url": "https://pypi.org/project/bearishpy/"
 }

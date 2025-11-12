@@ -1,11 +1,11 @@
 {
   "name": "python-rootpath",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "Python project/package root path detection.",
   "author": "Jonas Grimfelt",
   "license": "MIT",
-  "home_page": "https://github.com/grimen/python-python-rootpath",
-  "download_filename": "python_rootpath-0.1.1.tar.gz",
-  "download_time": "2025-11-12T15:29:00.234667",
+  "home_page": "https://github.com/grimen/python-rootpath",
+  "download_filename": "python_rootpath-0.1.8.tar.gz",
+  "download_time": "2025-11-12T15:49:21.594245",
   "package_url": "https://pypi.org/project/python-rootpath/"
 }

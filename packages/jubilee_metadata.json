@@ -1,0 +1,11 @@
+{
+  "name": "jubilee",
+  "version": "0.104",
+  "summary": "Lightweight application framework built on pygame",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jubilee-0.104.tar.gz",
+  "download_time": "2025-11-12T15:49:20.070663",
+  "package_url": "https://pypi.org/project/jubilee/"
+}

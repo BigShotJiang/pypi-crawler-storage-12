@@ -1,0 +1,11 @@
+{
+  "name": "bdgd2opendss",
+  "version": "1.0.0",
+  "summary": "BDGD2OpenDSS converts BDGD data into OpenDSS models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bdgd2opendss-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-12T15:49:13.009656",
+  "package_url": "https://pypi.org/project/bdgd2opendss/"
+}

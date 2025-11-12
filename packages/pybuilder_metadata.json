@@ -1,0 +1,11 @@
+{
+  "name": "pybuilder",
+  "version": "0.13.17",
+  "summary": "PyBuilder — an easy-to-use build automation tool for Python.",
+  "author": "Arcadiy Ivanov, Alexander Metzner, Maximilien Riehl, Michael Gruber, Udo Juettner, Marcel Wolf, Valentin Haenel",
+  "license": "Apache-2.0",
+  "home_page": "https://pybuilder.io",
+  "download_filename": "pybuilder-0.13.17.tar.gz",
+  "download_time": "2025-11-12T15:49:39.480861",
+  "package_url": "https://pypi.org/project/pybuilder/"
+}
