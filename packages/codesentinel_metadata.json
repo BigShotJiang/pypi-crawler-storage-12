@@ -1,0 +1,11 @@
+{
+  "name": "codesentinel",
+  "version": "1.1.2",
+  "summary": "Automated Maintenance & Security Monitoring | A Polymath Project",
+  "author": "joediggidyyy",
+  "license": "MIT",
+  "home_page": "https://github.com/joediggidyyy/CodeSentinel",
+  "download_filename": "codesentinel-1.1.2.tar.gz",
+  "download_time": "2025-11-12T04:55:41.284139",
+  "package_url": "https://pypi.org/project/codesentinel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loominar",
+  "version": "0.2.0",
+  "summary": "Loominar — a Python-based open-source utility for exporting SonarQube analysis and quality metrics into professional Word, Excel, and CSV reports.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loominar-0.2.0.tar.gz",
+  "download_time": "2025-11-12T04:55:31.700417",
+  "package_url": "https://pypi.org/project/loominar/"
+}

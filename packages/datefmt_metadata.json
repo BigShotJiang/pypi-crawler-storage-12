@@ -1,0 +1,11 @@
+{
+  "name": "datefmt",
+  "version": "0.0.1",
+  "summary": "Converting between Unix timestamps and standard date string formats.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/datefmt",
+  "download_filename": "datefmt-0.0.1.tar.gz",
+  "download_time": "2025-11-12T04:55:27.723368",
+  "package_url": "https://pypi.org/project/datefmt/"
+}
