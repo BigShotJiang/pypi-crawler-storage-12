@@ -1,0 +1,11 @@
+{
+  "name": "postcrawl",
+  "version": "1.1.0",
+  "summary": "Python SDK for PostCrawl - The Fastest LLM Ready Social Media Crawler",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "postcrawl-1.1.0.tar.gz",
+  "download_time": "2025-11-12T17:00:26.087747",
+  "package_url": "https://pypi.org/project/postcrawl/"
+}

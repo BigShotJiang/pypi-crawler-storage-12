@@ -1,11 +1,11 @@
 {
   "name": "orlax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Extensible offline reinforcement learning framework built with JAX, Flax, and Optax",
   "author": "sql-hkr",
   "license": null,
   "home_page": null,
-  "download_filename": "orlax-0.1.0.tar.gz",
-  "download_time": "2025-11-11T18:38:12.427716",
+  "download_filename": "orlax-0.1.1.tar.gz",
+  "download_time": "2025-11-12T17:00:34.402512",
   "package_url": "https://pypi.org/project/orlax/"
 }

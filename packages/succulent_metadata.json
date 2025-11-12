@@ -1,0 +1,11 @@
+{
+  "name": "succulent",
+  "version": "0.4.3",
+  "summary": "Collect POST requests easily",
+  "author": "Iztok Fister Jr.",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/succulent",
+  "download_filename": "succulent-0.4.3.tar.gz",
+  "download_time": "2025-11-12T17:00:27.658694",
+  "package_url": "https://pypi.org/project/succulent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logic-superfence",
+  "version": "1.2.0",
+  "summary": "A superfence pymarkdown extension to display Logic-Circuit-Simulator",
+  "author": "Davy Cottet",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://logic-superfence.gitlab.io",
+  "download_filename": "logic_superfence-1.2.0.tar.gz",
+  "download_time": "2025-11-12T17:00:03.690024",
+  "package_url": "https://pypi.org/project/logic-superfence/"
+}

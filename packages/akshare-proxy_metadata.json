@@ -1,0 +1,11 @@
+{
+  "name": "akshare-proxy",
+  "version": "1.17.88",
+  "summary": "AKShare is an elegant and simple financial data interface library for Python, built for human beings!",
+  "author": "AKFamily",
+  "license": "MIT",
+  "home_page": "https://github.com/akfamily/akshare",
+  "download_filename": "akshare_proxy-1.17.88.tar.gz",
+  "download_time": "2025-11-12T17:00:14.608451",
+  "package_url": "https://pypi.org/project/akshare-proxy/"
+}

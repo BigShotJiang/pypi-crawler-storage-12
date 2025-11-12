@@ -1,0 +1,11 @@
+{
+  "name": "blue-prints",
+  "version": "0.5.2",
+  "summary": "Blueprints, open source python package for civil engineering calculations.",
+  "author": "Blueprints",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blue_prints-0.5.2.tar.gz",
+  "download_time": "2025-11-12T17:00:20.382434",
+  "package_url": "https://pypi.org/project/blue-prints/"
+}

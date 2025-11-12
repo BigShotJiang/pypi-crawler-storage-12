@@ -1,0 +1,11 @@
+{
+  "name": "pocomc-bilby",
+  "version": "0.2.2",
+  "summary": "pocomc plugin for bilby",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pocomc_bilby-0.2.2.tar.gz",
+  "download_time": "2025-11-12T17:00:28.171292",
+  "package_url": "https://pypi.org/project/pocomc-bilby/"
+}

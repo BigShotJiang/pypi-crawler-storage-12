@@ -1,0 +1,11 @@
+{
+  "name": "nig-upload",
+  "version": "0.4.3",
+  "summary": "CLI script for automated uploads of NIG studies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nig_upload-0.4.3.tar.gz",
+  "download_time": "2025-11-12T17:00:02.121155",
+  "package_url": "https://pypi.org/project/nig-upload/"
+}

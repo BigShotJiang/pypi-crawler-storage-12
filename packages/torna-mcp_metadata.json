@@ -1,11 +1,11 @@
 {
   "name": "torna-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A MCP (Model Context Protocol) server for interacting with Torna API documentation platform",
   "author": "阿拉丁神灯",
   "license": "MIT",
   "home_page": "https://github.com/li7hai26/torna-mcp",
-  "download_filename": "torna_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-12T15:29:17.465313",
+  "download_filename": "torna_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-12T17:00:06.879092",
   "package_url": "https://pypi.org/project/torna-mcp/"
 }

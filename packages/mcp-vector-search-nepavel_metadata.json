@@ -1,11 +1,11 @@
 {
   "name": "mcp-vector-search-nepavel",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "MCP server for cloud-based vector code search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_vector_search_nepavel-1.0.5.tar.gz",
-  "download_time": "2025-11-12T15:29:38.876832",
+  "download_filename": "mcp_vector_search_nepavel-1.0.6.tar.gz",
+  "download_time": "2025-11-12T16:59:55.386949",
   "package_url": "https://pypi.org/project/mcp-vector-search-nepavel/"
 }
