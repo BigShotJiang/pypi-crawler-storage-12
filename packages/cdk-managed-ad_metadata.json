@@ -1,0 +1,11 @@
+{
+  "name": "cdk-managed-ad",
+  "version": "0.0.19",
+  "summary": "AWS CDK constructs for Directory Service Managed AD",
+  "author": "bpal410<46696804+bpal410@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bpal410/cdk-managed-ad.git",
+  "download_filename": "cdk_managed_ad-0.0.19.tar.gz",
+  "download_time": "2025-11-12T20:45:24.950699",
+  "package_url": "https://pypi.org/project/cdk-managed-ad/"
+}

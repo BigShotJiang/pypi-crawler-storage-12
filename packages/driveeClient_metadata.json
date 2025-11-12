@@ -1,0 +1,11 @@
+{
+  "name": "driveeClient",
+  "version": "0.1.0",
+  "summary": "Python client library for automation and control of an EV Wallbox charger via local API or cloud endpoints",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "driveeclient-0.1.0.tar.gz",
+  "download_time": "2025-11-12T20:45:53.791992",
+  "package_url": "https://pypi.org/project/driveeClient/"
+}

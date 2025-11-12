@@ -1,0 +1,11 @@
+{
+  "name": "pthree",
+  "version": "1.0.0",
+  "summary": "Python project parser used to generate member trees for sphinx autosummary documentation.",
+  "author": "Ryder Davidson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pthree-1.0.0.tar.gz",
+  "download_time": "2025-11-12T20:45:54.313762",
+  "package_url": "https://pypi.org/project/pthree/"
+}
