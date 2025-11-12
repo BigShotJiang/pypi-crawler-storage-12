@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_rootly-mcp-server",
+  "version": "2.0.15",
+  "summary": "A Model Context Protocol server for Rootly APIs using OpenAPI spec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_rootly_mcp_server-2.0.15.tar.gz",
+  "download_time": "2025-11-12T05:57:23.113149",
+  "package_url": "https://pypi.org/project/iflow-mcp_rootly-mcp-server/"
+}

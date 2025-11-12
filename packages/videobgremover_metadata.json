@@ -1,0 +1,11 @@
+{
+  "name": "videobgremover",
+  "version": "0.1.8",
+  "summary": "Official Python SDK for VideoBGRemover API - Remove video backgrounds with AI and compose videos with FFmpeg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "videobgremover-0.1.8.tar.gz",
+  "download_time": "2025-11-12T05:57:15.724934",
+  "package_url": "https://pypi.org/project/videobgremover/"
+}

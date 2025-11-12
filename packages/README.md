@@ -1,17 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T05:45:35.180718
+- **Download Time**: 2025-11-12T05:57:59.752990
 - **Total Packages**: 88
-- **Total Size**: 14.26 MB
+- **Total Size**: 11.24 MB
 
 ## Packages List
+- caffeinism-utils
+- scipion-em-topaz
+- pydanticio
+- k-hhc
+- videobgremover
+- sfq
+- iflow-mcp_wikipedia-mcp
+- sugar-mcp
+- promptron
+- asciipal
+- pulumi-confluentcloud
+- xqcsendmessage
+- carabao
+- aws-cost-calculator-cli
+- dragohan-grimoire
+- geondtfinf
+- django-codenerix
+- iflow-mcp_rootly-mcp-server
+- realtimex-pyautogui-server
+- shona-spacy
 - langchain-parallel
 - localstack-core
 - gym-plotter
 - pulumi-aws-apigateway
 - divide21env
-- aws-cost-calculator-cli
 - geondptinf
 - pypomes-logging
 - lyapprove
@@ -75,22 +94,3 @@
 - llmakits
 - usdk
 - saviialib
-- AutoStatLib
-- cognite-neat
-- pyboot-dataflow
-- nonebot-plugin-image-symmetry
-- pulumi-extra
-- arabictest
-- wyn360-cli
-- jijmodeling
-- django-spire
-- ApkPatcherX
-- pytest-qaseio
-- edc-qol
-- pyboot-cli
-- datefmt
-- frostfire
-- physics-utils
-- jaxl-python
-- pyvesync
-- pyobfus
