@@ -1,0 +1,11 @@
+{
+  "name": "octodns-metaname",
+  "version": "0.1.1",
+  "summary": "OpsDev.nz OctoDNS provider for the Metaname DNS API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octodns_metaname-0.1.1.tar.gz",
+  "download_time": "2025-11-12T22:42:43.506846",
+  "package_url": "https://pypi.org/project/octodns-metaname/"
+}

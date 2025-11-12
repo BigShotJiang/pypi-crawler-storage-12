@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-agent-toolkit",
+  "version": "0.8.1",
+  "summary": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_agent_toolkit-0.8.1.tar.gz",
+  "download_time": "2025-11-12T22:42:29.518835",
+  "package_url": "https://pypi.org/project/langgraph-agent-toolkit/"
+}

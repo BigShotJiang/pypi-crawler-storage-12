@@ -1,0 +1,11 @@
+{
+  "name": "regex-automata",
+  "version": "0.3.1",
+  "summary": "Library for regular expressions using finite automata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regex_automata-0.3.1.tar.gz",
+  "download_time": "2025-11-12T22:42:30.709124",
+  "package_url": "https://pypi.org/project/regex-automata/"
+}

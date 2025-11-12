@@ -1,0 +1,11 @@
+{
+  "name": "geointel",
+  "version": "0.1.12",
+  "summary": "AI-powered geolocation analysis using Google Gemini 2.5 Flash",
+  "author": "Atilla",
+  "license": null,
+  "home_page": "https://github.com/atiilla/geointel",
+  "download_filename": "geointel-0.1.12.tar.gz",
+  "download_time": "2025-11-12T22:42:46.794404",
+  "package_url": "https://pypi.org/project/geointel/"
+}

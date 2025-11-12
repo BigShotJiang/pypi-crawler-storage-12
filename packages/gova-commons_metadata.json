@@ -1,11 +1,11 @@
 {
   "name": "gova-commons",
-  "version": "2.1.0",
+  "version": "2.2.2",
   "summary": "Common backend utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gova_commons-2.1.0.tar.gz",
-  "download_time": "2025-11-11T23:44:26.113737",
+  "download_filename": "gova_commons-2.2.2.tar.gz",
+  "download_time": "2025-11-12T22:42:40.213687",
   "package_url": "https://pypi.org/project/gova-commons/"
 }

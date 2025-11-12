@@ -1,11 +1,11 @@
 {
   "name": "cosma",
-  "version": "0.2.0",
-  "summary": null,
+  "version": "0.3.0",
+  "summary": "Search engine for your files!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cosma-0.2.0.tar.gz",
-  "download_time": "2025-11-11T04:33:44.813721",
+  "download_filename": "cosma-0.3.0.tar.gz",
+  "download_time": "2025-11-12T22:42:28.925835",
   "package_url": "https://pypi.org/project/cosma/"
 }

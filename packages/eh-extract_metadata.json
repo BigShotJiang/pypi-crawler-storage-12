@@ -1,0 +1,11 @@
+{
+  "name": "eh-extract",
+  "version": "1.0.0",
+  "summary": "A CLI tool to extract file contents and structure into a single text file.",
+  "author": "Esmail Ebrahim Hamza",
+  "license": "MIT",
+  "home_page": "https://github.com/EsmailEbrahim/eh-extract-files-to-txt",
+  "download_filename": "eh_extract-1.0.0.tar.gz",
+  "download_time": "2025-11-12T22:43:00.063195",
+  "package_url": "https://pypi.org/project/eh-extract/"
+}

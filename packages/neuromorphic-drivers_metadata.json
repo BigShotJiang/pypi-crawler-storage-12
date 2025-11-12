@@ -1,0 +1,11 @@
+{
+  "name": "neuromorphic-drivers",
+  "version": "0.16.2",
+  "summary": "Neuromorphic devices drivers",
+  "author": "International Centre for Neuromorphic Systems, Alexandre Marcireau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuromorphic_drivers-0.16.2.tar.gz",
+  "download_time": "2025-11-12T22:42:49.576141",
+  "package_url": "https://pypi.org/project/neuromorphic-drivers/"
+}
