@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-sagemaker-a2i-runtime",
+  "version": "2.25.1",
+  "summary": "Type annotations for aiobotocore AugmentedAIRuntime 2.25.1 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_sagemaker_a2i_runtime-2.25.1.tar.gz",
+  "download_time": "2025-11-12T01:55:58.695936",
+  "package_url": "https://pypi.org/project/types-aiobotocore-sagemaker-a2i-runtime/"
+}

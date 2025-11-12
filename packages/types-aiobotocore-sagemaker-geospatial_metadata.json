@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-sagemaker-geospatial",
+  "version": "2.25.2",
+  "summary": "Type annotations for aiobotocore SageMakergeospatialcapabilities 2.25.2 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_sagemaker_geospatial-2.25.2.tar.gz",
+  "download_time": "2025-11-12T01:55:57.034774",
+  "package_url": "https://pypi.org/project/types-aiobotocore-sagemaker-geospatial/"
+}

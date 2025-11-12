@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-ssm-sap",
+  "version": "2.25.1",
+  "summary": "Type annotations for aiobotocore SsmSap 2.25.1 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_ssm_sap-2.25.1.tar.gz",
+  "download_time": "2025-11-12T01:55:35.997198",
+  "package_url": "https://pypi.org/project/types-aiobotocore-ssm-sap/"
+}

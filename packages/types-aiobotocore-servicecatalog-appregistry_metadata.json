@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-servicecatalog-appregistry",
+  "version": "2.25.2",
+  "summary": "Type annotations for aiobotocore AppRegistry 2.25.2 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_servicecatalog_appregistry-2.25.2.tar.gz",
+  "download_time": "2025-11-12T01:55:46.991381",
+  "package_url": "https://pypi.org/project/types-aiobotocore-servicecatalog-appregistry/"
+}
