@@ -1,0 +1,11 @@
+{
+  "name": "pyasstosrt",
+  "version": "1.5.0",
+  "summary": "Convert ASS subtitle to SRT format",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "pyasstosrt-1.5.0.tar.gz",
+  "download_time": "2025-11-12T23:24:40.158836",
+  "package_url": "https://pypi.org/project/pyasstosrt/"
+}

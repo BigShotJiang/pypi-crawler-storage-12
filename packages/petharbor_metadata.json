@@ -1,0 +1,11 @@
+{
+  "name": "petharbor",
+  "version": "0.2.2",
+  "summary": "PetHarbor is a Python package designed for anonymizing datasets using either a pre-trained model or a hash-based approach.",
+  "author": "Sean Farrell",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "petharbor-0.2.2.tar.gz",
+  "download_time": "2025-11-12T23:24:16.178472",
+  "package_url": "https://pypi.org/project/petharbor/"
+}

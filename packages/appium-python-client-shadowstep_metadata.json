@@ -1,0 +1,11 @@
+{
+  "name": "appium-python-client-shadowstep",
+  "version": "0.36.16",
+  "summary": "UI Testing Framework powered by Appium Python Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "appium_python_client_shadowstep-0.36.16.tar.gz",
+  "download_time": "2025-11-12T23:24:12.467930",
+  "package_url": "https://pypi.org/project/appium-python-client-shadowstep/"
+}

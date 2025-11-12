@@ -1,11 +1,11 @@
 {
   "name": "svd-imputer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "SVD-based time series imputation with uncertainty estimation",
   "author": "Rui Hugman",
   "license": null,
   "home_page": null,
-  "download_filename": "svd_imputer-0.1.0.tar.gz",
-  "download_time": "2025-11-12T22:43:04.575505",
+  "download_filename": "svd_imputer-0.1.2.tar.gz",
+  "download_time": "2025-11-12T23:24:11.343597",
   "package_url": "https://pypi.org/project/svd-imputer/"
 }

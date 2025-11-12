@@ -1,0 +1,11 @@
+{
+  "name": "sensorkit-ascom",
+  "version": "0.1.0",
+  "summary": "ASCOM Alpaca utilities for SensorKit.",
+  "author": "Ryan Swindle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sensorkit_ascom-0.1.0.tar.gz",
+  "download_time": "2025-11-12T23:24:07.095815",
+  "package_url": "https://pypi.org/project/sensorkit-ascom/"
+}

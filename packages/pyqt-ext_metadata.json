@@ -1,0 +1,11 @@
+{
+  "name": "pyqt-ext",
+  "version": "2025.11.12",
+  "summary": "Collection of PyQt widgets/tools",
+  "author": "Marcel Goldschen-Ohm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyqt_ext-2025.11.12.tar.gz",
+  "download_time": "2025-11-12T23:24:23.683977",
+  "package_url": "https://pypi.org/project/pyqt-ext/"
+}

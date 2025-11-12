@@ -1,0 +1,11 @@
+{
+  "name": "sensorkit-pwi4",
+  "version": "0.1.0",
+  "summary": "PlaneWave PWI4 utilities for SensorKit.",
+  "author": "Ryan Swindle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sensorkit_pwi4-0.1.0.tar.gz",
+  "download_time": "2025-11-12T23:24:02.785118",
+  "package_url": "https://pypi.org/project/sensorkit-pwi4/"
+}

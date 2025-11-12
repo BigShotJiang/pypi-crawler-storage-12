@@ -1,11 +1,11 @@
 {
   "name": "triplets",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Simple tools to load/modify/export XML/RDF data using Pandas DataFrames",
   "author": "Kristjan Vilgo",
   "license": "MIT",
   "home_page": "https://github.com/Haigutus/triplets",
-  "download_filename": "triplets-0.0.12.tar.gz",
-  "download_time": "2025-11-11T23:22:17.998679",
+  "download_filename": "triplets-0.0.14.tar.gz",
+  "download_time": "2025-11-12T23:24:04.399534",
   "package_url": "https://pypi.org/project/triplets/"
 }

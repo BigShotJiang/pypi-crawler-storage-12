@@ -1,11 +1,11 @@
 {
   "name": "songbirdcli",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "Songbird's cli.",
   "author": "Christian Boin",
   "license": null,
   "home_page": null,
-  "download_filename": "songbirdcli-0.2.9.tar.gz",
-  "download_time": "2025-11-12T18:57:01.091164",
+  "download_filename": "songbirdcli-0.3.0.tar.gz",
+  "download_time": "2025-11-12T23:24:26.867797",
   "package_url": "https://pypi.org/project/songbirdcli/"
 }
