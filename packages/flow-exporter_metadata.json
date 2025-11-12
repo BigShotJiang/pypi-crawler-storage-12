@@ -1,0 +1,11 @@
+{
+  "name": "flow-exporter",
+  "version": "0.1.1",
+  "summary": "Экспорт и импорт графовых JSON-проектов Langflow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flow_exporter-0.1.1.tar.gz",
+  "download_time": "2025-11-12T14:29:52.278730",
+  "package_url": "https://pypi.org/project/flow-exporter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "naxai",
+  "version": "0.0.49",
+  "summary": "Python sdk for Naxai's API",
+  "author": "kevin",
+  "license": null,
+  "home_page": "https://github.com/kevinRR2018/naxai-sdk-python",
+  "download_filename": "naxai-0.0.49.tar.gz",
+  "download_time": "2025-11-12T14:29:53.838537",
+  "package_url": "https://pypi.org/project/naxai/"
+}

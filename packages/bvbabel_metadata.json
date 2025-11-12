@@ -1,0 +1,11 @@
+{
+  "name": "bvbabel",
+  "version": "0.2.0",
+  "summary": "A lightweight Python library for reading and writing BrainVoyager file formats.",
+  "author": "Omer Faruk Gulban",
+  "license": "MIT",
+  "home_page": "https://github.com/ofgulban/bvbabel",
+  "download_filename": "bvbabel-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-12T14:29:16.183835",
+  "package_url": "https://pypi.org/project/bvbabel/"
+}

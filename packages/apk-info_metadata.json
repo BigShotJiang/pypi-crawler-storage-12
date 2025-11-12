@@ -1,11 +1,11 @@
 {
   "name": "apk-info",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "APK full-featured parser",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/delvinru/apk-info",
-  "download_filename": "apk_info-1.0.6.tar.gz",
-  "download_time": "2025-11-12T01:55:50.950684",
+  "download_filename": "apk_info-1.0.7.tar.gz",
+  "download_time": "2025-11-12T14:29:38.193960",
   "package_url": "https://pypi.org/project/apk-info/"
 }
