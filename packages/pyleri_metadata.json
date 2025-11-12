@@ -1,0 +1,11 @@
+{
+  "name": "pyleri",
+  "version": "1.5.0",
+  "summary": "Python Left-Right Parser",
+  "author": "Jeroen van der Heijden",
+  "license": null,
+  "home_page": "https://github.com/cesbit/pyleri",
+  "download_filename": "pyleri-1.5.0.tar.gz",
+  "download_time": "2025-11-12T20:28:51.486418",
+  "package_url": "https://pypi.org/project/pyleri/"
+}

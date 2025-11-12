@@ -1,11 +1,11 @@
 {
   "name": "msal-streamlit-auth",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Streamlit auth library based on MSAL.JS",
   "author": "Matthew Pallotta",
   "license": null,
   "home_page": null,
-  "download_filename": "msal_streamlit_auth-1.1.1.tar.gz",
-  "download_time": "2025-11-12T19:23:15.820911",
+  "download_filename": "msal_streamlit_auth-1.1.2.tar.gz",
+  "download_time": "2025-11-12T20:28:55.838889",
   "package_url": "https://pypi.org/project/msal-streamlit-auth/"
 }

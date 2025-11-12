@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-integration",
+  "version": "0.2.2",
+  "summary": "Reusable Django WhatsApp integration (Celery, rate-limiter, webhook, idempotency)",
+  "author": "OFFSIDE INTEGRATED TECHNOLOGY (Somtochukwu Emmanuel)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatsapp_integration-0.2.2.tar.gz",
+  "download_time": "2025-11-12T20:29:17.143163",
+  "package_url": "https://pypi.org/project/whatsapp-integration/"
+}

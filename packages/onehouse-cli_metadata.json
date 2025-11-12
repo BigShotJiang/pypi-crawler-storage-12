@@ -1,11 +1,11 @@
 {
   "name": "onehouse-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A command-line tool for executing SQL commands against the Onehouse API",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "onehouse_cli-0.1.1.tar.gz",
-  "download_time": "2025-11-12T06:41:39.048060",
+  "download_filename": "onehouse_cli-0.1.2.tar.gz",
+  "download_time": "2025-11-12T20:28:53.148445",
   "package_url": "https://pypi.org/project/onehouse-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tsa-core",
+  "version": "0.0.1",
+  "summary": "Temporal State Abstraction Core — The OS for AI Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsa_core-0.0.1.tar.gz",
+  "download_time": "2025-11-12T20:29:22.031996",
+  "package_url": "https://pypi.org/project/tsa-core/"
+}

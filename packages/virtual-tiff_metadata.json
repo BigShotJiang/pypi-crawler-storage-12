@@ -1,0 +1,11 @@
+{
+  "name": "virtual-tiff",
+  "version": "0.2.1",
+  "summary": "A parser intended for use with VirtualiZarr to create virtual Zarr stores from TIFFs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtual_tiff-0.2.1.tar.gz",
+  "download_time": "2025-11-12T20:29:06.838816",
+  "package_url": "https://pypi.org/project/virtual-tiff/"
+}

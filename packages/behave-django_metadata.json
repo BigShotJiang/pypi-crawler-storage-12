@@ -1,0 +1,11 @@
+{
+  "name": "behave-django",
+  "version": "1.8.0",
+  "summary": "Behave BDD integration for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "behave_django-1.8.0.tar.gz",
+  "download_time": "2025-11-12T20:28:44.303328",
+  "package_url": "https://pypi.org/project/behave-django/"
+}
