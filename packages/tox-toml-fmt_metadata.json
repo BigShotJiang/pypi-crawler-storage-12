@@ -1,0 +1,11 @@
+{
+  "name": "tox-toml-fmt",
+  "version": "1.2.1",
+  "summary": "Format your pyproject.toml file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox_toml_fmt-1.2.1-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-12T19:22:57.948422",
+  "package_url": "https://pypi.org/project/tox-toml-fmt/"
+}

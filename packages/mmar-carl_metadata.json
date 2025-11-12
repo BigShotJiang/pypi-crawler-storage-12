@@ -1,11 +1,11 @@
 {
   "name": "mmar-carl",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Collaborative Agent Reasoning Library",
   "author": "glazkov, shaposhnikov, tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_carl-0.0.8.tar.gz",
-  "download_time": "2025-11-12T17:45:25.585337",
+  "download_filename": "mmar_carl-0.0.9.tar.gz",
+  "download_time": "2025-11-12T19:23:15.301795",
   "package_url": "https://pypi.org/project/mmar-carl/"
 }
