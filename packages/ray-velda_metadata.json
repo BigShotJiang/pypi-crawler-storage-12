@@ -1,0 +1,11 @@
+{
+  "name": "ray-velda",
+  "version": "0.1.0",
+  "summary": "Ray node autoscaler based on Velda",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ray_velda-0.1.0.tar.gz",
+  "download_time": "2025-11-12T04:33:37.307241",
+  "package_url": "https://pypi.org/project/ray-velda/"
+}

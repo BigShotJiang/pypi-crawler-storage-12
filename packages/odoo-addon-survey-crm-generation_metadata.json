@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-survey-crm-generation",
-  "version": "17.0.1.0.2.1",
+  "version": "17.0.1.0.2.2",
   "summary": "Generate CRM leads/opportunities from surveys",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/survey",
-  "download_filename": "odoo_addon_survey_crm_generation-17.0.1.0.2.1-py3-none-any.whl",
-  "download_time": "2025-11-11T04:33:27.814456",
+  "download_filename": "odoo_addon_survey_crm_generation-17.0.1.0.2.2-py3-none-any.whl",
+  "download_time": "2025-11-12T04:33:40.589483",
   "package_url": "https://pypi.org/project/odoo-addon-survey-crm-generation/"
 }

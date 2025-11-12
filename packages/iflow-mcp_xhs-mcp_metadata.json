@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_xhs-mcp",
+  "version": "0.1.1",
+  "summary": "小红书MCP服务器 - 提供小红书API功能的MCP工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_xhs_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-12T04:34:07.420847",
+  "package_url": "https://pypi.org/project/iflow-mcp_xhs-mcp/"
+}

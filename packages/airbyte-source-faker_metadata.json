@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-faker",
+  "version": "6.2.38",
+  "summary": "Source implementation for fake but realistic looking data.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_faker-6.2.38.tar.gz",
+  "download_time": "2025-11-12T04:34:12.101526",
+  "package_url": "https://pypi.org/project/airbyte-source-faker/"
+}

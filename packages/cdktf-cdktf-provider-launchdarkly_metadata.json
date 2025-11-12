@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-launchdarkly",
+  "version": "5.1.0",
+  "summary": "Prebuilt launchdarkly Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-launchdarkly.git",
+  "download_filename": "cdktf_cdktf_provider_launchdarkly-5.1.0.tar.gz",
+  "download_time": "2025-11-12T04:34:08.463468",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-launchdarkly/"
+}

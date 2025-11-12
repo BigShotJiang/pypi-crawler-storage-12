@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-projects",
+  "version": "1.0.0",
+  "summary": "Microsoft Azure AI Projects Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-projects",
+  "download_filename": "azure_ai_projects-1.0.0.tar.gz",
+  "download_time": "2025-11-12T04:34:01.113266",
+  "package_url": "https://pypi.org/project/azure-ai-projects/"
+}

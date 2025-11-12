@@ -1,11 +1,11 @@
 {
   "name": "rustest",
-  "version": "0.8.1",
+  "version": "0.8.3",
   "summary": "Rust powered pytest-compatible runner",
   "author": "rustest contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rustest-0.8.1.tar.gz",
-  "download_time": "2025-11-11T21:02:21.819040",
+  "download_filename": "rustest-0.8.3.tar.gz",
+  "download_time": "2025-11-12T04:34:06.378906",
   "package_url": "https://pypi.org/project/rustest/"
 }

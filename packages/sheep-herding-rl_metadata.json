@@ -1,0 +1,11 @@
+{
+  "name": "sheep-herding-rl",
+  "version": "1.0.2",
+  "summary": "A reinforcement learning environment for sheep herding simulation with PPO, SAC, and TD3 algorithms",
+  "author": "ferip",
+  "license": "MIT",
+  "home_page": "https://github.com/dzijo/ferit-hackathon",
+  "download_filename": "sheep_herding_rl-1.0.2.tar.gz",
+  "download_time": "2025-11-12T04:33:43.743599",
+  "package_url": "https://pypi.org/project/sheep-herding-rl/"
+}

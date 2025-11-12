@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-auto-create-lot",
+  "version": "18.0.1.0.0.8",
+  "summary": "Auto create lots for incoming pickings",
+  "author": "ACSONE SA/NV, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_picking_auto_create_lot-18.0.1.0.0.8-py3-none-any.whl",
+  "download_time": "2025-11-12T04:33:43.214027",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-auto-create-lot/"
+}

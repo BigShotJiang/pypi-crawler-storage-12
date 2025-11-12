@@ -1,11 +1,11 @@
 {
   "name": "smdata",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Small package with named shared memory data structures",
   "author": "Xenely",
   "license": null,
   "home_page": null,
-  "download_filename": "smdata-1.6.1.tar.gz",
-  "download_time": "2025-11-12T03:57:40.278204",
+  "download_filename": "smdata-1.6.2.tar.gz",
+  "download_time": "2025-11-12T04:33:55.775550",
   "package_url": "https://pypi.org/project/smdata/"
 }
