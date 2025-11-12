@@ -1,0 +1,11 @@
+{
+  "name": "okstdio",
+  "version": "0.1.0",
+  "summary": "基于 Stdio 的 JSON RPC 父子进程通信模块",
+  "author": "jianjian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "okstdio-0.1.0.tar.gz",
+  "download_time": "2025-11-12T17:57:54.658440",
+  "package_url": "https://pypi.org/project/okstdio/"
+}

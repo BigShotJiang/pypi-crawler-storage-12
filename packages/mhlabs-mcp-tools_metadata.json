@@ -1,11 +1,11 @@
 {
   "name": "mhlabs-mcp-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "MCP tools package: text preprocessing, NLP components, and document analysis (STDIO FastMCP server).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mhlabs_mcp_tools-0.0.2.tar.gz",
-  "download_time": "2025-11-12T17:45:12.210861",
+  "download_filename": "mhlabs_mcp_tools-0.0.3.tar.gz",
+  "download_time": "2025-11-12T17:58:18.340496",
   "package_url": "https://pypi.org/project/mhlabs-mcp-tools/"
 }

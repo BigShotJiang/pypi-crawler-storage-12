@@ -1,11 +1,11 @@
 {
   "name": "itp-interface",
-  "version": "1.1.19",
+  "version": "1.2.0",
   "summary": "Generic interface for hooking up to any Interactive Theorem Prover (ITP) and collecting data for training ML models for AI in formal theorem proving.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "itp_interface-1.1.19.tar.gz",
-  "download_time": "2025-11-11T17:45:07.718078",
+  "download_filename": "itp_interface-1.2.0.tar.gz",
+  "download_time": "2025-11-12T17:58:05.663204",
   "package_url": "https://pypi.org/project/itp-interface/"
 }

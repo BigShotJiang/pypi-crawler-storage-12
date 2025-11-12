@@ -1,0 +1,11 @@
+{
+  "name": "solidipes",
+  "version": "1.4.1",
+  "summary": "Python package that aids the processes of curating, publishing, and sharing research data",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "solidipes-1.4.1-py3-none-any.whl",
+  "download_time": "2025-11-12T17:57:52.457898",
+  "package_url": "https://pypi.org/project/solidipes/"
+}
