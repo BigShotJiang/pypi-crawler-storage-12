@@ -1,0 +1,11 @@
+{
+  "name": "klayout",
+  "version": "0.30.5",
+  "summary": "KLayout standalone Python package",
+  "author": "Matthias Koefferlein",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/klayout/klayout",
+  "download_filename": "klayout-0.30.5.tar.gz",
+  "download_time": "2025-11-12T23:55:07.080272",
+  "package_url": "https://pypi.org/project/klayout/"
+}

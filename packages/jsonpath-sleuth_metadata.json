@@ -1,11 +1,11 @@
 {
   "name": "jsonpath-sleuth",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python bindings for fast JSONPath resolve and value-to-path search implemented in Rust",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsonpath_sleuth-0.1.0.tar.gz",
-  "download_time": "2025-11-11T22:24:09.654751",
+  "download_filename": "jsonpath_sleuth-0.1.2.tar.gz",
+  "download_time": "2025-11-12T23:55:07.595710",
   "package_url": "https://pypi.org/project/jsonpath-sleuth/"
 }

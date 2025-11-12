@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-12T23:42:58.255131
-- **Total Packages**: 76
-- **Total Size**: 29.94 MB
+- **Download Time**: 2025-11-12T23:55:43.681722
+- **Total Packages**: 83
+- **Total Size**: 11.4 MB
 
 ## Packages List
+- dsf-scoring-sdk
+- pypfs
+- extract-openreview-comments
+- addmeta
+- fast-agent-mcp
+- skelet
+- iowarp
+- docs2db
+- siglab-py
+- campo-estatico-mdf
+- eval-protocol
+- pvw-cli
+- ez-a-sync
+- imzML-Writer
+- harbor
+- klayout
+- jsonpath-sleuth
+- sensorkit-otto
+- eh-extract
+- elastic-stacker
+- sensorkit-machina
 - aletheion-guard
 - signalpilot-ai-internal
 - dataform-tools
@@ -14,7 +35,6 @@
 - pca-scenery
 - velora-chat
 - volk
-- dsf-scoring-sdk
 - kaqing
 - ptlibs
 - faster-eth-abi
@@ -51,7 +71,6 @@
 - sensorkit-skyx
 - ptmethods
 - mbasic
-- ez-a-sync
 - ptresheaders
 - sensorkit-pwi4
 - qwix
@@ -70,15 +89,3 @@
 - svd-imputer
 - zephyr-mcumgr
 - appium-python-client-shadowstep
-- sensorkit-core
-- grabpy
-- git-snap
-- abstract-paths
-- azure-appconfiguration-provider
-- crystalwindow
-- petharbor
-- anyenv
-- spatialstudio
-- llacie
-- ivoryos
-- sphinx-timetravel
