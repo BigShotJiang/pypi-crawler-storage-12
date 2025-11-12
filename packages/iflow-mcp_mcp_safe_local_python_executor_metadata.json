@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp_safe_local_python_executor",
+  "version": "0.1.0",
+  "summary": "MCP server exposing tool for a safe local Python code execution",
+  "author": "Maxim Saplin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_safe_local_python_executor-0.1.0.tar.gz",
+  "download_time": "2025-11-12T05:45:10.459904",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp_safe_local_python_executor/"
+}

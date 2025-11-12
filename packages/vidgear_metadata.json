@@ -1,0 +1,11 @@
+{
+  "name": "vidgear",
+  "version": "0.3.4",
+  "summary": "High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features.",
+  "author": "Abhishek Thakur",
+  "license": "Apache License 2.0",
+  "home_page": "https://abhitronix.github.io/vidgear",
+  "download_filename": "vidgear-0.3.4.tar.gz",
+  "download_time": "2025-11-12T05:44:59.661096",
+  "package_url": "https://pypi.org/project/vidgear/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gym-plotter",
+  "version": "0.1.1",
+  "summary": "Live plotting utility for RL environments (Gym, Stable-Baselines, etc.)",
+  "author": "Yashvi Shah",
+  "license": "MIT",
+  "home_page": "https://github.com/yashviiishah/gym-plotter",
+  "download_filename": "gym_plotter-0.1.1.tar.gz",
+  "download_time": "2025-11-12T05:44:50.297224",
+  "package_url": "https://pypi.org/project/gym-plotter/"
+}

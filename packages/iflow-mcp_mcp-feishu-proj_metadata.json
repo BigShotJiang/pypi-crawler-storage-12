@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-feishu-proj",
+  "version": "0.1.8",
+  "summary": "基于MCP协议的飞书项目管理工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_feishu_proj-0.1.8.tar.gz",
+  "download_time": "2025-11-12T05:45:03.772755",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-feishu-proj/"
+}

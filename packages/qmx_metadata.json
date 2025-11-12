@@ -1,0 +1,11 @@
+{
+  "name": "qmx",
+  "version": "0.1.0",
+  "summary": "Pure C accelerated matrix operations for LLMs",
+  "author": "TBD",
+  "license": null,
+  "home_page": "https://github.com/micwill755/mtrx",
+  "download_filename": "qmx-0.1.0.tar.gz",
+  "download_time": "2025-11-12T05:45:16.631237",
+  "package_url": "https://pypi.org/project/qmx/"
+}

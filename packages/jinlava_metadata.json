@@ -1,0 +1,11 @@
+{
+  "name": "jinlava",
+  "version": "8.2.0",
+  "summary": "AWS based distributed scheduler and job runner",
+  "author": "Murray Andrews, Chris Donoghue, Alex Bool",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/jin-gizmo/lava",
+  "download_filename": "jinlava-8.2.0.tar.gz",
+  "download_time": "2025-11-12T05:44:56.566791",
+  "package_url": "https://pypi.org/project/jinlava/"
+}
