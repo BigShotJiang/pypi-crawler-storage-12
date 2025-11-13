@@ -1,0 +1,11 @@
+{
+  "name": "ctapipe",
+  "version": "0.28.0",
+  "summary": "Event reconstruction framework for Imaging Atmospheric Cherenkov Telescopes developed for CTAO.",
+  "author": "ctapipe developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctapipe-0.28.0.tar.gz",
+  "download_time": "2025-11-13T13:58:31.983582",
+  "package_url": "https://pypi.org/project/ctapipe/"
+}

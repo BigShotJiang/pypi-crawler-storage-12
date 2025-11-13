@@ -1,0 +1,11 @@
+{
+  "name": "mistral-lib",
+  "version": "3.5.0",
+  "summary": "Mistral shared routings and utilities (Actions API, YAQL functions API, data types etc.)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mistral_lib-3.5.0.tar.gz",
+  "download_time": "2025-11-13T13:58:20.011781",
+  "package_url": "https://pypi.org/project/mistral-lib/"
+}

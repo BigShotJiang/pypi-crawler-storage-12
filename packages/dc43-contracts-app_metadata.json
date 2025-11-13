@@ -1,11 +1,11 @@
 {
   "name": "dc43-contracts-app",
-  "version": "0.30.0.0",
+  "version": "0.31.0.0",
   "summary": "FastAPI portal for browsing and editing DC43 contracts and datasets",
   "author": "Andy Petrella",
   "license": null,
   "home_page": null,
-  "download_filename": "dc43_contracts_app-0.30.0.0.tar.gz",
-  "download_time": "2025-11-13T11:42:44.799630",
+  "download_filename": "dc43_contracts_app-0.31.0.0.tar.gz",
+  "download_time": "2025-11-13T13:58:32.560437",
   "package_url": "https://pypi.org/project/dc43-contracts-app/"
 }

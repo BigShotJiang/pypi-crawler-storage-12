@@ -1,0 +1,11 @@
+{
+  "name": "tempest",
+  "version": "46.0.0",
+  "summary": "OpenStack Integration Testing",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/tempest/latest/",
+  "download_filename": "tempest-46.0.0.tar.gz",
+  "download_time": "2025-11-13T13:58:11.298178",
+  "package_url": "https://pypi.org/project/tempest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-prose-editor",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "summary": "Prose editor for the Django admin based on ProseMirror",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "django_prose_editor-0.21.0.tar.gz",
-  "download_time": "2025-11-12T12:53:37.118995",
+  "download_filename": "django_prose_editor-0.21.1.tar.gz",
+  "download_time": "2025-11-13T13:58:09.006515",
   "package_url": "https://pypi.org/project/django-prose-editor/"
 }

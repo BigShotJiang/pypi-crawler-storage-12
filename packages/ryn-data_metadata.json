@@ -1,11 +1,11 @@
 {
   "name": "ryn-data",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "SDK for data ingestion and platform utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ryn_data-0.1.6.tar.gz",
-  "download_time": "2025-11-13T09:32:38.381261",
+  "download_filename": "ryn_data-0.1.7.tar.gz",
+  "download_time": "2025-11-13T13:58:22.890357",
   "package_url": "https://pypi.org/project/ryn-data/"
 }

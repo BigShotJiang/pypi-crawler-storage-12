@@ -1,11 +1,11 @@
 {
   "name": "azure-pipeline-validator",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Comprehensive Azure DevOps YAML validator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "azure_pipeline_validator-0.1.7.tar.gz",
-  "download_time": "2025-11-13T12:54:27.396718",
+  "download_filename": "azure_pipeline_validator-0.1.8.tar.gz",
+  "download_time": "2025-11-13T13:58:29.620751",
   "package_url": "https://pypi.org/project/azure-pipeline-validator/"
 }

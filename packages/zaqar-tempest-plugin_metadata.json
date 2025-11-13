@@ -1,0 +1,11 @@
+{
+  "name": "zaqar-tempest-plugin",
+  "version": "4.0.0",
+  "summary": "Tempest plugin zaqar_tempest_plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://www.openstack.org/",
+  "download_filename": "zaqar_tempest_plugin-4.0.0.tar.gz",
+  "download_time": "2025-11-13T13:58:18.858728",
+  "package_url": "https://pypi.org/project/zaqar-tempest-plugin/"
+}

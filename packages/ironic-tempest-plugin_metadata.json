@@ -1,0 +1,11 @@
+{
+  "name": "ironic-tempest-plugin",
+  "version": "2.16.0",
+  "summary": "Tempest plugin for ironic and ironic-inspector",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/ironic-tempest-plugin/latest/",
+  "download_filename": "ironic_tempest_plugin-2.16.0.tar.gz",
+  "download_time": "2025-11-13T13:58:13.058523",
+  "package_url": "https://pypi.org/project/ironic-tempest-plugin/"
+}
