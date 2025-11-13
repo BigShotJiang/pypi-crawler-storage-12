@@ -1,0 +1,11 @@
+{
+  "name": "florg",
+  "version": "1.0.0",
+  "summary": "A CLI tool for batch file renaming and organizing",
+  "author": "Laísa Rio",
+  "license": "MIT",
+  "home_page": "https://github.com/laisario/florg",
+  "download_filename": "florg-1.0.0.tar.gz",
+  "download_time": "2025-11-13T16:05:52.433469",
+  "package_url": "https://pypi.org/project/florg/"
+}

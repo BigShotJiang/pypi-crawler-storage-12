@@ -1,0 +1,11 @@
+{
+  "name": "yorsent",
+  "version": "1.0",
+  "summary": "A Yoruba language model to predict sentiment of Yoruba texts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "yorsent-1.0.tar.gz",
+  "download_time": "2025-11-13T16:05:40.994451",
+  "package_url": "https://pypi.org/project/yorsent/"
+}

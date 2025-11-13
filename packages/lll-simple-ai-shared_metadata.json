@@ -1,11 +1,11 @@
 {
   "name": "lll-simple-ai-shared",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "数据类型定义",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lll_simple_ai_shared-0.1.9.tar.gz",
-  "download_time": "2025-11-13T14:27:37.029173",
+  "download_filename": "lll_simple_ai_shared-0.1.11.tar.gz",
+  "download_time": "2025-11-13T16:05:43.539821",
   "package_url": "https://pypi.org/project/lll-simple-ai-shared/"
 }
