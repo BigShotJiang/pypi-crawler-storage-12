@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-datamodels",
-  "version": "1.0.0a16",
+  "version": "1.0.0a18",
   "summary": "Jentic OpenAPI Data Models",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_datamodels-1.0.0a16.tar.gz",
-  "download_time": "2025-11-10T11:40:41.318429",
+  "download_filename": "jentic_openapi_datamodels-1.0.0a18.tar.gz",
+  "download_time": "2025-11-13T14:27:59.654052",
   "package_url": "https://pypi.org/project/jentic-openapi-datamodels/"
 }

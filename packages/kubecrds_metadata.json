@@ -1,0 +1,11 @@
+{
+  "name": "kubecrds",
+  "version": "34.1.4",
+  "summary": "Create Kubernetes CRD using Python dataclasses",
+  "author": "Paris Nakita Kejser",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/KubeHiveIO/kubecrd",
+  "download_filename": "kubecrds-34.1.4.tar.gz",
+  "download_time": "2025-11-13T14:27:38.082959",
+  "package_url": "https://pypi.org/project/kubecrds/"
+}

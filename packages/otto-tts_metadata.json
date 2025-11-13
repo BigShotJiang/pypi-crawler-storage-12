@@ -1,0 +1,11 @@
+{
+  "name": "otto-tts",
+  "version": "0.1.1",
+  "summary": "A command line tool for otto's text-to-speech service from shuodedao.li",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otto_tts-0.1.1.tar.gz",
+  "download_time": "2025-11-13T14:27:22.660988",
+  "package_url": "https://pypi.org/project/otto-tts/"
+}

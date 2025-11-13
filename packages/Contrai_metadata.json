@@ -1,11 +1,11 @@
 {
   "name": "Contrai",
-  "version": "0.1.15",
+  "version": "0.1.189",
   "summary": "Detection and analysis of contrails using deep learning.",
   "author": "Irene Ortiz",
   "license": "Apache-2.0",
   "home_page": "https://github.com/irortiza/ContrAI",
-  "download_filename": "contrai-0.1.15.tar.gz",
-  "download_time": "2025-11-13T13:58:12.484601",
+  "download_filename": "contrai-0.1.189.tar.gz",
+  "download_time": "2025-11-13T14:27:28.493784",
   "package_url": "https://pypi.org/project/Contrai/"
 }
