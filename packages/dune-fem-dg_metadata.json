@@ -1,11 +1,11 @@
 {
   "name": "dune-fem-dg",
-  "version": "2.11.0.1",
+  "version": "2.11.0.2",
   "summary": "The Dune FEM module: Discontinuous Galerkin for evolution equations",
   "author": "Andreas Dedner, Tobias Malkmus, Robert Kloefkorn, Stefan Wierling (geb. Girke)",
   "license": null,
   "home_page": "https://www.dune-project.org/modules/dune-fem-dg/",
-  "download_filename": "dune_fem_dg-2.11.0.1.tar.gz",
-  "download_time": "2025-11-13T13:58:06.717569",
+  "download_filename": "dune_fem_dg-2.11.0.2.tar.gz",
+  "download_time": "2025-11-13T23:24:37.831085",
   "package_url": "https://pypi.org/project/dune-fem-dg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rdf2vecgpu",
+  "version": "0.2.3",
+  "summary": "GPU-Accelerated RDF2Vec – A high-performance GPU implementation of RDF2Vec that uses CUDA and RAPIDS to generate scalable, embeddings for large dense knowledge graphs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rdf2vecgpu-0.2.3.tar.gz",
+  "download_time": "2025-11-13T23:24:07.015606",
+  "package_url": "https://pypi.org/project/rdf2vecgpu/"
+}

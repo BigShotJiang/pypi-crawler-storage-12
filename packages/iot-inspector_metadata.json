@@ -1,11 +1,11 @@
 {
   "name": "iot-inspector",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "summary": "IoT Inspector Client for analyzing IoT device firmware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iot_inspector-3.0.10-py3-none-any.whl",
-  "download_time": "2025-11-11T20:27:58.813711",
+  "download_filename": "iot_inspector-3.0.11-py3-none-any.whl",
+  "download_time": "2025-11-13T23:24:43.130140",
   "package_url": "https://pypi.org/project/iot-inspector/"
 }

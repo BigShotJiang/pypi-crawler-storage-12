@@ -1,11 +1,11 @@
 {
   "name": "crystalwindow",
-  "version": "3.6",
-  "summary": "A simple window and GUI helper built on Tkinter — the easier way to make apps! Made by Crystal (mee)!!",
+  "version": "3.6.post1",
+  "summary": "A Tkinter powered window + GUI toolkit made by Crystal (MEEEEEE)! Easier apps, smoother UI and all-in-one helpers!",
   "author": "CrystalBallyHereXD",
   "license": null,
-  "home_page": null,
-  "download_filename": "crystalwindow-3.6.tar.gz",
-  "download_time": "2025-11-12T23:24:15.582855",
+  "home_page": "https://pypi.org/project/crystalwindow/",
+  "download_filename": "crystalwindow-3.6.post1.tar.gz",
+  "download_time": "2025-11-13T23:24:08.680231",
   "package_url": "https://pypi.org/project/crystalwindow/"
 }

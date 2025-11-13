@@ -1,0 +1,11 @@
+{
+  "name": "rust_neotools_py",
+  "version": "0.0.4",
+  "summary": "A Rust implementation of PHP 5's RNG to run some Neopets math, with python bindings.",
+  "author": "diceroll123",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_neotools_py-0.0.4-cp311-cp311-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-11-13T23:24:14.548147",
+  "package_url": "https://pypi.org/project/rust_neotools_py/"
+}

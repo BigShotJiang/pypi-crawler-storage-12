@@ -1,0 +1,11 @@
+{
+  "name": "cell-filter",
+  "version": "0.1.2",
+  "summary": "A python implementation of the EmptyDrops algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cell_filter-0.1.2.tar.gz",
+  "download_time": "2025-11-13T23:24:45.236831",
+  "package_url": "https://pypi.org/project/cell-filter/"
+}

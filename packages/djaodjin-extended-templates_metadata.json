@@ -1,0 +1,11 @@
+{
+  "name": "djaodjin-extended-templates",
+  "version": "0.4.11",
+  "summary": "DjaoDjin's Template wrappers for HTML email and PDF templates",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "djaodjin_extended_templates-0.4.11.tar.gz",
+  "download_time": "2025-11-13T23:24:29.297738",
+  "package_url": "https://pypi.org/project/djaodjin-extended-templates/"
+}

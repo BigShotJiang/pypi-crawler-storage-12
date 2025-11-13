@@ -1,11 +1,11 @@
 {
   "name": "agent-playbook",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The Storybook for AI Agents",
   "author": "Or Levi",
   "license": null,
   "home_page": "https://github.com/orlevii/agent-playbook",
-  "download_filename": "agent_playbook-0.1.1.tar.gz",
-  "download_time": "2025-11-13T22:56:36.009160",
+  "download_filename": "agent_playbook-0.1.2.tar.gz",
+  "download_time": "2025-11-13T23:24:10.326090",
   "package_url": "https://pypi.org/project/agent-playbook/"
 }
