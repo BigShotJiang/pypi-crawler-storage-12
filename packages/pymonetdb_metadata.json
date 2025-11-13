@@ -1,0 +1,11 @@
+{
+  "name": "pymonetdb",
+  "version": "1.9.0",
+  "summary": "Native MonetDB client Python API",
+  "author": "MonetDB BV",
+  "license": null,
+  "home_page": "http://www.monetdb.org/",
+  "download_filename": "pymonetdb-1.9.0.tar.gz",
+  "download_time": "2025-11-13T09:54:30.961884",
+  "package_url": "https://pypi.org/project/pymonetdb/"
+}

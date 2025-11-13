@@ -1,0 +1,11 @@
+{
+  "name": "sumolib",
+  "version": "1.25.0",
+  "summary": "Python helper modules to read networks, parse output data and do other useful stuff related to the traffic simulation Eclipse SUMO",
+  "author": "DLR and contributors",
+  "license": "EPL-2.0",
+  "home_page": "https://sumo.dlr.de/docs/Tools/Sumolib.html",
+  "download_filename": "sumolib-1.25.0-py3-none-any.whl",
+  "download_time": "2025-11-13T09:54:15.295414",
+  "package_url": "https://pypi.org/project/sumolib/"
+}

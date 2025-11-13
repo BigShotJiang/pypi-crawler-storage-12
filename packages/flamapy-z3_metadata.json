@@ -1,0 +1,11 @@
+{
+  "name": "flamapy-z3",
+  "version": "2.1.0.dev1",
+  "summary": "z3-plugin for the automated analysis of feature models",
+  "author": "Flamapy",
+  "license": null,
+  "home_page": "https://github.com/flamapy/z3_metamodel",
+  "download_filename": "flamapy_z3-2.1.0.dev1.tar.gz",
+  "download_time": "2025-11-13T09:54:25.813678",
+  "package_url": "https://pypi.org/project/flamapy-z3/"
+}

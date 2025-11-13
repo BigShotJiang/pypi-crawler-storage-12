@@ -1,0 +1,11 @@
+{
+  "name": "task-manager-saqib",
+  "version": "1.0.0",
+  "summary": "A simple Python task manager library for adding, removing, and updating tasks.",
+  "author": "Saqib Raheem(ws)",
+  "license": null,
+  "home_page": "https://pypi.org/project/task-manager-saqib/",
+  "download_filename": "task_manager_saqib-1.0.0.tar.gz",
+  "download_time": "2025-11-13T09:54:26.323506",
+  "package_url": "https://pypi.org/project/task-manager-saqib/"
+}

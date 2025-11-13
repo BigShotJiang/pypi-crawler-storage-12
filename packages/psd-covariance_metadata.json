@@ -1,0 +1,11 @@
+{
+  "name": "psd-covariance",
+  "version": "1.0.0",
+  "summary": "Computes several covariance matrix estimators that ensure positive semi-definiteness (PSD).",
+  "author": "Jesper Cremers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psd_covariance-1.0.0.tar.gz",
+  "download_time": "2025-11-13T09:54:29.946044",
+  "package_url": "https://pypi.org/project/psd-covariance/"
+}

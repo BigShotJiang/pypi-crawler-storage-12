@@ -1,0 +1,11 @@
+{
+  "name": "yt-ts-to-srt",
+  "version": "0.0.1",
+  "summary": "A simple tool to convert YouTube video transcripts from JSON format to SRT subtitle files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_ts_to_srt-0.0.1.tar.gz",
+  "download_time": "2025-11-13T09:54:32.003167",
+  "package_url": "https://pypi.org/project/yt-ts-to-srt/"
+}

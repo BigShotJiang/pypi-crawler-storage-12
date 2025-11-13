@@ -1,11 +1,11 @@
 {
   "name": "spaceone-core",
-  "version": "2.0.143",
+  "version": "2.0.144",
   "summary": "Cloudforet Core Library",
   "author": "MEGAZONE Cloud Corp.",
   "license": "Apache License 2.0",
   "home_page": "https://cloudforet.io/",
-  "download_filename": "spaceone_core-2.0.143.tar.gz",
-  "download_time": "2025-11-13T09:32:51.236503",
+  "download_filename": "spaceone_core-2.0.144.tar.gz",
+  "download_time": "2025-11-13T09:54:23.766408",
   "package_url": "https://pypi.org/project/spaceone-core/"
 }

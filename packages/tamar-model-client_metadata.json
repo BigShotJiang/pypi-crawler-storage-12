@@ -1,11 +1,11 @@
 {
   "name": "tamar-model-client",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "A Python SDK for interacting with the Model Manager gRPC service",
   "author": "Oscar Ou",
   "license": null,
   "home_page": "http://gitlab.tamaredge.top/project-tap/AgentOS/model-manager-client",
-  "download_filename": "tamar_model_client-0.3.4.tar.gz",
-  "download_time": "2025-11-11T07:44:18.769735",
+  "download_filename": "tamar_model_client-0.3.5.tar.gz",
+  "download_time": "2025-11-13T09:54:04.643987",
   "package_url": "https://pypi.org/project/tamar-model-client/"
 }

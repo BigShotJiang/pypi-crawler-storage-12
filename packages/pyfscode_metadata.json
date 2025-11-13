@@ -1,11 +1,11 @@
 {
   "name": "pyfscode",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Filename Studio Code",
   "author": "Bit0r",
   "license": null,
   "home_page": null,
-  "download_filename": "pyfscode-1.1.0.tar.gz",
-  "download_time": "2025-11-13T04:36:02.654435",
+  "download_filename": "pyfscode-1.1.1.tar.gz",
+  "download_time": "2025-11-13T09:54:21.691584",
   "package_url": "https://pypi.org/project/pyfscode/"
 }

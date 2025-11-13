@@ -1,0 +1,11 @@
+{
+  "name": "stackone-ai",
+  "version": "0.3.4",
+  "summary": "agents performing actions on your SaaS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stackone_ai-0.3.4.tar.gz",
+  "download_time": "2025-11-13T09:54:08.903155",
+  "package_url": "https://pypi.org/project/stackone-ai/"
+}

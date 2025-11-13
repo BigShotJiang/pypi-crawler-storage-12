@@ -1,0 +1,11 @@
+{
+  "name": "jira-cursor",
+  "version": "0.1.0",
+  "summary": "Enable Jira tickets to Cursor Cloud Agent draft PR automations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jira_cursor-0.1.0.tar.gz",
+  "download_time": "2025-11-13T09:54:09.433555",
+  "package_url": "https://pypi.org/project/jira-cursor/"
+}
