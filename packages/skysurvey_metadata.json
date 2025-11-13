@@ -1,0 +1,11 @@
+{
+  "name": "skysurvey",
+  "version": "0.27.0",
+  "summary": "Simulating Transient in the sky and how to observe them",
+  "author": "Mickael Rigault",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/MickaelRigault/skysurvey",
+  "download_filename": "skysurvey-0.27.0.tar.gz",
+  "download_time": "2025-11-13T16:31:32.486037",
+  "package_url": "https://pypi.org/project/skysurvey/"
+}

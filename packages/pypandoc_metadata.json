@@ -1,0 +1,11 @@
+{
+  "name": "pypandoc",
+  "version": "1.16.2",
+  "summary": "Thin wrapper for pandoc.",
+  "author": "b'Juho Veps\\xc3\\xa4l\\xc3\\xa4inen; Maintained by Jessica Tegner'",
+  "license": "MIT",
+  "home_page": "https://github.com/JessicaTegner/pypandoc",
+  "download_filename": "pypandoc-1.16.2.tar.gz",
+  "download_time": "2025-11-13T16:31:14.827474",
+  "package_url": "https://pypi.org/project/pypandoc/"
+}
