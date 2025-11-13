@@ -1,11 +1,11 @@
 {
   "name": "neutone_sdk",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "SDK for wrapping deep learning models for usage in the Neutone plugin",
   "author": "Qosmo",
   "license": "LGPL",
   "home_page": "https://github.com/QosmoInc/neutone_sdk.git",
-  "download_filename": "neutone_sdk-1.5.1.tar.gz",
-  "download_time": "2025-11-12T09:32:53.269996",
+  "download_filename": "neutone_sdk-1.5.2.tar.gz",
+  "download_time": "2025-11-13T11:55:22.841204",
   "package_url": "https://pypi.org/project/neutone_sdk/"
 }

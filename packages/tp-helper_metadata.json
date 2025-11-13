@@ -1,11 +1,11 @@
 {
   "name": "tp-helper",
-  "version": "0.4.69",
+  "version": "0.4.70",
   "summary": null,
   "author": "TP",
   "license": null,
   "home_page": null,
-  "download_filename": "tp_helper-0.4.69.tar.gz",
-  "download_time": "2025-11-13T11:23:46.306000",
+  "download_filename": "tp_helper-0.4.70.tar.gz",
+  "download_time": "2025-11-13T11:55:21.752499",
   "package_url": "https://pypi.org/project/tp-helper/"
 }

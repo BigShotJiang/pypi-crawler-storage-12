@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-volume",
+  "version": "2.3.0",
+  "summary": "Plugin mtcli para exibir o volume profile",
+  "author": "Valmir França da Silva",
+  "license": null,
+  "home_page": "https://github.com/vfranca/mtcli-volume",
+  "download_filename": "mtcli_volume-2.3.0.tar.gz",
+  "download_time": "2025-11-13T11:55:08.790935",
+  "package_url": "https://pypi.org/project/mtcli-volume/"
+}

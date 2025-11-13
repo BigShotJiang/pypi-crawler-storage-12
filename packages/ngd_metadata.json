@@ -1,0 +1,11 @@
+{
+  "name": "ngd",
+  "version": "0.5.1",
+  "summary": "A comprehensive programming tutorials package with 25 essential programs",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ngd",
+  "download_filename": "ngd-0.5.1.tar.gz",
+  "download_time": "2025-11-13T11:54:56.771435",
+  "package_url": "https://pypi.org/project/ngd/"
+}

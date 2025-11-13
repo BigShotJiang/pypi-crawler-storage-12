@@ -1,0 +1,11 @@
+{
+  "name": "talk-db",
+  "version": "0.0.1",
+  "summary": "Natural language to SQL query interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talk_db-0.0.1.tar.gz",
+  "download_time": "2025-11-13T11:55:09.880044",
+  "package_url": "https://pypi.org/project/talk-db/"
+}
