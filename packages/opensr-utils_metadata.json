@@ -1,0 +1,11 @@
+{
+  "name": "opensr-utils",
+  "version": "1.2.0",
+  "summary": "Utilities supporting the ESA opensr-model package for Super-Resolution of Senintel-2 Imagery",
+  "author": "Simon Donike, Cesar Aybar, Luis Gomez Chova, Freddie Kalaitzis",
+  "license": "MIT",
+  "home_page": "https://opensr.eu/",
+  "download_filename": "opensr_utils-1.2.0.tar.gz",
+  "download_time": "2025-11-13T11:23:40.457366",
+  "package_url": "https://pypi.org/project/opensr-utils/"
+}

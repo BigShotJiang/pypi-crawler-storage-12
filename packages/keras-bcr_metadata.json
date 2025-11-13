@@ -1,0 +1,11 @@
+{
+  "name": "keras-bcr",
+  "version": "0.3.1",
+  "summary": "Batch Correlation Regularizer for TF2/Keras",
+  "author": "Ulf Hamster",
+  "license": "Apache License 2.0",
+  "home_page": "http://github.com/ulf1/keras-bcr",
+  "download_filename": "keras_bcr-0.3.1.tar.gz",
+  "download_time": "2025-11-13T11:23:21.676002",
+  "package_url": "https://pypi.org/project/keras-bcr/"
+}

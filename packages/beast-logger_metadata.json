@@ -1,0 +1,11 @@
+{
+  "name": "beast-logger",
+  "version": "0.1.2",
+  "summary": "A package for advanced logging and visualization of Python objects, especially tensors.",
+  "author": "qingxu.fu@alibaba-inc.com",
+  "license": null,
+  "home_page": "https://github.com/beast-logger",
+  "download_filename": "beast_logger-0.1.2.tar.gz",
+  "download_time": "2025-11-13T11:23:39.922478",
+  "package_url": "https://pypi.org/project/beast-logger/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ryry-cli",
+  "version": "6.6",
+  "summary": "ryry tools",
+  "author": "dalipen",
+  "license": null,
+  "home_page": "https://github.com/dalipenMedia",
+  "download_filename": "ryry_cli-6.6.tar.gz",
+  "download_time": "2025-11-13T11:23:52.523068",
+  "package_url": "https://pypi.org/project/ryry-cli/"
+}

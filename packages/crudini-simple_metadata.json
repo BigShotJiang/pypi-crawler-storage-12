@@ -1,0 +1,11 @@
+{
+  "name": "crudini-simple",
+  "version": "0.1.1",
+  "summary": "A CLI tool for managing INI files.",
+  "author": "hjl",
+  "license": null,
+  "home_page": "https://github.com/hujianli94/crudini_simple",
+  "download_filename": "crudini_simple-0.1.1.tar.gz",
+  "download_time": "2025-11-13T11:23:25.885284",
+  "package_url": "https://pypi.org/project/crudini-simple/"
+}

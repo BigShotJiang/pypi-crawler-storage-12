@@ -1,11 +1,11 @@
 {
   "name": "elecnova-client",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "summary": "Python client for Elecnova ECO EMS Cloud API",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "elecnova_client-0.1.6.tar.gz",
-  "download_time": "2025-11-12T10:51:16.880671",
+  "download_filename": "elecnova_client-0.2.1.tar.gz",
+  "download_time": "2025-11-13T11:23:14.444424",
   "package_url": "https://pypi.org/project/elecnova-client/"
 }

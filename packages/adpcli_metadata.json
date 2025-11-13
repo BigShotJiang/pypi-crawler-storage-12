@@ -1,11 +1,11 @@
 {
   "name": "adpcli",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Artifact Provisioning Engine (ADP Engine) - Provisions artifacts from proyecto.yml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adpcli-0.1.4.tar.gz",
-  "download_time": "2025-11-12T16:34:49.073967",
+  "download_filename": "adpcli-0.1.6.tar.gz",
+  "download_time": "2025-11-13T11:23:30.301002",
   "package_url": "https://pypi.org/project/adpcli/"
 }

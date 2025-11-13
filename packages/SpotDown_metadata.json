@@ -1,0 +1,11 @@
+{
+  "name": "SpotDown",
+  "version": "1.4.0",
+  "summary": "A command-line program to download music",
+  "author": "Arrowar",
+  "license": null,
+  "home_page": "https://github.com/Arrowar/spotdown",
+  "download_filename": "spotdown-1.4.0.tar.gz",
+  "download_time": "2025-11-13T11:23:17.579260",
+  "package_url": "https://pypi.org/project/SpotDown/"
+}

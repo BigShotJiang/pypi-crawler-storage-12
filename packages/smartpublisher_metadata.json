@@ -1,0 +1,11 @@
+{
+  "name": "smartpublisher",
+  "version": "0.3.0",
+  "summary": "Smart Publisher - CLI/API framework based on SmartSwitch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartpublisher-0.3.0.tar.gz",
+  "download_time": "2025-11-13T11:23:42.054167",
+  "package_url": "https://pypi.org/project/smartpublisher/"
+}
