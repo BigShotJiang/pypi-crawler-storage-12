@@ -1,0 +1,11 @@
+{
+  "name": "migropy",
+  "version": "0.4.0",
+  "summary": "Lightweight and extensible Python library for managing database migrations",
+  "author": "fredimatteo",
+  "license": "MIT",
+  "home_page": "https://github.com/fredimatteo/migropy/blob/develop/README.md",
+  "download_filename": "migropy-0.4.0.tar.gz",
+  "download_time": "2025-11-13T21:54:12.937392",
+  "package_url": "https://pypi.org/project/migropy/"
+}

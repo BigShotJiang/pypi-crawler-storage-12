@@ -1,0 +1,11 @@
+{
+  "name": "wads",
+  "version": "0.1.44",
+  "summary": "Tools for packaging and publishing to pypi for those who just don not want to deal with it",
+  "author": "Otosense",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/i2mint/wads",
+  "download_filename": "wads-0.1.44.tar.gz",
+  "download_time": "2025-11-13T21:54:20.963440",
+  "package_url": "https://pypi.org/project/wads/"
+}

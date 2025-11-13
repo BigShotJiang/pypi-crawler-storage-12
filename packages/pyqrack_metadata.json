@@ -1,11 +1,11 @@
 {
   "name": "pyqrack",
-  "version": "1.71.1",
+  "version": "1.71.2",
   "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/pyqrack",
-  "download_filename": "pyqrack-1.71.1.tar.gz",
-  "download_time": "2025-11-13T05:58:03.369701",
+  "download_filename": "pyqrack-1.71.2.tar.gz",
+  "download_time": "2025-11-13T21:54:16.862157",
   "package_url": "https://pypi.org/project/pyqrack/"
 }
