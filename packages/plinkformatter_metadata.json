@@ -1,11 +1,11 @@
 {
   "name": "plinkformatter",
-  "version": "0.1.36",
+  "version": "0.1.41",
   "summary": null,
   "author": "nick-sebasco",
   "license": null,
   "home_page": null,
-  "download_filename": "plinkformatter-0.1.36.tar.gz",
-  "download_time": "2025-11-13T19:54:09.146881",
+  "download_filename": "plinkformatter-0.1.41.tar.gz",
+  "download_time": "2025-11-13T21:23:52.128677",
   "package_url": "https://pypi.org/project/plinkformatter/"
 }

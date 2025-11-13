@@ -1,11 +1,11 @@
 {
   "name": "infinite-context",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "summary": null,
   "author": "OPENSAPI",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/InfiniteContext",
-  "download_filename": "infinite_context-2.0.0.tar.gz",
-  "download_time": "2025-11-13T17:58:04.771500",
+  "download_filename": "infinite_context-2.0.3.tar.gz",
+  "download_time": "2025-11-13T21:24:25.687689",
   "package_url": "https://pypi.org/project/infinite-context/"
 }

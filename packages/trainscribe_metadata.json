@@ -1,11 +1,11 @@
 {
   "name": "trainscribe",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A command-line tool for transcribing audio files in a folder to a metadata.csv file, using OpenAI's Whisper.",
   "author": "VERA LVX",
   "license": null,
   "home_page": null,
-  "download_filename": "trainscribe-0.1.0.tar.gz",
-  "download_time": "2025-11-13T20:29:03.733275",
+  "download_filename": "trainscribe-0.1.2.tar.gz",
+  "download_time": "2025-11-13T21:24:10.347890",
   "package_url": "https://pypi.org/project/trainscribe/"
 }

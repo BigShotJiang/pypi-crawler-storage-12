@@ -1,0 +1,11 @@
+{
+  "name": "cornserve",
+  "version": "0.1.0",
+  "summary": "Easy, fast, and scalable multimodal agentic AI",
+  "author": "Cornserve Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cornserve-0.1.0.tar.gz",
+  "download_time": "2025-11-13T21:23:52.657694",
+  "package_url": "https://pypi.org/project/cornserve/"
+}
