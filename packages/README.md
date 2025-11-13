@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T05:27:09.758630
-- **Total Packages**: 87
-- **Total Size**: 52.14 MB
+- **Download Time**: 2025-11-13T05:46:41.449236
+- **Total Packages**: 82
+- **Total Size**: 6.77 MB
 
 ## Packages List
+- amberNPS
+- moths
+- edc-he
+- wyn360-cli
+- pyodim
+- rica-server
+- pytest_robotframework
+- r2x-core
+- single_cell_metabolomics
+- aktransmitter
+- shancx
+- ails-cli-tool
+- skboost
+- supernote
+- trovesuite
+- general-intelligence
+- aa-payout
+- lisien
+- pyshapdf
+- mcp-server-nbotbb
+- clinicedc
+- seolpyo-mplchart
+- py-apache-log-digest-xethhung12
+- delphix-dct-api
+- daplug-cypher
+- switlm
+- nextgen-kernels-api
+- clinicedc-utils
+- weightwatcher
+- quber-workflow
+- clinicedc-tests
+- jusflaudio
+- moxtools
+- ydnatl
+- pulumi-oci
+- moxqtradar
+- pylibmql
+- llm-context
+- medicafe
 - xqcsendmessage
 - chainlit-aki
 - vedro-profiling
@@ -42,54 +81,10 @@
 - pepflow
 - 3DeeCellTracker
 - cogent3
-- seolpyo-mplchart
 - radboy
 - mlops-crispdm-ci-cd
-- single_cell_metabolomics
 - cdk-factory
-- pulumi-oci
 - math-engine
 - nanocodec-torch
 - qolsys-controller
-- pylibmql
 - ldc-lender-datalayer
-- isc-playbook-mcp-server
-- agentcrew-ai
-- iamdata
-- pyheimdall-nakala
-- ffseval
-- zensols-amr
-- bioregistry
-- moonbase-sdk
-- plain.vendor
-- plain.support
-- plain.sessions
-- plain.scan
-- plain.passwords
-- plain.pageviews
-- plain.pages
-- plain.observer
-- plain.oauth
-- plain.models
-- iowarp-core
-- plain.jobs
-- plain.htmx
-- plain.flags
-- plain.email
-- plain.dev
-- plain.auth
-- plain.api
-- amberNPS
-- plain.admin
-- plain
-- suffix-tree-tool
-- rohkun
-- getcodes
-- dlght
-- easy-code-reader
-- machineconfig
-- phm-algo-ias
-- mehta
-- arxiv-mcp-server-nightly
-- arize-phoenix
-- lite-agent

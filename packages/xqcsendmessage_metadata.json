@@ -1,11 +1,11 @@
 {
   "name": "xqcsendmessage",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "summary": "一个 XiaoqiangClub 自用的消息发送模块",
   "author": "Xiaoqiang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xqcsendmessage-0.0.3.tar.gz",
-  "download_time": "2025-11-13T05:26:15.978286",
+  "download_filename": "xqcsendmessage-0.1.0.tar.gz",
+  "download_time": "2025-11-13T05:46:18.144423",
   "package_url": "https://pypi.org/project/xqcsendmessage/"
 }

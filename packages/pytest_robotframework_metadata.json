@@ -1,0 +1,11 @@
+{
+  "name": "pytest_robotframework",
+  "version": "4.6.0",
+  "summary": "a pytest plugin that can run both python and robotframework tests while generating robot reports for them",
+  "author": "DetachHead",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_robotframework-4.6.0.tar.gz",
+  "download_time": "2025-11-13T05:46:01.069408",
+  "package_url": "https://pypi.org/project/pytest_robotframework/"
+}

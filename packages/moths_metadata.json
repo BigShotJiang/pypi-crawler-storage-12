@@ -1,0 +1,11 @@
+{
+  "name": "moths",
+  "version": "0.0.6",
+  "summary": "为 grasshopper 参数化设计模组 moths 的支持工具",
+  "author": "Richie Bao-(coding-x.tech)",
+  "license": "MIT",
+  "home_page": "https://coding-x.tech/",
+  "download_filename": "moths-0.0.6.tar.gz",
+  "download_time": "2025-11-13T05:45:58.473434",
+  "package_url": "https://pypi.org/project/moths/"
+}
