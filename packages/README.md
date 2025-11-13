@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T07:45:02.211630
-- **Total Packages**: 88
-- **Total Size**: 10.67 MB
+- **Download Time**: 2025-11-13T07:57:42.134558
+- **Total Packages**: 87
+- **Total Size**: 11.5 MB
 
 ## Packages List
+- fastapi-opinionated-core
+- kss
+- cwb-utils
+- akimgreceiver
+- hestia-earth-validation
+- physicar
+- orq-ai-sdk
+- yeref
+- jhu
+- scilink
+- agentic-kit-common
+- nonebot-plugin-manosoba-reply-generator
+- tango-pyaml
+- lqp
+- vibetuner
+- rhubarbe
+- MetaRpcMT5
+- MetaRpcMT4
+- robotframework-databaselibrary
+- v-magic-code-review
+- Fix-agent
+- morm
+- kmerator
+- digimat.mbio
+- opik
+- san-cli
+- agentkit-sdk-python
 - citrouille
 - debrepomanager
 - rhodecode-mcp-server
@@ -14,7 +41,6 @@
 - pylint-docstring-checker
 - pipeline-eds
 - stellanow-sdk-python
-- jhu
 - jyhelper
 - sarvam-conv-ai-sdk
 - finosdk-preview
@@ -24,7 +50,6 @@
 - prisma-web3-py
 - seven-cloudapp-frame
 - in-dbt-spark
-- v-magic-code-review
 - oarepo-invenio-typing-stubs
 - alibabacloud-alidns20150109
 - rpcclient
@@ -68,29 +93,3 @@
 - shudaodao
 - svg-spriter-py
 - civic-lib-core
-- tremolo
-- hyperquant
-- intentkit
-- prism-models
-- lazy-tailscale
-- taolib
-- livekit
-- lxmfy-news-bot
-- mcp-server-skill
-- ai-edge-litert-nightly
-- pyaniparser
-- aubio-ledfx
-- json2toon
-- tritonparse
-- mcp-nvidia
-- aklauncher
-- daplug-cypher
-- bidnlp
-- fastchunker-hq
-- valkey-glide-sync
-- octoprint-factor-plugin
-- apache-gravitino
-- valkey-glide
-- django-active-link
-- geoservercloud
-- macast2

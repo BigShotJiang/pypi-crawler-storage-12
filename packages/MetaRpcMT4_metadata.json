@@ -1,11 +1,11 @@
 {
   "name": "MetaRpcMT4",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "summary": "MetaRPC MT4 gRPC Python client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metarpcmt4-0.0.40.tar.gz",
-  "download_time": "2025-11-12T22:42:41.321440",
+  "download_filename": "metarpcmt4-0.0.41.tar.gz",
+  "download_time": "2025-11-13T07:57:02.253825",
   "package_url": "https://pypi.org/project/MetaRpcMT4/"
 }

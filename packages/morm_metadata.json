@@ -1,0 +1,11 @@
+{
+  "name": "morm",
+  "version": "2.8.1",
+  "summary": "A minimal asynchronous database object relational mapper",
+  "author": "Md. Jahidul Hamid",
+  "license": "BSD",
+  "home_page": "https://github.com/neurobin/python-morm",
+  "download_filename": "morm-2.8.1.tar.gz",
+  "download_time": "2025-11-13T07:57:05.314419",
+  "package_url": "https://pypi.org/project/morm/"
+}

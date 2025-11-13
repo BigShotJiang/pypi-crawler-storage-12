@@ -1,0 +1,11 @@
+{
+  "name": "kmerator",
+  "version": "2.3.4",
+  "summary": "Find specific gene or transcript kmers. And more.",
+  "author": "Sébastien RIQUIER, IRMB, Montpellier",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Transipedia/kmerator",
+  "download_filename": "kmerator-2.3.4.tar.gz",
+  "download_time": "2025-11-13T07:57:05.825806",
+  "package_url": "https://pypi.org/project/kmerator/"
+}
