@@ -1,0 +1,11 @@
+{
+  "name": "photo-metadata",
+  "version": "0.3.0",
+  "summary": "Python library to extract, read, modify, and write photo and video metadata (EXIF, IPTC, XMP) using ExifTool. Supports JPEG, RAW, and video files.",
+  "author": "ひろ",
+  "license": "MIT",
+  "home_page": "https://github.com/kingyo1205/photo-metadata",
+  "download_filename": "photo_metadata-0.3.0.tar.gz",
+  "download_time": "2025-11-13T12:54:39.235787",
+  "package_url": "https://pypi.org/project/photo-metadata/"
+}

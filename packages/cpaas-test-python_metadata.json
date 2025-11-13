@@ -1,0 +1,11 @@
+{
+  "name": "cpaas-test-python",
+  "version": "0.1.1",
+  "summary": null,
+  "author": "cpaas-sdks-test-om",
+  "license": "MIT license",
+  "home_page": "https://github.com/cpaas-sdks-test/cpaas-test-python",
+  "download_filename": "cpaas_test_python-0.1.1.tar.gz",
+  "download_time": "2025-11-13T12:54:32.930390",
+  "package_url": "https://pypi.org/project/cpaas-test-python/"
+}
