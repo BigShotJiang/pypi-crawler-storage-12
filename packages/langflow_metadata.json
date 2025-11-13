@@ -1,11 +1,11 @@
 {
   "name": "langflow",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "summary": "A Python package with a built-in web application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langflow-1.6.6-py3-none-any.whl",
-  "download_time": "2025-11-11T22:23:55.906857",
+  "download_filename": "langflow-1.6.7-py3-none-any.whl",
+  "download_time": "2025-11-13T19:54:08.089330",
   "package_url": "https://pypi.org/project/langflow/"
 }

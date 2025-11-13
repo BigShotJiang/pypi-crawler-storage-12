@@ -1,14 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T19:41:04.265096
-- **Total Packages**: 88
-- **Total Size**: 11.94 MB
+- **Download Time**: 2025-11-13T19:54:40.775790
+- **Total Packages**: 81
+- **Total Size**: 22.49 MB
 
 ## Packages List
-- bluma
-- vector-vault
+- liberty-airflow-plugins
+- zeroeval
 - svc-infra
+- flecsi-sandbox
+- malevich-coretools
+- increase
+- pysros
+- iowarp-core
+- xwsystem
+- exonware-xwsystem
+- runagent
+- aa-contacts
+- pulumi-nomad
+- convnet
+- langswarm
+- openmarkets
+- meshcore
+- ConsoleType
+- tree-sitter-zsh
+- langflow
+- plinkformatter
+- vector-vault
+- torchani
+- nominal-api-protos
+- nominal-api
+- xyzgraph
+- pwq-qr-gen-4
+- celltraj
+- automox-mcp
+- radio-manager
+- vasp-manager
+- bluma
 - agentle
 - leibnetz
 - bullishpy
@@ -18,7 +47,6 @@
 - yaspeedtest
 - django-email-learning
 - DlmEngineUpdater
-- convnet
 - databricks-mcp-genie
 - lmnr
 - klimalogger
@@ -27,9 +55,7 @@
 - aphylogeo
 - msfcoppel-v2
 - thumbnail-maker
-- plinkformatter
 - PySPlus
-- pwq-qr-gen-4
 - mortie
 - zrm
 - tiledbsoma
@@ -38,7 +64,6 @@
 - mcp-skills
 - SwiftGUI
 - subprocess4
-- liberty-airflow-plugins
 - instarec
 - game-lingo
 - svg2fbf
@@ -62,35 +87,3 @@
 - scald
 - prelude-sdk-beta
 - repo-flattener
-- speechmatics-batch
-- sutton-signwriting-core
-- wigglecam
-- apsg
-- xyzgraph
-- pywiim
-- microdocs
-- mellifera
-- inpaint
-- ado-vllm-performance
-- ado-ray-tune
-- ado-sfttrainer
-- ado-core
-- HexBug-data
-- odoo-addon-project-task-ancestor
-- papermodels
-- micromcp
-- PySaveUtils
-- tabsdata-snowflake
-- tabsdata-salesforce
-- tabsdata-mssql
-- tabsdata-mongodb
-- tabsdata-databricks
-- tabsdata-bigquery
-- mercury-python
-- tabsdata-agent
-- whai
-- lbt-dragonfly
-- hccinfhir
-- odoo-addon-l10n-es-igic-verifactu-oca
-- pulp-certguard-client
-- pulp-file-client
