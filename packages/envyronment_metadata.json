@@ -1,11 +1,11 @@
 {
   "name": "envyronment",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "A tiny module to read environment variables and tranform them.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envyronment-0.1.1.tar.gz",
-  "download_time": "2025-11-13T08:35:44.296477",
+  "download_filename": "envyronment-0.3.0.tar.gz",
+  "download_time": "2025-11-13T13:38:25.736285",
   "package_url": "https://pypi.org/project/envyronment/"
 }
