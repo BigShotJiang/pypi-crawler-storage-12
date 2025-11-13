@@ -1,0 +1,11 @@
+{
+  "name": "phetk",
+  "version": "0.2.1",
+  "summary": "The Phenotype Toolkit",
+  "author": "Tam Tran",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/nhgritctran/PheTK",
+  "download_filename": "phetk-0.2.1.tar.gz",
+  "download_time": "2025-11-13T08:58:49.092026",
+  "package_url": "https://pypi.org/project/phetk/"
+}

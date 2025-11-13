@@ -1,0 +1,11 @@
+{
+  "name": "pytest-log-filter",
+  "version": "0.0.3",
+  "summary": "Ignore some loggers' log for pytest",
+  "author": "Han Zhichao",
+  "license": "MIT license",
+  "home_page": "https://github.com/hanzhichao/pytest-log-filter",
+  "download_filename": "pytest_log_filter-0.0.3.tar.gz",
+  "download_time": "2025-11-13T08:58:46.948005",
+  "package_url": "https://pypi.org/project/pytest-log-filter/"
+}

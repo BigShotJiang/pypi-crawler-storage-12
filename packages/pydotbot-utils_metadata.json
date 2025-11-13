@@ -1,11 +1,11 @@
 {
   "name": "pydotbot-utils",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Utility modules for the DotBot Python softwares.",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "pydotbot_utils-0.2.1.tar.gz",
-  "download_time": "2025-11-12T07:28:10.323659",
+  "download_filename": "pydotbot_utils-0.3.0.tar.gz",
+  "download_time": "2025-11-13T08:59:21.285585",
   "package_url": "https://pypi.org/project/pydotbot-utils/"
 }

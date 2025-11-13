@@ -1,0 +1,11 @@
+{
+  "name": "repo-flattener",
+  "version": "0.1.1",
+  "summary": "A tool to convert a repository into flattened files for easier LLM upload",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo_flattener-0.1.1.tar.gz",
+  "download_time": "2025-11-13T08:58:46.430308",
+  "package_url": "https://pypi.org/project/repo-flattener/"
+}

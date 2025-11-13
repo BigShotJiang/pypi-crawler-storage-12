@@ -1,0 +1,11 @@
+{
+  "name": "asb-pl-template",
+  "version": "0.1.5",
+  "summary": "A simple project template for Ansible",
+  "author": "hujianli94",
+  "license": "MIT",
+  "home_page": "https://github.com/hujianli94/asb-pl-template",
+  "download_filename": "asb_pl_template-0.1.5-py3-none-any.whl",
+  "download_time": "2025-11-13T08:58:57.026861",
+  "package_url": "https://pypi.org/project/asb-pl-template/"
+}
