@@ -1,0 +1,11 @@
+{
+  "name": "curves",
+  "version": "0.1.6",
+  "summary": "functional curve algebra (created by auxilium)",
+  "author": "sonntagsgesicht",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/sonntagsgesicht/curves",
+  "download_filename": "curves-0.1.6.tar.gz",
+  "download_time": "2025-11-13T10:50:53.498560",
+  "package_url": "https://pypi.org/project/curves/"
+}

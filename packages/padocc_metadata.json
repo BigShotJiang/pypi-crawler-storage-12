@@ -1,0 +1,11 @@
+{
+  "name": "padocc",
+  "version": "1.4.1",
+  "summary": "Pipeline to Aggregate Data for Optimised Cloud Capabilities",
+  "author": "Daniel Westwood",
+  "license": "BSD 3",
+  "home_page": null,
+  "download_filename": "padocc-1.4.1.tar.gz",
+  "download_time": "2025-11-13T10:50:44.508095",
+  "package_url": "https://pypi.org/project/padocc/"
+}

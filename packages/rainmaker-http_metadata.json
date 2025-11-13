@@ -1,0 +1,11 @@
+{
+  "name": "rainmaker-http",
+  "version": "0.0.3",
+  "summary": "Minimal async HTTP client for ESP RainMaker (Zehnder Multi Controller)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rainmaker_http-0.0.3.tar.gz",
+  "download_time": "2025-11-13T10:50:56.703370",
+  "package_url": "https://pypi.org/project/rainmaker-http/"
+}

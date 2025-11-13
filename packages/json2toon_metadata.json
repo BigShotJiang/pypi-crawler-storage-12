@@ -1,11 +1,11 @@
 {
   "name": "json2toon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Bidirectional converter between JSON and TOON (Token-Oriented Object Notation) format with full spec support",
   "author": "Maqbool Thoufeeq Tharayil",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "json2toon-0.1.1.tar.gz",
-  "download_time": "2025-11-13T07:28:13.861145",
+  "download_filename": "json2toon-0.1.2.tar.gz",
+  "download_time": "2025-11-13T10:51:01.127957",
   "package_url": "https://pypi.org/project/json2toon/"
 }

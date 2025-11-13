@@ -1,0 +1,11 @@
+{
+  "name": "optics_functions",
+  "version": "0.1.5",
+  "summary": "Calculate optics parameters from TWISS outputs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optics_functions-0.1.5.tar.gz",
+  "download_time": "2025-11-13T10:50:54.791836",
+  "package_url": "https://pypi.org/project/optics_functions/"
+}

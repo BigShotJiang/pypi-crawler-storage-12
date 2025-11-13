@@ -1,0 +1,11 @@
+{
+  "name": "brui-core",
+  "version": "1.1.0",
+  "summary": "Core browser UI automation framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brui_core-1.1.0.tar.gz",
+  "download_time": "2025-11-13T10:50:46.419996",
+  "package_url": "https://pypi.org/project/brui-core/"
+}

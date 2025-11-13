@@ -1,63 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T10:35:30.037670
-- **Total Packages**: 89
-- **Total Size**: 36.67 MB
+- **Download Time**: 2025-11-13T10:51:12.037671
+- **Total Packages**: 88
+- **Total Size**: 26.13 MB
 
 ## Packages List
-- iker-python-common
-- AxeProfiler
-- l0n0l2fa
-- genai-observable-sdk
-- deepbase
-- woke-time-mcp
-- routx
-- todoai-cli
-- app-store-asset-cli
-- yprov4ml
-- shotgun-sh
-- django-cms-qe
-- gllm-pipeline-binary
-- django-field-audit
-- sarvam-conv-ai-sdk
-- silabs-rps
-- pywright-gpt-chat
-- scapi-py
-- robot-retarget
-- file-tree-display
-- pylhc_submitter
-- task-manager-saqib
-- namecheck
-- nnUNet-package
-- gptables
-- bioconverter
-- yamlpyconfig
-- sagemaker-core
-- midas-civil
-- agenta
-- fastapi-i18n
-- simba-sdk
-- pywright-gpt-tts
-- odoo-apps-Odoo-Apps-Partner-Contact
-- odoo-addon-partner_multiline_street2
-- tbp-nightly
-- ai-edge-torch-nightly
-- asqi-engineer
-- django-uv
-- bqseine
-- odoo-addon-base-external-dbsource-mysql
-- tama-cli
-- petharbor
 - Contrai
 - OmniSlicer
 - octoprint-factor-plugin
 - pylhc
+- pywright-gpt-tts
 - kerasfactory
 - sdds
 - vector-db-1807
-- moh-bob-package1
 - django-jodit
+- odoo-apps-Odoo-Apps-Partner-Contact
 - odoo-addon-partner_email_history
 - blueye.sdk
 - pyproject-installer
@@ -95,3 +53,44 @@
 - drl-wizard
 - tobe_time_mcp_11
 - agentor
+- padocc
+- blueye.protocol
+- mechalodon
+- brui-core
+- writer
+- sumo-experiments
+- san-cli
+- dataframely
+- rhodecode-mcp-server
+- impit
+- fivcglue
+- odoo-addon-partner_contact_external_ref
+- django-import-export
+- curves
+- talentro-commons
+- optics_functions
+- napari-czitools
+- bigdata-research-tools
+- rainmaker-http
+- flamehaven-filesearch
+- genai-otel-instrument
+- container-ci-suite
+- bqseine
+- NaxToPy
+- srx-lib-llm
+- json2toon
+- code-loader
+- zmy-mcp-server
+- MetaRpcMT5
+- MetaRpcMT4
+- torchax
+- brynq-sdk-adp-decidium
+- jndataset-down
+- invenio-rdm-records
+- brynq-sdk-meta4
+- lightly-studio
+- edgy
+- orq-ai-sdk
+- maskerlogger
+- brynq-sdk-bob
+- brynq-sdk-functions
