@@ -1,11 +1,11 @@
 {
   "name": "erosolar",
-  "version": "0.2.0",
-  "summary": "Universal LangGraph agent CLI with self-improvement, MCP support, and comprehensive task automation.",
-  "author": "Erosolar AI",
-  "license": null,
+  "version": "0.1.2",
+  "summary": "AI-powered chat interface using DeepSeek with advanced routing and tool execution",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "erosolar-0.2.0.tar.gz",
-  "download_time": "2025-11-13T01:57:10.940182",
+  "download_filename": "erosolar-0.1.2.tar.gz",
+  "download_time": "2025-11-13T21:40:02.081593",
   "package_url": "https://pypi.org/project/erosolar/"
 }
