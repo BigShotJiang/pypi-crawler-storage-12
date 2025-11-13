@@ -1,11 +1,11 @@
 {
   "name": "in-dbt-spark",
-  "version": "1.9.29",
+  "version": "1.9.30",
   "summary": "Release for LinkedIn's changes to dbt-spark.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "in_dbt_spark-1.9.29.tar.gz",
-  "download_time": "2025-11-11T09:31:45.724137",
+  "download_filename": "in_dbt_spark-1.9.30.tar.gz",
+  "download_time": "2025-11-13T07:44:23.169311",
   "package_url": "https://pypi.org/project/in-dbt-spark/"
 }

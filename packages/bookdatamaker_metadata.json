@@ -1,11 +1,11 @@
 {
   "name": "bookdatamaker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "CLI tool for extracting text with DeepSeek OCR and generating datasets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bookdatamaker-0.2.0.tar.gz",
-  "download_time": "2025-11-13T07:28:31.513210",
+  "download_filename": "bookdatamaker-0.2.1.tar.gz",
+  "download_time": "2025-11-13T07:44:29.942039",
   "package_url": "https://pypi.org/project/bookdatamaker/"
 }

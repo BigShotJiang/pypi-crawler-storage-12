@@ -1,0 +1,11 @@
+{
+  "name": "compressed-lists",
+  "version": "0.3.0",
+  "summary": "Memory-efficient container for list-like objects",
+  "author": "Jayaram Kancherla",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/compressed-lists",
+  "download_filename": "compressed_lists-0.3.0.tar.gz",
+  "download_time": "2025-11-13T07:44:28.317832",
+  "package_url": "https://pypi.org/project/compressed-lists/"
+}

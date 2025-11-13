@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-test",
+  "version": "0.6.0",
+  "summary": "A test framework for MkDocs projects",
+  "author": "Laurent Franceschetti",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "mkdocs_test-0.6.0.tar.gz",
+  "download_time": "2025-11-13T07:44:20.568714",
+  "package_url": "https://pypi.org/project/mkdocs-test/"
+}

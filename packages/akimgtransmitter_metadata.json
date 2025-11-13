@@ -1,0 +1,11 @@
+{
+  "name": "akimgtransmitter",
+  "version": "0.1.0",
+  "summary": "Simple image/frame transmitter that saves latest frame to a folder.",
+  "author": "Akshay ajit bhawar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "akimgtransmitter-0.1.0.tar.gz",
+  "download_time": "2025-11-13T07:44:16.431009",
+  "package_url": "https://pypi.org/project/akimgtransmitter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jhu",
+  "version": "1.7.0",
+  "summary": "Join Happy Universe",
+  "author": "J.Hu",
+  "license": null,
+  "home_page": "https://github.com/joestarhu/jhu",
+  "download_filename": "jhu-1.7.0.tar.gz",
+  "download_time": "2025-11-13T07:44:18.512459",
+  "package_url": "https://pypi.org/project/jhu/"
+}
