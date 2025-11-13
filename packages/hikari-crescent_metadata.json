@@ -1,0 +1,11 @@
+{
+  "name": "hikari-crescent",
+  "version": "1.4.0",
+  "summary": "🌙 A command handler for Hikari that keeps your project neat and tidy.",
+  "author": "Lunarmagpie",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/hikari-crescent/hikari-crescent",
+  "download_filename": "hikari_crescent-1.4.0.tar.gz",
+  "download_time": "2025-11-13T01:57:41.379545",
+  "package_url": "https://pypi.org/project/hikari-crescent/"
+}

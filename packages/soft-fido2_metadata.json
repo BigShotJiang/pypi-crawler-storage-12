@@ -1,0 +1,11 @@
+{
+  "name": "soft-fido2",
+  "version": "0.3.7",
+  "summary": "Software FIDO2 Passkey Authenticator",
+  "author": "Lachlan Gleeson",
+  "license": "MIT",
+  "home_page": "https://github.com/lachlan-ibm/soft-fido2",
+  "download_filename": "soft_fido2-0.3.7.tar.gz",
+  "download_time": "2025-11-13T01:57:49.214624",
+  "package_url": "https://pypi.org/project/soft-fido2/"
+}

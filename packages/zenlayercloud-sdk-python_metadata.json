@@ -1,0 +1,11 @@
+{
+  "name": "zenlayercloud-sdk-python",
+  "version": "2.0.32",
+  "summary": "Zenlayer Cloud SDK for Python",
+  "author": "Zenlayer Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/zenlayer/zenlayercloud-sdk-python",
+  "download_filename": "zenlayercloud_sdk_python-2.0.32.tar.gz",
+  "download_time": "2025-11-13T01:57:07.045218",
+  "package_url": "https://pypi.org/project/zenlayercloud-sdk-python/"
+}

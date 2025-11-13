@@ -1,0 +1,11 @@
+{
+  "name": "byted-primus-io-pyclient",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_primus_io_pyclient",
+  "download_filename": "byted_primus_io_pyclient-0.0.1.tar.gz",
+  "download_time": "2025-11-13T01:57:30.805899",
+  "package_url": "https://pypi.org/project/byted-primus-io-pyclient/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ndx-wearables",
+  "version": "0.2.1",
+  "summary": "Store data from human wearables",
+  "author": null,
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "ndx_wearables-0.2.1.tar.gz",
+  "download_time": "2025-11-13T01:57:15.784187",
+  "package_url": "https://pypi.org/project/ndx-wearables/"
+}

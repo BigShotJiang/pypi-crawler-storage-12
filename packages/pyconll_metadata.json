@@ -1,0 +1,11 @@
+{
+  "name": "pyconll",
+  "version": "3.3.1",
+  "summary": "Read and manipulate CoNLL files",
+  "author": "Matias Grioni",
+  "license": "MIT",
+  "home_page": "https://github.com/pyconll/pyconll",
+  "download_filename": "pyconll-3.3.1.tar.gz",
+  "download_time": "2025-11-13T01:57:30.252188",
+  "package_url": "https://pypi.org/project/pyconll/"
+}
