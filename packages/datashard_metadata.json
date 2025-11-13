@@ -1,11 +1,11 @@
 {
   "name": "datashard",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Safe concurrent data operations for ML/AI workloads, Python implementation of Apache Iceberg concepts",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "datashard-0.1.1.tar.gz",
-  "download_time": "2025-11-13T21:54:14.853815",
+  "download_filename": "datashard-0.1.4.tar.gz",
+  "download_time": "2025-11-13T22:25:02.232173",
   "package_url": "https://pypi.org/project/datashard/"
 }

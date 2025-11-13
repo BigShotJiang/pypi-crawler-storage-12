@@ -1,0 +1,11 @@
+{
+  "name": "sandwine",
+  "version": "5.0.0",
+  "summary": "Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "sandwine-5.0.0.tar.gz",
+  "download_time": "2025-11-13T22:25:11.661235",
+  "package_url": "https://pypi.org/project/sandwine/"
+}

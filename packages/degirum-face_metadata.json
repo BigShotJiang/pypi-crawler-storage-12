@@ -1,0 +1,11 @@
+{
+  "name": "degirum-face",
+  "version": "0.3.0",
+  "summary": "DeGirum Face Recognition Package",
+  "author": "DeGirum Corp",
+  "license": "Proprietary (https://docs.degirum.com/pysdk/eula)",
+  "home_page": "https://hub.degirum.com/",
+  "download_filename": "degirum_face-0.3.0-py3-none-any.whl",
+  "download_time": "2025-11-13T22:25:29.563171",
+  "package_url": "https://pypi.org/project/degirum-face/"
+}

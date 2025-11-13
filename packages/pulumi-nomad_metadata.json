@@ -1,11 +1,11 @@
 {
   "name": "pulumi-nomad",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "summary": "A Pulumi package for creating and managing nomad cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_nomad-2.5.2.tar.gz",
-  "download_time": "2025-11-11T06:59:16.346367",
+  "download_filename": "pulumi_nomad-2.5.3.tar.gz",
+  "download_time": "2025-11-13T22:24:56.996311",
   "package_url": "https://pypi.org/project/pulumi-nomad/"
 }

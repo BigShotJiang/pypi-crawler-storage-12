@@ -1,0 +1,11 @@
+{
+  "name": "mvr-api-client",
+  "version": "2.6.0",
+  "summary": "Python client for African Market OS — Minimum Viable Relationships (MVR) API",
+  "author": "African Market OS",
+  "license": "MIT",
+  "home_page": "https://github.com/africanmarketos/mvr-api-py-client",
+  "download_filename": "mvr_api_client-2.6.0.tar.gz",
+  "download_time": "2025-11-13T22:25:10.628055",
+  "package_url": "https://pypi.org/project/mvr-api-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kubetorch",
-  "version": "0.2.4",
-  "summary": "A Python interface for running ML workloads on Kubernetes",
+  "version": "0.2.5",
+  "summary": "A Fast, Pythonic, 'Serverless' Interface for Running ML Workloads on Kubernetes",
   "author": "Runhouse Team",
   "license": "Apache 2.0",
   "home_page": "https://run.house",
-  "download_filename": "kubetorch-0.2.4.tar.gz",
-  "download_time": "2025-11-12T09:53:49.337767",
+  "download_filename": "kubetorch-0.2.5.tar.gz",
+  "download_time": "2025-11-13T22:25:26.944337",
   "package_url": "https://pypi.org/project/kubetorch/"
 }
