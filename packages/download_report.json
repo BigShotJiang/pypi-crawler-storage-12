@@ -1,18 +1,14 @@
 {
-  "download_time": "2025-11-13T04:36:23.534135",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 47.22,
+  "download_time": "2025-11-13T04:56:05.412261",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 2.88,
   "packages": [
-    "schemez",
-    "amberNPS",
-    "fprime-fpp",
-    "enumex",
-    "odoo-addons-oca-vertical-association",
     "odoo-addon-stock-no-negative",
     "keras-nlp-nightly",
     "llmasajudge",
     "keras-hub-nightly",
     "odoo-addon-stock-reserve-rule",
+    "schemez",
     "fdev-ids",
     "isc-playbook-mcp-server",
     "django-countries",
@@ -79,6 +75,8 @@
     "easy-code-reader",
     "esphome",
     "serpex",
-    "qubitclient"
+    "qubitclient",
+    "lybase",
+    "telebulk"
   ]
 }

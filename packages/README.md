@@ -1,21 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T04:36:23.534135
-- **Total Packages**: 77
-- **Total Size**: 47.22 MB
+- **Download Time**: 2025-11-13T04:56:05.412261
+- **Total Packages**: 75
+- **Total Size**: 2.88 MB
 
 ## Packages List
-- schemez
-- amberNPS
-- fprime-fpp
-- enumex
-- odoo-addons-oca-vertical-association
 - odoo-addon-stock-no-negative
 - keras-nlp-nightly
 - llmasajudge
 - keras-hub-nightly
 - odoo-addon-stock-reserve-rule
+- schemez
 - fdev-ids
 - isc-playbook-mcp-server
 - django-countries
@@ -83,3 +79,5 @@
 - esphome
 - serpex
 - qubitclient
+- lybase
+- telebulk
