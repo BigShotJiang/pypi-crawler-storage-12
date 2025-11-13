@@ -1,0 +1,11 @@
+{
+  "name": "a11y-checker",
+  "version": "1.0.2",
+  "summary": "Asynchronous Python client for the accessibility checker API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "a11y_checker-1.0.2.tar.gz",
+  "download_time": "2025-11-13T07:28:10.642726",
+  "package_url": "https://pypi.org/project/a11y-checker/"
+}

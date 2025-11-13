@@ -1,0 +1,11 @@
+{
+  "name": "omise",
+  "version": "0.15.1",
+  "summary": "Omise Python client",
+  "author": "Omise",
+  "license": null,
+  "home_page": "https://www.omise.co/",
+  "download_filename": "omise-0.15.1.tar.gz",
+  "download_time": "2025-11-13T07:28:37.224491",
+  "package_url": "https://pypi.org/project/omise/"
+}

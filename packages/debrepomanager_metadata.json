@@ -1,11 +1,11 @@
 {
   "name": "debrepomanager",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Debian Repository Manager for multi-distribution package management",
   "author": "Viacheslav Bocharov",
   "license": "MIT",
   "home_page": "https://github.com/jethome/repomanager",
-  "download_filename": "debrepomanager-0.3.3.tar.gz",
-  "download_time": "2025-11-11T16:58:09.151163",
+  "download_filename": "debrepomanager-0.3.4.tar.gz",
+  "download_time": "2025-11-13T07:28:19.563763",
   "package_url": "https://pypi.org/project/debrepomanager/"
 }

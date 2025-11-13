@@ -1,0 +1,11 @@
+{
+  "name": "bidnlp",
+  "version": "0.2.2",
+  "summary": "A Comprehensive Persian (Farsi) Natural Language Processing Library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bidnlp-0.2.2.tar.gz",
+  "download_time": "2025-11-13T07:28:16.961045",
+  "package_url": "https://pypi.org/project/bidnlp/"
+}

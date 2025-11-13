@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-nbotbb",
-  "version": "0.4.0",
-  "summary": "A Model Context Protocol server providing agricultural product search, intelligent recommendation, and Chinese delivery address extraction for LLMs",
+  "version": "0.8.0",
+  "summary": "A Model Context Protocol server providing tools for time queries and timezone conversions for LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_nbotbb-0.4.0.tar.gz",
-  "download_time": "2025-11-13T06:59:05.384647",
+  "download_filename": "mcp_server_nbotbb-0.8.0.tar.gz",
+  "download_time": "2025-11-13T07:28:30.474555",
   "package_url": "https://pypi.org/project/mcp-server-nbotbb/"
 }

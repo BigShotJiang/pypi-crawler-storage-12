@@ -1,11 +1,11 @@
 {
   "name": "ai-edge-litert-nightly",
-  "version": "2.0.4.dev20251111",
+  "version": "2.0.4.dev20251112",
   "summary": "LiteRT is for mobile and embedded devices.",
   "author": "Google AI Edge Authors",
   "license": "Apache 2.0",
   "home_page": "https://www.tensorflow.org/lite/",
-  "download_filename": "ai_edge_litert_nightly-2.0.4.dev20251111-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2025-11-12T22:24:43.543751",
+  "download_filename": "ai_edge_litert_nightly-2.0.4.dev20251112-cp310-cp310-manylinux_2_27_aarch64.whl",
+  "download_time": "2025-11-13T07:28:12.244753",
   "package_url": "https://pypi.org/project/ai-edge-litert-nightly/"
 }
