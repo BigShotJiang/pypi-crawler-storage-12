@@ -1,0 +1,11 @@
+{
+  "name": "dbt-power-tools",
+  "version": "0.1.1",
+  "summary": "CLI to auto-generate dbt docs using LLMs (Ollama-first).",
+  "author": "Rahul Rajasekharan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_power_tools-0.1.1.tar.gz",
+  "download_time": "2025-11-13T18:39:40.767474",
+  "package_url": "https://pypi.org/project/dbt-power-tools/"
+}

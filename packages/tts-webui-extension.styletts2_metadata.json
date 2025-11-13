@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.styletts2",
+  "version": "0.1.1",
+  "summary": "StyleTTS2 is a text-to-speech model that generates high-quality speech with controllable style",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tts_webui_extension_styletts2-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-13T18:39:34.918206",
+  "package_url": "https://pypi.org/project/tts-webui-extension.styletts2/"
+}

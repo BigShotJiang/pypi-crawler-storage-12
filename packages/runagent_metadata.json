@@ -1,11 +1,11 @@
 {
   "name": "runagent",
-  "version": "0.1.26",
+  "version": "0.1.29",
   "summary": "A command-line tool and SDK for deploying, managing, and interacting with AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runagent-0.1.26-py3-none-any.whl",
-  "download_time": "2025-11-12T23:24:33.797615",
+  "download_filename": "runagent-0.1.29-py3-none-any.whl",
+  "download_time": "2025-11-13T18:39:54.131657",
   "package_url": "https://pypi.org/project/runagent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bip32",
+  "version": "5.0.0",
+  "summary": "Minimalistic implementation of BIP32 (Bitcoin HD wallets)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bip32-5.0.0.tar.gz",
+  "download_time": "2025-11-13T18:39:37.202175",
+  "package_url": "https://pypi.org/project/bip32/"
+}

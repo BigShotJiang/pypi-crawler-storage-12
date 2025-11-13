@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui.styletts2",
+  "version": "0.1.11",
+  "summary": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models. Original authors: Yinghao Aaron Li, Cong Han, Vinay S. Raghavan, Gavin Mischler, Nima Mesgarani. ",
+  "author": "Sidharth Rajaram",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tts_webui_styletts2-0.1.11-py3-none-any.whl",
+  "download_time": "2025-11-13T18:39:40.220563",
+  "package_url": "https://pypi.org/project/tts-webui.styletts2/"
+}

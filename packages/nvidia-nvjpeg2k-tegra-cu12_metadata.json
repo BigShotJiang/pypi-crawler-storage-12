@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nvjpeg2k-tegra-cu12",
+  "version": "0.9.1.47",
+  "summary": "NVIDIA nvJPEG2000 native runtime libraries",
+  "author": "NVIDIA Corporation",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": "https://developer.nvidia.com/nvjpeg",
+  "download_filename": "nvidia_nvjpeg2k_tegra_cu12-0.9.1.47-py3-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-11-13T18:40:17.777169",
+  "package_url": "https://pypi.org/project/nvidia-nvjpeg2k-tegra-cu12/"
+}

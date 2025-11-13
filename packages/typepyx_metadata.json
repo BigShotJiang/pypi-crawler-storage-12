@@ -1,0 +1,11 @@
+{
+  "name": "typepyx",
+  "version": "1.0.0",
+  "summary": "Custom type system for Python similar to TypeScript",
+  "author": "Nambooproo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typepyx-1.0.0.tar.gz",
+  "download_time": "2025-11-13T18:40:16.592602",
+  "package_url": "https://pypi.org/project/typepyx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "specparam",
+  "version": "2.0.0rc5",
+  "summary": "Spectral parameterization.",
+  "author": "The Voytek Lab",
+  "license": "Apache License, 2.0",
+  "home_page": "https://github.com/fooof-tools/fooof",
+  "download_filename": "specparam-2.0.0rc5.tar.gz",
+  "download_time": "2025-11-13T18:39:44.588094",
+  "package_url": "https://pypi.org/project/specparam/"
+}

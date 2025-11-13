@@ -1,0 +1,11 @@
+{
+  "name": "contextual-studio-ai-agent",
+  "version": "0.1.0",
+  "summary": "IA Generative Agent library to create autonomous agents using LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextual_studio_ai_agent-0.1.0.tar.gz",
+  "download_time": "2025-11-13T18:39:34.379036",
+  "package_url": "https://pypi.org/project/contextual-studio-ai-agent/"
+}
