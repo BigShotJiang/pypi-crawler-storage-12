@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T05:46:41.449236
-- **Total Packages**: 82
-- **Total Size**: 6.77 MB
+- **Download Time**: 2025-11-13T05:58:43.535343
+- **Total Packages**: 89
+- **Total Size**: 10.19 MB
 
 ## Packages List
+- BalethonPlus
+- setup-fleet-mcp
+- charlie-agents
+- meta-edc
+- protobuf-protoc-bin
+- emotion-machine
+- clinicedc
+- mercuto-client
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- pyqrack-cpu-complex128
+- pyqrack-cpu
+- pyqrack-complex128
+- pyqrack
+- gpustack-runtime
+- django-crypto-fields
+- cirq-core
+- cirq-pasqal
+- cirq-web
+- cirq
+- cirq-ionq
+- cirq-aqt
+- cirq-google
+- agent-infra
+- nexustrader
+- better-nested-serializer
 - amberNPS
 - moths
 - edc-he
@@ -26,7 +52,6 @@
 - lisien
 - pyshapdf
 - mcp-server-nbotbb
-- clinicedc
 - seolpyo-mplchart
 - py-apache-log-digest-xethhung12
 - delphix-dct-api
@@ -70,21 +95,3 @@
 - getupandrun
 - nucleation
 - pnpxai
-- sap2000-mcp
-- aider-ce
-- scandir-rs
-- robhan-cdk-lib.aws-mwaa
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.utils
-- captchakings
-- pepflow
-- 3DeeCellTracker
-- cogent3
-- radboy
-- mlops-crispdm-ci-cd
-- cdk-factory
-- math-engine
-- nanocodec-torch
-- qolsys-controller
-- ldc-lender-datalayer

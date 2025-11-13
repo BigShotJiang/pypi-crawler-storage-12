@@ -1,0 +1,11 @@
+{
+  "name": "django-crypto-fields",
+  "version": "1.2.0",
+  "summary": "Add encrypted field classes and more to your Django models",
+  "author": "Erik van Widenfelt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_crypto_fields-1.2.0.tar.gz",
+  "download_time": "2025-11-13T05:58:04.400090",
+  "package_url": "https://pypi.org/project/django-crypto-fields/"
+}
