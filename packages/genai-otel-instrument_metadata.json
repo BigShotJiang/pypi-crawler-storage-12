@@ -1,11 +1,11 @@
 {
   "name": "genai-otel-instrument",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Comprehensive OpenTelemetry auto-instrumentation for LLM/GenAI applications",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "genai_otel_instrument-0.1.21.tar.gz",
-  "download_time": "2025-11-12T07:56:33.207147",
+  "download_filename": "genai_otel_instrument-0.1.22.tar.gz",
+  "download_time": "2025-11-13T06:59:04.729448",
   "package_url": "https://pypi.org/project/genai-otel-instrument/"
 }

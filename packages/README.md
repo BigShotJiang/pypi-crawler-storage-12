@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T06:42:00.812834
-- **Total Packages**: 74
-- **Total Size**: 42.21 MB
+- **Download Time**: 2025-11-13T06:59:42.199432
+- **Total Packages**: 75
+- **Total Size**: 11.54 MB
 
 ## Packages List
+- single_cell_metabolomics
+- ails-cli-tool
+- json2toon
+- aicli
+- suffix-tree-tool
+- setup-fleet-mcp
+- bns-nlp-engine
+- octoprint-factor-plugin
+- mzy-py
+- genai-otel-instrument
+- mcp-server-nbotbb
+- first-fileio
 - sbase
 - lxmfy-translate-bot
 - basecase
@@ -25,7 +37,6 @@
 - realtimex-docs-server
 - Pylocalmem
 - django-json-schema-editor
-- octoprint-factor-plugin
 - apache-burr
 - pytally-sdk
 - whatsapp-chatbot-python
@@ -38,7 +49,6 @@
 - esmcba
 - ibm-watsonx-data-intelligence-mcp-server
 - skboost
-- i050-utility-package
 - fonadalabs
 - san-cli
 - gallagher
@@ -62,7 +72,6 @@
 - bbtutils
 - traderkit
 - descartcan
-- mcp-server-nbotbb
 - effect-edc
 - oceanbase-sqlalchemy
 - alpha-avatar-plugins-persona
@@ -72,11 +81,3 @@
 - crpylib
 - netskope-log-stream-client-installer
 - datature
-- bookdatamaker
-- pyg-nightly
-- kosong
-- aklauncher
-- sphinx-tabs-selector
-- secsgem_cyg
-- fastmcp-app-launcher-test
-- raindrop-ai

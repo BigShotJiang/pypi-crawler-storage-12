@@ -1,11 +1,11 @@
 {
   "name": "ails-cli-tool",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "AI-powered directory scanner and project analyzer",
   "author": "oldjs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ails_cli_tool-1.0.3-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-11-13T05:46:03.641653",
+  "download_filename": "ails_cli_tool-1.0.5-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-13T06:58:59.507561",
   "package_url": "https://pypi.org/project/ails-cli-tool/"
 }
