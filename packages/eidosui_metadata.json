@@ -1,11 +1,11 @@
 {
   "name": "eidosui",
-  "version": "0.11.0",
+  "version": "0.12.1",
   "summary": "A modern, Tailwind CSS-based UI library for air development",
   "author": "Isaac Flath",
   "license": null,
   "home_page": null,
-  "download_filename": "eidosui-0.11.0.tar.gz",
-  "download_time": "2025-11-13T20:29:37.371024",
+  "download_filename": "eidosui-0.12.1.tar.gz",
+  "download_time": "2025-11-13T20:47:04.402194",
   "package_url": "https://pypi.org/project/eidosui/"
 }
