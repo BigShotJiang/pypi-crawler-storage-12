@@ -1,0 +1,11 @@
+{
+  "name": "risnaberti-nanumber",
+  "version": "0.2.0",
+  "summary": "Universal auto-number generator library with flexible templates and multi-database support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "risnaberti_nanumber-0.2.0.tar.gz",
+  "download_time": "2025-11-13T08:36:13.283659",
+  "package_url": "https://pypi.org/project/risnaberti-nanumber/"
+}

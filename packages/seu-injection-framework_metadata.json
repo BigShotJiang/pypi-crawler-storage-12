@@ -1,11 +1,11 @@
 {
   "name": "seu-injection-framework",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "Framework for Single Event Upset (SEU) injection in neural networks for harsh environment applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "seu_injection_framework-1.1.8.tar.gz",
-  "download_time": "2025-11-11T16:58:15.936923",
+  "download_filename": "seu_injection_framework-1.1.9.tar.gz",
+  "download_time": "2025-11-13T08:36:08.137941",
   "package_url": "https://pypi.org/project/seu-injection-framework/"
 }

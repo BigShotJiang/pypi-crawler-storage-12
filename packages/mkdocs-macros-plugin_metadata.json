@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-macros-plugin",
+  "version": "1.5.0",
+  "summary": "Unleash the power of MkDocs with macros and variables",
+  "author": "Laurent Franceschetti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_macros_plugin-1.5.0.tar.gz",
+  "download_time": "2025-11-13T08:36:12.775387",
+  "package_url": "https://pypi.org/project/mkdocs-macros-plugin/"
+}

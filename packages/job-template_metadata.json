@@ -1,11 +1,11 @@
 {
   "name": "job-template",
-  "version": "0.5",
+  "version": "0.7",
   "summary": "A Django app for job-template",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "job_template-0.5.tar.gz",
-  "download_time": "2025-11-12T11:54:21.749166",
+  "download_filename": "job_template-0.7.tar.gz",
+  "download_time": "2025-11-13T08:35:31.325037",
   "package_url": "https://pypi.org/project/job-template/"
 }

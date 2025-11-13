@@ -1,11 +1,11 @@
 {
   "name": "asyncfast",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "summary": "Add your description here",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "asyncfast-0.16.0.tar.gz",
-  "download_time": "2025-11-12T03:57:32.012974",
+  "download_filename": "asyncfast-0.17.0.tar.gz",
+  "download_time": "2025-11-13T08:35:43.786820",
   "package_url": "https://pypi.org/project/asyncfast/"
 }

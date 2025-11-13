@@ -1,11 +1,11 @@
 {
   "name": "socrates-ai",
-  "version": "0.2.0",
-  "summary": "AI-Powered Specification Assistant using Socratic Method",
+  "version": "0.4.1",
+  "summary": "AI-Powered Specification Assistant - Complete Framework with Agents, Domains, and Multi-LLM Support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "socrates_ai-0.2.0.tar.gz",
-  "download_time": "2025-11-11T08:34:38.423826",
+  "download_filename": "socrates_ai-0.4.1.tar.gz",
+  "download_time": "2025-11-13T08:36:06.092730",
   "package_url": "https://pypi.org/project/socrates-ai/"
 }
