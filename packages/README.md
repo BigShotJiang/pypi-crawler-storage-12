@@ -1,13 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T17:46:29.913607
-- **Total Packages**: 92
-- **Total Size**: 47.33 MB
+- **Download Time**: 2025-11-13T17:58:48.345086
+- **Total Packages**: 83
+- **Total Size**: 16.85 MB
 
 ## Packages List
-- oidcauthlib
+- klimalogger
+- tenzir-platform
+- samod
+- bluer-sbc
+- huitzo-sdk
+- osdu-perf
+- standardbots
+- acryl-datahub-actions
+- infinite-context
+- maps4fs
+- fastpluggy-tasks-worker
+- acryl-datahub-gx-plugin
+- acryl-datahub-dagster-plugin
+- acryl-datahub-airflow-plugin
+- stegvault
+- acryl-datahub
+- maxapi-python
+- prefect-datahub
+- marimo-functions
+- pumaguard
+- whitebox-plugin-device-manager
+- metabeeai
+- littlehorse-client
+- termyak
+- saneyak
+- pureyak
+- celeste-image-intelligence
+- somnia-data-streams-sdk
 - tencent-cloud-hackathon-intelligent-pentest-competition-api-server
+- zenable-mcp
+- pycarlo
+- melody-features
+- speedy-openai
+- moose-lib
+- nati-log
+- paid-python
+- vuno
+- vgs-cli
+- Canaille
+- q8s
+- ryn-data
+- cellprofiler-core-nightly
+- cellprofiler-library-nightly
+- moai-adk
+- tnfr
+- stripe
+- pytetwild
+- lazysdk
+- molecule-lima
+- dzbanek-lfx
+- rusmppyc
+- livekit-plugins-tenvad
+- oidcauthlib
 - plinkformatter
 - mat3ra-made
 - cachetools
@@ -17,15 +68,12 @@
 - spectacles
 - iam-policy-validator
 - pkn
-- vuno
 - pkn-ccflow
 - bqseine
 - fprime-gds
 - git-history-extraction
 - excel2moodle
 - test-chiefpay-fern
-- moai-adk
-- klimalogger
 - myportfolio
 - aws-cdk.region-info
 - flync
@@ -41,60 +89,3 @@
 - aws-cdk.aws-pipes-targets-alpha
 - aws-cdk.aws-pipes-sources-alpha
 - aws-cdk.aws-pipes-enrichments-alpha
-- aws-cdk.aws-pipes-alpha
-- aws-cdk.aws-neptune-alpha
-- aws-cdk.aws-msk-alpha
-- aws-cdk.aws-location-alpha
-- aws-cdk.aws-lambda-python-alpha
-- aws-cdk.aws-lambda-go-alpha
-- libyang
-- aws-cdk.aws-kinesisanalytics-flink-alpha
-- aws-cdk.aws-ivs-alpha
-- aws-cdk.aws-iotevents-alpha
-- aws-cdk.aws-iotevents-actions-alpha
-- aws-cdk.aws-iot-alpha
-- aws-cdk.aws-iot-actions-alpha
-- aws-cdk.aws-imagebuilder-alpha
-- aws-cdk.aws-glue-alpha
-- aws-cdk.aws-gamelift-alpha
-- aws-cdk.aws-elasticache-alpha
-- aws-cdk.aws-eks-v2-alpha
-- aws-cdk.aws-ec2-alpha
-- aws-cdk.aws-codestar-alpha
-- openinference-instrumentation-portkey
-- aws-cdk.aws-cloud9-alpha
-- aws-cdk.aws-bedrock-alpha
-- aws-cdk.aws-bedrock-agentcore-alpha
-- aws-cdk.aws-apprunner-alpha
-- aws-cdk.aws-applicationsignals-alpha
-- aws-cdk.aws-amplify-alpha
-- aws-cdk.app-staging-synthesizer-alpha
-- quicksort-pro
-- ostorlab
-- getcodes
-- python-terrier
-- osbot-utils
-- nextmv
-- hopx-mcp
-- katana-mcp-server
-- Contrai
-- xai-review
-- blastchamber-python-pypi
-- airflow-cli
-- simplyprint-bambu-lab
-- streamlit-nightly
-- csc-cia-stne
-- mewo_ovhcloud
-- nominal-api-protos
-- nominal-api
-- alibabacloud-ice20201109
-- geometric_kernels
-- alibabacloud-sas20181203
-- alibabacloud-farui20240628
-- gradlens
-- alibabacloud-selectdb20230522
-- alibabacloud-eiam20211201
-- pyterrier
-- scc-firewall-manager-sdk
-- svg2fbf
-- qaznltk

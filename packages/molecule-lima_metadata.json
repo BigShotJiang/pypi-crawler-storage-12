@@ -1,11 +1,11 @@
 {
   "name": "molecule-lima",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Molecule driver for Lima VM - Test Ansible roles on macOS Apple Silicon and Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "molecule_lima-0.0.2.tar.gz",
-  "download_time": "2025-11-11T20:27:33.935181",
+  "download_filename": "molecule_lima-0.0.3.tar.gz",
+  "download_time": "2025-11-13T17:58:28.272523",
   "package_url": "https://pypi.org/project/molecule-lima/"
 }

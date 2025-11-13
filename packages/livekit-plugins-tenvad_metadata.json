@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-tenvad",
+  "version": "1.0.8",
+  "summary": "Agent Framework Plugin for TEN VAD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_tenvad-1.0.8.tar.gz",
+  "download_time": "2025-11-13T17:58:29.858648",
+  "package_url": "https://pypi.org/project/livekit-plugins-tenvad/"
+}

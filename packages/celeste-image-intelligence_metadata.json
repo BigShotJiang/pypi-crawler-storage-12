@@ -1,0 +1,11 @@
+{
+  "name": "celeste-image-intelligence",
+  "version": "0.2.1",
+  "summary": "Type-safe image intelligence for Celeste AI. Unified interface for Google Gemini and more",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "celeste_image_intelligence-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-13T17:58:14.701007",
+  "package_url": "https://pypi.org/project/celeste-image-intelligence/"
+}

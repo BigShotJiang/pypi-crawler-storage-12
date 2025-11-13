@@ -1,0 +1,11 @@
+{
+  "name": "speedy-openai",
+  "version": "0.3.0",
+  "summary": "Async OpenAI client for fast and efficient API requests using AIOHTTP module.",
+  "author": "Luca Ferrario",
+  "license": "MIT",
+  "home_page": "https://github.com/lucafirefox/speedy-openai",
+  "download_filename": "speedy_openai-0.3.0.tar.gz",
+  "download_time": "2025-11-13T17:58:18.359492",
+  "package_url": "https://pypi.org/project/speedy-openai/"
+}
