@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-ivs-alpha",
-  "version": "2.223.0a0",
+  "version": "2.224.0a0",
   "summary": "The CDK Construct Library for AWS::IVS",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_ivs_alpha-2.223.0a0.tar.gz",
-  "download_time": "2025-11-10T15:28:10.844649",
+  "download_filename": "aws_cdk_aws_ivs_alpha-2.224.0a0.tar.gz",
+  "download_time": "2025-11-13T17:46:02.960843",
   "package_url": "https://pypi.org/project/aws-cdk.aws-ivs-alpha/"
 }

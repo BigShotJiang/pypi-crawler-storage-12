@@ -1,0 +1,11 @@
+{
+  "name": "libyang",
+  "version": "3.3.0",
+  "summary": "CFFI bindings to libyang",
+  "author": "Robin Jarry",
+  "license": "MIT",
+  "home_page": "https://github.com/CESNET/libyang-python",
+  "download_filename": "libyang-3.3.0.tar.gz",
+  "download_time": "2025-11-13T17:46:01.856564",
+  "package_url": "https://pypi.org/project/libyang/"
+}

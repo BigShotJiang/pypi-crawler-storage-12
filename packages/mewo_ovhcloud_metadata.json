@@ -1,11 +1,11 @@
 {
   "name": "mewo_ovhcloud",
-  "version": "0.2.23",
+  "version": "0.2.25",
   "summary": null,
   "author": "feluxe",
   "license": null,
   "home_page": null,
-  "download_filename": "mewo_ovhcloud-0.2.23.tar.gz",
-  "download_time": "2025-11-13T16:54:50.717986",
+  "download_filename": "mewo_ovhcloud-0.2.25.tar.gz",
+  "download_time": "2025-11-13T17:46:22.587339",
   "package_url": "https://pypi.org/project/mewo_ovhcloud/"
 }

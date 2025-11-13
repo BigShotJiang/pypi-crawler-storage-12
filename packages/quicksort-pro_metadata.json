@@ -1,11 +1,11 @@
 {
   "name": "quicksort-pro",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "Professional optimized sorting algorithms with data preprocessing utilities",
   "author": "Algorithm Solutions Inc",
   "license": "MIT",
   "home_page": "https://github.com/algorithmsolutions/quicksort-pro",
-  "download_filename": "quicksort_pro-1.8.0.tar.gz",
-  "download_time": "2025-11-13T16:54:40.607059",
+  "download_filename": "quicksort_pro-1.9.0.tar.gz",
+  "download_time": "2025-11-13T17:46:14.224350",
   "package_url": "https://pypi.org/project/quicksort-pro/"
 }

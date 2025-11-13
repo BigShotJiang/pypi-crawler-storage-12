@@ -1,0 +1,11 @@
+{
+  "name": "cachetools",
+  "version": "6.2.2",
+  "summary": "Extensible memoizing collections and decorators",
+  "author": "Thomas Kemmer",
+  "license": "MIT",
+  "home_page": "https://github.com/tkem/cachetools/",
+  "download_filename": "cachetools-6.2.2.tar.gz",
+  "download_time": "2025-11-13T17:45:40.845997",
+  "package_url": "https://pypi.org/project/cachetools/"
+}
