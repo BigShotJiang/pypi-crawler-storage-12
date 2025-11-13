@@ -1,0 +1,11 @@
+{
+  "name": "bhashini-client",
+  "version": "0.1.5",
+  "summary": "A Python client for interacting with Bhashini inference services (ASR, NMT, TTS).",
+  "author": "Sai",
+  "license": null,
+  "home_page": "https://github.com/your-org/bhashini-client",
+  "download_filename": "bhashini_client-0.1.5.tar.gz",
+  "download_time": "2025-11-13T06:41:44.252344",
+  "package_url": "https://pypi.org/project/bhashini-client/"
+}

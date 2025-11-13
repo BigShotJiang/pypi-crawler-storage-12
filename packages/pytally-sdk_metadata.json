@@ -1,11 +1,11 @@
 {
   "name": "pytally-sdk",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Unofficial Python SDK for the Tally.so API",
   "author": "Felipe Adeildo",
   "license": null,
   "home_page": null,
-  "download_filename": "pytally_sdk-0.1.7.tar.gz",
-  "download_time": "2025-11-13T04:00:55.290042",
+  "download_filename": "pytally_sdk-0.1.9.tar.gz",
+  "download_time": "2025-11-13T06:41:31.662758",
   "package_url": "https://pypi.org/project/pytally-sdk/"
 }

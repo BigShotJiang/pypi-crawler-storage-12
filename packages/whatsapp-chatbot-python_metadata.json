@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-chatbot-python",
+  "version": "0.9.7",
+  "summary": "This library helps you easily create a Python chatbot with WhatsApp API.",
+  "author": "GREEN API",
+  "license": "Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+  "home_page": "https://github.com/green-api/whatsapp-chatbot-python",
+  "download_filename": "whatsapp_chatbot_python-0.9.7.tar.gz",
+  "download_time": "2025-11-13T06:41:32.175686",
+  "package_url": "https://pypi.org/project/whatsapp-chatbot-python/"
+}

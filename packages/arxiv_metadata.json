@@ -1,0 +1,11 @@
+{
+  "name": "arxiv",
+  "version": "2.3.1",
+  "summary": "Python wrapper for the arXiv API: https://arxiv.org/help/api/",
+  "author": "Lukas Schwab",
+  "license": "MIT",
+  "home_page": "https://github.com/lukasschwab/arxiv.py",
+  "download_filename": "arxiv-2.3.1.tar.gz",
+  "download_time": "2025-11-13T06:41:42.186890",
+  "package_url": "https://pypi.org/project/arxiv/"
+}
