@@ -1,11 +1,11 @@
 {
   "name": "microdocs",
-  "version": "0.1",
+  "version": "0.3",
   "summary": "Transform your Markdown files into a self-contained HTML documentation site.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microdocs-0.1.tar.gz",
-  "download_time": "2025-11-13T15:30:04.026448",
+  "download_filename": "microdocs-0.3.tar.gz",
+  "download_time": "2025-11-13T19:23:26.542546",
   "package_url": "https://pypi.org/project/microdocs/"
 }

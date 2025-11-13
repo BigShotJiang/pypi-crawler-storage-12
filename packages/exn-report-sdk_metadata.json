@@ -1,11 +1,11 @@
 {
   "name": "exn-report-sdk",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Python SDK for Report Service.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exn_report_sdk-0.1.8.tar.gz",
-  "download_time": "2025-11-13T18:58:24.709793",
+  "download_filename": "exn_report_sdk-0.1.9.tar.gz",
+  "download_time": "2025-11-13T19:23:52.540630",
   "package_url": "https://pypi.org/project/exn-report-sdk/"
 }

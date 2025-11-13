@@ -1,11 +1,11 @@
 {
   "name": "thumbnail-maker",
-  "version": "0.1.5",
-  "summary": "썸네일 생성 도구 - Pillow와 PySide6 기반",
+  "version": "0.1.7",
+  "summary": "썸네일 생성 도구 - Pillow 기반",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thumbnail_maker-0.1.5.tar.gz",
-  "download_time": "2025-11-13T08:59:07.149058",
+  "download_filename": "thumbnail_maker-0.1.7-py3-none-any.whl",
+  "download_time": "2025-11-13T19:23:27.582695",
   "package_url": "https://pypi.org/project/thumbnail-maker/"
 }

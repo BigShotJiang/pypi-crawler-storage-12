@@ -1,0 +1,11 @@
+{
+  "name": "vpn-controller",
+  "version": "1.0.0",
+  "summary": "Minimal OpenVPN connection manager for ProtonVPN - WSL-optimized",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vpn_controller-1.0.0.tar.gz",
+  "download_time": "2025-11-13T19:23:54.643076",
+  "package_url": "https://pypi.org/project/vpn-controller/"
+}

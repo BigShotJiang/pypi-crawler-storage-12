@@ -1,0 +1,11 @@
+{
+  "name": "fermihalos",
+  "version": "0.1.2",
+  "summary": "An extended RAR model for dark matter halo astrophysics.",
+  "author": "RAR collaboration",
+  "license": null,
+  "home_page": "https://github.com/Santiq22/FermiHalos",
+  "download_filename": "fermihalos-0.1.2.tar.gz",
+  "download_time": "2025-11-13T19:23:46.236851",
+  "package_url": "https://pypi.org/project/fermihalos/"
+}

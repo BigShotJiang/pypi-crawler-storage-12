@@ -1,11 +1,11 @@
 {
   "name": "aa-wanderer-map",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "AA wanderer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aa_wanderer_map-0.1.6.tar.gz",
-  "download_time": "2025-11-11T07:44:20.387617",
+  "download_filename": "aa_wanderer_map-0.1.7.tar.gz",
+  "download_time": "2025-11-13T19:23:49.931470",
   "package_url": "https://pypi.org/project/aa-wanderer-map/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "speechmatics-sdk",
+  "version": "0.1.1",
+  "summary": "Speechmatics Python SDK - Complete package for all Speechmatics APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speechmatics_sdk-0.1.1.tar.gz",
+  "download_time": "2025-11-13T19:23:53.578627",
+  "package_url": "https://pypi.org/project/speechmatics-sdk/"
+}

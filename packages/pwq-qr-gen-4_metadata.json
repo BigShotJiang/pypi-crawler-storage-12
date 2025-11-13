@@ -1,11 +1,11 @@
 {
   "name": "pwq-qr-gen-4",
-  "version": "4.0.2",
+  "version": "4.0.42",
   "summary": "A fully customizable QR code generator with support for colors, logos, and links.",
   "author": "pawlexcode95",
   "license": null,
   "home_page": "https://github.com/pawlexcode95/PWQ-QR-Gen-4-A-Fully-Customizable-QR-Code-Generator",
-  "download_filename": "pwq_qr_gen_4-4.0.2.tar.gz",
-  "download_time": "2025-11-13T18:58:23.603414",
+  "download_filename": "pwq_qr_gen_4-4.0.42.tar.gz",
+  "download_time": "2025-11-13T19:23:31.432621",
   "package_url": "https://pypi.org/project/pwq-qr-gen-4/"
 }
