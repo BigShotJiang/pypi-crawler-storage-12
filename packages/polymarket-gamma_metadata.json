@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-gamma",
+  "version": "0.1.2",
+  "summary": "Modern Python SDK for Polymarket Gamma API. Install as 'polymarket-gamma', import as 'py_gamma'.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polymarket_gamma-0.1.2.tar.gz",
+  "download_time": "2025-11-13T16:54:36.960004",
+  "package_url": "https://pypi.org/project/polymarket-gamma/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kaictl",
-  "version": "0.1.0",
-  "summary": "Kubernetes Natural Language Agent",
+  "version": "0.1.1",
+  "summary": "Kubernetes Natural Language Agent - Translate natural language to kubectl commands",
   "author": "KaiCTL Contributors",
-  "license": null,
-  "home_page": "https://github.com/yourusername/kaictl",
-  "download_filename": "kaictl-0.1.0.tar.gz",
-  "download_time": "2025-11-13T14:27:46.039770",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaictl-0.1.1.tar.gz",
+  "download_time": "2025-11-13T16:54:18.576142",
   "package_url": "https://pypi.org/project/kaictl/"
 }

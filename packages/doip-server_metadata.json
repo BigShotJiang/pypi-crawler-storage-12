@@ -1,0 +1,11 @@
+{
+  "name": "doip-server",
+  "version": "0.5.4",
+  "summary": "DoIP Server and Client implementation with YAML configuration",
+  "author": "Alonso Ramirez",
+  "license": "MIT",
+  "home_page": "https://github.com/Alonso07/doip_server",
+  "download_filename": "doip_server-0.5.4.tar.gz",
+  "download_time": "2025-11-13T16:54:53.859480",
+  "package_url": "https://pypi.org/project/doip-server/"
+}

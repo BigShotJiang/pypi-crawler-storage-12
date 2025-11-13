@@ -1,0 +1,11 @@
+{
+  "name": "matgl",
+  "version": "2.0.0",
+  "summary": "MatGL is a framework for graph deep learning for materials science.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "matgl-2.0.0.tar.gz",
+  "download_time": "2025-11-13T16:54:23.781275",
+  "package_url": "https://pypi.org/project/matgl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "luna-quantum",
+  "version": "1.0.8",
+  "summary": "Python SDK for Aqarios' Luna Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "luna_quantum-1.0.8-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-13T16:54:11.615022",
+  "package_url": "https://pypi.org/project/luna-quantum/"
+}

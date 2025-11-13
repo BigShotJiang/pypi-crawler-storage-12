@@ -1,0 +1,11 @@
+{
+  "name": "gmic",
+  "version": "3.6.3.post1",
+  "summary": "Python bindings for the G'MIC C++ image processing library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmic-3.6.3.post1.tar.gz",
+  "download_time": "2025-11-13T16:54:14.296908",
+  "package_url": "https://pypi.org/project/gmic/"
+}

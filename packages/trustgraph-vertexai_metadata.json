@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-vertexai",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_vertexai-1.5.4.tar.gz",
-  "download_time": "2025-11-12T20:45:33.602692",
+  "download_filename": "trustgraph_vertexai-1.5.5.tar.gz",
+  "download_time": "2025-11-13T16:54:54.905401",
   "package_url": "https://pypi.org/project/trustgraph-vertexai/"
 }

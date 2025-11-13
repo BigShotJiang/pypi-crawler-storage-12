@@ -1,0 +1,11 @@
+{
+  "name": "typhoon-ocr",
+  "version": "0.4.1",
+  "summary": "A package for extracting structured content from PDFs and images using Typhoon OCR models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "typhoon_ocr-0.4.1.tar.gz",
+  "download_time": "2025-11-13T16:54:25.936023",
+  "package_url": "https://pypi.org/project/typhoon-ocr/"
+}

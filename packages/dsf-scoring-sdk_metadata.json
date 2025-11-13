@@ -1,11 +1,11 @@
 {
   "name": "dsf-scoring-sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "SDK oficial en Python para la API de DSF Scoring",
   "author": "Jaime Alexander Jimenez",
   "license": "Proprietary",
   "home_page": "https://github.com/jaimeajl/dsf-scoring-sdk",
-  "download_filename": "dsf_scoring_sdk-1.0.4.tar.gz",
-  "download_time": "2025-11-13T15:30:22.888615",
+  "download_filename": "dsf_scoring_sdk-1.0.5.tar.gz",
+  "download_time": "2025-11-13T16:54:35.925192",
   "package_url": "https://pypi.org/project/dsf-scoring-sdk/"
 }
