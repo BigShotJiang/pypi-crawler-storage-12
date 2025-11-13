@@ -1,0 +1,11 @@
+{
+  "name": "nbrb",
+  "version": "1.0.0",
+  "summary": "Курсы валют Национального банка Республики Беларусь",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbrb-1.0.0.tar.gz",
+  "download_time": "2025-11-13T22:56:22.746466",
+  "package_url": "https://pypi.org/project/nbrb/"
+}

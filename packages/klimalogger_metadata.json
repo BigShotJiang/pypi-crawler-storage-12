@@ -1,11 +1,11 @@
 {
   "name": "klimalogger",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "summary": "Simple data logging client for InfluxDB/MQTT target",
   "author": "Andreas Würl",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "klimalogger-0.8.6.tar.gz",
-  "download_time": "2025-11-13T19:40:25.769859",
+  "download_filename": "klimalogger-0.8.7.tar.gz",
+  "download_time": "2025-11-13T22:56:46.423859",
   "package_url": "https://pypi.org/project/klimalogger/"
 }
