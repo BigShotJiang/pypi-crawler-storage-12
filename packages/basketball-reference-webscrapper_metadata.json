@@ -1,11 +1,11 @@
 {
   "name": "basketball-reference-webscrapper",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Python package for Basketball Reference that gathers data by scraping the website",
   "author": "Yannick Flores",
   "license": null,
   "home_page": null,
-  "download_filename": "basketball_reference_webscrapper-0.6.0.tar.gz",
-  "download_time": "2025-11-12T13:57:38.059031",
+  "download_filename": "basketball_reference_webscrapper-0.6.2.tar.gz",
+  "download_time": "2025-11-13T11:42:12.786417",
   "package_url": "https://pypi.org/project/basketball-reference-webscrapper/"
 }

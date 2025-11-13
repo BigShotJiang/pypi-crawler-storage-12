@@ -1,0 +1,11 @@
+{
+  "name": "infrahub-sdk",
+  "version": "1.15.1",
+  "summary": "Python Client to interact with Infrahub",
+  "author": "OpsMill",
+  "license": "Apache-2.0",
+  "home_page": "https://opsmill.com",
+  "download_filename": "infrahub_sdk-1.15.1.tar.gz",
+  "download_time": "2025-11-13T11:42:22.964737",
+  "package_url": "https://pypi.org/project/infrahub-sdk/"
+}

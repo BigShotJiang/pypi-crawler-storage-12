@@ -1,11 +1,11 @@
 {
   "name": "epub-browser",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "A tool to open epub files and serve them via a local web server for reading in a browser.",
   "author": "dfface",
   "license": null,
   "home_page": "https://github.com/dfface/epub-browser",
-  "download_filename": "epub_browser-1.1.6.tar.gz",
-  "download_time": "2025-11-13T11:23:12.372950",
+  "download_filename": "epub_browser-1.1.7.tar.gz",
+  "download_time": "2025-11-13T11:42:17.653449",
   "package_url": "https://pypi.org/project/epub-browser/"
 }
