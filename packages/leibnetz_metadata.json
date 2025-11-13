@@ -1,0 +1,11 @@
+{
+  "name": "leibnetz",
+  "version": "2025.11.13.1849",
+  "summary": "A lightweight and modular library for rapidly developing and constructing PyTorch models for deep learning.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "leibnetz-2025.11.13.1849.tar.gz",
+  "download_time": "2025-11-13T19:40:20.079280",
+  "package_url": "https://pypi.org/project/leibnetz/"
+}

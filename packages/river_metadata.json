@@ -1,0 +1,11 @@
+{
+  "name": "river",
+  "version": "0.23.0",
+  "summary": "Online machine learning in Python",
+  "author": "Max Halford",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "river-0.23.0.tar.gz",
+  "download_time": "2025-11-13T19:40:42.375541",
+  "package_url": "https://pypi.org/project/river/"
+}

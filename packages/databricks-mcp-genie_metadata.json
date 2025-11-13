@@ -1,0 +1,11 @@
+{
+  "name": "databricks-mcp-genie",
+  "version": "1.0.0",
+  "summary": "MCP server for Databricks with enhanced Genie AI integration - natural language data analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databricks_mcp_genie-1.0.0.tar.gz",
+  "download_time": "2025-11-13T19:40:24.736042",
+  "package_url": "https://pypi.org/project/databricks-mcp-genie/"
+}

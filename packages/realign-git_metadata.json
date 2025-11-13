@@ -1,11 +1,11 @@
 {
   "name": "realign-git",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Track and version AI agent chat sessions with git commits",
   "author": "ReAlign Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "realign_git-0.4.1-py3-none-any.whl",
-  "download_time": "2025-11-13T11:23:18.093684",
+  "download_filename": "realign_git-0.4.2-py3-none-any.whl",
+  "download_time": "2025-11-13T19:40:38.754157",
   "package_url": "https://pypi.org/project/realign-git/"
 }

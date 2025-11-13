@@ -1,11 +1,11 @@
 {
   "name": "pymtech-docker-launcher",
-  "version": "1.0.0.0",
+  "version": "1.0.1",
   "summary": "Odoo deploy command line tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymtech_docker_launcher-1.0.0.0.tar.gz",
-  "download_time": "2025-11-13T19:23:19.733518",
+  "download_filename": "pymtech_docker_launcher-1.0.1.tar.gz",
+  "download_time": "2025-11-13T19:40:37.206937",
   "package_url": "https://pypi.org/project/pymtech-docker-launcher/"
 }
