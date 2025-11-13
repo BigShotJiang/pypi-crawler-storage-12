@@ -1,0 +1,11 @@
+{
+  "name": "mcp-teams-server",
+  "version": "0.1.0",
+  "summary": "An MCP server for mcp teams server operations and management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_teams_server-0.1.0.tar.gz",
+  "download_time": "2025-11-13T15:30:49.563489",
+  "package_url": "https://pypi.org/project/mcp-teams-server/"
+}

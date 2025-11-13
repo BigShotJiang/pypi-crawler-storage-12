@@ -1,0 +1,11 @@
+{
+  "name": "terraback",
+  "version": "0.4.0",
+  "summary": "Terraback: Universal infrastructure scanning and Terraform generation tool",
+  "author": "Terraback Team",
+  "license": null,
+  "home_page": "https://terraback.io",
+  "download_filename": "terraback-0.4.0.tar.gz",
+  "download_time": "2025-11-13T15:30:50.207163",
+  "package_url": "https://pypi.org/project/terraback/"
+}

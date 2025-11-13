@@ -1,0 +1,11 @@
+{
+  "name": "civic-lib-geo",
+  "version": "0.4.0",
+  "summary": "Shared geo library for Civic Interconnect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "civic_lib_geo-0.4.0.tar.gz",
+  "download_time": "2025-11-13T15:30:58.422792",
+  "package_url": "https://pypi.org/project/civic-lib-geo/"
+}

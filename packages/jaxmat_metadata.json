@@ -1,0 +1,11 @@
+{
+  "name": "jaxmat",
+  "version": "0.0.1",
+  "summary": "Automated material constitutive modeling in JAX",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "jaxmat-0.0.1.tar.gz",
+  "download_time": "2025-11-13T15:30:06.676043",
+  "package_url": "https://pypi.org/project/jaxmat/"
+}

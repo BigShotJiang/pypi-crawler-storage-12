@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-app-pages",
+  "version": "0.3.7",
+  "summary": "Full MVC support for wagtail pages",
+  "author": "Marco Westerhof",
+  "license": "MIT license",
+  "home_page": "https://github.com/mwesterhof/wagtail_app_pages",
+  "download_filename": "wagtail_app_pages-0.3.7.tar.gz",
+  "download_time": "2025-11-13T15:30:48.925652",
+  "package_url": "https://pypi.org/project/wagtail-app-pages/"
+}

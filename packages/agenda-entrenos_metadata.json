@@ -1,0 +1,11 @@
+{
+  "name": "agenda-entrenos",
+  "version": "0.1.0",
+  "summary": "Una agenda para entrenamientos.",
+  "author": "['Cristian Ruiz', 'Alejandro Mata', 'Unai Alvarez', 'Eleder Martin']",
+  "license": "MIT",
+  "home_page": "https://test.pypi.org/project/agenda-entrenos/",
+  "download_filename": "agenda_entrenos-0.1.0.tar.gz",
+  "download_time": "2025-11-13T15:30:18.482986",
+  "package_url": "https://pypi.org/project/agenda-entrenos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oc_ocdm",
-  "version": "9.2.5",
+  "version": "9.2.6",
   "summary": "Object mapping library for manipulating RDF graphs that are compliant with the OpenCitations datamodel.",
   "author": "Silvio Peroni",
   "license": "ISC",
   "home_page": "https://opencitations.net",
-  "download_filename": "oc_ocdm-9.2.5.tar.gz",
-  "download_time": "2025-11-13T14:28:00.699118",
+  "download_filename": "oc_ocdm-9.2.6.tar.gz",
+  "download_time": "2025-11-13T15:30:38.095620",
   "package_url": "https://pypi.org/project/oc_ocdm/"
 }
