@@ -1,0 +1,11 @@
+{
+  "name": "todoai-cli",
+  "version": "0.1.5",
+  "summary": "Command-line interface for TODOforAI Edge",
+  "author": "TODOforAI",
+  "license": null,
+  "home_page": "https://github.com/todoforai/todoai-cli",
+  "download_filename": "todoai_cli-0.1.5.tar.gz",
+  "download_time": "2025-11-13T10:34:46.046038",
+  "package_url": "https://pypi.org/project/todoai-cli/"
+}

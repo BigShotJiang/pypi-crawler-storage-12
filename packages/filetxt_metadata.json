@@ -1,0 +1,11 @@
+{
+  "name": "filetxt",
+  "version": "0.0.2",
+  "summary": "a document tools for loading document from file and split sentences",
+  "author": "\"yu moqing\"",
+  "license": "\"MIT\"",
+  "home_page": null,
+  "download_filename": "filetxt-0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-13T10:35:17.147262",
+  "package_url": "https://pypi.org/project/filetxt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-i18n",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "FastAPI Internationalization (i18n)",
   "author": "HeiGIT ohsome team",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_i18n-0.8.0.tar.gz",
-  "download_time": "2025-11-13T09:53:55.752959",
+  "download_filename": "fastapi_i18n-0.9.0.tar.gz",
+  "download_time": "2025-11-13T10:34:58.042326",
   "package_url": "https://pypi.org/project/fastapi-i18n/"
 }

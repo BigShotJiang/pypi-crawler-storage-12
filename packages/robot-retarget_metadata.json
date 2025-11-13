@@ -1,0 +1,11 @@
+{
+  "name": "robot-retarget",
+  "version": "0.1.2",
+  "summary": "Advanced robot motion retargeting system",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/robot-retarget",
+  "download_filename": "robot_retarget-0.1.2.tar.gz",
+  "download_time": "2025-11-13T10:34:51.834802",
+  "package_url": "https://pypi.org/project/robot-retarget/"
+}

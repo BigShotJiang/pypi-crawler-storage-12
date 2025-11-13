@@ -1,0 +1,11 @@
+{
+  "name": "cicm",
+  "version": "0.1.0",
+  "summary": "Cross-image co-occurrence matrix (CICM) implementation in Python.",
+  "author": "Victor Medina",
+  "license": "MIT",
+  "home_page": "https://github.com/vjmedina/CICM",
+  "download_filename": "cicm-0.1.0.tar.gz",
+  "download_time": "2025-11-13T10:35:25.423203",
+  "package_url": "https://pypi.org/project/cicm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scapi-py",
+  "version": "2.0.2",
+  "summary": "Dead simple, self-contained, single-file API load testing tool built on FastAPI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scapi_py-2.0.2.tar.gz",
+  "download_time": "2025-11-13T10:34:51.324797",
+  "package_url": "https://pypi.org/project/scapi-py/"
+}

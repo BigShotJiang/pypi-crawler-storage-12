@@ -1,11 +1,11 @@
 {
   "name": "nnUNet-package",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Package pour l'utilisation de nnUNet avec 3D Slicer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nnunet_package-0.2.2.tar.gz",
-  "download_time": "2025-11-13T09:53:57.346466",
+  "download_filename": "nnunet_package-0.2.3.tar.gz",
+  "download_time": "2025-11-13T10:34:54.461954",
   "package_url": "https://pypi.org/project/nnUNet-package/"
 }

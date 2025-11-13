@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner_multiline_street2",
+  "version": "18.0.1.0.0",
+  "summary": "Enable multiline text for secondary street.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_partner_multiline_street2-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-13T10:35:00.150428",
+  "package_url": "https://pypi.org/project/odoo-addon-partner_multiline_street2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "silabs-rps",
+  "version": "1.2.0",
+  "summary": "Silicon Labs RPS Image Creation and Conversion Tools",
+  "author": "Silicon Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "silabs_rps-1.2.0.tar.gz",
+  "download_time": "2025-11-13T10:34:50.304421",
+  "package_url": "https://pypi.org/project/silabs-rps/"
+}

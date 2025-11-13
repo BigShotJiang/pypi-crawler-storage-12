@@ -1,11 +1,11 @@
 {
   "name": "genai-observable-sdk",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Integrated langfuse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genai_observable_sdk-1.0.0.tar.gz",
-  "download_time": "2025-11-13T09:32:29.545835",
+  "download_filename": "genai_observable_sdk-1.1.1.tar.gz",
+  "download_time": "2025-11-13T10:34:43.841041",
   "package_url": "https://pypi.org/project/genai-observable-sdk/"
 }
