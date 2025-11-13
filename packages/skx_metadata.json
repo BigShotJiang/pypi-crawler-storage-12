@@ -1,11 +1,11 @@
 {
   "name": "skx",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "scikit-learn compatible extensions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skx-0.0.15-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-12T03:16:30.640717",
+  "download_filename": "skx-0.0.16-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-13T04:01:04.531776",
   "package_url": "https://pypi.org/project/skx/"
 }

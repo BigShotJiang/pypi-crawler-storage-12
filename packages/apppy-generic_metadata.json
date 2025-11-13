@@ -1,11 +1,11 @@
 {
   "name": "apppy-generic",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "Generic Python definitions for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_generic-0.11.0.tar.gz",
-  "download_time": "2025-11-12T13:57:35.177405",
+  "download_filename": "apppy_generic-0.12.0.tar.gz",
+  "download_time": "2025-11-13T04:01:05.688891",
   "package_url": "https://pypi.org/project/apppy-generic/"
 }

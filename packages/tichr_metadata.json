@@ -1,0 +1,11 @@
+{
+  "name": "tichr",
+  "version": "0.1.4",
+  "summary": "TICHR: A computational tool designed to investigate transcriptional regulation",
+  "author": "Jiankang Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tichr-0.1.4.tar.gz",
+  "download_time": "2025-11-13T04:00:44.776262",
+  "package_url": "https://pypi.org/project/tichr/"
+}

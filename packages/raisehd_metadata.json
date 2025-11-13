@@ -1,0 +1,11 @@
+{
+  "name": "raisehd",
+  "version": "0.2.1",
+  "summary": "RAiSE: simulation-based analytical model of AGN jets and lobes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raisehd-0.2.1.tar.gz",
+  "download_time": "2025-11-13T04:01:25.782835",
+  "package_url": "https://pypi.org/project/raisehd/"
+}

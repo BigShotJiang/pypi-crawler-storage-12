@@ -1,0 +1,11 @@
+{
+  "name": "gojan",
+  "version": "0.1.1",
+  "summary": "Gojan — tiny package demonstrating runtime linking to TensorFlow + optional Flask and ML libs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gojan-0.1.1.tar.gz",
+  "download_time": "2025-11-13T04:01:13.208661",
+  "package_url": "https://pypi.org/project/gojan/"
+}

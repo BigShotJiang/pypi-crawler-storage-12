@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-quality-control-product-manufacturer",
-  "version": "16.0.1.1.0.1",
+  "version": "16.0.1.1.0.2",
   "summary": "Provides information related to Manufacturer under Inspection",
   "author": "Anusri Veerappan Prakasam, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/manufacture",
-  "download_filename": "odoo_addon_quality_control_product_manufacturer-16.0.1.1.0.1-py3-none-any.whl",
-  "download_time": "2025-11-12T03:57:44.322925",
+  "download_filename": "odoo_addon_quality_control_product_manufacturer-16.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-11-13T04:01:15.484730",
   "package_url": "https://pypi.org/project/odoo-addon-quality-control-product-manufacturer/"
 }
