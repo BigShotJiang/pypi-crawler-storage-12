@@ -1,0 +1,11 @@
+{
+  "name": "fdev-ids",
+  "version": "1.1.0",
+  "summary": "Data from https://github.com/EDCD/FDevIDs bundled in Python data structures.",
+  "author": "Julien de la Bruère-Terreault",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fdev_ids-1.1.0.tar.gz",
+  "download_time": "2025-11-13T04:35:44.187553",
+  "package_url": "https://pypi.org/project/fdev-ids/"
+}

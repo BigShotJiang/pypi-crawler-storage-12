@@ -1,11 +1,11 @@
 {
   "name": "rohkun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Rohkun - Code analysis tool for detecting endpoints, API calls, and connections",
   "author": "Rohkun Team",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/rohkun/rohkun",
-  "download_filename": "rohkun-1.0.2.tar.gz",
-  "download_time": "2025-11-12T15:49:24.395301",
+  "download_filename": "rohkun-1.0.3.tar.gz",
+  "download_time": "2025-11-13T04:35:54.516273",
   "package_url": "https://pypi.org/project/rohkun/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-no-negative",
-  "version": "18.0.1.0.2.9",
+  "version": "18.0.1.0.2.10",
   "summary": "Disallow negative stock levels by default",
   "author": "Akretion,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-workflow",
-  "download_filename": "odoo_addon_stock_no_negative-18.0.1.0.2.9-py3-none-any.whl",
-  "download_time": "2025-11-12T04:33:42.170859",
+  "download_filename": "odoo_addon_stock_no_negative-18.0.1.0.2.10-py3-none-any.whl",
+  "download_time": "2025-11-13T04:35:40.784317",
   "package_url": "https://pypi.org/project/odoo-addon-stock-no-negative/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pipecat-ai-cli",
+  "version": "0.1.8",
+  "summary": "CLI for building, deploying, and monitoring Pipecat voice agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipecat_ai_cli-0.1.8.tar.gz",
+  "download_time": "2025-11-13T04:36:01.006660",
+  "package_url": "https://pypi.org/project/pipecat-ai-cli/"
+}

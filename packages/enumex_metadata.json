@@ -1,11 +1,11 @@
 {
   "name": "enumex",
-  "version": "0.2.0",
-  "summary": "An extension of the std enum, adding the ability to inherit and create abstract enums.",
+  "version": "0.2.1",
+  "summary": "A modified version of the standard enum with inheritance.",
   "author": "Addio",
   "license": null,
   "home_page": null,
-  "download_filename": "enumex-0.2.0.tar.gz",
-  "download_time": "2025-11-11T04:33:37.072429",
+  "download_filename": "enumex-0.2.1.tar.gz",
+  "download_time": "2025-11-13T04:35:39.733852",
   "package_url": "https://pypi.org/project/enumex/"
 }

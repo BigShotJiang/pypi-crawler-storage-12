@@ -1,0 +1,11 @@
+{
+  "name": "pysmartwater",
+  "version": "1.0.0",
+  "summary": "Python library to communicate with Smart Water servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysmartwater-1.0.0.tar.gz",
+  "download_time": "2025-11-13T04:35:50.065871",
+  "package_url": "https://pypi.org/project/pysmartwater/"
+}

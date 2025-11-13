@@ -1,0 +1,11 @@
+{
+  "name": "isc-playbook-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for searching and browsing the IBM ISC Playbook with hybrid search capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isc_playbook_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-11-13T04:35:44.703155",
+  "package_url": "https://pypi.org/project/isc-playbook-mcp-server/"
+}

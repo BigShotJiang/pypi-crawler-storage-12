@@ -1,11 +1,11 @@
 {
   "name": "wesphyr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Wesphyr - Global CLI Chat App",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wesphyr-1.0.4.tar.gz",
-  "download_time": "2025-11-13T04:00:43.615708",
+  "download_filename": "wesphyr-1.0.5.tar.gz",
+  "download_time": "2025-11-13T04:35:53.927769",
   "package_url": "https://pypi.org/project/wesphyr/"
 }
