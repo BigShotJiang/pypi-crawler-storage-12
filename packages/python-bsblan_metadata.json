@@ -1,0 +1,11 @@
+{
+  "name": "python-bsblan",
+  "version": "3.1.1",
+  "summary": "Asynchronous Python client for BSBLAN API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_bsblan-3.1.1.tar.gz",
+  "download_time": "2025-11-13T14:45:15.373073",
+  "package_url": "https://pypi.org/project/python-bsblan/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cogniz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python SDK for Cogniz Memory Platform - Persistent memory for AI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cogniz-1.0.0.tar.gz",
-  "download_time": "2025-11-13T12:54:24.788834",
+  "download_filename": "cogniz-1.0.1.tar.gz",
+  "download_time": "2025-11-13T14:44:46.950204",
   "package_url": "https://pypi.org/project/cogniz/"
 }

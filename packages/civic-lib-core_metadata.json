@@ -1,11 +1,11 @@
 {
   "name": "civic-lib-core",
-  "version": "0.9.13",
+  "version": "0.9.14",
   "summary": "Shared utility library for Civic Interconnect",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "civic_lib_core-0.9.13.tar.gz",
-  "download_time": "2025-11-13T07:28:05.419017",
+  "download_filename": "civic_lib_core-0.9.14.tar.gz",
+  "download_time": "2025-11-13T14:45:18.534931",
   "package_url": "https://pypi.org/project/civic-lib-core/"
 }

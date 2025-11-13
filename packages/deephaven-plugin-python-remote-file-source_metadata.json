@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-plugin-python-remote-file-source",
+  "version": "0.1.2",
+  "summary": "A Deephaven bi-directional plugin to allow sourcing Python imports from a remote file source.",
+  "author": "Deephaven Data Labs",
+  "license": null,
+  "home_page": "https://github.com/deephaven/deephaven-plugins",
+  "download_filename": "deephaven_plugin_python_remote_file_source-0.1.2.tar.gz",
+  "download_time": "2025-11-13T14:45:00.548474",
+  "package_url": "https://pypi.org/project/deephaven-plugin-python-remote-file-source/"
+}

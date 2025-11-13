@@ -1,0 +1,11 @@
+{
+  "name": "pyside6-settings",
+  "version": "1.0.3",
+  "summary": "Automatic UI generation for PySide6 settings from Pydantic models",
+  "author": "Vladyslav Chaliuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyside6_settings-1.0.3.tar.gz",
+  "download_time": "2025-11-13T14:45:03.701438",
+  "package_url": "https://pypi.org/project/pyside6-settings/"
+}

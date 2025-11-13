@@ -1,11 +1,11 @@
 {
   "name": "nanumber-py",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Universal auto-number generator library with flexible templates and multi-database support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nanumber_py-0.2.0.tar.gz",
-  "download_time": "2025-11-13T13:57:56.752973",
+  "download_filename": "nanumber_py-0.2.1.tar.gz",
+  "download_time": "2025-11-13T14:44:53.693152",
   "package_url": "https://pypi.org/project/nanumber-py/"
 }
