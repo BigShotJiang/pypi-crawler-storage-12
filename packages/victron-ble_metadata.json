@@ -1,0 +1,11 @@
+{
+  "name": "victron-ble",
+  "version": "0.9.3",
+  "summary": "Python API to read Victron Instant Readout advertisements",
+  "author": "keshavdv",
+  "license": "Unlicense",
+  "home_page": "https://github.com/keshavdv/victron-ble/",
+  "download_filename": "victron_ble-0.9.3.tar.gz",
+  "download_time": "2025-11-13T03:20:24.120466",
+  "package_url": "https://pypi.org/project/victron-ble/"
+}

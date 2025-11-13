@@ -1,0 +1,11 @@
+{
+  "name": "bottle-ocr-lib",
+  "version": "1.0.2",
+  "summary": "Professional OCR and AI-powered prescription extraction library with secure license validation",
+  "author": "Michael Crosson",
+  "license": "MIT",
+  "home_page": "https://github.com/MichaelCrosson/bottle-ocr-lib",
+  "download_filename": "bottle_ocr_lib-1.0.2.tar.gz",
+  "download_time": "2025-11-13T03:20:39.863748",
+  "package_url": "https://pypi.org/project/bottle-ocr-lib/"
+}

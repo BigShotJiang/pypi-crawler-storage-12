@@ -1,0 +1,11 @@
+{
+  "name": "conversiontools",
+  "version": "2.0.0",
+  "summary": "Modern Python library to convert files using Conversion Tools API at https://conversiontools.io - supports both sync and async with full type hints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conversiontools-2.0.0.tar.gz",
+  "download_time": "2025-11-13T03:20:52.090478",
+  "package_url": "https://pypi.org/project/conversiontools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ssh-auto-upgrade",
-  "version": "1.0.25",
+  "version": "1.1.0",
   "summary": "自动检测和升级OpenSSH的工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ssh_auto_upgrade-1.0.25.tar.gz",
-  "download_time": "2025-11-13T01:57:11.470924",
+  "download_filename": "ssh_auto_upgrade-1.1.0.tar.gz",
+  "download_time": "2025-11-13T03:20:27.066749",
   "package_url": "https://pypi.org/project/ssh-auto-upgrade/"
 }

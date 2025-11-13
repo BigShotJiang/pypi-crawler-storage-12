@@ -1,0 +1,11 @@
+{
+  "name": "interpn",
+  "version": "0.8.2",
+  "summary": "N-dimensional interpolation/extrapolation methods",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/jlogan03/interpn/",
+  "download_filename": "interpn-0.8.2.tar.gz",
+  "download_time": "2025-11-13T03:21:12.531978",
+  "package_url": "https://pypi.org/project/interpn/"
+}

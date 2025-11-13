@@ -1,0 +1,11 @@
+{
+  "name": "Flask-v1.0",
+  "version": "1.0.5",
+  "summary": "A simple framework for building complex web applications.",
+  "author": "Robin Winslow Morris",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/nottrobin/flask-v1.0",
+  "download_filename": "flask_v1_0-1.0.5.tar.gz",
+  "download_time": "2025-11-13T03:20:55.054145",
+  "package_url": "https://pypi.org/project/Flask-v1.0/"
+}
