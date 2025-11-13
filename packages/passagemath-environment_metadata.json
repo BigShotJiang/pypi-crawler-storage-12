@@ -1,11 +1,11 @@
 {
   "name": "passagemath-environment",
-  "version": "10.6.34",
+  "version": "10.6.35",
   "summary": "passagemath: System and software environment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_environment-10.6.34-py3-none-any.whl",
-  "download_time": "2025-11-11T12:51:39.241545",
+  "download_filename": "passagemath_environment-10.6.35-py3-none-any.whl",
+  "download_time": "2025-11-13T20:29:27.958601",
   "package_url": "https://pypi.org/project/passagemath-environment/"
 }

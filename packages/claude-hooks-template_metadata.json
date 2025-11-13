@@ -1,11 +1,11 @@
 {
   "name": "claude-hooks-template",
-  "version": "1.4.1",
+  "version": "1.6.0",
   "summary": "CLI tool for configuring Claude Code hooks in projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_hooks_template-1.4.1.tar.gz",
-  "download_time": "2025-11-13T13:38:21.121391",
+  "download_filename": "claude_hooks_template-1.6.0.tar.gz",
+  "download_time": "2025-11-13T20:28:49.831773",
   "package_url": "https://pypi.org/project/claude-hooks-template/"
 }

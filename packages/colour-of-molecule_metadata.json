@@ -1,0 +1,11 @@
+{
+  "name": "colour-of-molecule",
+  "version": "0.1.4",
+  "summary": "Tools for colour related analysis of various QCh software output files.",
+  "author": "Michal Ptacek",
+  "license": "MIT",
+  "home_page": "https://github.com/MichalPt/colour_of_molecule",
+  "download_filename": "colour_of_molecule-0.1.4.tar.gz",
+  "download_time": "2025-11-13T20:29:36.325793",
+  "package_url": "https://pypi.org/project/colour-of-molecule/"
+}

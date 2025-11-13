@@ -1,11 +1,11 @@
 {
   "name": "passagemath-database-symbolic-data",
-  "version": "10.6.34",
+  "version": "10.6.35",
   "summary": "passagemath: Database from the SymbolicData project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_database_symbolic_data-10.6.34-py3-none-any.whl",
-  "download_time": "2025-11-11T12:51:40.295061",
+  "download_filename": "passagemath_database_symbolic_data-10.6.35-py3-none-any.whl",
+  "download_time": "2025-11-13T20:29:29.010452",
   "package_url": "https://pypi.org/project/passagemath-database-symbolic-data/"
 }

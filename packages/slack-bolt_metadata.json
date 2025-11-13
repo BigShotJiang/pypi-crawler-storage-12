@@ -1,0 +1,11 @@
+{
+  "name": "slack-bolt",
+  "version": "1.27.0",
+  "summary": "The Bolt Framework for Python",
+  "author": "Slack Technologies, LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/slackapi/bolt-python",
+  "download_filename": "slack_bolt-1.27.0.tar.gz",
+  "download_time": "2025-11-13T20:29:28.480916",
+  "package_url": "https://pypi.org/project/slack-bolt/"
+}

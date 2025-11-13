@@ -1,11 +1,11 @@
 {
   "name": "leakpy",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "LeakIX API Client",
   "author": "Valentin Lobstein",
   "license": null,
   "home_page": "https://github.com/Chocapikk/LeakPy",
-  "download_filename": "leakpy-2.0.4.tar.gz",
-  "download_time": "2025-11-13T19:23:53.059187",
+  "download_filename": "leakpy-2.0.5.tar.gz",
+  "download_time": "2025-11-13T20:29:08.487090",
   "package_url": "https://pypi.org/project/leakpy/"
 }
