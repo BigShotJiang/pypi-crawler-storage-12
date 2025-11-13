@@ -1,0 +1,11 @@
+{
+  "name": "sodas-legacy",
+  "version": "1.0.0",
+  "summary": "Legacy Python SDK for the SODAS Framework",
+  "author": "SODAS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sodas_legacy-1.0.0.tar.gz",
+  "download_time": "2025-11-13T05:26:24.477074",
+  "package_url": "https://pypi.org/project/sodas-legacy/"
+}

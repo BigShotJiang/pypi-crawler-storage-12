@@ -1,0 +1,11 @@
+{
+  "name": "pepflow",
+  "version": "0.1.8",
+  "summary": "PEPFlow: A framework for Performance Estimation Problem (PEP) Workflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pepflow-0.1.8-py3-none-any.whl",
+  "download_time": "2025-11-13T05:26:37.185540",
+  "package_url": "https://pypi.org/project/pepflow/"
+}

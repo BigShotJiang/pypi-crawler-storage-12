@@ -1,0 +1,11 @@
+{
+  "name": "lite-agent",
+  "version": "0.15.0",
+  "summary": "A lightweight, extensible framework for building AI agent.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lite_agent-0.15.0.tar.gz",
+  "download_time": "2025-11-13T05:27:09.257731",
+  "package_url": "https://pypi.org/project/lite-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "plain.oauth",
-  "version": "0.32.1",
+  "version": "0.33.0",
   "summary": "Let users log in with OAuth providers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_oauth-0.32.1.tar.gz",
-  "download_time": "2025-11-11T17:26:38.019344",
+  "download_filename": "plain_oauth-0.33.0.tar.gz",
+  "download_time": "2025-11-13T05:26:56.034980",
   "package_url": "https://pypi.org/project/plain.oauth/"
 }

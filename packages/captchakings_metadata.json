@@ -1,0 +1,11 @@
+{
+  "name": "captchakings",
+  "version": "1.0.0",
+  "summary": "Official Python client for CaptchaKings API",
+  "author": "CaptchaKings",
+  "license": null,
+  "home_page": "https://captchakings.com",
+  "download_filename": "captchakings-1.0.0.tar.gz",
+  "download_time": "2025-11-13T05:26:36.606644",
+  "package_url": "https://pypi.org/project/captchakings/"
+}

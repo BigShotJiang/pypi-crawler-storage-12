@@ -1,11 +1,11 @@
 {
   "name": "opensearch-kb-mcp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "MCP server for OpenSearch Knowledge Base - Search OpenSearch best practices and documentation from any AI agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opensearch_kb_mcp_server-1.0.1.tar.gz",
-  "download_time": "2025-11-13T04:35:58.315570",
+  "download_filename": "opensearch_kb_mcp_server-1.0.2.tar.gz",
+  "download_time": "2025-11-13T05:26:18.148814",
   "package_url": "https://pypi.org/project/opensearch-kb-mcp-server/"
 }

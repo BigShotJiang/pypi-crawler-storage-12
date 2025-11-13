@@ -1,0 +1,11 @@
+{
+  "name": "scamper",
+  "version": "20251113",
+  "summary": "A module to interact with scamper processes and data",
+  "author": "Matthew Luckie",
+  "license": "GPL-2.0-only",
+  "home_page": "https://www.caida.org/tools/measurement/scamper/",
+  "download_filename": "scamper-20251113.tar.gz",
+  "download_time": "2025-11-13T05:26:25.632639",
+  "package_url": "https://pypi.org/project/scamper/"
+}
