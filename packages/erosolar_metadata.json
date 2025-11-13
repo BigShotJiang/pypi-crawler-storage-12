@@ -1,11 +1,11 @@
 {
   "name": "erosolar",
-  "version": "0.1.3",
-  "summary": "AI-powered chat interface using DeepSeek with advanced routing and tool execution",
+  "version": "1.0.0",
+  "summary": "AI-powered chat interface with DeepSeek, featuring tool integrations and embeddings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "erosolar-0.1.3.tar.gz",
-  "download_time": "2025-11-13T21:54:13.584625",
+  "download_filename": "erosolar-1.0.0.tar.gz",
+  "download_time": "2025-11-13T22:45:25.108567",
   "package_url": "https://pypi.org/project/erosolar/"
 }

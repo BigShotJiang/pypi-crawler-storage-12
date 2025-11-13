@@ -1,0 +1,11 @@
+{
+  "name": "evaluatr",
+  "version": "0.7.2",
+  "summary": "Streamline policy evaluation workflows with AI-driven analysis and evaluation framework-agnostic processing",
+  "author": "Franck Albinet",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/franckalbinet/evaluatr",
+  "download_filename": "evaluatr-0.7.2.tar.gz",
+  "download_time": "2025-11-13T22:45:20.250059",
+  "package_url": "https://pypi.org/project/evaluatr/"
+}

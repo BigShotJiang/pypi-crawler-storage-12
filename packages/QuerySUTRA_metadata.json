@@ -1,0 +1,11 @@
+{
+  "name": "QuerySUTRA",
+  "version": "0.1.0",
+  "summary": "Natural Language to SQL Query System with Visualization",
+  "author": "Aditya Batta",
+  "license": null,
+  "home_page": "https://github.com/adityabatta/sutra",
+  "download_filename": "querysutra-0.1.0.tar.gz",
+  "download_time": "2025-11-13T22:44:55.741364",
+  "package_url": "https://pypi.org/project/QuerySUTRA/"
+}

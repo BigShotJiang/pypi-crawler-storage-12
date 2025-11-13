@@ -1,11 +1,11 @@
 {
   "name": "paper-inbox",
-  "version": "0.0.0",
-  "summary": "Coming soon",
+  "version": "2025.11.13",
+  "summary": "Lift the signal from the noise      by automatically printing out email paper copies      from the senders you do care about.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "paper_inbox-0.0.0.tar.gz",
-  "download_time": "2025-11-13T11:54:54.471351",
+  "download_filename": "paper_inbox-2025.11.13.tar.gz",
+  "download_time": "2025-11-13T22:45:22.397753",
   "package_url": "https://pypi.org/project/paper-inbox/"
 }
