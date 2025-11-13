@@ -1,19 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-13T23:24:51.939570
-- **Total Packages**: 90
-- **Total Size**: 39.71 MB
+- **Download Time**: 2025-11-13T23:42:54.981465
+- **Total Packages**: 89
+- **Total Size**: 31.97 MB
 
 ## Packages List
+- geospaitial-lab-aviary-models
+- lar-engine
+- nv-ingest
+- nv-ingest-client
+- iowarp-core
+- nv-ingest-api
+- gradio-client
+- cybrid-api-bank-python
+- pyfwht
+- pasarguard-node-bridge
+- h2ogpte-mcp-server
+- cybrid-api-id-python
+- agenticmem
+- cybrid-api-organization-python
+- ayechat
+- agenticmem-commons
+- oldaplib
+- yahmc
+- addmeta
+- f9columnar
+- pyapiq
+- seapipe
+- screamrouter
+- qconduit
+- QuerySUTRA
+- greedyboruta
+- ultralytics-actions
+- pyaedt
+- volk
+- nia-mcp-server
+- jupyterlab-vscode-icons-extension
+- nci-cidc-api-modules
+- pysof
+- pyrosetta-distributed
+- pydbinterface
 - django-learngual
 - dialetica
 - blackmarblepy
 - octicons-pack
 - tremolo
-- pyfwht
 - munchboka-edutools
-- cuga
 - harbor
 - rdf2vecgpu
 - ReverseBox
@@ -26,7 +59,6 @@
 - python-open-router
 - google-genai
 - medicafe
-- pydbinterface
 - bayesline-apiclient
 - rust_neotools_py
 - nict
@@ -46,7 +78,6 @@
 - zepben.ewb
 - sitemapy
 - vector-vault
-- QuerySUTRA
 - robokop-orion
 - robloxmemoryapi
 - flwr-nightly
@@ -64,35 +95,3 @@
 - otl-normalizer
 - dune-vem
 - dune-spgrid
-- dune-polygongrid
-- dune-localfunctions
-- dune-istl
-- dsf-scoring-sdk
-- dune-grid
-- dune-geometry
-- dune-fem-dg
-- dune-fem
-- dune-common
-- dune-alugrid
-- pygremlinbox-wxwindows
-- pygremlinbox-copyleft-next-0-3-1
-- wordlist-tool
-- pygremlinbox-copyleft-next-0-3-0
-- pygremlinbox-ucl-1-0
-- ollama
-- iot-inspector
-- sample-6
-- anyscale
-- multi-puzzle-solver
-- cell-filter
-- iam-policy-validator
-- pygremlinbox-ecos-2-0
-- nbrb
-- cortexapps-cli
-- memprocfs
-- genesis-explorer
-- nominal
-- snowpark-submit
-- pulumi-alicloud
-- netflux
-- celltraj

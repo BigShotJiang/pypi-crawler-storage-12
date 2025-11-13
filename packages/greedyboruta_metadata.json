@@ -1,0 +1,11 @@
+{
+  "name": "greedyboruta",
+  "version": "0.1.4",
+  "summary": "Python Implementation of GreedyBoruta Feature Selection",
+  "author": "Nicolas Vana Santos",
+  "license": "BSD 3 clause",
+  "home_page": "https://github.com/Nicolas-Vana/GreedyBorutaPy",
+  "download_filename": "greedyboruta-0.1.4.tar.gz",
+  "download_time": "2025-11-13T23:42:18.339489",
+  "package_url": "https://pypi.org/project/greedyboruta/"
+}
