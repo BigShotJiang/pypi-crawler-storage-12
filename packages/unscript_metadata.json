@@ -1,0 +1,11 @@
+{
+  "name": "unscript",
+  "version": "0.1.2",
+  "summary": "A writing script-aware library for cleaning text for NLP, training and analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unscript-0.1.2.tar.gz",
+  "download_time": "2025-11-13T18:58:14.251268",
+  "package_url": "https://pypi.org/project/unscript/"
+}

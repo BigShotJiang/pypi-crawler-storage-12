@@ -1,0 +1,11 @@
+{
+  "name": "clockitpy",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library to measure function execution time.",
+  "author": "Unknon Man",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clockitpy-0.1.0.tar.gz",
+  "download_time": "2025-11-13T18:58:38.572832",
+  "package_url": "https://pypi.org/project/clockitpy/"
+}

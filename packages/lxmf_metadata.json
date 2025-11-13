@@ -1,0 +1,11 @@
+{
+  "name": "lxmf",
+  "version": "0.9.3",
+  "summary": "Lightweight Extensible Message Format for Reticulum",
+  "author": "Mark Qvist",
+  "license": "Reticulum License",
+  "home_page": "https://github.com/markqvist/lxmf",
+  "download_filename": "lxmf-0.9.3.tar.gz",
+  "download_time": "2025-11-13T18:58:36.987646",
+  "package_url": "https://pypi.org/project/lxmf/"
+}

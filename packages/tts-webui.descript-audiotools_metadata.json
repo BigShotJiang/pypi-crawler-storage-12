@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui.descript-audiotools",
+  "version": "0.7.5",
+  "summary": "Utilities for handling audio.",
+  "author": "Prem Seetharaman, Lucas Gestin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tts_webui_descript_audiotools-0.7.5-py2.py3-none-any.whl",
+  "download_time": "2025-11-13T18:58:33.502645",
+  "package_url": "https://pypi.org/project/tts-webui.descript-audiotools/"
+}

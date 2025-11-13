@@ -1,0 +1,11 @@
+{
+  "name": "codex-mcp-http-bridge",
+  "version": "0.1.0",
+  "summary": "HTTP/OAuth bridge for connecting Codex to remote MCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_mcp_http_bridge-0.1.0.tar.gz",
+  "download_time": "2025-11-13T18:58:12.062189",
+  "package_url": "https://pypi.org/project/codex-mcp-http-bridge/"
+}

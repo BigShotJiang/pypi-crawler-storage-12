@@ -1,0 +1,11 @@
+{
+  "name": "ChronoFidelius",
+  "version": "1.1.2",
+  "summary": "A Python library for for plaintext encryption using homophonic substitution and historical character frequencies.",
+  "author": "Micaella Bruton",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/mbruton0426/ChronoFidelius",
+  "download_filename": "chronofidelius-1.1.2.tar.gz",
+  "download_time": "2025-11-13T18:58:28.077814",
+  "package_url": "https://pypi.org/project/ChronoFidelius/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mplhep",
+  "version": "0.4.1",
+  "summary": "Matplotlib styles for HEP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mplhep-0.4.1.tar.gz",
+  "download_time": "2025-11-13T18:58:15.346279",
+  "package_url": "https://pypi.org/project/mplhep/"
+}

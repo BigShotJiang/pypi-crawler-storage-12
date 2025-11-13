@@ -1,0 +1,11 @@
+{
+  "name": "patchright-httpx",
+  "version": "0.1.1",
+  "summary": "HTTPX-style HTTP client powered by Patchright browser automation",
+  "author": "Color_Fox",
+  "license": "MIT",
+  "home_page": "https://github.com/Color_Fox/patchright-httpx",
+  "download_filename": "patchright_httpx-0.1.1.tar.gz",
+  "download_time": "2025-11-13T18:58:25.790527",
+  "package_url": "https://pypi.org/project/patchright-httpx/"
+}
