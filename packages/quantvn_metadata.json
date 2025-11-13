@@ -1,0 +1,11 @@
+{
+  "name": "quantvn",
+  "version": "0.1.1",
+  "summary": "QuantVN API Library for Financial Data Analysis",
+  "author": "quantvn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantvn-0.1.1.tar.gz",
+  "download_time": "2025-11-13T09:32:42.479717",
+  "package_url": "https://pypi.org/project/quantvn/"
+}

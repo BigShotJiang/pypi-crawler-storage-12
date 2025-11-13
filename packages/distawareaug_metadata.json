@@ -1,0 +1,11 @@
+{
+  "name": "distawareaug",
+  "version": "0.2.0",
+  "summary": "Distribution-Aware Data Augmentation for Imbalanced Learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "distawareaug-0.2.0.tar.gz",
+  "download_time": "2025-11-13T09:32:30.592814",
+  "package_url": "https://pypi.org/project/distawareaug/"
+}
