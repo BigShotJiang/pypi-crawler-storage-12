@@ -1,0 +1,11 @@
+{
+  "name": "ilc-provider",
+  "version": "0.1.2",
+  "summary": "Faker provider for ILC data models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ilc_provider-0.1.2.tar.gz",
+  "download_time": "2025-11-14T23:24:13.081607",
+  "package_url": "https://pypi.org/project/ilc-provider/"
+}

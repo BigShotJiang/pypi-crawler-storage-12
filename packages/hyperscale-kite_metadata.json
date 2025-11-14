@@ -1,11 +1,11 @@
 {
   "name": "hyperscale-kite",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A tool for AWS security assessments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperscale_kite-0.5.1.tar.gz",
-  "download_time": "2025-11-14T13:54:43.111564",
+  "download_filename": "hyperscale_kite-0.5.2.tar.gz",
+  "download_time": "2025-11-14T23:24:23.630157",
   "package_url": "https://pypi.org/project/hyperscale-kite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ryseble",
+  "version": "1.9.0",
+  "summary": "Python library for RYSE BLE Smart Shade devices (used by Home Assistant integration).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ryseble-1.9.0.tar.gz",
+  "download_time": "2025-11-14T23:24:01.457485",
+  "package_url": "https://pypi.org/project/ryseble/"
+}

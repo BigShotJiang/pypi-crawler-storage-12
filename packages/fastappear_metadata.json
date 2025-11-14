@@ -1,11 +1,11 @@
 {
   "name": "fastappear",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastappear-0.2.1.tar.gz",
-  "download_time": "2025-11-14T22:57:35.277640",
+  "download_filename": "fastappear-0.2.3.tar.gz",
+  "download_time": "2025-11-14T23:23:58.729589",
   "package_url": "https://pypi.org/project/fastappear/"
 }

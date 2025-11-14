@@ -1,0 +1,11 @@
+{
+  "name": "mkslides",
+  "version": "2.0.0",
+  "summary": "MkSlides - Slides with Markdown using the power of Reveal.js.",
+  "author": "MartenBE",
+  "license": "MIT",
+  "home_page": "https://martenbe.github.io/mkslides",
+  "download_filename": "mkslides-2.0.0.tar.gz",
+  "download_time": "2025-11-14T23:24:24.209325",
+  "package_url": "https://pypi.org/project/mkslides/"
+}

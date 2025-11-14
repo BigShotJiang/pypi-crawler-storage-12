@@ -1,11 +1,11 @@
 {
   "name": "moose-lib",
-  "version": "0.6.206",
+  "version": "0.6.207",
   "summary": null,
   "author": "Fiveonefour Labs Inc.",
   "license": null,
   "home_page": "https://www.fiveonefour.com/moose",
-  "download_filename": "moose_lib-0.6.206.tar.gz",
-  "download_time": "2025-11-14T18:37:14.459710",
+  "download_filename": "moose_lib-0.6.207.tar.gz",
+  "download_time": "2025-11-14T23:24:00.935823",
   "package_url": "https://pypi.org/project/moose-lib/"
 }

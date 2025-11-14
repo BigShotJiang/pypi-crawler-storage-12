@@ -1,11 +1,11 @@
 {
   "name": "spectroapi",
-  "version": "0.1.4",
-  "summary": "A discord api wrapper for xvz",
+  "version": "0.1.7",
+  "summary": "A discord bot IOS status",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectroapi-0.1.4.tar.gz",
-  "download_time": "2025-11-14T21:54:26.342710",
+  "download_filename": "spectroapi-0.1.7.tar.gz",
+  "download_time": "2025-11-14T23:24:09.379694",
   "package_url": "https://pypi.org/project/spectroapi/"
 }

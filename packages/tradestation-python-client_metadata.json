@@ -1,11 +1,11 @@
 {
   "name": "tradestation-python-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python package for interacting with TradeStation APIs.",
   "author": "Lorenzo Santarsieri",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tradestation_python_client-0.1.1.tar.gz",
-  "download_time": "2025-11-14T22:25:36.764997",
+  "download_filename": "tradestation_python_client-0.1.2.tar.gz",
+  "download_time": "2025-11-14T23:24:03.045229",
   "package_url": "https://pypi.org/project/tradestation-python-client/"
 }
