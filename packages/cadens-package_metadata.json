@@ -1,11 +1,11 @@
 {
   "name": "cadens-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A benign demo package for MITRE ATT&CK coursework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cadens_package-0.1.1.tar.gz",
-  "download_time": "2025-11-14T20:29:07.178129",
+  "download_filename": "cadens_package-0.1.2.tar.gz",
+  "download_time": "2025-11-14T20:46:04.969327",
   "package_url": "https://pypi.org/project/cadens-package/"
 }

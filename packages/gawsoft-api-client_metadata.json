@@ -1,0 +1,11 @@
+{
+  "name": "gawsoft-api-client",
+  "version": "0.1.1",
+  "summary": "Rest Api Client",
+  "author": "Gawsoft.pl",
+  "license": "MIT",
+  "home_page": "https://github.com/gawsoftpl/rest-api-client-framework-python",
+  "download_filename": "gawsoft_api_client-0.1.1.tar.gz",
+  "download_time": "2025-11-14T20:45:55.914301",
+  "package_url": "https://pypi.org/project/gawsoft-api-client/"
+}

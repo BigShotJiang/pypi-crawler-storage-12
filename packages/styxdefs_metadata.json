@@ -1,0 +1,11 @@
+{
+  "name": "styxdefs",
+  "version": "0.6.0",
+  "summary": "Styx definitions and minimal runtime",
+  "author": "Florian Rupprecht",
+  "license": null,
+  "home_page": null,
+  "download_filename": "styxdefs-0.6.0.tar.gz",
+  "download_time": "2025-11-14T20:46:27.434170",
+  "package_url": "https://pypi.org/project/styxdefs/"
+}

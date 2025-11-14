@@ -1,0 +1,11 @@
+{
+  "name": "headlock",
+  "version": "0.6.0",
+  "summary": "An adapter for making C code testable from Python",
+  "author": "Robert Hölzl",
+  "license": null,
+  "home_page": "https://headlock.readthedocs.io/en/latest/index.html",
+  "download_filename": "headlock-0.6.0.tar.gz",
+  "download_time": "2025-11-14T20:46:25.198923",
+  "package_url": "https://pypi.org/project/headlock/"
+}

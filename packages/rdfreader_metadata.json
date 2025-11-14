@@ -1,0 +1,11 @@
+{
+  "name": "rdfreader",
+  "version": "1.0.4",
+  "summary": "Read the full contents of CTAB .rdf files in python. Captures RXN and MOL record using RDKit and reads additional data fields (including solvents/catalysts/agents).",
+  "author": "ChemAI Ltd.",
+  "license": "MIT",
+  "home_page": "https://chemai.io",
+  "download_filename": "rdfreader-1.0.4.tar.gz",
+  "download_time": "2025-11-14T20:45:58.012791",
+  "package_url": "https://pypi.org/project/rdfreader/"
+}

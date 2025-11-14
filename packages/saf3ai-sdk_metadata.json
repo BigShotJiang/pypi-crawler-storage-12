@@ -1,11 +1,11 @@
 {
   "name": "saf3ai-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Observability and Telemetry SDK for AI Agents with Local Storage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saf3ai_sdk-0.2.1.tar.gz",
-  "download_time": "2025-11-10T20:47:49.520746",
+  "download_filename": "saf3ai_sdk-0.2.2.tar.gz",
+  "download_time": "2025-11-14T20:46:07.065059",
   "package_url": "https://pypi.org/project/saf3ai-sdk/"
 }
