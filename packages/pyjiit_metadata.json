@@ -1,0 +1,11 @@
+{
+  "name": "pyjiit",
+  "version": "0.1.0a8",
+  "summary": "Python wrapper for JIIT webportal",
+  "author": "Harsh Sharma",
+  "license": "MIT",
+  "home_page": "https://github.com/codelif/pyjiit",
+  "download_filename": "pyjiit-0.1.0a8.tar.gz",
+  "download_time": "2025-11-14T05:25:52.275992",
+  "package_url": "https://pypi.org/project/pyjiit/"
+}

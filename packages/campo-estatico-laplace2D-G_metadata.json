@@ -1,0 +1,11 @@
+{
+  "name": "campo-estatico-laplace2D-G",
+  "version": "0.1.0",
+  "summary": "A Python package for solving 2D Laplace equation using finite difference method",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "campo_estatico_laplace2d_g-0.1.0.tar.gz",
+  "download_time": "2025-11-14T05:25:31.093647",
+  "package_url": "https://pypi.org/project/campo-estatico-laplace2D-G/"
+}
