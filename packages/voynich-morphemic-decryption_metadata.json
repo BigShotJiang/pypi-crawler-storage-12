@@ -1,0 +1,11 @@
+{
+  "name": "voynich-morphemic-decryption",
+  "version": "1.0.0",
+  "summary": "Advanced morphemic analysis & decryption of Voynich Manuscript using statistical methods and NLP",
+  "author": "Mateusz Piesiak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voynich_morphemic_decryption-1.0.0.tar.gz",
+  "download_time": "2025-11-14T22:58:01.853250",
+  "package_url": "https://pypi.org/project/voynich-morphemic-decryption/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "retry-deco",
+  "version": "0.0.2",
+  "summary": "Retry decorator for both synchronous and asynchronous functions.",
+  "author": "Laur",
+  "license": null,
+  "home_page": null,
+  "download_filename": "retry_deco-0.0.2.tar.gz",
+  "download_time": "2025-11-14T22:57:47.825514",
+  "package_url": "https://pypi.org/project/retry-deco/"
+}

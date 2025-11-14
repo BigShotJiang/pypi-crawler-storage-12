@@ -1,0 +1,11 @@
+{
+  "name": "prefect-snowflake",
+  "version": "0.28.6",
+  "summary": "Prefect integrations for interacting with Snowflake",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_snowflake-0.28.6.tar.gz",
+  "download_time": "2025-11-14T22:58:00.319826",
+  "package_url": "https://pypi.org/project/prefect-snowflake/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hpcflow-new2",
-  "version": "0.2.0a267",
+  "version": "0.2.0a268",
   "summary": "Computational workflow management",
   "author": "aplowman",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "hpcflow_new2-0.2.0a267.tar.gz",
-  "download_time": "2025-11-14T21:54:12.113453",
+  "download_filename": "hpcflow_new2-0.2.0a268.tar.gz",
+  "download_time": "2025-11-14T22:57:38.408818",
   "package_url": "https://pypi.org/project/hpcflow-new2/"
 }

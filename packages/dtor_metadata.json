@@ -1,11 +1,11 @@
 {
   "name": "dtor",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A Tor process management library",
   "author": "Ahmad Yousuf",
   "license": null,
   "home_page": "https://github.com/QudsLab/dtor",
-  "download_filename": "dtor-0.0.6.tar.gz",
-  "download_time": "2025-11-12T05:25:28.808944",
+  "download_filename": "dtor-0.0.7.tar.gz",
+  "download_time": "2025-11-14T22:57:54.017225",
   "package_url": "https://pypi.org/project/dtor/"
 }

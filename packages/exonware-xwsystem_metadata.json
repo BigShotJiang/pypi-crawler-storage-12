@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwsystem",
-  "version": "0.0.1.401",
+  "version": "0.0.1.407",
   "summary": "Enterprise-grade Python framework with AI-powered performance optimization, 24 serialization formats, military-grade security, automatic memory leak prevention, circuit breakers, and production monitoring - replaces 50+ dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exonware_xwsystem-0.0.1.401.tar.gz",
-  "download_time": "2025-11-14T15:56:57.600063",
+  "download_filename": "exonware_xwsystem-0.0.1.407.tar.gz",
+  "download_time": "2025-11-14T22:57:29.557356",
   "package_url": "https://pypi.org/project/exonware-xwsystem/"
 }

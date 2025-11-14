@@ -1,11 +1,11 @@
 {
   "name": "multiSSH3",
-  "version": "6.3",
+  "version": "6.6",
   "summary": "Run commands on multiple hosts via SSH",
   "author": "Yufei Pan",
   "license": "GPLv3+",
   "home_page": "https://github.com/yufei-pan/multiSSH3",
-  "download_filename": "multissh3-6.3.tar.gz",
-  "download_time": "2025-11-11T23:44:44.453978",
+  "download_filename": "multissh3-6.6.tar.gz",
+  "download_time": "2025-11-14T22:57:52.464032",
   "package_url": "https://pypi.org/project/multiSSH3/"
 }
