@@ -1,11 +1,11 @@
 {
   "name": "beast2-xml",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "summary": "Command line script and Python class for generating BEAST2 XML config files.",
   "author": "Terry Jones",
   "license": "MIT",
   "home_page": "https://github.com/acorg/beast2-xml",
-  "download_filename": "beast2_xml-1.3.7.tar.gz",
-  "download_time": "2025-11-10T19:40:11.094839",
+  "download_filename": "beast2_xml-1.3.8.tar.gz",
+  "download_time": "2025-11-14T15:57:23.522774",
   "package_url": "https://pypi.org/project/beast2-xml/"
 }

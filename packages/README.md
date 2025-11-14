@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T15:44:54.701958
-- **Total Packages**: 90
-- **Total Size**: 44.74 MB
+- **Download Time**: 2025-11-14T15:57:46.087539
+- **Total Packages**: 87
+- **Total Size**: 28.54 MB
 
 ## Packages List
+- terra-scientific-pipelines-service-api-client
+- xwsystem
+- exonware-xwsystem
+- skx
+- openedx-authz
+- iap-messenger
+- proc-tap
+- XuPy
+- cell_key_perturbation
+- mxcpctl
+- django-bootstrap4
+- taskcluster
+- ecodev-sankey
+- provechain
+- reproject
+- dapr-ext-fastapi-dev
+- dapr-ext-grpc-dev
+- flask-dapr-dev
+- dapr-ext-workflow-dev
+- AgentService
+- dapr-dev
+- znsocket
+- pushtunes
+- cfs3
+- napari-omero-downloader-cci
+- async-substrate-interface
+- puid-py
+- merl
+- soia-client
+- elevenlabs
+- dclimate-client-py
+- zndraw
+- upathtools
+- runlayer
+- vitrea-host
+- bbwebservice
+- nanowakeword
+- sdsstools
+- mdchunk
+- user-scanner
+- debiased-spatial-whittle
+- kymata
+- type-bridge
+- zmq-anyio
+- beast2-xml
+- revng
+- orchestrate-api
+- ben-music-mcp
+- sapiopycommons
+- prt-rl
+- wox-plugin
+- kcli
 - opentrons
 - kasal-6d
 - bqseine
@@ -41,58 +93,3 @@
 - denkproto
 - pyloops
 - EstraPy
-- dclimate-client-py
-- metatomic-torch
-- kurt-core
-- codemie-sdk-python
-- vitrea-host
-- pypnusershub
-- afl-overseer
-- wox-plugin
-- streamlit-ai-toolkit
-- compose-micromanager
-- jaxsim
-- TechTrash-s3file
-- garf-bid-manager
-- uqlm
-- m2s
-- mpich
-- fitness
-- acontext
-- telemetrix
-- kognitos-bdk-linter
-- lightly-train
-- task-manager-saqib
-- ipars
-- price-scout
-- func-to-web
-- pybamm
-- nonebot-adapter-yunhu
-- c400g-ptz
-- sql-dependency-manager
-- structifyai
-- chellow
-- upathtools
-- kabinet
-- terminator-test-cleaner
-- soundcharts
-- mxcp
-- daytona_toolbox_api_client
-- nucliadb-admin-assets
-- daytona_api_client
-- daytona_api_client_async
-- daytona_toolbox_api_client_async
-- fin-infra
-- uipath
-- snagboot
-- epub-browser
-- cheetah-greb
-- dc-logger
-- iso-financial-mcp
-- ails-cli-tool
-- trove-classifiers
-- test-keishis
-- pingera-sdk
-- hex-zmq-servers
-- invenio-app-rdm
-- rara-digitizer

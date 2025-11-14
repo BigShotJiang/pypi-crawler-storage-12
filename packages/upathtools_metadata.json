@@ -1,11 +1,11 @@
 {
   "name": "upathtools",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "summary": "UPath utilities",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "upathtools-1.5.2.tar.gz",
-  "download_time": "2025-11-14T15:44:41.748156",
+  "download_filename": "upathtools-1.6.0.tar.gz",
+  "download_time": "2025-11-14T15:57:15.519711",
   "package_url": "https://pypi.org/project/upathtools/"
 }

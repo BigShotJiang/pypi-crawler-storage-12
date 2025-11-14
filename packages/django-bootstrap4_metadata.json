@@ -1,0 +1,11 @@
+{
+  "name": "django-bootstrap4",
+  "version": "25.3",
+  "summary": "Bootstrap 4 for Django",
+  "author": "Dylan Verheul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_bootstrap4-25.3.tar.gz",
+  "download_time": "2025-11-14T15:57:01.899514",
+  "package_url": "https://pypi.org/project/django-bootstrap4/"
+}

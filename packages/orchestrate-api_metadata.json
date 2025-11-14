@@ -1,0 +1,11 @@
+{
+  "name": "orchestrate-api",
+  "version": "3.3.0",
+  "summary": "SDK for the Orchestrate API at api.careevolutionapi.com",
+  "author": "Jeremy Fortune",
+  "license": "Apache-2.0",
+  "home_page": "https://rosetta-api.docs.careevolution.com/",
+  "download_filename": "orchestrate_api-3.3.0.tar.gz",
+  "download_time": "2025-11-14T15:57:24.601326",
+  "package_url": "https://pypi.org/project/orchestrate-api/"
+}

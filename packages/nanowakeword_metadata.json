@@ -1,0 +1,11 @@
+{
+  "name": "nanowakeword",
+  "version": "1.3.3",
+  "summary": "A next-generation intelligent framework for efficiently training high-performance, custom wake word models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanowakeword-1.3.3.tar.gz",
+  "download_time": "2025-11-14T15:57:17.684666",
+  "package_url": "https://pypi.org/project/nanowakeword/"
+}

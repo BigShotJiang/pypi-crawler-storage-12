@@ -1,11 +1,11 @@
 {
   "name": "ecodev-sankey",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Hierarchy generators",
   "author": "Dorian Kodelja",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ecodev_sankey-0.0.4.tar.gz",
-  "download_time": "2025-11-14T11:54:46.276174",
+  "download_filename": "ecodev_sankey-0.0.5.tar.gz",
+  "download_time": "2025-11-14T15:57:02.973166",
   "package_url": "https://pypi.org/project/ecodev-sankey/"
 }
