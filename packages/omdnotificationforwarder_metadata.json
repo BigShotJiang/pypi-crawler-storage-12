@@ -1,11 +1,11 @@
 {
   "name": "omdnotificationforwarder",
-  "version": "3.0",
+  "version": "4.0",
   "summary": "A framework for notification scripts for OMD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omdnotificationforwarder-3.0.tar.gz",
-  "download_time": "2025-11-14T14:45:32.778970",
+  "download_filename": "omdnotificationforwarder-4.0.tar.gz",
+  "download_time": "2025-11-14T14:57:47.647697",
   "package_url": "https://pypi.org/project/omdnotificationforwarder/"
 }

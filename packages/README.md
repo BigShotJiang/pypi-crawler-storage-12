@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T14:45:39.428720
-- **Total Packages**: 96
-- **Total Size**: 17.94 MB
+- **Download Time**: 2025-11-14T14:58:14.089332
+- **Total Packages**: 91
+- **Total Size**: 20.59 MB
 
 ## Packages List
+- subnoto-api-client
+- jaxsim
+- pymatgen-analysis-diffusion
+- lifx-async
+- aegislib
+- fakts-next
+- zen-garden
+- quantconnect-stubs
+- arbitrix-core
+- mStock-TradingApi-A
+- config-cli-gui
+- hzclient
+- unlok-next
+- asebytes
+- kognitos-bdk-linter
+- qase-api-v2-client
+- indipyweb
+- tira
+- stegawave
+- JKQC
+- mongopype
+- omdeventhandler
+- emu-mps
+- emu-sv
+- openmeter
+- emu-base
+- cheetah-greb
+- poola
+- methodwebscan
+- snapi
+- grimoirelab-chronicler
+- venv-modulefile
+- rnajena-sugar
+- akshare
+- flerity-core
+- yet-another-retry
+- dearpygui
+- go-or-no-go
+- TechTrash-comfyapi
+- omdnotificationforwarder
+- orq-ai-sdk
+- signalwire-agents
+- pdnd-python-client
+- akerbp-mlpet
+- pplyz
+- pyeuropepmc
 - pytrilogy
 - textverified-async-keynet
 - datacompy
@@ -38,7 +84,6 @@
 - jupyverse
 - gsrap
 - fps-yjs
-- openmeter
 - fps-webdav
 - fps-terminals
 - fps-resource-usage
@@ -52,53 +97,3 @@
 - fps-kernel-subprocess
 - fps-jupyterlab
 - fps-frontend
-- fps-file-watcher-poll
-- fps-file-watcher
-- fps-file-id
-- fps-contents
-- fps-auth-jupyterhub
-- fps-auth-fief
-- fps-auth
-- unlok-next
-- i18n-check
-- adpcli
-- odoo14-addon-website-sale-product-reference-displayed
-- automl-lite
-- lr-gladiator
-- digimat.mbio
-- langgraph-unity-catalog-checkpoint
-- tencent-cloud-hackathon-intelligent-pentest-competition-api-server
-- genin2
-- pandare
-- scrapegraph-py
-- JKQC
-- matflow-new
-- mmar-llm
-- coiled
-- tira
-- markdown-flow
-- lid-search
-- langswarm
-- apsfuncs
-- bamengine
-- sphinxnotes-strike
-- transformerlab
-- sapiopycommons
-- rate-limit-safe-token-allocator
-- wandelbots-api-client
-- textverified-async
-- ont-bonito
-- pdf2podcast
-- akshare
-- omdnotificationforwarder
-- svphaser
-- puid-py
-- janim
-- openfisca-nouvelle-caledonie
-- jaxsim
-- sitemapy
-- pingera-sdk
-- taulu
-- warmth
-- sqlalchemy-llm-agent
-- EstraPy

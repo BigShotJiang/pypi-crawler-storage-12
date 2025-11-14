@@ -1,0 +1,11 @@
+{
+  "name": "poola",
+  "version": "0.0.20",
+  "summary": "Python package to analyze the results of pooled CRISPR screens",
+  "author": "Peter DeWeirdt, Mudra Hegde",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/broadinstitute/poola/tree/master/",
+  "download_filename": "poola-0.0.20.tar.gz",
+  "download_time": "2025-11-14T14:57:39.348736",
+  "package_url": "https://pypi.org/project/poola/"
+}

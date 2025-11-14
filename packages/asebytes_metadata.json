@@ -1,0 +1,11 @@
+{
+  "name": "asebytes",
+  "version": "0.1.6",
+  "summary": "LMDB-based storage for ASE.",
+  "author": "Fabian Zills",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asebytes-0.1.6.tar.gz",
+  "download_time": "2025-11-14T14:57:32.172863",
+  "package_url": "https://pypi.org/project/asebytes/"
+}
