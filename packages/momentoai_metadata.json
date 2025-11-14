@@ -1,11 +1,11 @@
 {
   "name": "momentoai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for Momento AI — image vectorization, face search, and CLIP embeddings with user-supplied Supabase credentials.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "momentoai-0.1.1.tar.gz",
-  "download_time": "2025-11-14T05:25:43.952103",
+  "download_filename": "momentoai-0.1.2.tar.gz",
+  "download_time": "2025-11-14T17:57:13.626552",
   "package_url": "https://pypi.org/project/momentoai/"
 }

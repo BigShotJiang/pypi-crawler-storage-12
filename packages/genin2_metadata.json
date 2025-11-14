@@ -1,11 +1,11 @@
 {
   "name": "genin2",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "Genin2 is a lightining-fast bioinformatic tool to predict genotypes for H5 viruses belonging to the European clade 2.3.4.4b",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genin2-2.1.4.tar.gz",
-  "download_time": "2025-11-14T14:45:21.427574",
+  "download_filename": "genin2-2.1.5.tar.gz",
+  "download_time": "2025-11-14T17:57:15.289336",
   "package_url": "https://pypi.org/project/genin2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_order_default_carrier",
+  "version": "16.0.1.0.0",
+  "summary": "Set sale order carrier from partner.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_order_default_carrier-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T17:57:33.067959",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_order_default_carrier/"
+}

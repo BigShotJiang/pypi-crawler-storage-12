@@ -1,11 +1,11 @@
 {
   "name": "kratix-sdk",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Kratix SDK for writing Promises workflows",
   "author": "Syntasso",
   "license": "Apache-2.0",
   "home_page": "https://github.com/syntasso/kratix-python",
-  "download_filename": "kratix_sdk-0.3.2.tar.gz",
-  "download_time": "2025-11-13T15:30:55.103545",
+  "download_filename": "kratix_sdk-0.4.0.tar.gz",
+  "download_time": "2025-11-14T17:57:24.194833",
   "package_url": "https://pypi.org/project/kratix-sdk/"
 }

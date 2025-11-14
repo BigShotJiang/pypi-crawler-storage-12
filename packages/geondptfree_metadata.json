@@ -1,11 +1,11 @@
 {
   "name": "geondptfree",
-  "version": "2.5.1.1.101",
+  "version": "2.5.1.1.102",
   "summary": null,
   "author": "Nikos Tsapanos",
   "license": null,
   "home_page": null,
-  "download_filename": "geondptfree-2.5.1.1.101-py3-none-any.whl",
-  "download_time": "2025-11-14T17:27:28.791157",
+  "download_filename": "geondptfree-2.5.1.1.102-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-11-14T17:57:09.940927",
   "package_url": "https://pypi.org/project/geondptfree/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_order_line_date_propagate",
+  "version": "16.0.1.0.0",
+  "summary": "This module ensures that line order dates are propagated to stock pickings.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_order_line_date_propagate-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T17:57:32.033480",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_order_line_date_propagate/"
+}

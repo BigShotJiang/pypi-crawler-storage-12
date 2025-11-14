@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_order_notes",
+  "version": "16.0.1.0.0",
+  "summary": "Notes for sale orders.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_order_notes-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T17:57:29.450324",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_order_notes/"
+}
