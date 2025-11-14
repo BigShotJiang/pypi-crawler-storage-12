@@ -1,0 +1,11 @@
+{
+  "name": "satori-python-adapter-milky",
+  "version": "0.1.2",
+  "summary": "Satori Protocol SDK for python, adapter for Milky",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/RF-Tar-Railt/satori-python",
+  "download_filename": "satori_python_adapter_milky-0.1.2.tar.gz",
+  "download_time": "2025-11-14T09:48:19.721040",
+  "package_url": "https://pypi.org/project/satori-python-adapter-milky/"
+}

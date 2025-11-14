@@ -1,0 +1,11 @@
+{
+  "name": "tilecloud",
+  "version": "1.13.3",
+  "summary": "Tools for managing tiles",
+  "author": "Camptocamp",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "tilecloud-1.13.3.tar.gz",
+  "download_time": "2025-11-14T09:47:57.302509",
+  "package_url": "https://pypi.org/project/tilecloud/"
+}

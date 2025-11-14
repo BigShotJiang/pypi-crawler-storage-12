@@ -1,0 +1,11 @@
+{
+  "name": "shapeio",
+  "version": "0.5.0b0",
+  "summary": "A library that provides functions to decode MSTS/ORTS shape files into Python objects and to encode them back into the shape file format.",
+  "author": "Peter Grønbæk Andersen",
+  "license": "GNU GPL v3",
+  "home_page": null,
+  "download_filename": "shapeio-0.5.0b0.tar.gz",
+  "download_time": "2025-11-14T09:48:33.833847",
+  "package_url": "https://pypi.org/project/shapeio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grimoirelab-chronicler",
+  "version": "0.1.0",
+  "summary": "Generator of GrimoireLab events using Perceval data.",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "grimoirelab_chronicler-0.1.0.tar.gz",
+  "download_time": "2025-11-14T09:47:59.908835",
+  "package_url": "https://pypi.org/project/grimoirelab-chronicler/"
+}

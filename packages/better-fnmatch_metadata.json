@@ -1,11 +1,11 @@
 {
   "name": "better-fnmatch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A featureful fnmatch implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "better_fnmatch-0.1.0.tar.gz",
-  "download_time": "2025-11-13T11:23:43.631500",
+  "download_filename": "better_fnmatch-0.1.1.tar.gz",
+  "download_time": "2025-11-14T09:48:11.875943",
   "package_url": "https://pypi.org/project/better-fnmatch/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc-framework-CFNetwork",
+  "version": "12.1",
+  "summary": "Wrappers for the framework CFNetwork on macOS",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc_framework_cfnetwork-12.1-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-11-14T09:48:21.289994",
+  "package_url": "https://pypi.org/project/pyobjc-framework-CFNetwork/"
+}

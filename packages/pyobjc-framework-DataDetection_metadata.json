@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc-framework-DataDetection",
+  "version": "12.0",
+  "summary": "Wrappers for the framework DataDetection on macOS",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc_framework_datadetection-12.0.tar.gz",
+  "download_time": "2025-11-14T09:47:47.803092",
+  "package_url": "https://pypi.org/project/pyobjc-framework-DataDetection/"
+}

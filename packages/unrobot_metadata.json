@@ -1,0 +1,11 @@
+{
+  "name": "unrobot",
+  "version": "0.1.0",
+  "summary": "unrobot is a simple robot descriptor loader and toolkit for robotics applications.",
+  "author": "Sofiane",
+  "license": "MIT",
+  "home_page": "https://github.com/Churros98/unrobot",
+  "download_filename": "unrobot-0.1.0.tar.gz",
+  "download_time": "2025-11-14T09:47:55.219572",
+  "package_url": "https://pypi.org/project/unrobot/"
+}

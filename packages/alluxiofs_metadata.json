@@ -1,11 +1,11 @@
 {
   "name": "alluxiofs",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "summary": "Alluxio Fsspec provides Alluxio filesystem spec implementation.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/fsspec/alluxiofs",
-  "download_filename": "alluxiofs-1.1.13-py3-none-any.whl",
-  "download_time": "2025-11-12T10:50:59.272079",
+  "download_filename": "alluxiofs-1.1.14-py3-none-any.whl",
+  "download_time": "2025-11-14T09:48:37.994800",
   "package_url": "https://pypi.org/project/alluxiofs/"
 }

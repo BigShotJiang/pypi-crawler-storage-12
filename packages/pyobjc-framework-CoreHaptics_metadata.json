@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc-framework-CoreHaptics",
+  "version": "12.1",
+  "summary": "Wrappers for the framework CoreHaptics on macOS",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc_framework_corehaptics-12.1-py2.py3-none-any.whl",
+  "download_time": "2025-11-14T09:48:02.503557",
+  "package_url": "https://pypi.org/project/pyobjc-framework-CoreHaptics/"
+}
