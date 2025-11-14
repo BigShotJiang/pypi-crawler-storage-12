@@ -1,11 +1,11 @@
 {
   "name": "bookleter",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Turns pdfs into a6 sized foldable booklets",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "bookleter-0.8.2-py3-none-any.whl",
-  "download_time": "2025-11-14T07:46:37.725384",
+  "download_filename": "bookleter-0.8.3.tar.gz",
+  "download_time": "2025-11-14T10:28:54.786913",
   "package_url": "https://pypi.org/project/bookleter/"
 }

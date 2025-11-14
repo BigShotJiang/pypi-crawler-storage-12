@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc-framework-ThreadNetwork",
+  "version": "12.1",
+  "summary": "Wrappers for the framework ThreadNetwork on macOS",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc_framework_threadnetwork-12.1.tar.gz",
+  "download_time": "2025-11-14T10:29:08.952008",
+  "package_url": "https://pypi.org/project/pyobjc-framework-ThreadNetwork/"
+}

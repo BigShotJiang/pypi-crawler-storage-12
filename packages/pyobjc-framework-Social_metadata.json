@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc-framework-Social",
+  "version": "12.1",
+  "summary": "Wrappers for the framework Social on macOS",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc_framework_social-12.1.tar.gz",
+  "download_time": "2025-11-14T10:29:15.803459",
+  "package_url": "https://pypi.org/project/pyobjc-framework-Social/"
+}

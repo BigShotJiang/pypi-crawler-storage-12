@@ -1,0 +1,11 @@
+{
+  "name": "quorum",
+  "version": "0.8.7",
+  "summary": "Quorum Extensions for Flask",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://flask-quorum.hive.pt",
+  "download_filename": "quorum-0.8.7.tar.gz",
+  "download_time": "2025-11-14T10:28:52.663825",
+  "package_url": "https://pypi.org/project/quorum/"
+}

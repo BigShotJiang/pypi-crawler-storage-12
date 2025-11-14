@@ -1,0 +1,11 @@
+{
+  "name": "check-yamlschema",
+  "version": "0.0.7",
+  "summary": "A CLI and pre-commit hooks for jsonschema validation in YAML files with multiple documents",
+  "author": "Julien Mailleret",
+  "license": "MIT",
+  "home_page": "https://github.com/jmlrt/check-yamlschema",
+  "download_filename": "check_yamlschema-0.0.7.tar.gz",
+  "download_time": "2025-11-14T10:28:57.424480",
+  "package_url": "https://pypi.org/project/check-yamlschema/"
+}

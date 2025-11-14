@@ -1,0 +1,11 @@
+{
+  "name": "fewspy",
+  "version": "2025.11.0",
+  "summary": "A Python API for the Deltares FEWS PI REST Web Service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fewspy-2025.11.0.tar.gz",
+  "download_time": "2025-11-14T10:28:55.314862",
+  "package_url": "https://pypi.org/project/fewspy/"
+}

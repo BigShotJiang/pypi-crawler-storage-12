@@ -1,0 +1,11 @@
+{
+  "name": "optihood",
+  "version": "0.2.3",
+  "summary": "optihood optimization framework",
+  "author": "Institute for Solar Technology (SPF), OST Rapperswil",
+  "license": null,
+  "home_page": "https://optihood.readthedocs.io",
+  "download_filename": "optihood-0.2.3.tar.gz",
+  "download_time": "2025-11-14T10:28:34.020349",
+  "package_url": "https://pypi.org/project/optihood/"
+}

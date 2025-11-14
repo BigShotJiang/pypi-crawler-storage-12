@@ -1,0 +1,11 @@
+{
+  "name": "pier-os-clock",
+  "version": "1.0.0",
+  "summary": "Minimal terminal clock tool for Linux/WSL",
+  "author": "Dogukan Sahil",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pier_os_clock-1.0.0.tar.gz",
+  "download_time": "2025-11-14T10:28:43.836223",
+  "package_url": "https://pypi.org/project/pier-os-clock/"
+}

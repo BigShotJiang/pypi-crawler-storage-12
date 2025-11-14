@@ -1,0 +1,11 @@
+{
+  "name": "mts-upload",
+  "version": "1.0.1",
+  "summary": "Uploads files to confluence with support for expands.",
+  "author": "Ben Bastianelli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mts_upload-1.0.1.tar.gz",
+  "download_time": "2025-11-14T10:28:53.692554",
+  "package_url": "https://pypi.org/project/mts-upload/"
+}

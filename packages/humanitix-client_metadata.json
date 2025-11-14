@@ -1,11 +1,11 @@
 {
   "name": "humanitix-client",
-  "version": "1.18.0.1",
+  "version": "1.18.0.2",
   "summary": "A client library for accessing Humanitix Public API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "humanitix_client-1.18.0.1.tar.gz",
-  "download_time": "2025-11-14T09:48:12.393921",
+  "download_filename": "humanitix_client-1.18.0.2.tar.gz",
+  "download_time": "2025-11-14T10:28:50.104730",
   "package_url": "https://pypi.org/project/humanitix-client/"
 }

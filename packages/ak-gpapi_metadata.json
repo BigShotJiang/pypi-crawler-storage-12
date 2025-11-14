@@ -1,0 +1,11 @@
+{
+  "name": "ak-gpapi",
+  "version": "3.0.7",
+  "summary": "Unofficial python api for google play",
+  "author": "appknox",
+  "license": "GPL3",
+  "home_page": "https://github.com/appknox/googleplay-api",
+  "download_filename": "ak_gpapi-3.0.7.tar.gz",
+  "download_time": "2025-11-14T10:29:16.314539",
+  "package_url": "https://pypi.org/project/ak-gpapi/"
+}
