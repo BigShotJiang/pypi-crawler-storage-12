@@ -1,0 +1,11 @@
+{
+  "name": "trc-data-reader",
+  "version": "0.4.0",
+  "summary": "A package for reading track row column (TRC) motion capture data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trc_data_reader-0.4.0-py3-none-any.whl",
+  "download_time": "2025-11-14T08:58:14.526467",
+  "package_url": "https://pypi.org/project/trc-data-reader/"
+}

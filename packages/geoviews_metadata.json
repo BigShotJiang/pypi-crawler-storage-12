@@ -1,11 +1,11 @@
 {
   "name": "geoviews",
-  "version": "1.14.1",
+  "version": "1.15.0",
   "summary": "GeoViews is a Python library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research.",
   "author": null,
-  "license": "BSD 3-Clause",
+  "license": null,
   "home_page": null,
-  "download_filename": "geoviews-1.14.1.tar.gz",
-  "download_time": "2025-11-12T08:34:56.755512",
+  "download_filename": "geoviews-1.15.0.tar.gz",
+  "download_time": "2025-11-14T08:58:28.741506",
   "package_url": "https://pypi.org/project/geoviews/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edx-release-notes",
+  "version": "0.1.2",
+  "summary": "Edx Release Notes Backend.",
+  "author": "Edx Project",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/release-notes",
+  "download_filename": "edx_release_notes-0.1.2.tar.gz",
+  "download_time": "2025-11-14T08:58:56.932481",
+  "package_url": "https://pypi.org/project/edx-release-notes/"
+}

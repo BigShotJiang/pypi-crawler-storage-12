@@ -1,11 +1,11 @@
 {
   "name": "anomaly-impact-alert",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Anomaly detection, impact explanation, forecasting, and alerting toolkit",
-  "author": "Aleksey Voronko",
-  "license": "MIT License\n        (c) 2025 Aleksey Voronko\n        ",
+  "author": "Alexey Voronko",
+  "license": "MIT License\n        (c) 2025 Alexey Voronko\n        ",
   "home_page": null,
-  "download_filename": "anomaly_impact_alert-0.4.4.tar.gz",
-  "download_time": "2025-11-14T08:34:10.588239",
+  "download_filename": "anomaly_impact_alert-0.4.5.tar.gz",
+  "download_time": "2025-11-14T08:58:58.543946",
   "package_url": "https://pypi.org/project/anomaly-impact-alert/"
 }

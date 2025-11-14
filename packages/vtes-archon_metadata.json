@@ -1,0 +1,11 @@
+{
+  "name": "vtes-archon",
+  "version": "0.57",
+  "summary": "VTES tournament management",
+  "author": "VEKN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtes_archon-0.57.tar.gz",
+  "download_time": "2025-11-14T08:58:43.395509",
+  "package_url": "https://pypi.org/project/vtes-archon/"
+}
