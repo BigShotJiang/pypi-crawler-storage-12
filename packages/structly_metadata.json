@@ -1,0 +1,11 @@
+{
+  "name": "structly",
+  "version": "1.0.0",
+  "summary": "High-performance text/logs parser (e.g., whois, nuclei, dns/dhcp logs) with Rust core",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "structly-1.0.0.tar.gz",
+  "download_time": "2025-11-14T11:42:58.500063",
+  "package_url": "https://pypi.org/project/structly/"
+}

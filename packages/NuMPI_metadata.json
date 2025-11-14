@@ -1,0 +1,11 @@
+{
+  "name": "NuMPI",
+  "version": "0.8.3",
+  "summary": "Numerical tools for MPI-parallelized code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numpi-0.8.3.tar.gz",
+  "download_time": "2025-11-14T11:42:54.761334",
+  "package_url": "https://pypi.org/project/NuMPI/"
+}

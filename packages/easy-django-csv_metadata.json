@@ -1,0 +1,11 @@
+{
+  "name": "easy-django-csv",
+  "version": "0.1.5",
+  "summary": "Simple CSV export for Django",
+  "author": "Alex Dickens",
+  "license": null,
+  "home_page": "https://github.com/alex-dicko/Easy-Django-CSV",
+  "download_filename": "easy_django_csv-0.1.5.tar.gz",
+  "download_time": "2025-11-14T11:42:22.565361",
+  "package_url": "https://pypi.org/project/easy-django-csv/"
+}

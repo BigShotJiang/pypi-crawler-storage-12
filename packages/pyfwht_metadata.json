@@ -1,11 +1,11 @@
 {
   "name": "pyfwht",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Fast Walsh-Hadamard Transform with CPU, OpenMP, and CUDA backends",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfwht-1.1.3.tar.gz",
-  "download_time": "2025-11-13T23:59:12.361532",
+  "download_filename": "pyfwht-1.1.4.tar.gz",
+  "download_time": "2025-11-14T11:43:02.649826",
   "package_url": "https://pypi.org/project/pyfwht/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simple-oauth-server",
+  "version": "0.1.5",
+  "summary": "Provides a simple OAuth server deployed as an AWS Lambda function, intended to support development with Localstack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_oauth_server-0.1.5.tar.gz",
+  "download_time": "2025-11-14T11:43:05.862482",
+  "package_url": "https://pypi.org/project/simple-oauth-server/"
+}
