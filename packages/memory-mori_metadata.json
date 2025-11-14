@@ -1,0 +1,11 @@
+{
+  "name": "memory-mori",
+  "version": "0.1.1",
+  "summary": "Persistent memory for LLMs - Give your AI conversations long-term memory with intelligent context retrieval",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memory_mori-0.1.1.tar.gz",
+  "download_time": "2025-11-14T20:58:19.836615",
+  "package_url": "https://pypi.org/project/memory-mori/"
+}

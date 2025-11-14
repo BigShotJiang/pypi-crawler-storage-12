@@ -1,0 +1,11 @@
+{
+  "name": "garmin-to-fittrackee",
+  "version": "0.11.1",
+  "summary": "A simple script to synchronize garmin to fittrackee. Inspired by https://github.com/jat255/strava-to-fittrackee",
+  "author": "Dryusdan",
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "garmin_to_fittrackee-0.11.1.tar.gz",
+  "download_time": "2025-11-14T20:58:12.763256",
+  "package_url": "https://pypi.org/project/garmin-to-fittrackee/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "colcon-cargo",
+  "version": "0.2.0",
+  "summary": "Extension for colcon to support cargo packages.",
+  "author": "Gérald Lelong",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "colcon_cargo-0.2.0.tar.gz",
+  "download_time": "2025-11-14T20:58:06.306759",
+  "package_url": "https://pypi.org/project/colcon-cargo/"
+}

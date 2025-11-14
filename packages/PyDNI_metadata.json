@@ -1,11 +1,11 @@
 {
   "name": "PyDNI",
-  "version": "0.2.0",
-  "summary": "Verificador de DNIs y CIFs españoles",
+  "version": "0.3.0",
+  "summary": "Validador de identificadores españoles (DNI, NIE, CIF y NIF genérico)",
   "author": "Alberto Gonzalez",
   "license": "MIT",
   "home_page": "https://github.com/agonzalezla/PyDNI",
-  "download_filename": "pydni-0.2.0.tar.gz",
-  "download_time": "2025-11-14T19:41:12.746807",
+  "download_filename": "pydni-0.3.0.tar.gz",
+  "download_time": "2025-11-14T20:58:13.947429",
   "package_url": "https://pypi.org/project/PyDNI/"
 }

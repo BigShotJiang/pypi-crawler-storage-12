@@ -1,0 +1,11 @@
+{
+  "name": "align-track",
+  "version": "1.2.0",
+  "summary": "Tracking and monitoring utilities for align-system experiments",
+  "author": "PaulHax",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "align_track-1.2.0.tar.gz",
+  "download_time": "2025-11-14T20:58:34.275642",
+  "package_url": "https://pypi.org/project/align-track/"
+}

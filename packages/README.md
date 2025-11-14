@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T20:46:44.202303
-- **Total Packages**: 85
-- **Total Size**: 20.73 MB
+- **Download Time**: 2025-11-14T20:58:59.234999
+- **Total Packages**: 92
+- **Total Size**: 7.56 MB
 
 ## Packages List
+- ibapi-python
+- colcon-cargo
+- langchain
+- netfoundry
+- promptguard-pro
+- micromegas
+- duppla-slack
+- dyff-client
+- relationalai
+- herogold
+- ordeq_ibis
+- fabric-lakehouse-mcp
+- garmin-to-fittrackee
+- pymtcnn
+- PyDNI
+- biblemategui
+- streamlit-ai-toolkit
+- autouam
+- phx
+- dojo-sdk-client
+- langsmith
+- promptlayer
+- mc-netease-sdk-nyrev
+- memory-mori
+- inception-db-connect
+- denss
+- vision-agents-plugins-xai
+- vision-agents-plugins-wizper
+- vision-agents-plugins-vogent
+- vision-agents-plugins-ultralytics
+- vision-agents-plugins-smart-turn
+- vision-agents-plugins-openrouter
+- vision-agents-plugins-openai
+- vision-agents-plugins-moondream
+- vision-agents-plugins-kokoro
+- agentmake
+- vision-agents-plugins-inworld
+- vision-agents-plugins-heygen
+- vision-agents-plugins-getstream
+- vision-agents-plugins-gemini
+- vision-agents-plugins-fish
+- vision-agents-plugins-fast-whisper
+- vision-agents-plugins-elevenlabs
+- vision-agents-plugins-deepgram
+- vision-agents-plugins-cartesia
+- vision-agents-plugins-aws
+- vision-agents-plugins-anthropic
+- vision-agents
+- align-track
+- align-utils
+- momento-wire-types
 - gawsoft-api-client
 - orca-agent-sdk
 - WebDesignTaal
@@ -17,7 +68,6 @@
 - org-analyze
 - RockyRoad
 - igloo-mcp
-- promptguard-pro
 - crackerjack
 - metatrader5
 - suclepy
@@ -48,46 +98,3 @@
 - types-boto3-lite
 - types-boto3-medialive
 - types-boto3-ec2
-- types-boto3-datazone
-- types-boto3-imagebuilder
-- sc-napalm
-- streamlit-ai-toolkit
-- klayout-pex
-- yaml-rs
-- workbench
-- kaqing
-- headlock
-- haiku.rag
-- haiku.rag-slim
-- plinkformatter
-- styxdefs
-- clickhouse-connect
-- render-engine-pg
-- mkdocs-rss-plugin
-- boto3
-- awscli
-- kframework
-- movie-barcodes
-- weirdfingers-boards
-- gdsfactory
-- aind-disrnn-utils
-- airbyte-cdk
-- flashorm
-- polars-xml
-- dhxpyt
-- ni.measurements.metadata.v1.proto
-- amino.dorks.fix
-- pushikoo-interface
-- mbbank-lib
-- fabric-lakehouse-mcp
-- cortexgraph
-- loce-zap
-- speech2caret
-- earthcare-downloader
-- apifairy
-- givernylocal
-- giverny
-- simulateur-trafic-ahmed-hamed-2025
-- cloudx-proxy
-- informatica
-- diamondback

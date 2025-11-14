@@ -1,11 +1,11 @@
 {
   "name": "fabric-lakehouse-mcp",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Microsoft Fabric Lakehouse MCP Server - SQL analytics tools for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabric_lakehouse_mcp-0.3.2.tar.gz",
-  "download_time": "2025-11-14T20:29:13.715088",
+  "download_filename": "fabric_lakehouse_mcp-0.3.3.tar.gz",
+  "download_time": "2025-11-14T20:58:12.186666",
   "package_url": "https://pypi.org/project/fabric-lakehouse-mcp/"
 }
