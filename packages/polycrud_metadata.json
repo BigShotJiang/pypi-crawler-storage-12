@@ -1,0 +1,11 @@
+{
+  "name": "polycrud",
+  "version": "0.4.6",
+  "summary": "DB CRUD operations for Polybase",
+  "author": "haonv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polycrud-0.4.6.tar.gz",
+  "download_time": "2025-11-14T04:54:44.084950",
+  "package_url": "https://pypi.org/project/polycrud/"
+}

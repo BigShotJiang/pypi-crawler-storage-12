@@ -1,0 +1,11 @@
+{
+  "name": "pytoony",
+  "version": "0.1.2",
+  "summary": "Convert between TOON (Token Oriented Object Notation) and JSON",
+  "author": "puchkoff",
+  "license": "MIT",
+  "home_page": "https://github.com/puchkoff/pytoony",
+  "download_filename": "pytoony-0.1.2.tar.gz",
+  "download_time": "2025-11-14T04:54:43.565542",
+  "package_url": "https://pypi.org/project/pytoony/"
+}

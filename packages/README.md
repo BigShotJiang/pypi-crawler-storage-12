@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T04:34:25.854144
-- **Total Packages**: 79
-- **Total Size**: 29.35 MB
+- **Download Time**: 2025-11-14T04:55:23.449541
+- **Total Packages**: 77
+- **Total Size**: 7.53 MB
 
 ## Packages List
+- yeref
+- pyDiffTools
+- veriq
+- mooring-data-generator
+- siena_mls
+- memdocs
+- py-ewr
+- pytoony
+- polycrud
+- mcp-sqlite-server-d
+- paddle
+- phy-std-base-toknzer
+- jubilee
+- iamdata
+- svc-infra
+- nbprint
+- accurate-benchmark
+- dinari-api-sdk
+- knp-mcp-excel
+- pulumi-oci
+- blend2d-py
+- venvr
+- srx-lib-llm
+- mcp-semclone
+- jupyterlab-vscode-icons-extension
+- mcp-commons
+- k-hhc
+- rhinotype
+- smart-selfhealing-rbfw
+- txt2phrases
+- robhan-cdk-lib.utils
+- lacrei-models
+- spacectl
+- sun-agent-toolkit
+- spa-cli
 - kinemotion
 - snapy
 - CacheControl
@@ -18,7 +53,6 @@
 - treeline-money
 - DAOModel
 - filelogr
-- sun-agent-toolkit
 - rigging
 - pritunl-webclient
 - cortexapps-cli
@@ -31,10 +65,7 @@
 - keras-nlp-nightly
 - keras-hub-nightly
 - odoo-addons-oca-stock-logistics-warehouse
-- spa-cli
 - notbadai-tools-chat
-- gymnasium-sudoku
-- jupyterlab-vscode-icons-extension
 - plain.support
 - plain.sessions
 - plain.redirection
@@ -52,36 +83,3 @@
 - napistu
 - dsf-label-sdk
 - wpiformat
-- moose-lib
-- leafmap
-- easy-cos
-- brukeropus
-- gooey-gpu
-- snowflake-connector-python-nightly
-- version-get
-- fastapi-opinionated-core
-- nifti2bids
-- odoo-addons-oca-server-tools
-- sound-track-extract
-- qubitclient
-- odoo-addon-server-environment
-- odoo-addon-mail-environment-google-gmail
-- odoo-addon-server-environment-ir-config-parameter
-- odoo-addon-mail-environment
-- odoo-addon-data-encryption
-- odoo-addon-server-environment-data-encryption
-- odoo-addons-oca-server-backend
-- tirex-mirror
-- jetbase
-- chalkpy
-- pulumi-digitalocean
-- earth-rover-mini-sdk
-- half-hour
-- odoo-addon-sale-order-product-recommendation
-- mooring-data-generator
-- torrra
-- jubilee
-- chromedriver-binary
-- lindorm-memobase
-- modal-run
-- py-mavlink-dji
