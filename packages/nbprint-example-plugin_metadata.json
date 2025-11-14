@@ -1,0 +1,11 @@
+{
+  "name": "nbprint-example-plugin",
+  "version": "0.2.0",
+  "summary": "Example hydra plugin for nbprint",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nbprint_example_plugin-0.2.0.tar.gz",
+  "download_time": "2025-11-14T23:54:48.012327",
+  "package_url": "https://pypi.org/project/nbprint-example-plugin/"
+}

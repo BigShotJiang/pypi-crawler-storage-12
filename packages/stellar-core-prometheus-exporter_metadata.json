@@ -1,0 +1,11 @@
+{
+  "name": "stellar-core-prometheus-exporter",
+  "version": "0.10.6",
+  "summary": "Export stellar core metrics in prometheus format",
+  "author": "Stellar Development Foundation",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/stellar/stellar-core-prometheus-exporter",
+  "download_filename": "stellar_core_prometheus_exporter-0.10.6-py3-none-any.whl",
+  "download_time": "2025-11-14T23:54:53.307282",
+  "package_url": "https://pypi.org/project/stellar-core-prometheus-exporter/"
+}

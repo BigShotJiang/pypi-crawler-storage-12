@@ -1,11 +1,11 @@
 {
   "name": "steer-materials",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Modelling energy storage from cell to site - STEER OpenCell Design",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "steer_materials-0.1.14.tar.gz",
-  "download_time": "2025-11-14T17:28:04.212565",
+  "download_filename": "steer_materials-0.1.15.tar.gz",
+  "download_time": "2025-11-14T23:54:34.030479",
   "package_url": "https://pypi.org/project/steer-materials/"
 }

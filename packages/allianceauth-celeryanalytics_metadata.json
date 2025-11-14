@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth-celeryanalytics",
+  "version": "0.0.7",
+  "summary": "Celery Task and Worker Analytics for Alliance Auth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth_celeryanalytics-0.0.7.tar.gz",
+  "download_time": "2025-11-14T23:54:45.848027",
+  "package_url": "https://pypi.org/project/allianceauth-celeryanalytics/"
+}

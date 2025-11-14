@@ -1,0 +1,11 @@
+{
+  "name": "ilt-panphon",
+  "version": "0.21.3",
+  "summary": "Tools for using the International Phonetic Alphabet with phonological features",
+  "author": "David R. Mortensen",
+  "license": "MIT",
+  "home_page": "https://github.com/nrc-ilt/panphon",
+  "download_filename": "ilt_panphon-0.21.3.tar.gz",
+  "download_time": "2025-11-14T23:54:53.827480",
+  "package_url": "https://pypi.org/project/ilt-panphon/"
+}

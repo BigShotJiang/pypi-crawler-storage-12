@@ -1,0 +1,11 @@
+{
+  "name": "synqed",
+  "version": "0.6.0",
+  "summary": "Python SDK for Synq - Multi-Agent AI Interaction System",
+  "author": "Synq Team",
+  "license": "Proprietary",
+  "home_page": "https://github.com/yourusername/synq",
+  "download_filename": "synqed-0.6.0.tar.gz",
+  "download_time": "2025-11-14T23:54:50.653093",
+  "package_url": "https://pypi.org/project/synqed/"
+}
