@@ -1,0 +1,11 @@
+{
+  "name": "spinetoolbox",
+  "version": "0.10.4",
+  "summary": "An application to define, manage, and execute various energy system simulation models",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "spinetoolbox-0.10.4.tar.gz",
+  "download_time": "2025-11-14T07:28:57.013767",
+  "package_url": "https://pypi.org/project/spinetoolbox/"
+}

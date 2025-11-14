@@ -1,0 +1,11 @@
+{
+  "name": "spinedb-api",
+  "version": "0.36.2",
+  "summary": "An API to talk to Spine databases.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "spinedb_api-0.36.2.tar.gz",
+  "download_time": "2025-11-14T07:28:55.278586",
+  "package_url": "https://pypi.org/project/spinedb-api/"
+}

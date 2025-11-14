@@ -1,0 +1,11 @@
+{
+  "name": "dtx-models",
+  "version": "0.47.0",
+  "summary": "Shared model schemas and YAML-based configurations for the DTX framework.",
+  "author": "JC",
+  "license": null,
+  "home_page": "https://docs.detoxio.ai",
+  "download_filename": "dtx_models-0.47.0.tar.gz",
+  "download_time": "2025-11-14T07:28:38.130905",
+  "package_url": "https://pypi.org/project/dtx-models/"
+}

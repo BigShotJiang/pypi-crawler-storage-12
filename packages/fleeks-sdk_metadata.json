@@ -1,11 +1,11 @@
 {
   "name": "fleeks-sdk",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python SDK for Fleeks services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fleeks_sdk-0.1.1.tar.gz",
-  "download_time": "2025-11-13T03:20:34.061601",
+  "download_filename": "fleeks_sdk-0.2.0.tar.gz",
+  "download_time": "2025-11-14T07:28:28.282824",
   "package_url": "https://pypi.org/project/fleeks-sdk/"
 }

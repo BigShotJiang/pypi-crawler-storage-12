@@ -1,0 +1,11 @@
+{
+  "name": "zha-quirks",
+  "version": "0.0.149",
+  "summary": "Library implementing Zigpy quirks for ZHA in Home Assistant",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zha_quirks-0.0.149.tar.gz",
+  "download_time": "2025-11-14T07:28:21.927895",
+  "package_url": "https://pypi.org/project/zha-quirks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vd-cli",
+  "version": "0.0.1",
+  "summary": "CLI tool for Vision Designer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vd_cli-0.0.1.tar.gz",
+  "download_time": "2025-11-14T07:28:42.134871",
+  "package_url": "https://pypi.org/project/vd-cli/"
+}

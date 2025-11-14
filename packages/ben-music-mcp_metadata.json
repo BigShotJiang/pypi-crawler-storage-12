@@ -1,11 +1,11 @@
 {
   "name": "ben-music-mcp",
-  "version": "0.1.9",
-  "summary": "考虑了平台兼容性",
+  "version": "0.1.11",
+  "summary": "本的乐mcp服务",
   "author": "ben",
   "license": null,
   "home_page": null,
-  "download_filename": "ben_music_mcp-0.1.9.tar.gz",
-  "download_time": "2025-11-11T05:25:05.786275",
+  "download_filename": "ben_music_mcp-0.1.11.tar.gz",
+  "download_time": "2025-11-14T07:28:34.153208",
   "package_url": "https://pypi.org/project/ben-music-mcp/"
 }

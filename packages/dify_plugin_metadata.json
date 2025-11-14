@@ -1,11 +1,11 @@
 {
   "name": "dify_plugin",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Dify Plugin SDK",
   "author": null,
   "license": "Apache2.0",
   "home_page": null,
-  "download_filename": "dify_plugin-0.6.0.tar.gz",
-  "download_time": "2025-11-14T05:57:36.622817",
+  "download_filename": "dify_plugin-0.6.1.tar.gz",
+  "download_time": "2025-11-14T07:28:40.980488",
   "package_url": "https://pypi.org/project/dify_plugin/"
 }

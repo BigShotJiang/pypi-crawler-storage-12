@@ -1,0 +1,11 @@
+{
+  "name": "grater-jax",
+  "version": "0.2.2",
+  "summary": "JAX-powered machine learning and modeling framework for GRaTeR disks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grater_jax-0.2.2.tar.gz",
+  "download_time": "2025-11-14T07:28:51.840652",
+  "package_url": "https://pypi.org/project/grater-jax/"
+}

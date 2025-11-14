@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-ppl",
+  "version": "0.8.10.2",
+  "summary": "Python wrapper for the Parma Polyhedra Library (pplpy fork)",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "passagemath_ppl-0.8.10.2.tar.gz",
+  "download_time": "2025-11-14T07:28:54.708060",
+  "package_url": "https://pypi.org/project/passagemath-ppl/"
+}

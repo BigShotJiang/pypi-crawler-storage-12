@@ -1,11 +1,11 @@
 {
   "name": "agentic-learning",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Drop-in SDK for adding persistent memory and learning to any agent.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentic_learning-0.3.0.tar.gz",
-  "download_time": "2025-11-12T16:34:16.343222",
+  "download_filename": "agentic_learning-0.4.0.tar.gz",
+  "download_time": "2025-11-14T07:28:43.256886",
   "package_url": "https://pypi.org/project/agentic-learning/"
 }
