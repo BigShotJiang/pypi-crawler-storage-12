@@ -1,11 +1,11 @@
 {
   "name": "eonapi",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "CLI tool for retrieving and analyzing electricity/gas consumption data from Eon Next API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eonapi-0.3.0.tar.gz",
-  "download_time": "2025-11-13T16:31:15.347627",
+  "download_filename": "eonapi-0.5.0.tar.gz",
+  "download_time": "2025-11-14T18:58:53.983557",
   "package_url": "https://pypi.org/project/eonapi/"
 }

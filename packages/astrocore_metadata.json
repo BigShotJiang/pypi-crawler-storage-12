@@ -1,0 +1,11 @@
+{
+  "name": "astrocore",
+  "version": "1.1.0",
+  "summary": "Generalized core numerical algorithms originally intended for astrophysical purposes.",
+  "author": "Neil Ghugare",
+  "license": null,
+  "home_page": "https://github.com/RandomKiddo/astrocore",
+  "download_filename": "astrocore-1.1.0.tar.gz",
+  "download_time": "2025-11-14T18:58:36.592775",
+  "package_url": "https://pypi.org/project/astrocore/"
+}

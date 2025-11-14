@@ -1,0 +1,11 @@
+{
+  "name": "datetimeops",
+  "version": "1.0.6",
+  "summary": "A lightweight Python library for date and time operations.",
+  "author": "Kanad Rishiraj (RoamingSaint)",
+  "license": null,
+  "home_page": "https://github.com/roamingsaint/datetimeops",
+  "download_filename": "datetimeops-1.0.6.tar.gz",
+  "download_time": "2025-11-14T18:59:00.880428",
+  "package_url": "https://pypi.org/project/datetimeops/"
+}

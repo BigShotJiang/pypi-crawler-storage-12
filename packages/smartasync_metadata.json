@@ -1,11 +1,11 @@
 {
   "name": "smartasync",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Unified sync/async API decorator with automatic context detection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartasync-0.2.0.tar.gz",
-  "download_time": "2025-11-10T23:41:32.267410",
+  "download_filename": "smartasync-0.4.0.tar.gz",
+  "download_time": "2025-11-14T18:58:44.024104",
   "package_url": "https://pypi.org/project/smartasync/"
 }

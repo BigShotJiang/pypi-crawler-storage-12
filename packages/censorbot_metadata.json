@@ -1,11 +1,11 @@
 {
   "name": "censorbot",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "Automatically censor profanity in video files using AI transcription",
   "author": "Samuel Mukoti",
   "license": "GPL-3.0",
   "home_page": "https://github.com/samuelmukoti/censorbot",
-  "download_filename": "censorbot-0.0.1.tar.gz",
-  "download_time": "2025-11-14T16:34:35.153031",
+  "download_filename": "censorbot-0.0.5.tar.gz",
+  "download_time": "2025-11-14T18:58:56.585956",
   "package_url": "https://pypi.org/project/censorbot/"
 }

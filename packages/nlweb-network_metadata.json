@@ -1,11 +1,11 @@
 {
   "name": "nlweb-network",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Network interfaces and server for NLWeb - HTTP, MCP, and A2A protocol adapters",
   "author": "Microsoft Corporation",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nlweb_network-0.5.3.tar.gz",
-  "download_time": "2025-11-11T22:43:54.061320",
+  "download_filename": "nlweb_network-0.5.4.tar.gz",
+  "download_time": "2025-11-14T18:58:50.844046",
   "package_url": "https://pypi.org/project/nlweb-network/"
 }

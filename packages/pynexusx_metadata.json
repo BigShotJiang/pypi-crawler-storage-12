@@ -1,11 +1,11 @@
 {
   "name": "pynexusx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A simple CLI tool to update all Python packages using VersaLog.",
   "author": "kaede",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pynexusx-1.1.0.tar.gz",
-  "download_time": "2025-11-14T18:36:54.660228",
+  "download_filename": "pynexusx-1.1.1.tar.gz",
+  "download_time": "2025-11-14T18:58:46.121170",
   "package_url": "https://pypi.org/project/pynexusx/"
 }

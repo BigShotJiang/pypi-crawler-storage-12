@@ -1,14 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T18:37:41.745226
-- **Total Packages**: 86
-- **Total Size**: 66.27 MB
+- **Download Time**: 2025-11-14T18:59:21.979614
+- **Total Packages**: 87
+- **Total Size**: 27.56 MB
 
 ## Packages List
+- cheetah-greb
+- private-assistant-comms-satellite
+- nats-fasterapi
+- speakeasy2
+- astrocore
+- langchain
+- meta-spec
+- tetra-rp
+- lifx-async
+- django-inscode
+- evergreen.py
+- nonebot-plugin-lingchu-bot
+- g4f
+- docnote-extract
+- utilities-nlp
+- methurator
+- cubeforge
+- smartasync
+- walytis-beta-embedded
+- talks-reducer
+- walytis-beta-api
+- pynexusx
+- walytis-beta
+- node-graph
+- nlweb-models
+- symmray
+- nlweb-retrieval
+- nlweb-azure-vectordb
+- map-games-proto
+- nlweb-azure-models
+- nlweb-network
+- nlweb-dataload
+- nlweb-core
+- lht
+- fabric-lakehouse-mcp
+- base-api-utils
+- eonapi
+- anthropic
+- geminiai-cli
+- dbos
+- censorbot
+- d2spy
+- worker-automate-hub
+- yaml-rs
+- svc-infra
+- nornir-nautobot
+- mitiq
+- calkit-python
+- datetimeops
+- osbot-fast-api-serverless
+- nextcloud-pywebdav
+- darn-it
+- terminus-ai
+- standardbots
+- terra-scientific-pipelines-service-api-client
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
 - eo-processor
 - rxlm
-- pynexusx
 - orto
 - stalcraft-api
 - well-log-toolkit
@@ -17,7 +74,6 @@
 - subnoto-api-client
 - RCA-space
 - mcp-docker
-- meta-spec
 - duppla-slack
 - chonkie
 - integrate-ai
@@ -25,7 +81,6 @@
 - dars-framework
 - dc-pybot
 - sentry-devenv
-- darn-it
 - eaopack
 - uatu
 - llvmlite
@@ -34,61 +89,7 @@
 - spedReader
 - akips
 - griptape-nodes
-- map-games-proto
 - googleapiutils2
 - tree-sitter-rttm
 - ai-parrot
 - molecule-benchmarks
-- chisel
-- splineops
-- pysimplicityhl
-- ethyca-fides
-- pythonanywhere-core
-- moose-lib
-- methurator
-- rattlesnake-vibration-controller
-- fzpcb
-- bare-script
-- bazel-runfiles
-- ofire
-- holado
-- massgen
-- dvsim
-- auditry
-- CB2325NumericaG3
-- arg-lmm
-- jaseci
-- agentql
-- fabricatio-novel
-- fabricatio-typst
-- fabricatio-core
-- fabricatio-memory
-- steer-opencell-design
-- gitstats
-- glean-api-client
-- pvw-cli
-- pytest-language-server
-- rdworks
-- ccbashhistory
-- hzclient
-- plato-sdk
-- aind-disrnn-utils
-- antonnia-conversations
-- sqlmask
-- vowel
-- mxcpctl
-- romancal
-- wmill-pg
-- wmill
-- windmill-api
-- cicada-mcp
-- galileo-core
-- flock-core
-- geondptfree
-- dsf-label-sdk
-- nnunetv2-cam
-- datamorph-airflow
-- odoo-addon-delivery-cbl-picking-note-observations
-- warn-transformer
-- megatron-core
-- megatron-fsdp
