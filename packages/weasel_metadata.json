@@ -1,0 +1,11 @@
+{
+  "name": "weasel",
+  "version": "0.4.3",
+  "summary": "Weasel: A small and easy workflow system",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": "https://github.com/explosion/weasel/",
+  "download_filename": "weasel-0.4.3.tar.gz",
+  "download_time": "2025-11-13T23:59:12.999217",
+  "package_url": "https://pypi.org/project/weasel/"
+}
