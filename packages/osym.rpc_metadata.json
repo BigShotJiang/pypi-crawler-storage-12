@@ -1,0 +1,11 @@
+{
+  "name": "osym.rpc",
+  "version": "0.1.4",
+  "summary": "Objects with SYMbolic expressions - RPC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osym_rpc-0.1.4.tar.gz",
+  "download_time": "2025-11-14T07:57:08.703771",
+  "package_url": "https://pypi.org/project/osym.rpc/"
+}

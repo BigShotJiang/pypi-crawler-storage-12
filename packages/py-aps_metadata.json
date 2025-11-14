@@ -1,11 +1,11 @@
 {
   "name": "py-aps",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Autodesk Platform Service APIs Python SDK",
   "author": "voidbox",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "py_aps-0.0.6.tar.gz",
-  "download_time": "2025-11-14T07:29:00.392595",
+  "download_filename": "py_aps-0.0.7.tar.gz",
+  "download_time": "2025-11-14T07:56:45.198827",
   "package_url": "https://pypi.org/project/py-aps/"
 }

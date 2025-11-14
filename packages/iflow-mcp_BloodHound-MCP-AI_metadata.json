@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_BloodHound-MCP-AI",
+  "version": "1.0.0",
+  "summary": "BloodHound MCP Server for Active Directory security analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_bloodhound_mcp_ai-1.0.0.tar.gz",
+  "download_time": "2025-11-14T07:57:14.204098",
+  "package_url": "https://pypi.org/project/iflow-mcp_BloodHound-MCP-AI/"
+}

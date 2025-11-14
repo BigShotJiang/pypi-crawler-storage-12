@@ -1,0 +1,11 @@
+{
+  "name": "strands-agentcore-tools",
+  "version": "0.1.2",
+  "summary": "Strands tools for AWS Bedrock AgentCore lifecycle management",
+  "author": "Cagatay Cali",
+  "license": "MIT",
+  "home_page": "https://github.com/cagataycali/strands-agentcore-tools",
+  "download_filename": "strands_agentcore_tools-0.1.2.tar.gz",
+  "download_time": "2025-11-14T07:57:13.564305",
+  "package_url": "https://pypi.org/project/strands-agentcore-tools/"
+}

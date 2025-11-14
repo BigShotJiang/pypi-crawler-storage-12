@@ -1,0 +1,11 @@
+{
+  "name": "libzim",
+  "version": "3.8.0",
+  "summary": "A python-facing API for creating and interacting with ZIM files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libzim-3.8.0.tar.gz",
+  "download_time": "2025-11-14T07:56:45.836307",
+  "package_url": "https://pypi.org/project/libzim/"
+}

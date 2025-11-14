@@ -1,11 +1,11 @@
 {
   "name": "afaanoromo-tokenizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tokenizer library for Afaan Oromo supporting Unigram, BPE, and WordPiece algorithms.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "afaanoromo_tokenizer-0.1.1.tar.gz",
-  "download_time": "2025-11-14T07:46:33.741898",
+  "download_filename": "afaanoromo_tokenizer-0.1.2.tar.gz",
+  "download_time": "2025-11-14T07:56:41.124521",
   "package_url": "https://pypi.org/project/afaanoromo-tokenizer/"
 }

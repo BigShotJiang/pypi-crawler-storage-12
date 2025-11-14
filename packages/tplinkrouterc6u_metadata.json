@@ -1,0 +1,11 @@
+{
+  "name": "tplinkrouterc6u",
+  "version": "5.12.0",
+  "summary": "TP-Link Router API (supports also Mercusys Router)",
+  "author": "Alex Erohin",
+  "license": null,
+  "home_page": "https://github.com/AlexandrErohin/TP-Link-Archer-C6U",
+  "download_filename": "tplinkrouterc6u-5.12.0.tar.gz",
+  "download_time": "2025-11-14T07:57:06.714090",
+  "package_url": "https://pypi.org/project/tplinkrouterc6u/"
+}

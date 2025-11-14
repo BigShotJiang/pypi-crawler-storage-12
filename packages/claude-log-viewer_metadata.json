@@ -1,0 +1,11 @@
+{
+  "name": "claude-log-viewer",
+  "version": "1.0.0",
+  "summary": "An interactive web-based viewer for Claude Code JSONL transcript files",
+  "author": "Indate",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_log_viewer-1.0.0.tar.gz",
+  "download_time": "2025-11-14T07:56:46.482430",
+  "package_url": "https://pypi.org/project/claude-log-viewer/"
+}
