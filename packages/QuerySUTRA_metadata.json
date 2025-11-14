@@ -1,11 +1,11 @@
 {
   "name": "QuerySUTRA",
-  "version": "0.2.0",
-  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture | AI-powered entity extraction from PDF/DOCX/TXT",
+  "version": "0.2.1",
+  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture - Creates multiple structured tables from ANY data",
   "author": "Aditya Batta",
-  "license": null,
-  "home_page": "https://github.com/adityabatta/QuerySUTRA",
-  "download_filename": "querysutra-0.2.0.tar.gz",
-  "download_time": "2025-11-14T19:41:33.094591",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/querysutra",
+  "download_filename": "querysutra-0.2.1.tar.gz",
+  "download_time": "2025-11-14T19:55:19.286353",
   "package_url": "https://pypi.org/project/QuerySUTRA/"
 }
