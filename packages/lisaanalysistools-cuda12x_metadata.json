@@ -1,11 +1,11 @@
 {
   "name": "lisaanalysistools-cuda12x",
-  "version": "1.1.9",
+  "version": "1.1.13",
   "summary": "A package for LISA Data Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lisaanalysistools_cuda12x-1.1.9-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-11-12T03:57:48.988294",
+  "download_filename": "lisaanalysistools_cuda12x-1.1.13-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-11-14T06:40:30.997972",
   "package_url": "https://pypi.org/project/lisaanalysistools-cuda12x/"
 }

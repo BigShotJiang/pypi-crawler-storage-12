@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-hunyuan",
+  "version": "3.0.1489",
+  "summary": "Tencent Cloud Hunyuan SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_hunyuan-3.0.1489.tar.gz",
+  "download_time": "2025-11-14T06:39:51.068466",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-hunyuan/"
+}

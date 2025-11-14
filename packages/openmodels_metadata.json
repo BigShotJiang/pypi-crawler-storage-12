@@ -1,0 +1,11 @@
+{
+  "name": "openmodels",
+  "version": "0.1.0a20",
+  "summary": "Export scikit-learn model files to JSON for sharing or deploying predictive models with peace of mind.",
+  "author": "Alejandro Gutierrez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openmodels-0.1.0a20.tar.gz",
+  "download_time": "2025-11-14T06:40:02.092130",
+  "package_url": "https://pypi.org/project/openmodels/"
+}

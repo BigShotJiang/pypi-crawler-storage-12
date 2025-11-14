@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-monitor",
+  "version": "3.0.1489",
+  "summary": "Tencent Cloud Monitor SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_monitor-3.0.1489.tar.gz",
+  "download_time": "2025-11-14T06:39:48.361427",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-monitor/"
+}

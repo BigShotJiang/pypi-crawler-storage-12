@@ -1,0 +1,11 @@
+{
+  "name": "semantic-rdf-mapper",
+  "version": "0.2.0",
+  "summary": "Convert tabular data (CSV, Excel, JSON, XML) to RDF triples aligned with OWL ontologies using SKOS-based semantic mapping",
+  "author": "Enterprise Data Engineering",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantic_rdf_mapper-0.2.0.tar.gz",
+  "download_time": "2025-11-14T06:40:23.739014",
+  "package_url": "https://pypi.org/project/semantic-rdf-mapper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bpy-helper",
+  "version": "0.0.10",
+  "summary": "A lightweight alternative to BlenderProc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpy_helper-0.0.10.tar.gz",
+  "download_time": "2025-11-14T06:40:16.227215",
+  "package_url": "https://pypi.org/project/bpy-helper/"
+}
