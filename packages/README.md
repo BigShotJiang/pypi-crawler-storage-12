@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T05:26:08.143138
+- **Download Time**: 2025-11-14T05:45:30.354561
 - **Total Packages**: 80
-- **Total Size**: 13.53 MB
+- **Total Size**: 0.37 MB
 
 ## Packages List
+- resume-generator-mcp
+- highway-dsl
+- tsugite
+- flux-local
+- doc-store
+- BoschRpaMagicBox
 - knp-mcp-excel
 - pulumi-artifactory
 - torchruntime
@@ -80,9 +86,3 @@
 - svc-infra
 - nbprint
 - accurate-benchmark
-- dinari-api-sdk
-- venvr
-- srx-lib-llm
-- mcp-semclone
-- mcp-commons
-- k-hhc

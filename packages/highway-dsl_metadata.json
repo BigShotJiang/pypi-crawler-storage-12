@@ -1,11 +1,11 @@
 {
   "name": "highway-dsl",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A stable domain specific language (DSL) for defining and managing data processing pipelines and workflow engines.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "highway_dsl-1.4.0.tar.gz",
-  "download_time": "2025-11-13T18:39:45.115495",
+  "download_filename": "highway_dsl-1.5.0.tar.gz",
+  "download_time": "2025-11-14T05:44:45.782485",
   "package_url": "https://pypi.org/project/highway-dsl/"
 }
