@@ -1,11 +1,11 @@
 {
   "name": "multi-demangle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A library to demangle symbols from various languages and compilers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "multi_demangle-1.0.0.tar.gz",
-  "download_time": "2025-11-14T14:25:39.292913",
+  "download_filename": "multi_demangle-1.0.1.tar.gz",
+  "download_time": "2025-11-14T16:59:37.483566",
   "package_url": "https://pypi.org/project/multi-demangle/"
 }

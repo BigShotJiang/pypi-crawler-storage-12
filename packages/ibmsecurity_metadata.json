@@ -1,0 +1,11 @@
+{
+  "name": "ibmsecurity",
+  "version": "2025.11.14.0",
+  "summary": "Idempotent functions for IBM Security Appliance REST APIs",
+  "author": "IBM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibmsecurity-2025.11.14.0.tar.gz",
+  "download_time": "2025-11-14T16:59:43.784619",
+  "package_url": "https://pypi.org/project/ibmsecurity/"
+}
