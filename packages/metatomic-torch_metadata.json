@@ -1,0 +1,11 @@
+{
+  "name": "metatomic-torch",
+  "version": "0.1.6",
+  "summary": "Interface between atomistic machine learning models and simulation tools",
+  "author": "Guillaume Fraux, Filippo Bigi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metatomic_torch-0.1.6.tar.gz",
+  "download_time": "2025-11-14T15:44:25.865575",
+  "package_url": "https://pypi.org/project/metatomic-torch/"
+}

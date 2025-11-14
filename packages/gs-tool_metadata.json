@@ -1,0 +1,11 @@
+{
+  "name": "gs-tool",
+  "version": "0.2.8",
+  "summary": "A tool for managing telemetry scripts",
+  "author": "Konyaev Semyon",
+  "license": null,
+  "home_page": "https://github.com/your-repo/gs_tool",
+  "download_filename": "gs_tool-0.2.8.tar.gz",
+  "download_time": "2025-11-14T15:44:21.745522",
+  "package_url": "https://pypi.org/project/gs-tool/"
+}

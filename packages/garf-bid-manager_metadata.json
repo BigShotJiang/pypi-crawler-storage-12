@@ -1,11 +1,11 @@
 {
   "name": "garf-bid-manager",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Garf implementation for Google Bid Manager API",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "garf_bid_manager-0.0.5.tar.gz",
-  "download_time": "2025-11-13T12:54:37.669216",
+  "download_filename": "garf_bid_manager-0.0.6.tar.gz",
+  "download_time": "2025-11-14T15:44:31.575749",
   "package_url": "https://pypi.org/project/garf-bid-manager/"
 }

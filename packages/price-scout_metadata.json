@@ -1,0 +1,11 @@
+{
+  "name": "price-scout",
+  "version": "0.8.5b1",
+  "summary": "Self-hosted price tracker with local data storage",
+  "author": "Robin Schulz",
+  "license": "MIT",
+  "home_page": "https://github.com/bulletinmybeard/price-scout",
+  "download_filename": "price_scout-0.8.5b1.tar.gz",
+  "download_time": "2025-11-14T15:44:37.544465",
+  "package_url": "https://pypi.org/project/price-scout/"
+}
