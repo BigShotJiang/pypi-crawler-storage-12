@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_subscription_disable_tokenization",
+  "version": "18.0.1.0.0",
+  "summary": "Do not force payment tokenization for order with subscriptions.",
+  "author": "Mint System GmbH",
+  "license": "OPL-1",
+  "home_page": "https://github.com/Mint-system/",
+  "download_filename": "odoo_addon_sale_subscription_disable_tokenization-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T09:31:53.092269",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_subscription_disable_tokenization/"
+}

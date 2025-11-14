@@ -1,11 +1,11 @@
 {
   "name": "smart-selfhealing-rbfw",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Self-healing test automation library for Robot Framework with AI-powered locator fixing",
   "author": "Hieu La",
   "license": "Apache-2.0",
   "home_page": "https://github.com/hieuld/smart-selfhealing-rbfw",
-  "download_filename": "smart_selfhealing_rbfw-0.1.1.tar.gz",
-  "download_time": "2025-11-14T04:54:54.728930",
+  "download_filename": "smart_selfhealing_rbfw-0.1.2.tar.gz",
+  "download_time": "2025-11-14T09:31:50.503973",
   "package_url": "https://pypi.org/project/smart-selfhealing-rbfw/"
 }

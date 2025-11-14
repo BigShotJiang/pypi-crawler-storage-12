@@ -1,0 +1,11 @@
+{
+  "name": "yyxxdata-warehouse-core",
+  "version": "0.1.2",
+  "summary": "数据处理核心库，提供数据库连接和Ibis数据处理能力",
+  "author": "Zeng Kaishin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yyxxdata_warehouse_core-0.1.2.tar.gz",
+  "download_time": "2025-11-14T09:31:32.654195",
+  "package_url": "https://pypi.org/project/yyxxdata-warehouse-core/"
+}

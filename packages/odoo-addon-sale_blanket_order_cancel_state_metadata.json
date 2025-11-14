@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_blanket_order_cancel_state",
+  "version": "16.0.1.0.0",
+  "summary": "Adds a cancel state to sale blanket order.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_blanket_order_cancel_state-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T09:32:07.172575",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_blanket_order_cancel_state/"
+}

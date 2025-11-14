@@ -1,0 +1,11 @@
+{
+  "name": "transifex-python",
+  "version": "3.7.0",
+  "summary": "Transifex Python Toolkit",
+  "author": "Transifex",
+  "license": null,
+  "home_page": "https://github.com/transifex/transifex-python",
+  "download_filename": "transifex_python-3.7.0.tar.gz",
+  "download_time": "2025-11-14T09:31:41.518245",
+  "package_url": "https://pypi.org/project/transifex-python/"
+}

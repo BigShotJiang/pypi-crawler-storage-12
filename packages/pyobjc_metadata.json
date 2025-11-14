@@ -1,0 +1,11 @@
+{
+  "name": "pyobjc",
+  "version": "12.1",
+  "summary": "Python<->ObjC Interoperability Module",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://github.com/ronaldoussoren/pyobjc",
+  "download_filename": "pyobjc-12.1-py3-none-any.whl",
+  "download_time": "2025-11-14T09:31:21.520840",
+  "package_url": "https://pypi.org/project/pyobjc/"
+}

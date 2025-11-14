@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_subscription_period_discount",
+  "version": "18.0.1.0.0",
+  "summary": "Apply discounts on subscription periods.",
+  "author": "Mint System GmbH",
+  "license": "OPL-1",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_subscription_period_discount-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-14T09:31:52.048151",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_subscription_period_discount/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chora-compose",
+  "version": "0.2.0",
+  "summary": "Content generation and orchestration capability server",
+  "author": "Victor Piper",
+  "license": "MIT",
+  "home_page": "https://github.com/liminalcommons/chora-compose",
+  "download_filename": "chora_compose-0.2.0.tar.gz",
+  "download_time": "2025-11-14T09:31:34.217001",
+  "package_url": "https://pypi.org/project/chora-compose/"
+}

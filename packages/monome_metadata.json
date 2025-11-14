@@ -1,0 +1,11 @@
+{
+  "name": "monome",
+  "version": "0.1.0",
+  "summary": "Synchronous I/O for monome devices",
+  "author": "Daniel Jones",
+  "license": null,
+  "home_page": "https://github.com/ideoforms/monome",
+  "download_filename": "monome-0.1.0.tar.gz",
+  "download_time": "2025-11-14T09:31:22.556846",
+  "package_url": "https://pypi.org/project/monome/"
+}
