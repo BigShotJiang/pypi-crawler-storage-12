@@ -1,0 +1,11 @@
+{
+  "name": "cicore-python",
+  "version": "0.0.2",
+  "summary": "A core utility library for daily Python tasks.",
+  "author": "地灯dideng",
+  "license": null,
+  "home_page": "https://github.com/bilibili-dideng/",
+  "download_filename": "cicore_python-0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-14T13:35:21.728833",
+  "package_url": "https://pypi.org/project/cicore-python/"
+}

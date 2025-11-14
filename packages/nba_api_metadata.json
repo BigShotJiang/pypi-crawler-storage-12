@@ -1,11 +1,11 @@
 {
   "name": "nba_api",
-  "version": "1.11.2",
+  "version": "1.11.3",
   "summary": "An API Client package to access the APIs for NBA.com",
   "author": "Swar Patel",
   "license": null,
   "home_page": "https://github.com/swar/nba_api",
-  "download_filename": "nba_api-1.11.2.tar.gz",
-  "download_time": "2025-11-12T21:54:55.999326",
+  "download_filename": "nba_api-1.11.3.tar.gz",
+  "download_time": "2025-11-14T13:35:04.918770",
   "package_url": "https://pypi.org/project/nba_api/"
 }

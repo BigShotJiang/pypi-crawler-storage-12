@@ -1,0 +1,11 @@
+{
+  "name": "go-or-no-go",
+  "version": "0.1.0a0",
+  "summary": "Pre-commit hooks to check that your contributions meet project guidelines and the mission to merge is good to go!",
+  "author": "Manoel Pereira de Queiroz",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/galactipy/go-no-go",
+  "download_filename": "go_or_no_go-0.1.0a0.tar.gz",
+  "download_time": "2025-11-14T13:35:10.718305",
+  "package_url": "https://pypi.org/project/go-or-no-go/"
+}
