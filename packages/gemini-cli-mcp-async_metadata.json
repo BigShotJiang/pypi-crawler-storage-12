@@ -1,0 +1,11 @@
+{
+  "name": "gemini-cli-mcp-async",
+  "version": "0.1.1",
+  "summary": "Async wrapper for Gemini CLI to enable parallel task execution in Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemini_cli_mcp_async-0.1.1.tar.gz",
+  "download_time": "2025-11-14T01:56:39.035406",
+  "package_url": "https://pypi.org/project/gemini-cli-mcp-async/"
+}

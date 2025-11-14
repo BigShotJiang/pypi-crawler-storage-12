@@ -1,0 +1,11 @@
+{
+  "name": "codex-mcp-async",
+  "version": "0.2.1",
+  "summary": "Asynchronous MCP wrapper for OpenAI Codex CLI with context filtering",
+  "author": "jeanchristophe13v",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_mcp_async-0.2.1.tar.gz",
+  "download_time": "2025-11-14T01:56:40.608218",
+  "package_url": "https://pypi.org/project/codex-mcp-async/"
+}

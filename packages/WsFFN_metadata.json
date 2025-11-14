@@ -1,0 +1,11 @@
+{
+  "name": "WsFFN",
+  "version": "0.0.1a1",
+  "summary": "World-Structured Feed-Forward Network: A novel FFN architecture with multi-head latent representations for language models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsffn-0.0.1a1.tar.gz",
+  "download_time": "2025-11-14T01:57:09.765543",
+  "package_url": "https://pypi.org/project/WsFFN/"
+}

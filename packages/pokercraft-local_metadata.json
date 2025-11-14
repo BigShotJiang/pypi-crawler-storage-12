@@ -1,0 +1,11 @@
+{
+  "name": "pokercraft-local",
+  "version": "2.2.0",
+  "summary": "Local analysis tool for Pokercraft in GGNetwork",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pokercraft_local-2.2.0.tar.gz",
+  "download_time": "2025-11-14T01:56:46.533798",
+  "package_url": "https://pypi.org/project/pokercraft-local/"
+}

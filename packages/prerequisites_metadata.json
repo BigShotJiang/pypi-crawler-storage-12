@@ -1,0 +1,11 @@
+{
+  "name": "prerequisites",
+  "version": "1.0.4",
+  "summary": "Prerequisite functions to help and assert inputs and outputs condition and type",
+  "author": "SamuelNLP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prerequisites-1.0.4.tar.gz",
+  "download_time": "2025-11-14T01:56:44.438441",
+  "package_url": "https://pypi.org/project/prerequisites/"
+}

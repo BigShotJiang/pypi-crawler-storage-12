@@ -1,0 +1,11 @@
+{
+  "name": "campo-estatico-mdf-maria",
+  "version": "0.1.1",
+  "summary": "Solución de la ecuación de Laplace en 2D usando el Método de Diferencias Finitas",
+  "author": "Maria Moreno , Sebastian Sanchez",
+  "license": null,
+  "home_page": "https://almarm-r.github.io/campo_estatico_mdf/introduccion.html",
+  "download_filename": "campo_estatico_mdf_maria-0.1.1.tar.gz",
+  "download_time": "2025-11-14T01:57:05.586787",
+  "package_url": "https://pypi.org/project/campo-estatico-mdf-maria/"
+}

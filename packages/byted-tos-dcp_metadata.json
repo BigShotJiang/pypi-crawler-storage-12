@@ -1,0 +1,11 @@
+{
+  "name": "byted-tos-dcp",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_tos_dcp",
+  "download_filename": "byted_tos_dcp-0.0.1.tar.gz",
+  "download_time": "2025-11-14T01:56:56.694254",
+  "package_url": "https://pypi.org/project/byted-tos-dcp/"
+}
