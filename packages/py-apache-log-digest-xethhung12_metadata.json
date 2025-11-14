@@ -1,11 +1,11 @@
 {
   "name": "py-apache-log-digest-xethhung12",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A small package targeting to help on python project packaging process",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_apache_log_digest_xethhung12-0.0.1.tar.gz",
-  "download_time": "2025-11-13T05:46:09.426700",
+  "download_filename": "py_apache_log_digest_xethhung12-0.0.2.tar.gz",
+  "download_time": "2025-11-14T07:00:18.482855",
   "package_url": "https://pypi.org/project/py-apache-log-digest-xethhung12/"
 }

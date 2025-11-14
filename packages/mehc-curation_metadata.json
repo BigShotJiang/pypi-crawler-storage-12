@@ -1,0 +1,11 @@
+{
+  "name": "mehc-curation",
+  "version": "1.0.5",
+  "summary": "A comprehensive toolkit for molecular data curation, validation, cleaning, and normalization",
+  "author": "Thanh-Hoang Nguyen-Vo",
+  "license": "MIT",
+  "home_page": "https://github.com/biochem-data-sci/mehc-curation",
+  "download_filename": "mehc_curation-1.0.5.tar.gz",
+  "download_time": "2025-11-14T07:00:13.839356",
+  "package_url": "https://pypi.org/project/mehc-curation/"
+}
