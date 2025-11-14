@@ -1,0 +1,11 @@
+{
+  "name": "tankoh2",
+  "version": "2.8.1",
+  "summary": "Design and optimization of H2 tanks for high pressure applications and cryogenic hydrogen storage",
+  "author": "Sebastian Freund",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tankoh2-2.8.1.tar.gz",
+  "download_time": "2025-11-14T11:54:46.922454",
+  "package_url": "https://pypi.org/project/tankoh2/"
+}

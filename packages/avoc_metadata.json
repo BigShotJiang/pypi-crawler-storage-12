@@ -1,11 +1,11 @@
 {
   "name": "avoc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Voice changer for desktop",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avoc-0.1.0.tar.gz",
-  "download_time": "2025-11-13T08:36:03.481415",
+  "download_filename": "avoc-0.1.1.tar.gz",
+  "download_time": "2025-11-14T11:54:51.340639",
   "package_url": "https://pypi.org/project/avoc/"
 }

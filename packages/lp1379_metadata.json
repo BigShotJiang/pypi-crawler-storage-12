@@ -1,0 +1,11 @@
+{
+  "name": "lp1379",
+  "version": "0.0.0",
+  "summary": "A common framework to analyse multi-modal single-cell data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lp1379-0.0.0-cp314-cp314-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-11-14T11:54:24.120875",
+  "package_url": "https://pypi.org/project/lp1379/"
+}

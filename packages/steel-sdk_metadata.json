@@ -1,0 +1,11 @@
+{
+  "name": "steel-sdk",
+  "version": "0.14.0",
+  "summary": "The official Python library for the steel API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "steel_sdk-0.14.0.tar.gz",
+  "download_time": "2025-11-14T11:54:52.629732",
+  "package_url": "https://pypi.org/project/steel-sdk/"
+}

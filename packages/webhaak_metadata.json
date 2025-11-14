@@ -1,0 +1,11 @@
+{
+  "name": "webhaak",
+  "version": "0.6.0",
+  "summary": "Simple webhook service to update and deploy sites and do other maintenance and automatic tasks",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "webhaak-0.6.0.tar.gz",
+  "download_time": "2025-11-14T11:54:50.700559",
+  "package_url": "https://pypi.org/project/webhaak/"
+}
