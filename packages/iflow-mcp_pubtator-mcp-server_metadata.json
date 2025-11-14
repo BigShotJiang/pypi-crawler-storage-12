@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_pubtator-mcp-server",
+  "version": "0.1.1",
+  "summary": "A biomedical literature annotation and relationship mining server based on PubTator3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_pubtator_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-11-14T03:59:14.132445",
+  "package_url": "https://pypi.org/project/iflow-mcp_pubtator-mcp-server/"
+}

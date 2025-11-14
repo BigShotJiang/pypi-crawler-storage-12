@@ -1,0 +1,11 @@
+{
+  "name": "jaxhps",
+  "version": "0.2",
+  "summary": "An elliptic PDE solver built with machine learning in mind",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxhps-0.2.tar.gz",
+  "download_time": "2025-11-14T03:59:02.694151",
+  "package_url": "https://pypi.org/project/jaxhps/"
+}

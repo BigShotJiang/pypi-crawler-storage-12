@@ -1,0 +1,11 @@
+{
+  "name": "pritunl-webclient",
+  "version": "0.1.0",
+  "summary": "Modern Python client for Pritunl Web API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pritunl_webclient-0.1.0.tar.gz",
+  "download_time": "2025-11-14T03:58:59.082829",
+  "package_url": "https://pypi.org/project/pritunl-webclient/"
+}

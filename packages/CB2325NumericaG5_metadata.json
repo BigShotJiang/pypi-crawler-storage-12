@@ -1,11 +1,11 @@
 {
   "name": "CB2325NumericaG5",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Biblioteca de cálculo numérico, contendo funcionalidades clássicas de análise numérica e recursos gráficos para visualização de resultados.",
   "author": "Amon Vanderlei, André Oliveira, Carlos Santos, Davi Campos, Felipe Frohlich, Gabriel Dias, Lisandra Fagundes, Lucas Corazza, Lucas Oliveira, Nicole Freire",
   "license": null,
   "home_page": null,
-  "download_filename": "cb2325numericag5-0.0.3.tar.gz",
-  "download_time": "2025-11-11T23:22:38.049744",
+  "download_filename": "cb2325numericag5-0.0.4.tar.gz",
+  "download_time": "2025-11-14T03:59:01.655280",
   "package_url": "https://pypi.org/project/CB2325NumericaG5/"
 }

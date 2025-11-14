@@ -1,11 +1,11 @@
 {
   "name": "iflow-mcp_youtube-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "YouTube MCP Server for video analysis with Gemini AI",
   "author": "Prajwal-ak-0",
   "license": "MIT",
   "home_page": "https://github.com/Prajwal-ak-0/youtube-mcp",
-  "download_filename": "iflow_mcp_youtube_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-12T01:55:09.528377",
+  "download_filename": "iflow_mcp_youtube_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-14T03:59:10.519356",
   "package_url": "https://pypi.org/project/iflow-mcp_youtube-mcp/"
 }

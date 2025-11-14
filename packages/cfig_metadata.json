@@ -1,0 +1,11 @@
+{
+  "name": "cfig",
+  "version": "0.3.10",
+  "summary": "A configuration manager for Python",
+  "author": "Stefano Pigozzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfig-0.3.10.tar.gz",
+  "download_time": "2025-11-14T03:58:50.793245",
+  "package_url": "https://pypi.org/project/cfig/"
+}

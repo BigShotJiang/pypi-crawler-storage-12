@@ -1,0 +1,11 @@
+{
+  "name": "Amara",
+  "version": "4.0.2",
+  "summary": "General-purpose web data processing library with IRI handling and MicroXML/XML processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amara-4.0.2.tar.gz",
+  "download_time": "2025-11-14T03:59:05.892291",
+  "package_url": "https://pypi.org/project/Amara/"
+}

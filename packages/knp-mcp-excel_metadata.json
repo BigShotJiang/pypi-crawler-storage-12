@@ -1,0 +1,11 @@
+{
+  "name": "knp-mcp-excel",
+  "version": "0.0.2",
+  "summary": "Excel MCP Server for manipulating Excel files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knp_mcp_excel-0.0.2.tar.gz",
+  "download_time": "2025-11-14T03:58:44.592338",
+  "package_url": "https://pypi.org/project/knp-mcp-excel/"
+}

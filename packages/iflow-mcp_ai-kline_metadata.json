@@ -1,11 +1,11 @@
 {
   "name": "iflow-mcp_ai-kline",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A股技术分析与AI预测工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iflow_mcp_ai_kline-0.1.0.tar.gz",
-  "download_time": "2025-11-12T03:16:44.772999",
+  "download_filename": "iflow_mcp_ai_kline-0.1.2.tar.gz",
+  "download_time": "2025-11-14T03:59:05.378650",
   "package_url": "https://pypi.org/project/iflow-mcp_ai-kline/"
 }

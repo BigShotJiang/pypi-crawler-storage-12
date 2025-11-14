@@ -1,0 +1,11 @@
+{
+  "name": "DateTimeRange",
+  "version": "2.3.2",
+  "summary": "DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, and so forth.",
+  "author": "Tsuyoshi Hombashi",
+  "license": "MIT License",
+  "home_page": "https://github.com/thombashi/DateTimeRange",
+  "download_filename": "datetimerange-2.3.2.tar.gz",
+  "download_time": "2025-11-14T03:59:17.861020",
+  "package_url": "https://pypi.org/project/DateTimeRange/"
+}
