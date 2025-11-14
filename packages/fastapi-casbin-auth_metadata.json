@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-casbin-auth",
+  "version": "1.5.0",
+  "summary": "An authorization middleware for FastAPI that supports ACL, RBAC, ABAC, based on PyCasbin",
+  "author": "Casbin",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/officialpycasbin/fastapi-casbin-auth",
+  "download_filename": "fastapi_casbin_auth-1.5.0.tar.gz",
+  "download_time": "2025-11-14T14:25:45.033074",
+  "package_url": "https://pypi.org/project/fastapi-casbin-auth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bambu-printer-manager",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A pure python library for managing Bambu Labs printers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bambu_printer_manager-0.5.0.tar.gz",
-  "download_time": "2025-11-12T19:23:31.924803",
+  "download_filename": "bambu_printer_manager-0.5.1.tar.gz",
+  "download_time": "2025-11-14T14:25:42.958732",
   "package_url": "https://pypi.org/project/bambu-printer-manager/"
 }

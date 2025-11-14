@@ -1,0 +1,11 @@
+{
+  "name": "mStock-TradingApi-B",
+  "version": "1.0.5",
+  "summary": "A Python SDK for Connecting to mStock Trading API and Streaming API",
+  "author": "Mirae Asset Capital Markets (India) Private Limited",
+  "license": null,
+  "home_page": "https://github.com/MiraeAsset-mStock/pytradingapi-typeB",
+  "download_filename": "mstock_tradingapi_b-1.0.5.tar.gz",
+  "download_time": "2025-11-14T14:25:30.405950",
+  "package_url": "https://pypi.org/project/mStock-TradingApi-B/"
+}

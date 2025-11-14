@@ -1,0 +1,11 @@
+{
+  "name": "limitless-tools",
+  "version": "0.1.0",
+  "summary": "Library and CLI to fetch Limitless lifelogs and store locally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limitless_tools-0.1.0.tar.gz",
+  "download_time": "2025-11-14T14:26:02.334884",
+  "package_url": "https://pypi.org/project/limitless-tools/"
+}

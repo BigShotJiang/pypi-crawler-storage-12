@@ -1,11 +1,11 @@
 {
   "name": "multineuronchat",
-  "version": "2025.11.11",
+  "version": "2025.11.14",
   "summary": "MultiNeuronChat is a Python library for inferring condition‑related changes in synaptic cell‑cell communication from scRNA-/snRNA-Seq datasets in case vs control study designs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multineuronchat-2025.11.11.tar.gz",
-  "download_time": "2025-11-11T16:36:44.094730",
+  "download_filename": "multineuronchat-2025.11.14.tar.gz",
+  "download_time": "2025-11-14T14:25:34.564355",
   "package_url": "https://pypi.org/project/multineuronchat/"
 }

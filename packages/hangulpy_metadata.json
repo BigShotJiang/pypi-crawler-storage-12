@@ -1,0 +1,11 @@
+{
+  "name": "hangulpy",
+  "version": "1.3.0",
+  "summary": "A comprehensive Python library for Korean language processing, inspired by es-hangul",
+  "author": "Jeong Gaon",
+  "license": "MIT",
+  "home_page": "https://github.com/gaon12/hangulpy",
+  "download_filename": "hangulpy-1.3.0.tar.gz",
+  "download_time": "2025-11-14T14:25:46.070499",
+  "package_url": "https://pypi.org/project/hangulpy/"
+}

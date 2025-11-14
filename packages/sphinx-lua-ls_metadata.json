@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-lua-ls",
+  "version": "3.7.0.post1",
+  "summary": "Automatic documentation generation via EmmyLua/LuaLs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_lua_ls-3.7.0.post1.tar.gz",
+  "download_time": "2025-11-14T14:25:52.851212",
+  "package_url": "https://pypi.org/project/sphinx-lua-ls/"
+}

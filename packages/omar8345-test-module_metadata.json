@@ -1,11 +1,11 @@
 {
   "name": "omar8345-test-module",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Throwaway package for GitHub Workflow Testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omar8345_test_module-0.0.2.tar.gz",
-  "download_time": "2025-11-14T13:35:15.433794",
+  "download_filename": "omar8345_test_module-0.0.5.tar.gz",
+  "download_time": "2025-11-14T14:25:59.663541",
   "package_url": "https://pypi.org/project/omar8345-test-module/"
 }

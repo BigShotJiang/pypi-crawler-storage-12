@@ -1,0 +1,11 @@
+{
+  "name": "afwizard",
+  "version": "1.0.1",
+  "summary": "Adaptive Filtering Wizard",
+  "author": "Dominic Kempf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "afwizard-1.0.1.tar.gz",
+  "download_time": "2025-11-14T14:25:41.904826",
+  "package_url": "https://pypi.org/project/afwizard/"
+}

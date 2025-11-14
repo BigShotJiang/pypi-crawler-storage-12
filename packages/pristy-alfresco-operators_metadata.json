@@ -1,11 +1,11 @@
 {
   "name": "pristy-alfresco-operators",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "Alfresco Operators for Pristy",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pristy_alfresco_operators-0.7.5.tar.gz",
-  "download_time": "2025-11-14T13:35:38.098679",
+  "download_filename": "pristy_alfresco_operators-0.7.6.tar.gz",
+  "download_time": "2025-11-14T14:25:50.260969",
   "package_url": "https://pypi.org/project/pristy-alfresco-operators/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "umite",
+  "version": "0.1.0",
+  "summary": "UMI counting tool for SmartSeq3 libraries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umite-0.1.0.tar.gz",
+  "download_time": "2025-11-14T14:26:05.988849",
+  "package_url": "https://pypi.org/project/umite/"
+}
