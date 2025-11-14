@@ -1,0 +1,11 @@
+{
+  "name": "fps-nbconvert",
+  "version": "0.9.4",
+  "summary": "An FPS plugin for the nbconvert API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_nbconvert-0.9.4.tar.gz",
+  "download_time": "2025-11-14T14:45:09.062171",
+  "package_url": "https://pypi.org/project/fps-nbconvert/"
+}

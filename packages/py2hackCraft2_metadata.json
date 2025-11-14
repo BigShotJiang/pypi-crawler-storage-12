@@ -1,11 +1,11 @@
 {
   "name": "py2hackCraft2",
-  "version": "1.1.43",
+  "version": "1.1.44",
   "summary": "Python client library for hackCraft2",
   "author": "masafumi_t",
   "license": null,
   "home_page": "https://github.com/0x48lab/hackCraft2-python",
-  "download_filename": "py2hackcraft2-1.1.43.tar.gz",
-  "download_time": "2025-11-12T23:42:26.877692",
+  "download_filename": "py2hackcraft2-1.1.44.tar.gz",
+  "download_time": "2025-11-14T14:44:51.385076",
   "package_url": "https://pypi.org/project/py2hackCraft2/"
 }

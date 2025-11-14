@@ -1,11 +1,11 @@
 {
   "name": "mmar-llm",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "llm wrappers for multimodal architectures team",
   "author": "Eugene Tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_llm-1.1.2.tar.gz",
-  "download_time": "2025-11-14T11:54:47.557051",
+  "download_filename": "mmar_llm-1.1.3.tar.gz",
+  "download_time": "2025-11-14T14:45:23.990446",
   "package_url": "https://pypi.org/project/mmar-llm/"
 }

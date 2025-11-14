@@ -1,0 +1,11 @@
+{
+  "name": "centrifuge-python",
+  "version": "0.4.2",
+  "summary": "WebSocket SDK for Centrifugo (and any Centrifuge-based server) on top of Python asyncio library",
+  "author": "Alexander Emelin (Centrifugal Labs LTD), Katant Savelev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "centrifuge_python-0.4.2.tar.gz",
+  "download_time": "2025-11-14T14:44:57.584117",
+  "package_url": "https://pypi.org/project/centrifuge-python/"
+}

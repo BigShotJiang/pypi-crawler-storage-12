@@ -1,0 +1,11 @@
+{
+  "name": "fps-auth-fief",
+  "version": "0.9.5",
+  "summary": "An FPS plugin for the authentication API, using Fief",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_auth_fief-0.9.5.tar.gz",
+  "download_time": "2025-11-14T14:45:15.788464",
+  "package_url": "https://pypi.org/project/fps-auth-fief/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fps-kernels",
+  "version": "0.10.6",
+  "summary": "An FPS plugin for the kernels API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_kernels-0.10.6.tar.gz",
+  "download_time": "2025-11-14T14:45:10.611545",
+  "package_url": "https://pypi.org/project/fps-kernels/"
+}

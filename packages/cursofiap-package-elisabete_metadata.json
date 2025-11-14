@@ -1,0 +1,11 @@
+{
+  "name": "cursofiap-package-elisabete",
+  "version": "1.0.0",
+  "summary": "Descricao da sua lib cursofiap",
+  "author": "Elisabete Xavier",
+  "license": "MIT",
+  "home_page": "https://github.com/tadrianonet/cursofiap",
+  "download_filename": "cursofiap_package_elisabete-1.0.0.tar.gz",
+  "download_time": "2025-11-14T14:44:50.279104",
+  "package_url": "https://pypi.org/project/cursofiap-package-elisabete/"
+}

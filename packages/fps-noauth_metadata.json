@@ -1,0 +1,11 @@
+{
+  "name": "fps-noauth",
+  "version": "0.9.5",
+  "summary": "An FPS plugin for an unprotected API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_noauth-0.9.5.tar.gz",
+  "download_time": "2025-11-14T14:45:08.550425",
+  "package_url": "https://pypi.org/project/fps-noauth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fps-contents",
+  "version": "0.10.4",
+  "summary": "An FPS plugin for the contents API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_contents-0.10.4.tar.gz",
+  "download_time": "2025-11-14T14:45:14.697574",
+  "package_url": "https://pypi.org/project/fps-contents/"
+}

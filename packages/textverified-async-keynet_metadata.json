@@ -1,0 +1,11 @@
+{
+  "name": "textverified-async-keynet",
+  "version": "0.0.3",
+  "summary": "A simple asynchronous Python API client for working with the Textverified REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textverified_async_keynet-0.0.3.tar.gz",
+  "download_time": "2025-11-14T14:44:49.115599",
+  "package_url": "https://pypi.org/project/textverified-async-keynet/"
+}

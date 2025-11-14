@@ -1,0 +1,11 @@
+{
+  "name": "ornl-wasp",
+  "version": "4.4.0",
+  "summary": "Workbench Analysis Sequence Processor 4.4.0",
+  "author": "Shane Henderson, Robert A. Lefebvre, Brandon R. Langley",
+  "license": null,
+  "home_page": "https://code.ornl.gov/neams-workbench/wasp",
+  "download_filename": "ornl_wasp-4.4.0-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-14T14:45:03.259395",
+  "package_url": "https://pypi.org/project/ornl-wasp/"
+}
