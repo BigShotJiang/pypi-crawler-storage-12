@@ -1,11 +1,11 @@
 {
   "name": "migrator-cli",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Universal migration CLI for Python apps",
-  "author": "Peter Adelodun",
-  "license": null,
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "migrator_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-11T16:57:54.916244",
+  "download_filename": "migrator_cli-0.3.0.tar.gz",
+  "download_time": "2025-11-14T10:48:34.657338",
   "package_url": "https://pypi.org/project/migrator-cli/"
 }

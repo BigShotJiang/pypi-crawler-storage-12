@@ -1,0 +1,11 @@
+{
+  "name": "django-icons",
+  "version": "25.3",
+  "summary": "Icons for Django",
+  "author": "Dylan Verheul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_icons-25.3.tar.gz",
+  "download_time": "2025-11-14T10:48:21.331905",
+  "package_url": "https://pypi.org/project/django-icons/"
+}

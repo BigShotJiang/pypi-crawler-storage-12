@@ -1,0 +1,11 @@
+{
+  "name": "commonground-api-common",
+  "version": "2.10.5",
+  "summary": "Commonground API tooling",
+  "author": "Maykin Media, VNG-Realisatie",
+  "license": "EUPL 1.2",
+  "home_page": "https://github.com/maykinmedia/commonground-api-common",
+  "download_filename": "commonground_api_common-2.10.5.tar.gz",
+  "download_time": "2025-11-14T10:48:50.284343",
+  "package_url": "https://pypi.org/project/commonground-api-common/"
+}

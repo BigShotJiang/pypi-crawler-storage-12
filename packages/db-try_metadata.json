@@ -1,0 +1,11 @@
+{
+  "name": "db-try",
+  "version": "0.2.2",
+  "summary": "PostgreSQL and SQLAlchemy Tools",
+  "author": "community-of-python",
+  "license": null,
+  "home_page": null,
+  "download_filename": "db_try-0.2.2.tar.gz",
+  "download_time": "2025-11-14T10:48:26.040770",
+  "package_url": "https://pypi.org/project/db-try/"
+}
