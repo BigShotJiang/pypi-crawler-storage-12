@@ -1,0 +1,11 @@
+{
+  "name": "gridio",
+  "version": "1.0.5",
+  "summary": "Rust-powered TextGrid parsing for Python with high performance APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gridio-1.0.5.tar.gz",
+  "download_time": "2025-11-14T13:54:42.569485",
+  "package_url": "https://pypi.org/project/gridio/"
+}

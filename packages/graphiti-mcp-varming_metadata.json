@@ -1,11 +1,11 @@
 {
   "name": "graphiti-mcp-varming",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Graphiti MCP Server - Enhanced fork with additional tools by Varming",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "graphiti_mcp_varming-1.0.5.tar.gz",
-  "download_time": "2025-11-10T11:20:57.706360",
+  "download_filename": "graphiti_mcp_varming-1.0.6.tar.gz",
+  "download_time": "2025-11-14T13:55:12.584202",
   "package_url": "https://pypi.org/project/graphiti-mcp-varming/"
 }

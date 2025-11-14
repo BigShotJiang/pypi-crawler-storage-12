@@ -1,0 +1,11 @@
+{
+  "name": "python-automationshield",
+  "version": "1.2.1",
+  "summary": "A Python interface to AutomationShield's Arduino shields",
+  "author": "Bert Van den Abbeele",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/mrtreasurer/python-automationshield",
+  "download_filename": "python_automationshield-1.2.1.tar.gz",
+  "download_time": "2025-11-14T13:54:34.741737",
+  "package_url": "https://pypi.org/project/python-automationshield/"
+}

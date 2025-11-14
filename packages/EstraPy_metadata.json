@@ -1,0 +1,11 @@
+{
+  "name": "EstraPy",
+  "version": "1.0.4",
+  "summary": "An input-file oriented EXAFS analysis toolbox",
+  "author": "Marco Stecca, Carlo Meneghini, Paolo Centomo",
+  "license": "MIT License",
+  "home_page": "https://github.com/ramsteak/estrapy",
+  "download_filename": "estrapy-1.0.4.tar.gz",
+  "download_time": "2025-11-14T13:54:58.902506",
+  "package_url": "https://pypi.org/project/EstraPy/"
+}

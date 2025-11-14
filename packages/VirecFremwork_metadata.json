@@ -1,11 +1,11 @@
 {
   "name": "VirecFremwork",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": "Validate our data",
   "author": "Sumit Zala",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "virecfremwork-0.2.11.tar.gz",
-  "download_time": "2025-11-14T13:35:01.728718",
+  "download_filename": "virecfremwork-0.2.13.tar.gz",
+  "download_time": "2025-11-14T13:54:33.701686",
   "package_url": "https://pypi.org/project/VirecFremwork/"
 }

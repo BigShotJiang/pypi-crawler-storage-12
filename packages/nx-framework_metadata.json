@@ -1,0 +1,11 @@
+{
+  "name": "nx-framework",
+  "version": "0.0.4",
+  "summary": "Low-level FastAPI, asyncpg and Redis framework used by Nebula Broadcast and other projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nx_framework-0.0.4.tar.gz",
+  "download_time": "2025-11-14T13:55:04.125270",
+  "package_url": "https://pypi.org/project/nx-framework/"
+}

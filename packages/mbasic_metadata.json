@@ -1,11 +1,11 @@
 {
   "name": "mbasic",
-  "version": "1.0.0b5",
+  "version": "1.0.0",
   "summary": "MBASIC2025 5.21 BASIC language - Independent open-source implementation",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mbasic-1.0.0b5.tar.gz",
-  "download_time": "2025-11-13T21:40:18.774208",
+  "download_filename": "mbasic-1.0.0.tar.gz",
+  "download_time": "2025-11-14T13:55:12.059370",
   "package_url": "https://pypi.org/project/mbasic/"
 }

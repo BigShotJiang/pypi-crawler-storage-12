@@ -1,0 +1,11 @@
+{
+  "name": "mini-ipfabric",
+  "version": "7.5.0",
+  "summary": "Mini Python package for interacting with IP Fabric using requests.",
+  "author": "Solution Architecture",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/ip-fabric/integrations/mini-ipfabric",
+  "download_filename": "mini_ipfabric-7.5.0.tar.gz",
+  "download_time": "2025-11-14T13:55:06.260181",
+  "package_url": "https://pypi.org/project/mini-ipfabric/"
+}

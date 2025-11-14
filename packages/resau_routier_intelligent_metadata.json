@@ -1,0 +1,11 @@
+{
+  "name": "resau_routier_intelligent",
+  "version": "0.2.0",
+  "summary": "Un package Python pour la modélisation et la gestion d'un réseau routier intelligent.",
+  "author": "Ahmed BenLazreg",
+  "license": "MIT",
+  "home_page": "https://github.com/BenLazregAhmed/resau_routier_intelligent",
+  "download_filename": "resau_routier_intelligent-0.2.0.tar.gz",
+  "download_time": "2025-11-14T13:54:48.363935",
+  "package_url": "https://pypi.org/project/resau_routier_intelligent/"
+}
