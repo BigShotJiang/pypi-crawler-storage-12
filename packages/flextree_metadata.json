@@ -1,11 +1,11 @@
 {
   "name": "flextree",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "FlexTree - A flexible and intuitive Python library for creating and manipulating tree data structures",
   "author": "Zhenning Zhao",
   "license": "MIT",
   "home_page": "https://github.com/znzhao/flextree",
-  "download_filename": "flextree-0.3.1.tar.gz",
-  "download_time": "2025-11-14T01:56:43.774131",
+  "download_filename": "flextree-0.3.2.tar.gz",
+  "download_time": "2025-11-14T03:18:50.328703",
   "package_url": "https://pypi.org/project/flextree/"
 }

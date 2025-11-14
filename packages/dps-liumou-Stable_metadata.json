@@ -1,0 +1,11 @@
+{
+  "name": "dps-liumou-Stable",
+  "version": "1.1.0",
+  "summary": "智能Docker镜像拉取工具 - 自动选择最优镜像源",
+  "author": "坐公交也用券",
+  "license": "MIT",
+  "home_page": "https://gitee.com/liumou/dps_liumou_Stable",
+  "download_filename": "dps_liumou_stable-1.1.0.tar.gz",
+  "download_time": "2025-11-14T03:18:59.241923",
+  "package_url": "https://pypi.org/project/dps-liumou-Stable/"
+}

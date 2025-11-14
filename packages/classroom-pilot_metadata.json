@@ -1,0 +1,11 @@
+{
+  "name": "classroom-pilot",
+  "version": "3.1.1b2",
+  "summary": "Modern Python CLI for automating GitHub Classroom assignment management",
+  "author": "Hugo Valle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "classroom_pilot-3.1.1b2.tar.gz",
+  "download_time": "2025-11-14T03:18:54.978780",
+  "package_url": "https://pypi.org/project/classroom-pilot/"
+}

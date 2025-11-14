@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-manosoba-reply-generator",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "a reply img generator for the game manosoba",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_manosoba_reply_generator-0.1.0.tar.gz",
-  "download_time": "2025-11-13T07:56:59.182032",
+  "download_filename": "nonebot_plugin_manosoba_reply_generator-0.1.4.tar.gz",
+  "download_time": "2025-11-14T03:18:23.890218",
   "package_url": "https://pypi.org/project/nonebot-plugin-manosoba-reply-generator/"
 }

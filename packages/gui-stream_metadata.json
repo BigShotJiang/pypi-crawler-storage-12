@@ -1,0 +1,11 @@
+{
+  "name": "gui-stream",
+  "version": "2.3.3",
+  "summary": "Interface gráfica para conversão de documentos e extraão de texto com ocr.",
+  "author": "Bruno Chaves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gui_stream-2.3.3.tar.gz",
+  "download_time": "2025-11-14T03:18:47.180133",
+  "package_url": "https://pypi.org/project/gui-stream/"
+}
