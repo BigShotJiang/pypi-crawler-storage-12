@@ -1,0 +1,11 @@
+{
+  "name": "python-cmethods",
+  "version": "2.3.2",
+  "summary": "A collection of bias correction techniques written in Python - for climate sciences.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_cmethods-2.3.2.tar.gz",
+  "download_time": "2025-11-14T05:57:25.648052",
+  "package_url": "https://pypi.org/project/python-cmethods/"
+}

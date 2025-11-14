@@ -1,11 +1,11 @@
 {
   "name": "quash-mcp",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "Model Context Protocol server for Quash - AI-powered mobile automation agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quash_mcp-0.3.8.tar.gz",
-  "download_time": "2025-11-13T09:53:56.283063",
+  "download_filename": "quash_mcp-0.3.9.tar.gz",
+  "download_time": "2025-11-14T05:57:22.031005",
   "package_url": "https://pypi.org/project/quash-mcp/"
 }

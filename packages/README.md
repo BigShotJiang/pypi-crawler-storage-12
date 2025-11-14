@@ -1,13 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T05:45:30.354561
-- **Total Packages**: 80
-- **Total Size**: 0.37 MB
+- **Download Time**: 2025-11-14T05:58:00.050479
+- **Total Packages**: 79
+- **Total Size**: 23.19 MB
 
 ## Packages List
-- resume-generator-mcp
+- robhan-cdk-lib.aws-grafana
+- htsdk
+- DicomToolsForMCP
 - highway-dsl
+- mups
+- appm
+- edupsyadmin
+- quash-mcp
+- pulumi-dbtcloud
+- orq-ai-sdk
+- robhan-cdk-lib.aws-aps
+- hydromodel
+- robot-retarget
+- python-cmethods
+- yeref
+- streamlit-float
+- robhan-cdk-lib.aws-mwaa
+- django-spire
+- miniflux-tui-py
+- synthetic-home
+- odoo-addon-web-ir-actions-act-window-message
+- cli-standard-kit
+- zym-dataset-up
+- sodas-legacy
+- llmling-agent
+- assisted-service-client
+- neo-data-svc
+- AutoRAG
+- zarrnii
+- phenomate-core
+- osdu-perf
+- dco
+- resume-generator-mcp
+- molass-legacy
+- dify_plugin
+- generalanalysis
+- dbt-risingwave
+- iowarp-core
+- all-in-one-fix
+- mooring-data-generator
 - tsugite
 - flux-local
 - doc-store
@@ -47,42 +85,3 @@
 - wink-sdk-affiliate
 - momentoai
 - testcontainers
-- fittings
-- typepyx
-- sutro
-- treeline-money
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- trip-pay-payment
-- sagemaker-studio
-- ailangpy
-- agent-synapse
-- sj-sync
-- py-mavlink-dji
-- pyjiit
-- valid8r
-- rhinotype
-- ciit-lesson-plan
-- cracknuts
-- wyn360-cli
-- kiso
-- blend2d-py
-- yeref
-- pyDiffTools
-- veriq
-- mooring-data-generator
-- siena_mls
-- memdocs
-- py-ewr
-- pytoony
-- polycrud
-- mcp-sqlite-server-d
-- paddle
-- phy-std-base-toknzer
-- jubilee
-- iamdata
-- svc-infra
-- nbprint
-- accurate-benchmark

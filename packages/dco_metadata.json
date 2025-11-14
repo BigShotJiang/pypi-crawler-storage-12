@@ -1,11 +1,11 @@
 {
   "name": "dco",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Dynamic Config Orchestrator - layered typed configuration loader",
   "author": "safwan bakkar",
   "license": "MIT",
   "home_page": "https://github.com/safvan041/DCO",
-  "download_filename": "dco-0.0.4.tar.gz",
-  "download_time": "2025-11-13T11:55:15.782688",
+  "download_filename": "dco-0.0.5.tar.gz",
+  "download_time": "2025-11-14T05:57:35.076612",
   "package_url": "https://pypi.org/project/dco/"
 }
