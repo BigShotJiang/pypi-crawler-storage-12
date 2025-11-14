@@ -1,0 +1,11 @@
+{
+  "name": "mapFolding",
+  "version": "0.17.1",
+  "summary": "Map folding, meanders, stamp folding, semi-meanders. Experiment with algorithm transformations, and analyze computational states.",
+  "author": null,
+  "license": "CC-BY-NC-4.0",
+  "home_page": null,
+  "download_filename": "mapfolding-0.17.1.tar.gz",
+  "download_time": "2025-11-14T17:45:09.494629",
+  "package_url": "https://pypi.org/project/mapFolding/"
+}

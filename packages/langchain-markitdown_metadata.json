@@ -1,0 +1,11 @@
+{
+  "name": "langchain-markitdown",
+  "version": "1.0.0",
+  "summary": "LangChain data loaders based on Markdown by @untrueaxioms.",
+  "author": "Nathan Sasto",
+  "license": "MIT",
+  "home_page": "https://github.com/nsasto/langchain-markitdown",
+  "download_filename": "langchain_markitdown-1.0.0.tar.gz",
+  "download_time": "2025-11-14T17:45:14.751999",
+  "package_url": "https://pypi.org/project/langchain-markitdown/"
+}
