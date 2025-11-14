@@ -1,11 +1,11 @@
 {
   "name": "bbwebservice",
-  "version": "2.4.0",
+  "version": "3.0.0",
   "summary": "A bare bone webserver",
   "author": "Lukas",
   "license": null,
   "home_page": null,
-  "download_filename": "bbwebservice-2.4.0.tar.gz",
-  "download_time": "2025-11-11T13:54:58.384549",
+  "download_filename": "bbwebservice-3.0.0.tar.gz",
+  "download_time": "2025-11-14T15:24:46.023061",
   "package_url": "https://pypi.org/project/bbwebservice/"
 }

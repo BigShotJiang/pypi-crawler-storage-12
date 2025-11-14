@@ -1,0 +1,11 @@
+{
+  "name": "smoothglue_conflictid",
+  "version": "1.0.0",
+  "summary": "A Django app providing high-performance, synchronous deconfliction for scheduling and resource management.",
+  "author": "BrainGu",
+  "license": "Proprietary",
+  "home_page": "https://braingu.com/solutions/smoothglue/",
+  "download_filename": "smoothglue_conflictid-1.0.0.tar.gz",
+  "download_time": "2025-11-14T15:25:10.941217",
+  "package_url": "https://pypi.org/project/smoothglue_conflictid/"
+}

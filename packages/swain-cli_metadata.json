@@ -1,11 +1,11 @@
 {
   "name": "swain-cli",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Zero-setup SDK generator wrapping OpenAPI Generator",
   "author": "Swain Labs",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "swain_cli-0.3.3.tar.gz",
-  "download_time": "2025-11-14T14:25:36.171193",
+  "download_filename": "swain_cli-0.3.4.tar.gz",
+  "download_time": "2025-11-14T15:25:03.660711",
   "package_url": "https://pypi.org/project/swain-cli/"
 }

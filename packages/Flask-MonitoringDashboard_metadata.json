@@ -1,0 +1,11 @@
+{
+  "name": "Flask-MonitoringDashboard",
+  "version": "5.0.2",
+  "summary": "Automatically monitor the evolving performance of Flask/Python web services.",
+  "author": "The FMD Contributors",
+  "license": null,
+  "home_page": "https://github.com/flask-dashboard/Flask-MonitoringDashboard",
+  "download_filename": "flask_monitoringdashboard-5.0.2.tar.gz",
+  "download_time": "2025-11-14T15:25:11.504204",
+  "package_url": "https://pypi.org/project/Flask-MonitoringDashboard/"
+}

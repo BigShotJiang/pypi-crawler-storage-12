@@ -1,11 +1,11 @@
 {
   "name": "qecore",
-  "version": "4.7",
+  "version": "4.8",
   "summary": "DesktopQE Tool for unified test execution",
   "author": "Michal Odehnal",
   "license": "GPLv3",
   "home_page": "https://gitlab.com/dogtail/qecore",
-  "download_filename": "qecore-4.7.tar.gz",
-  "download_time": "2025-11-10T16:37:01.480065",
+  "download_filename": "qecore-4.8.tar.gz",
+  "download_time": "2025-11-14T15:24:47.568039",
   "package_url": "https://pypi.org/project/qecore/"
 }

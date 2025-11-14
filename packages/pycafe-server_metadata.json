@@ -1,0 +1,11 @@
+{
+  "name": "pycafe-server",
+  "version": "0.9.0",
+  "summary": "Run your own PyCafe server on on-premises",
+  "author": null,
+  "license": "Not open source, contact contact@py.cafe for licencing.\n        \n        Copyright (c) 2024 JupyterCafe\n        \n        All rights reserved.\n        \n        This software and associated documentation files (the \"Software\") is licensed and not sold. Permission is hereby granted, free of charge, to use the Software strictly in accordance with the accompanying commercial agreement.\n        \n        Redistribution, modification, or resale is strictly prohibited without express written permission.",
+  "home_page": null,
+  "download_filename": "pycafe_server-0.9.0-py3-none-any.whl",
+  "download_time": "2025-11-14T15:25:08.851611",
+  "package_url": "https://pypi.org/project/pycafe-server/"
+}

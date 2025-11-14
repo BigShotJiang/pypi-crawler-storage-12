@@ -1,0 +1,11 @@
+{
+  "name": "rai-gnns-experimental",
+  "version": "0.1",
+  "summary": "GNN Relational Learning Engine SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rai_gnns_experimental-0.1-py3-none-any.whl",
+  "download_time": "2025-11-14T15:24:51.194594",
+  "package_url": "https://pypi.org/project/rai-gnns-experimental/"
+}

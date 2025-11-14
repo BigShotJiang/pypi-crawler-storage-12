@@ -1,11 +1,11 @@
 {
   "name": "ipf_dynamic_attributes",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Automation to Create Dynamic Attributes in IP Fabric",
   "author": "Solution Architecture",
   "license": "MIT",
   "home_page": "https://gitlab.com/ip-fabric/integrations/ipf-dynamic-attributes",
-  "download_filename": "ipf_dynamic_attributes-1.2.5.tar.gz",
-  "download_time": "2025-11-14T14:44:59.638795",
+  "download_filename": "ipf_dynamic_attributes-1.2.6.tar.gz",
+  "download_time": "2025-11-14T15:25:18.708727",
   "package_url": "https://pypi.org/project/ipf_dynamic_attributes/"
 }

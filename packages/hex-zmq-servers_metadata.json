@@ -1,11 +1,11 @@
 {
   "name": "hex-zmq-servers",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "HEXFELLOW ZMQ Servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_zmq_servers-0.2.4.tar.gz",
-  "download_time": "2025-11-14T13:35:06.490057",
+  "download_filename": "hex_zmq_servers-0.2.5.tar.gz",
+  "download_time": "2025-11-14T15:24:37.163660",
   "package_url": "https://pypi.org/project/hex-zmq-servers/"
 }
