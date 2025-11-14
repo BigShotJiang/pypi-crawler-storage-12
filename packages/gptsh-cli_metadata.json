@@ -1,11 +1,11 @@
 {
   "name": "gptsh-cli",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gptsh_cli-0.7.3.tar.gz",
-  "download_time": "2025-11-12T14:29:34.009198",
+  "download_filename": "gptsh_cli-0.8.0.tar.gz",
+  "download_time": "2025-11-14T12:52:07.467362",
   "package_url": "https://pypi.org/project/gptsh-cli/"
 }

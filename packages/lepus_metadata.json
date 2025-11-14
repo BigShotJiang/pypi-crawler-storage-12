@@ -1,0 +1,11 @@
+{
+  "name": "lepus",
+  "version": "0.0.7",
+  "summary": "Using RabbitMQ with Python in a simplified way.",
+  "author": "Marcos Rosa",
+  "license": "GNU",
+  "home_page": "https://github.com/ElaraDevSolutions/lepus",
+  "download_filename": "lepus-0.0.7.tar.gz",
+  "download_time": "2025-11-14T12:52:39.732415",
+  "package_url": "https://pypi.org/project/lepus/"
+}

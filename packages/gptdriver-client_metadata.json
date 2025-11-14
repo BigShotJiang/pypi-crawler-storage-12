@@ -1,0 +1,11 @@
+{
+  "name": "gptdriver-client",
+  "version": "2.1.2",
+  "summary": "Test your mobile apps with the AI native GPT Driver.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptdriver_client-2.1.2.tar.gz",
+  "download_time": "2025-11-14T12:52:27.782018",
+  "package_url": "https://pypi.org/project/gptdriver-client/"
+}

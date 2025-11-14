@@ -1,0 +1,11 @@
+{
+  "name": "nec-sol",
+  "version": "0.7.13",
+  "summary": "NEC SOL Installer",
+  "author": "NEC Laboratories Europe",
+  "license": "NEC SOL Software License Agreement",
+  "home_page": "https://sol.neclab.eu/",
+  "download_filename": "nec_sol-0.7.13-py3-none-any.whl",
+  "download_time": "2025-11-14T12:52:33.476829",
+  "package_url": "https://pypi.org/project/nec-sol/"
+}

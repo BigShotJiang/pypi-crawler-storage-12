@@ -1,0 +1,11 @@
+{
+  "name": "govesb",
+  "version": "2.1.0",
+  "summary": "A Python library for supporting GovESB (Government Enterprise Service Bus) Integration",
+  "author": "Lawrance Massanja",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/LarryMatrix/govesb",
+  "download_filename": "govesb-2.1.0.tar.gz",
+  "download_time": "2025-11-14T12:52:10.577249",
+  "package_url": "https://pypi.org/project/govesb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wzl-udi",
+  "version": "10.1.4",
+  "summary": "Provides REST-server, publisher-interface and serializer for the Unified Device Interface in Python based on the SensOr Interfacing Language (SOIL).",
+  "author": "Matthias Bodenbenner",
+  "license": null,
+  "home_page": "https://git-ce.rwth-aachen.de/wzl-mq-public/soil/python",
+  "download_filename": "wzl_udi-10.1.4.tar.gz",
+  "download_time": "2025-11-14T12:52:21.501844",
+  "package_url": "https://pypi.org/project/wzl-udi/"
+}

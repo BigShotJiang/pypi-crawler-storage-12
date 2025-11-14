@@ -1,11 +1,11 @@
 {
   "name": "dns-threat-detector",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Production-ready DNS threat detection using machine learning models to identify malicious domains.",
   "author": "UMUDGA Project",
   "license": "MIT",
   "home_page": "https://github.com/SubratDash67/DNS-Security",
-  "download_filename": "dns_threat_detector-1.0.7.tar.gz",
-  "download_time": "2025-11-13T16:05:46.643197",
+  "download_filename": "dns_threat_detector-1.0.8.tar.gz",
+  "download_time": "2025-11-14T12:52:47.017456",
   "package_url": "https://pypi.org/project/dns-threat-detector/"
 }

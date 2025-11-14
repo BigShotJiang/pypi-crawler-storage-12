@@ -1,0 +1,11 @@
+{
+  "name": "comet-ml",
+  "version": "3.54.1",
+  "summary": "Supercharging Machine Learning",
+  "author": "Comet ML Inc.",
+  "license": "MIT",
+  "home_page": "https://www.comet.com",
+  "download_filename": "comet_ml-3.54.1.tar.gz",
+  "download_time": "2025-11-14T12:52:46.485347",
+  "package_url": "https://pypi.org/project/comet-ml/"
+}

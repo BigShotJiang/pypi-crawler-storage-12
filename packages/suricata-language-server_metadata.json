@@ -1,11 +1,11 @@
 {
   "name": "suricata-language-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Language Server Protocol for Suricata signatures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "suricata_language_server-1.1.0.tar.gz",
-  "download_time": "2025-11-13T11:23:50.952540",
+  "download_filename": "suricata_language_server-1.1.1.tar.gz",
+  "download_time": "2025-11-14T12:52:43.917058",
   "package_url": "https://pypi.org/project/suricata-language-server/"
 }

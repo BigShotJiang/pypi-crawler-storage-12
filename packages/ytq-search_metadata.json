@@ -1,0 +1,11 @@
+{
+  "name": "ytq-search",
+  "version": "0.1.1",
+  "summary": "Async YouTube search library (using YouTube MWeb API).",
+  "author": "Ahmed d. Ismail",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytq_search-0.1.1.tar.gz",
+  "download_time": "2025-11-14T12:52:43.369467",
+  "package_url": "https://pypi.org/project/ytq-search/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "service-configuration-lib",
+  "version": "3.3.6",
+  "summary": "Start, stop, and inspect Yelp SOA services",
+  "author": "Yelp Compute Infrastructure Team",
+  "license": "Copyright Yelp 2013, All Rights Reserved",
+  "home_page": "https://github.com/Yelp/service_configuration_lib",
+  "download_filename": "service_configuration_lib-3.3.6-py2.py3-none-any.whl",
+  "download_time": "2025-11-14T12:52:33.991709",
+  "package_url": "https://pypi.org/project/service-configuration-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spacecraft-thermal-multi-node-analysis",
+  "version": "0.1.0",
+  "summary": "衛星の多節点熱解析プログラム",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spacecraft_thermal_multi_node_analysis-0.1.0.tar.gz",
+  "download_time": "2025-11-14T12:52:05.234758",
+  "package_url": "https://pypi.org/project/spacecraft-thermal-multi-node-analysis/"
+}
