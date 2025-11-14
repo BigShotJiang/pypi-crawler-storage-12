@@ -1,0 +1,11 @@
+{
+  "name": "cortexgraph",
+  "version": "0.6.6",
+  "summary": "CortexGraph: Temporal memory management for AI assistants with human-like dynamics",
+  "author": "Prefrontal Systems",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortexgraph-0.6.6.tar.gz",
+  "download_time": "2025-11-14T20:29:14.373046",
+  "package_url": "https://pypi.org/project/cortexgraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cirq-superstaq",
+  "version": "0.5.55",
+  "summary": "The Cirq module that provides tools and access to Superstaq.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cirq_superstaq-0.5.55.tar.gz",
+  "download_time": "2025-11-14T20:29:46.762496",
+  "package_url": "https://pypi.org/project/cirq-superstaq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-sns-sqs-graph",
+  "version": "0.1.1",
+  "summary": "Utility to map the sns sqs connections",
+  "author": "Gaurav soni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mermaid_sns_sqs_graph-0.1.1.tar.gz",
+  "download_time": "2025-11-14T20:29:31.183769",
+  "package_url": "https://pypi.org/project/mermaid-sns-sqs-graph/"
+}

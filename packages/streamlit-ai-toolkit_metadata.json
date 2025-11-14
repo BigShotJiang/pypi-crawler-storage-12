@@ -1,11 +1,11 @@
 {
   "name": "streamlit-ai-toolkit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A comprehensive AI toolkit for Streamlit applications with RAG and multimodal capabilities",
   "author": "Xiaozhou Team",
   "license": "MIT",
   "home_page": "https://github.com/xiaozhou/streamlit-ai-toolkit",
-  "download_filename": "streamlit_ai_toolkit-1.2.0.tar.gz",
-  "download_time": "2025-11-14T15:44:29.492956",
+  "download_filename": "streamlit_ai_toolkit-1.2.1.tar.gz",
+  "download_time": "2025-11-14T20:29:42.318110",
   "package_url": "https://pypi.org/project/streamlit-ai-toolkit/"
 }

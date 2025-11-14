@@ -1,0 +1,11 @@
+{
+  "name": "azure-search-documents",
+  "version": "11.6.0",
+  "summary": "Microsoft Azure Cognitive Search Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/search/azure-search-documents",
+  "download_filename": "azure_search_documents-11.6.0.tar.gz",
+  "download_time": "2025-11-14T20:29:39.212843",
+  "package_url": "https://pypi.org/project/azure-search-documents/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudformation-cli-python-lib",
+  "version": "2.1.20",
+  "summary": "Support library to enable Python-based CloudFormation resource types",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws-cloudformation/aws-cloudformation-rpdk-python-plugin/",
+  "download_filename": "cloudformation_cli_python_lib-2.1.20.tar.gz",
+  "download_time": "2025-11-14T20:29:27.906379",
+  "package_url": "https://pypi.org/project/cloudformation-cli-python-lib/"
+}

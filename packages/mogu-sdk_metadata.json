@@ -1,11 +1,11 @@
 {
   "name": "mogu-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Official Python SDK for Mogu Workflow Management Platform",
   "author": "Mogu Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/mogu-sdk",
-  "download_filename": "mogu_sdk-0.1.2.tar.gz",
-  "download_time": "2025-11-14T19:24:01.206665",
+  "download_filename": "mogu_sdk-0.1.3.tar.gz",
+  "download_time": "2025-11-14T20:30:02.788977",
   "package_url": "https://pypi.org/project/mogu-sdk/"
 }
