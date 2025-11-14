@@ -1,11 +1,11 @@
 {
   "name": "circuitydatabase",
-  "version": "2",
+  "version": "4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "circuitydatabase-2.tar.gz",
-  "download_time": "2025-11-14T22:25:04.304055",
+  "download_filename": "circuitydatabase-4.tar.gz",
+  "download_time": "2025-11-14T22:44:45.172995",
   "package_url": "https://pypi.org/project/circuitydatabase/"
 }
