@@ -1,0 +1,11 @@
+{
+  "name": "filelogr",
+  "version": "1.2.1",
+  "summary": "A flexible logging utility for your Python projects",
+  "author": "Futuregus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "filelogr-1.2.1.tar.gz",
+  "download_time": "2025-11-14T04:33:46.123348",
+  "package_url": "https://pypi.org/project/filelogr/"
+}

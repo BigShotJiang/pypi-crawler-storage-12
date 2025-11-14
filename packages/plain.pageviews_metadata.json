@@ -1,11 +1,11 @@
 {
   "name": "plain.pageviews",
-  "version": "0.26.0",
+  "version": "0.28.0",
   "summary": "Track pageviews from the client-side.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_pageviews-0.26.0.tar.gz",
-  "download_time": "2025-11-13T05:26:54.297966",
+  "download_filename": "plain_pageviews-0.28.0.tar.gz",
+  "download_time": "2025-11-14T04:33:58.782580",
   "package_url": "https://pypi.org/project/plain.pageviews/"
 }

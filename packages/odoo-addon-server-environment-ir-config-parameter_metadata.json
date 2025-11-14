@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-server-environment-ir-config-parameter",
+  "version": "18.0.1.0.0.6",
+  "summary": "Override System Parameters from server environment file",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-env",
+  "download_filename": "odoo_addon_server_environment_ir_config_parameter-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-14T04:34:15.812084",
+  "package_url": "https://pypi.org/project/odoo-addon-server-environment-ir-config-parameter/"
+}

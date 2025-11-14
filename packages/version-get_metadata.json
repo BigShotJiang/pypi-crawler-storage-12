@@ -1,0 +1,11 @@
+{
+  "name": "version-get",
+  "version": "1.0.0",
+  "summary": "A robust version management utility for Python projects",
+  "author": "cumulus13",
+  "license": "MIT",
+  "home_page": "https://github.com/cumulus13/version_get",
+  "download_filename": "version_get-1.0.0.tar.gz",
+  "download_time": "2025-11-14T04:34:11.607866",
+  "package_url": "https://pypi.org/project/version-get/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odata-v4-query",
+  "version": "0.4.0",
+  "summary": "A lightweight, simple and fast parser for OData V4 query options supporting standard query parameters. Provides helper functions to apply OData V4 query options to ORM/ODM queries such as SQLAlchemy, PyMongo and Beanie.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odata_v4_query-0.4.0.tar.gz",
+  "download_time": "2025-11-14T04:33:49.805139",
+  "package_url": "https://pypi.org/project/odata-v4-query/"
+}

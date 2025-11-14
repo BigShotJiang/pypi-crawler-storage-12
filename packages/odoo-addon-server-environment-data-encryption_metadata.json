@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-server-environment-data-encryption",
+  "version": "18.0.1.0.0.5",
+  "summary": "Server Environment Data Encryption",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-env",
+  "download_filename": "odoo_addon_server_environment_data_encryption-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-11-14T04:34:17.387615",
+  "package_url": "https://pypi.org/project/odoo-addon-server-environment-data-encryption/"
+}
