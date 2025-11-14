@@ -1,0 +1,11 @@
+{
+  "name": "dv-launcher",
+  "version": "1.1.0",
+  "summary": "Odoo deploy command line tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dv_launcher-1.1.0.tar.gz",
+  "download_time": "2025-11-14T19:23:40.931575",
+  "package_url": "https://pypi.org/project/dv-launcher/"
+}

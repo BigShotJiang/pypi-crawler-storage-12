@@ -1,0 +1,11 @@
+{
+  "name": "pythonanywhere",
+  "version": "0.18.0",
+  "summary": "PythonAnywhere helper tools for users",
+  "author": "PythonAnywhere LLP",
+  "license": "MIT",
+  "home_page": "https://github.com/pythonanywhere/helper_scripts/",
+  "download_filename": "pythonanywhere-0.18.0.tar.gz",
+  "download_time": "2025-11-14T19:23:37.765806",
+  "package_url": "https://pypi.org/project/pythonanywhere/"
+}

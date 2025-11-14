@@ -1,0 +1,11 @@
+{
+  "name": "LMRRfactory",
+  "version": "1.0.5",
+  "summary": "Auto-generate LMR-R reactions and mechanisms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmrrfactory-1.0.5.tar.gz",
+  "download_time": "2025-11-14T19:23:47.273886",
+  "package_url": "https://pypi.org/project/LMRRfactory/"
+}

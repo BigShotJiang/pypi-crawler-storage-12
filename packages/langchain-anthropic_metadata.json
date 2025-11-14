@@ -1,0 +1,11 @@
+{
+  "name": "langchain-anthropic",
+  "version": "1.0.4",
+  "summary": "Integration package connecting Claude (Anthropic) APIs and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_anthropic-1.0.4.tar.gz",
+  "download_time": "2025-11-14T19:24:07.046605",
+  "package_url": "https://pypi.org/project/langchain-anthropic/"
+}

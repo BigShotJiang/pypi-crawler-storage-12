@@ -1,0 +1,11 @@
+{
+  "name": "vec2-math",
+  "version": "0.7.0",
+  "summary": "basic vector functions in 2D",
+  "author": "Shay Hill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vec2_math-0.7.0.tar.gz",
+  "download_time": "2025-11-14T19:24:02.251463",
+  "package_url": "https://pypi.org/project/vec2-math/"
+}

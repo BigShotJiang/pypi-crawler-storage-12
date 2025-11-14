@@ -1,0 +1,11 @@
+{
+  "name": "optionvisualizer",
+  "version": "1.2.5",
+  "summary": "Visualize option prices and sensitivities.",
+  "author": "GBERESEARCH",
+  "license": "MIT",
+  "home_page": "https://github.com/GBERESEARCH/optionvisualizer",
+  "download_filename": "optionvisualizer-1.2.5-py3-none-any.whl",
+  "download_time": "2025-11-14T19:23:46.210240",
+  "package_url": "https://pypi.org/project/optionvisualizer/"
+}
