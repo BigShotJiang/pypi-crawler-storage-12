@@ -1,0 +1,11 @@
+{
+  "name": "dc-pybot",
+  "version": "0.1.2",
+  "summary": "A Discord bot written in Python.",
+  "author": "DEAMJAVA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dc_pybot-0.1.2.tar.gz",
+  "download_time": "2025-11-14T18:37:03.004618",
+  "package_url": "https://pypi.org/project/dc-pybot/"
+}

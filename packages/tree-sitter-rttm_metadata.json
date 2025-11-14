@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-rttm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Tree-sitter grammar for RTTM files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_rttm-0.1.0.tar.gz",
-  "download_time": "2025-11-14T13:35:29.115363",
+  "download_filename": "tree_sitter_rttm-0.1.1.tar.gz",
+  "download_time": "2025-11-14T18:37:10.274158",
   "package_url": "https://pypi.org/project/tree-sitter-rttm/"
 }

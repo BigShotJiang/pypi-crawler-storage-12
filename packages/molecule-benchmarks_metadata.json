@@ -1,0 +1,11 @@
+{
+  "name": "molecule-benchmarks",
+  "version": "0.1.14",
+  "summary": "A comprehensive benchmark suite for evaluating generative models for molecules",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "molecule_benchmarks-0.1.14.tar.gz",
+  "download_time": "2025-11-14T18:37:11.324522",
+  "package_url": "https://pypi.org/project/molecule-benchmarks/"
+}

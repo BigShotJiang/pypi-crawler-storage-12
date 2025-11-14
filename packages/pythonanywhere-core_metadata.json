@@ -1,0 +1,11 @@
+{
+  "name": "pythonanywhere-core",
+  "version": "0.2.9",
+  "summary": "API wrapper for programmatic management of PythonAnywhere services.",
+  "author": "PythonAnywhere",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pythonanywhere_core-0.2.9.tar.gz",
+  "download_time": "2025-11-14T18:37:13.943375",
+  "package_url": "https://pypi.org/project/pythonanywhere-core/"
+}

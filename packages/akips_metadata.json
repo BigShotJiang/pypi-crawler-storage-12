@@ -1,0 +1,11 @@
+{
+  "name": "akips",
+  "version": "0.5.0",
+  "summary": "Module to interact with the AKiPS Network Monitoring Software API interface",
+  "author": "William E Whitaker",
+  "license": "MIT",
+  "home_page": "https://github.com/unc-network/akips",
+  "download_filename": "akips-0.5.0.tar.gz",
+  "download_time": "2025-11-14T18:37:08.162898",
+  "package_url": "https://pypi.org/project/akips/"
+}

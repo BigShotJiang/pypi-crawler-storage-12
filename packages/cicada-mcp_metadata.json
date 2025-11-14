@@ -1,11 +1,11 @@
 {
   "name": "cicada-mcp",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "An Elixir module search MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cicada_mcp-0.3.0.tar.gz",
-  "download_time": "2025-11-10T21:53:53.914713",
+  "download_filename": "cicada_mcp-0.3.2.tar.gz",
+  "download_time": "2025-11-14T18:37:35.039287",
   "package_url": "https://pypi.org/project/cicada-mcp/"
 }

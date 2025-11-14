@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-cbl-picking-note-observations",
+  "version": "17.0.1.0.0.1",
+  "summary": "Send Observations to CBL Picking Deliveries with customer_note field",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-delivery-carrier",
+  "download_filename": "odoo_addon_delivery_cbl_picking_note_observations-17.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-14T18:37:39.704808",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-cbl-picking-note-observations/"
+}
