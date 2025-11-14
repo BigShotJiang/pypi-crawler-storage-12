@@ -1,0 +1,11 @@
+{
+  "name": "smpclient",
+  "version": "5.2.0",
+  "summary": "Simple Management Protocol (SMP) Client for remotely managing MCU firmware",
+  "author": "JP Hutchins",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smpclient-5.2.0.tar.gz",
+  "download_time": "2025-11-14T22:25:11.137276",
+  "package_url": "https://pypi.org/project/smpclient/"
+}

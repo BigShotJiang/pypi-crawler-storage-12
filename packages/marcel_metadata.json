@@ -1,11 +1,11 @@
 {
   "name": "marcel",
-  "version": "0.37.0",
+  "version": "0.37.1",
   "summary": "A modern shell",
   "author": "Jack Orenstein",
   "license": null,
   "home_page": "https://www.marceltheshell.org",
-  "download_filename": "marcel-0.37.0-py3-none-any.whl",
-  "download_time": "2025-11-12T17:00:30.230180",
+  "download_filename": "marcel-0.37.1-py3-none-any.whl",
+  "download_time": "2025-11-14T22:25:28.753248",
   "package_url": "https://pypi.org/project/marcel/"
 }

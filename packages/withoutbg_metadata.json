@@ -1,0 +1,11 @@
+{
+  "name": "withoutbg",
+  "version": "1.0.0",
+  "summary": "AI-powered background removal with local and cloud options",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "withoutbg-1.0.0.tar.gz",
+  "download_time": "2025-11-14T22:25:49.244430",
+  "package_url": "https://pypi.org/project/withoutbg/"
+}

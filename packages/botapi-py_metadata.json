@@ -1,0 +1,11 @@
+{
+  "name": "botapi-py",
+  "version": "1.4.4",
+  "summary": "A simple and flexible Python library to conveniently build fast Telegram bots using the Bot API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "botapi_py-1.4.4.tar.gz",
+  "download_time": "2025-11-14T22:25:28.235742",
+  "package_url": "https://pypi.org/project/botapi-py/"
+}

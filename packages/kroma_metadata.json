@@ -1,0 +1,11 @@
+{
+  "name": "kroma",
+  "version": "2.1.1",
+  "summary": "A lightweight and powerful colors library for terminal output in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kroma-2.1.1-py3-none-any.whl",
+  "download_time": "2025-11-14T22:25:19.461786",
+  "package_url": "https://pypi.org/project/kroma/"
+}

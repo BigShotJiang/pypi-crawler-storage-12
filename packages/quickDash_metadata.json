@@ -1,0 +1,11 @@
+{
+  "name": "quickDash",
+  "version": "0.2",
+  "summary": "A package that uses flask to create quick and user friendly dashboards to show both information and data",
+  "author": "Ronnie Peters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickdash-0.2.tar.gz",
+  "download_time": "2025-11-14T22:25:19.975459",
+  "package_url": "https://pypi.org/project/quickDash/"
+}

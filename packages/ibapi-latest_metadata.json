@@ -1,0 +1,11 @@
+{
+  "name": "ibapi-latest",
+  "version": "10.40.1",
+  "summary": "Interactive Brokers Python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibapi_latest-10.40.1.tar.gz",
+  "download_time": "2025-11-14T22:25:38.309346",
+  "package_url": "https://pypi.org/project/ibapi-latest/"
+}

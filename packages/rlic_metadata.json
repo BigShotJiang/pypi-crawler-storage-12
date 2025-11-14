@@ -1,0 +1,11 @@
+{
+  "name": "rlic",
+  "version": "0.5.2",
+  "summary": "A minimal Line Integral Convolution extension for NumPy, written in Rust",
+  "author": "C.M.T. Robert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlic-0.5.2.tar.gz",
+  "download_time": "2025-11-14T22:25:08.056004",
+  "package_url": "https://pypi.org/project/rlic/"
+}

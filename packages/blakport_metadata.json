@@ -1,0 +1,11 @@
+{
+  "name": "blakport",
+  "version": "1.0.0",
+  "summary": "Fast, lightweight FastAPI wrapper for exposing Ollama server to local network",
+  "author": "BlakPort Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blakport-1.0.0.tar.gz",
+  "download_time": "2025-11-14T22:25:39.339960",
+  "package_url": "https://pypi.org/project/blakport/"
+}

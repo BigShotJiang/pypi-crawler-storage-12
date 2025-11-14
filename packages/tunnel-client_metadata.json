@@ -1,0 +1,11 @@
+{
+  "name": "tunnel-client",
+  "version": "25.11.14.1",
+  "summary": "Tunnel client for tunnel.tunneloon.online",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tunnel_client-25.11.14.1.tar.gz",
+  "download_time": "2025-11-14T22:25:25.117079",
+  "package_url": "https://pypi.org/project/tunnel-client/"
+}

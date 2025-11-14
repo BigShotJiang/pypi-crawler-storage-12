@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-geojson",
+  "version": "0.3.1",
+  "summary": "Pydantic validation for GeoJson",
+  "author": "Aliaksandr Vaskevich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_geojson-0.3.1.tar.gz",
+  "download_time": "2025-11-14T22:25:13.753825",
+  "package_url": "https://pypi.org/project/pydantic-geojson/"
+}

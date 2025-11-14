@@ -1,11 +1,11 @@
 {
   "name": "order-status-notify",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "A lightweight Django utility for sending email notifications on order status updates.",
   "author": "Hetik",
   "license": null,
-  "home_page": "https://test.pypi.org/project/order_status_notify/",
-  "download_filename": "order_status_notify-0.2.0.tar.gz",
-  "download_time": "2025-11-14T21:26:15.061775",
+  "home_page": "https://pypi.org/project/order-status-notify/",
+  "download_filename": "order_status_notify-0.2.3.tar.gz",
+  "download_time": "2025-11-14T22:25:38.826975",
   "package_url": "https://pypi.org/project/order-status-notify/"
 }
