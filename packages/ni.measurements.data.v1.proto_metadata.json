@@ -1,11 +1,11 @@
 {
   "name": "ni.measurements.data.v1.proto",
-  "version": "0.1.0.dev5",
+  "version": "0.1.0.dev6",
   "summary": "Protobuf data types and service stubs for NI data store gRPC APIs",
   "author": "NI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ni_measurements_data_v1_proto-0.1.0.dev5.tar.gz",
-  "download_time": "2025-11-12T17:45:26.616632",
+  "download_filename": "ni_measurements_data_v1_proto-0.1.0.dev6.tar.gz",
+  "download_time": "2025-11-14T21:26:10.918635",
   "package_url": "https://pypi.org/project/ni.measurements.data.v1.proto/"
 }

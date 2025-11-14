@@ -1,11 +1,11 @@
 {
   "name": "kframework",
-  "version": "7.1.303",
+  "version": "7.1.304",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kframework-7.1.303.tar.gz",
-  "download_time": "2025-11-14T20:46:30.765691",
+  "download_filename": "kframework-7.1.304.tar.gz",
+  "download_time": "2025-11-14T21:26:14.550199",
   "package_url": "https://pypi.org/project/kframework/"
 }

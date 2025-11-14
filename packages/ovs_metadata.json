@@ -1,0 +1,11 @@
+{
+  "name": "ovs",
+  "version": "3.6.1",
+  "summary": "Open vSwitch library",
+  "author": "Open vSwitch",
+  "license": "Apache 2.0",
+  "home_page": "http://www.openvswitch.org/",
+  "download_filename": "ovs-3.6.1.tar.gz",
+  "download_time": "2025-11-14T21:26:28.466554",
+  "package_url": "https://pypi.org/project/ovs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ensight-reader",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "A pure Python reader for the EnSight Gold format",
   "author": "Tomas Karabela",
   "license": "MIT",
   "home_page": "https://github.com/tkarabela/ensight-reader",
-  "download_filename": "ensight_reader-0.13.0.tar.gz",
-  "download_time": "2025-11-13T22:45:17.563301",
+  "download_filename": "ensight_reader-0.13.1.tar.gz",
+  "download_time": "2025-11-14T21:26:44.164687",
   "package_url": "https://pypi.org/project/ensight-reader/"
 }

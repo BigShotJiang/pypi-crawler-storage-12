@@ -1,11 +1,11 @@
 {
   "name": "signchart",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Automatically generates sign charts for polynomial functions and rational functions.",
   "author": "René Alexander Ask",
   "license": null,
   "home_page": "https://github.com/reneaas/signchart",
-  "download_filename": "signchart-0.2.0.tar.gz",
-  "download_time": "2025-11-13T21:40:11.315473",
+  "download_filename": "signchart-0.2.1.tar.gz",
+  "download_time": "2025-11-14T21:26:39.525013",
   "package_url": "https://pypi.org/project/signchart/"
 }

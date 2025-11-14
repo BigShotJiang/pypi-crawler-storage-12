@@ -1,11 +1,11 @@
 {
   "name": "pyeuropepmc",
-  "version": "1.11.1",
+  "version": "1.11.3",
   "summary": "A Python package for working with the Europe PMC API to search and retrieve scientific literature.",
   "author": "Jonas Heinicke (HZI)",
   "license": "file:LICENSE",
   "home_page": "https://github.com/JonasHeinickeBio/pyEuropePMC",
-  "download_filename": "pyeuropepmc-1.11.1.tar.gz",
-  "download_time": "2025-11-14T14:57:50.747502",
+  "download_filename": "pyeuropepmc-1.11.3.tar.gz",
+  "download_time": "2025-11-14T21:26:13.496972",
   "package_url": "https://pypi.org/project/pyeuropepmc/"
 }

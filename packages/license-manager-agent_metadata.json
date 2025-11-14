@@ -1,0 +1,11 @@
+{
+  "name": "license-manager-agent",
+  "version": "4.5.0",
+  "summary": "Provides an agent for interacting with license manager",
+  "author": "OmniVector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/license-manager",
+  "download_filename": "license_manager_agent-4.5.0.tar.gz",
+  "download_time": "2025-11-14T21:26:33.267799",
+  "package_url": "https://pypi.org/project/license-manager-agent/"
+}

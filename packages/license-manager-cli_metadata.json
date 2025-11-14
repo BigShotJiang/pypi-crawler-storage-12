@@ -1,0 +1,11 @@
+{
+  "name": "license-manager-cli",
+  "version": "4.5.0",
+  "summary": "License Manager CLI Client",
+  "author": "Omnivector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/license-manager",
+  "download_filename": "license_manager_cli-4.5.0.tar.gz",
+  "download_time": "2025-11-14T21:26:34.294111",
+  "package_url": "https://pypi.org/project/license-manager-cli/"
+}

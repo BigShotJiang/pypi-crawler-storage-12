@@ -1,0 +1,11 @@
+{
+  "name": "license-manager-simulator-api",
+  "version": "4.5.0",
+  "summary": "Provides an API for interfacing with License Manager Simulator",
+  "author": "OmniVector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/license-manager",
+  "download_filename": "license_manager_simulator_api-4.5.0.tar.gz",
+  "download_time": "2025-11-14T21:26:32.755440",
+  "package_url": "https://pypi.org/project/license-manager-simulator-api/"
+}

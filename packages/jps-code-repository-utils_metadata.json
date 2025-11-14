@@ -1,0 +1,11 @@
+{
+  "name": "jps-code-repository-utils",
+  "version": "0.3.2",
+  "summary": "Collection of utility Pythhon scripts to manage code repositories.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jps_code_repository_utils-0.3.2.tar.gz",
+  "download_time": "2025-11-14T21:26:20.201281",
+  "package_url": "https://pypi.org/project/jps-code-repository-utils/"
+}

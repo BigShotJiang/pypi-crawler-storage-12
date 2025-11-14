@@ -1,0 +1,11 @@
+{
+  "name": "hipercow",
+  "version": "0.2.2",
+  "summary": "The High Performance Computing Workbench, for Python. Set up cluster environments and jobs. Moos not yet included.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hipercow-0.2.2.tar.gz",
+  "download_time": "2025-11-14T21:26:48.778371",
+  "package_url": "https://pypi.org/project/hipercow/"
+}

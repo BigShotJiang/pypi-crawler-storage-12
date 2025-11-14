@@ -1,11 +1,11 @@
 {
   "name": "orca-agent-sdk",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A production-ready Python SDK for running paid AI agents on your marketplace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orca_agent_sdk-0.1.6.tar.gz",
-  "download_time": "2025-11-14T20:58:36.596549",
+  "download_filename": "orca_agent_sdk-0.1.8.tar.gz",
+  "download_time": "2025-11-14T21:26:21.747789",
   "package_url": "https://pypi.org/project/orca-agent-sdk/"
 }
