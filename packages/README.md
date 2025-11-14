@@ -1,14 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T19:24:08.070368
-- **Total Packages**: 71
-- **Total Size**: 51.6 MB
+- **Download Time**: 2025-11-14T19:41:51.024796
+- **Total Packages**: 80
+- **Total Size**: 25.9 MB
 
 ## Packages List
-- kbbqgraph
-- loce-zap
+- niemarkov
+- micromegas
+- csemod
+- fluidattacks_etl_utils
+- alphatrion
+- archSnap
+- TechTrash-comfyapi
+- pythonanywhere-mcp-server
+- inkparse
+- PyDNI
+- map-games-proto
+- gluestick
+- opendental-sdk
+- branch_storm
 - netiob
+- zephyr-mcumgr
+- cimi
+- brynq-sdk-bob
+- xulbux
+- workstack
+- dot-agent-kit
+- scale-nucleus
+- lagrange-open
+- gettranslated-cli
+- loce-zap
+- dv-launcher
+- mcp-server-nbotbb
+- censorbot
+- fasttreeshap-fixed
+- algoliasearch
+- LMRRfactory
+- azure-ai-voicelive
+- tpu-info
+- memx-ai
+- physrisk-lib
+- ConsoleType
+- refl1d
+- sc-napalm
+- fastworkflow
+- signalpilot-ai-internal
+- nti.externalization
+- meta-spec
+- svc-infra
+- firm-hprc
+- cubevis
+- ghreq
+- QuerySUTRA
+- kbbqgraph
 - messthaler-wulff
 - pyvfg
 - pushtunes
@@ -19,14 +64,11 @@
 - getstream
 - celltraj
 - steindamm
-- methurator
 - pythonanywhere
-- ConsoleType
 - nsflow
 - aegis-vision
 - oxapy
 - gridsearcher
-- dv-launcher
 - pysimplicityhl
 - sonar-sdk
 - qawolf-socket-pypi
@@ -37,8 +79,6 @@
 - libfec
 - nominal-api
 - optionvisualizer
-- signalpilot-ai-internal
-- LMRRfactory
 - arthur-client
 - AgentCompiler
 - splineops
@@ -46,34 +86,3 @@
 - tetra-rp
 - nats-fasterapi
 - walytis-beta-api
-- agno
-- cute-cats-terminal
-- flet-charts
-- ai-parrot
-- tksheet
-- opswork
-- dbt
-- squirrels
-- mistocr
-- ara-api
-- tplink-omada-client
-- ocha-stratus
-- fs-tree-spec
-- brapi
-- generate-shell-completion
-- cdklabs.ecs-codedeploy
-- revenium-middleware-anthropic
-- map-games-proto
-- mogu-sdk
-- dgm-dayabay-dev
-- vec2-math
-- circle-of-confusion
-- matchcake
-- pycap-dss
-- solace-agent-mesh
-- optiwindnet
-- schemachange
-- pytest-language-server
-- langgraph-api
-- langchain-anthropic
-- fzpcb

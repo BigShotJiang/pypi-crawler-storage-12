@@ -1,0 +1,11 @@
+{
+  "name": "memx-ai",
+  "version": "0.1.8",
+  "summary": "Lightweight and extensible memory layer for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memx_ai-0.1.8.tar.gz",
+  "download_time": "2025-11-14T19:41:26.254912",
+  "package_url": "https://pypi.org/project/memx-ai/"
+}

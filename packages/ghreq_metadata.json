@@ -1,0 +1,11 @@
+{
+  "name": "ghreq",
+  "version": "0.6.0",
+  "summary": "Minimal and opinionated GitHub API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghreq-0.6.0.tar.gz",
+  "download_time": "2025-11-14T19:41:32.580934",
+  "package_url": "https://pypi.org/project/ghreq/"
+}
