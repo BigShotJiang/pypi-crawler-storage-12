@@ -1,11 +1,11 @@
 {
   "name": "django-cotton",
-  "version": "2.3.1",
-  "summary": "Bringing component based design to Django templates.",
+  "version": "2.4.0",
+  "summary": "Enabling Modern UI Composition in Django.",
   "author": "Will Abbott",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cotton-2.3.1.tar.gz",
-  "download_time": "2025-11-11T23:22:34.627136",
+  "download_filename": "django_cotton-2.4.0.tar.gz",
+  "download_time": "2025-11-14T17:27:52.633426",
   "package_url": "https://pypi.org/project/django-cotton/"
 }

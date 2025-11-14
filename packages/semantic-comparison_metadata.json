@@ -1,0 +1,11 @@
+{
+  "name": "semantic-comparison",
+  "version": "1.0.5",
+  "summary": null,
+  "author": "OPENSAPI",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/SemanticComparison",
+  "download_filename": "semantic_comparison-1.0.5.tar.gz",
+  "download_time": "2025-11-14T17:27:58.428757",
+  "package_url": "https://pypi.org/project/semantic-comparison/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "utilshub",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "Utility functions collection",
   "author": "tester641114",
   "license": null,
   "home_page": null,
-  "download_filename": "utilshub-0.3.tar.gz",
-  "download_time": "2025-11-14T16:34:16.746451",
+  "download_filename": "utilshub-0.4.tar.gz",
+  "download_time": "2025-11-14T17:27:49.507195",
   "package_url": "https://pypi.org/project/utilshub/"
 }

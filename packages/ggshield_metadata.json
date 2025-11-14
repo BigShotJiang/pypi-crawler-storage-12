@@ -1,0 +1,11 @@
+{
+  "name": "ggshield",
+  "version": "1.45.0",
+  "summary": "Detect secrets from all sources using GitGuardian's brains",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ggshield-1.45.0.tar.gz",
+  "download_time": "2025-11-14T17:28:03.691681",
+  "package_url": "https://pypi.org/project/ggshield/"
+}

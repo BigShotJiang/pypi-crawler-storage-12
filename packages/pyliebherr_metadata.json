@@ -1,11 +1,11 @@
 {
   "name": "pyliebherr",
-  "version": "2025.11.1",
-  "summary": "Wrapper for python-kasa to connect with cloud devices.",
+  "version": "2025.11.2",
+  "summary": "Helper models to connect to the Liebherr Smart Device Home API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyliebherr-2025.11.1.tar.gz",
-  "download_time": "2025-11-14T16:34:27.651035",
+  "download_filename": "pyliebherr-2025.11.2.tar.gz",
+  "download_time": "2025-11-14T17:28:02.105576",
   "package_url": "https://pypi.org/project/pyliebherr/"
 }
