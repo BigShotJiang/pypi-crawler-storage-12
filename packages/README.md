@@ -1,15 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T10:49:11.634067
-- **Total Packages**: 98
-- **Total Size**: 31.04 MB
+- **Download Time**: 2025-11-14T11:23:12.136482
+- **Total Packages**: 93
+- **Total Size**: 9.73 MB
 
 ## Packages List
+- conintf-ptk
+- mpt-extension-sdk
+- dissectica-cdp-client
+- pygcd
+- jupyter-duckdb
+- pixelarraythirdparty
+- pyedb
+- defermi
+- rds-proxy-password-rotation
+- compose-micromanager
+- kong-sdk
+- jupyter-ra-extension
+- bullishpy
+- well-log-toolkit
+- pipewire-filtertools
+- odoo-addon-stock-storage-type
+- flame-hub-client
+- CheckmarxPythonSDK
+- pygidata
+- spTimeHelperPy
+- eval-ai-library
+- baai-flagdataset-ks3util
+- apibackuper
+- amosutils
+- mreg-cli
+- neuromorphic-drivers
+- never-jscore
+- lephare
+- iam-policy-validator
+- BoschRpaMagicBox
+- ul-pii-sdk
+- hpcflow-new2
+- quantify
 - euroncap-rating-2026
 - konduktor-nightly
 - django-icons
-- well-log-toolkit
 - poetry-plugin-tweak-dependencies-version
 - rrtask
 - p115client
@@ -67,40 +99,3 @@
 - apache-airflow-providers-pgvector
 - apache-airflow-providers-papermill
 - apache-airflow-providers-pagerduty
-- apache-airflow-providers-oracle
-- apache-airflow-providers-opsgenie
-- apache-airflow-providers-opensearch
-- apache-airflow-providers-openlineage
-- MetaRpcMT5
-- apache-airflow-providers-openfaas
-- apache-airflow-providers-openai
-- apache-airflow-providers-odbc
-- apache-airflow-providers-neo4j
-- apache-airflow-providers-mysql
-- apache-airflow-providers-mongo
-- apache-airflow-providers-microsoft-winrm
-- apache-airflow-providers-microsoft-psrp
-- apache-airflow-providers-microsoft-mssql
-- apache-airflow-providers-microsoft-azure
-- MetaRpcMT4
-- apache-airflow-providers-keycloak
-- apache-airflow-providers-jenkins
-- apache-airflow-providers-jdbc
-- apache-airflow-providers-influxdb
-- apache-airflow-providers-imap
-- apache-airflow-providers-http
-- apache-airflow-providers-hashicorp
-- pytd
-- apache-airflow-providers-grpc
-- apache-airflow-providers-google
-- apache-airflow-providers-github
-- apache-airflow-providers-git
-- apache-airflow-providers-ftp
-- apache-airflow-providers-facebook
-- apache-airflow-providers-fab
-- apache-airflow-providers-exasol
-- apache-airflow-providers-elasticsearch
-- apache-airflow-providers-edge3
-- apache-airflow-providers-docker
-- apache-airflow-providers-discord
-- apache-airflow-providers-dingding

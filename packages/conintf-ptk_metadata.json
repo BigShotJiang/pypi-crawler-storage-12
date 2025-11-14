@@ -1,0 +1,11 @@
+{
+  "name": "conintf-ptk",
+  "version": "1.0.0",
+  "summary": "Lightweight async console interface wrapper around prompt_toolkit",
+  "author": "Warat Thongsuwan",
+  "license": "GPLv3",
+  "home_page": "https://github.com/TonpalmUnmain/conintf_ptk",
+  "download_filename": "conintf_ptk-1.0.0.tar.gz",
+  "download_time": "2025-11-14T11:22:19.224954",
+  "package_url": "https://pypi.org/project/conintf-ptk/"
+}

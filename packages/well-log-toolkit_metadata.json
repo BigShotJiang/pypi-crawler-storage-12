@@ -1,11 +1,11 @@
 {
   "name": "well-log-toolkit",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Fast LAS file processing with lazy loading and filtering for well log analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "well_log_toolkit-0.1.8.tar.gz",
-  "download_time": "2025-11-14T10:48:21.851781",
+  "download_filename": "well_log_toolkit-0.1.9.tar.gz",
+  "download_time": "2025-11-14T11:22:27.455464",
   "package_url": "https://pypi.org/project/well-log-toolkit/"
 }

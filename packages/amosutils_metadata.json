@@ -1,0 +1,11 @@
+{
+  "name": "amosutils",
+  "version": "0.2.2",
+  "summary": "A collection of utilitiy functions for all-sky and spectral meteor cameras",
+  "author": "Martin Baláž",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amosutils-0.2.2.tar.gz",
+  "download_time": "2025-11-14T11:22:33.266110",
+  "package_url": "https://pypi.org/project/amosutils/"
+}

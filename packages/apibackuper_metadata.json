@@ -1,0 +1,11 @@
+{
+  "name": "apibackuper",
+  "version": "1.0.12",
+  "summary": "a command-line tool and python library for API backuping",
+  "author": "Ivan Begtin",
+  "license": "MIT",
+  "home_page": "https://github.com/datacoon/apibackuper/",
+  "download_filename": "apibackuper-1.0.12.tar.gz",
+  "download_time": "2025-11-14T11:22:32.691104",
+  "package_url": "https://pypi.org/project/apibackuper/"
+}

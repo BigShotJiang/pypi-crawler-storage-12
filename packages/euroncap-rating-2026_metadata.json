@@ -1,11 +1,11 @@
 {
   "name": "euroncap-rating-2026",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "This project implements Euro NCAP Rating Calculator 2026 to compute test scores",
   "author": "Danilo Romano",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "euroncap_rating_2026-2.0.1.tar.gz",
-  "download_time": "2025-11-14T10:48:20.264349",
+  "download_filename": "euroncap_rating_2026-2.0.2.tar.gz",
+  "download_time": "2025-11-14T11:22:39.682496",
   "package_url": "https://pypi.org/project/euroncap-rating-2026/"
 }
