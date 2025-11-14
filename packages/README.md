@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-14T07:29:10.309270
-- **Total Packages**: 89
-- **Total Size**: 35.05 MB
+- **Download Time**: 2025-11-14T07:47:18.130067
+- **Total Packages**: 86
+- **Total Size**: 0.53 MB
 
 ## Packages List
+- notbadai-tools-chat
+- cprotobuf
+- openaiinsight
+- afaanoromo-tokenizer
+- baai-flagdataset-ks3util
+- contextual-studio-ai-graph
+- libevdev
+- livekit-murf
+- yamlpyconfig
+- bookleter
 - rosdomofon
 - p115wsgidav
 - openai-cost-calculator-with-lanchain
@@ -13,7 +23,6 @@
 - tencent-wedata-feature-engineering-dev
 - cobra-color
 - odoo-addon-mgmtsystem-nonconformity
-- yamlpyconfig
 - odoo-addon-date-range
 - job-template
 - documentdataextraction
@@ -43,7 +52,6 @@
 - sawnergy
 - lr-gladiator
 - dify_plugin
-- bookleter
 - vd-cli
 - aip-cli
 - agentic-learning
@@ -84,14 +92,3 @@
 - jaxl-python
 - jinwu
 - ancientlinesoftheworld
-- pm4pyminimal
-- pm4py
-- starbash
-- bbblb
-- cognautic-cli
-- knp-mcp-excel
-- huff
-- denkproto
-- pytransportnswv2
-- exn-report-sdk
-- mehc-curation

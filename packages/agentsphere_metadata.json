@@ -1,11 +1,11 @@
 {
   "name": "agentsphere",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "summary": "Agentsphere SDK that give agents cloud environments",
   "author": "agentsphere",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentsphere-2.1.5.tar.gz",
-  "download_time": "2025-11-14T07:28:47.858213",
+  "download_filename": "agentsphere-2.1.6.tar.gz",
+  "download_time": "2025-11-14T07:47:02.400641",
   "package_url": "https://pypi.org/project/agentsphere/"
 }
