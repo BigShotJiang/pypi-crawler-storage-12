@@ -1,0 +1,11 @@
+{
+  "name": "gpx-kml-converter",
+  "version": "1.0.5",
+  "summary": "Easily convert, merge and compress GPX and KML files.",
+  "author": "pamagister",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpx_kml_converter-1.0.5.tar.gz",
+  "download_time": "2025-11-14T21:54:23.097052",
+  "package_url": "https://pypi.org/project/gpx-kml-converter/"
+}

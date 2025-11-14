@@ -1,11 +1,11 @@
 {
   "name": "ChemFuncT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Helper utilities for the Chemical Functional Use Taxonomy SQLite database.",
   "author": "E. Tyler Carr",
   "license": "CC0-1.0",
   "home_page": null,
-  "download_filename": "chemfunct-0.1.1.tar.gz",
-  "download_time": "2025-11-14T21:26:32.173352",
+  "download_filename": "chemfunct-0.1.2.tar.gz",
+  "download_time": "2025-11-14T21:54:34.062016",
   "package_url": "https://pypi.org/project/ChemFuncT/"
 }

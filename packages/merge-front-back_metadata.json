@@ -1,11 +1,11 @@
 {
   "name": "merge-front-back",
-  "version": "1.0.0b1",
+  "version": "1.0.0b2",
   "summary": "Merge two single-sided scanned PDFs into a duplex document",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "merge_front_back-1.0.0b1.tar.gz",
-  "download_time": "2025-11-14T21:26:09.892570",
+  "download_filename": "merge_front_back-1.0.0b2.tar.gz",
+  "download_time": "2025-11-14T21:54:35.274761",
   "package_url": "https://pypi.org/project/merge-front-back/"
 }

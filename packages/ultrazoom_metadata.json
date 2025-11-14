@@ -1,0 +1,11 @@
+{
+  "name": "ultrazoom",
+  "version": "0.2.1",
+  "summary": "A fast single image super-resolution (SISR) model for upscaling images with ultra high-quality.",
+  "author": "Andrew DalPino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ultrazoom-0.2.1.tar.gz",
+  "download_time": "2025-11-14T21:54:30.126907",
+  "package_url": "https://pypi.org/project/ultrazoom/"
+}

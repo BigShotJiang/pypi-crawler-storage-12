@@ -1,11 +1,11 @@
 {
   "name": "daplug-cypher",
-  "version": "1.0.0b6",
+  "version": "1.0.0b7",
   "summary": "A Neo4j and Neptune graph normalization layer using the adapter pattern.",
   "author": "Paul Cruse III",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/dual/daplug-cypher",
-  "download_filename": "daplug_cypher-1.0.0b6.tar.gz",
-  "download_time": "2025-11-14T21:26:29.557855",
+  "download_filename": "daplug_cypher-1.0.0b7.tar.gz",
+  "download_time": "2025-11-14T21:54:10.733566",
   "package_url": "https://pypi.org/project/daplug-cypher/"
 }

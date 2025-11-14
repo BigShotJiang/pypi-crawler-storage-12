@@ -1,0 +1,11 @@
+{
+  "name": "git-year",
+  "version": "0.1.5",
+  "summary": "A compact terminal heatmap showing one year of Git commits (like GitHub contributions, but with compact bars instead of squares, to fit into a smaller terminal window)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_year-0.1.5.tar.gz",
+  "download_time": "2025-11-14T21:54:33.191222",
+  "package_url": "https://pypi.org/project/git-year/"
+}
