@@ -1,0 +1,11 @@
+{
+  "name": "light-show-manager",
+  "version": "1.0.0",
+  "summary": "Timeline-based show orchestration framework for coordinating time-synchronized commands",
+  "author": "Jimmy Hickman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "light_show_manager-1.0.0.tar.gz",
+  "download_time": "2025-11-14T23:42:16.560662",
+  "package_url": "https://pypi.org/project/light-show-manager/"
+}

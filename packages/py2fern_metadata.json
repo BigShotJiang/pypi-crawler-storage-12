@@ -1,0 +1,11 @@
+{
+  "name": "py2fern",
+  "version": "0.1.5",
+  "summary": "Generate Fern documentation from Python packages using static analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2fern-0.1.5.tar.gz",
+  "download_time": "2025-11-14T23:41:58.225483",
+  "package_url": "https://pypi.org/project/py2fern/"
+}

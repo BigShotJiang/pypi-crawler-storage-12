@@ -1,11 +1,11 @@
 {
   "name": "webshotapi",
-  "version": "1.1.15",
-  "summary": "Api client for WebShotApi.com.         Website screenshot api client,         extract html from rendered website         extract words with coordinates from website,         extract styles from HTML selectors(elements)",
-  "author": "WebShotApi.com",
-  "license": "MIT",
-  "home_page": "https://webshotapi.com",
-  "download_filename": "webshotapi-1.1.15.tar.gz",
-  "download_time": "2025-11-14T22:45:03.836355",
+  "version": "1.1.16",
+  "summary": "Api client for WebShotApi.com. Website screenshot api client, extract html from rendered website extract words with coordinates from website, extract styles from HTML selectors(elements)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webshotapi-1.1.16.tar.gz",
+  "download_time": "2025-11-14T23:41:58.745900",
   "package_url": "https://pypi.org/project/webshotapi/"
 }
