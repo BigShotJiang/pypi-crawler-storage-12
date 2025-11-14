@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-cpu-alive",
+  "version": "0.1.5",
+  "summary": "A Jupyter Server extension that accesses and modifies the settings dictionary.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jupyter_cpu_alive-0.1.5.tar.gz",
+  "download_time": "2025-11-14T16:34:46.709965",
+  "package_url": "https://pypi.org/project/jupyter-cpu-alive/"
+}

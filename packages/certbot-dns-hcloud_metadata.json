@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-hcloud",
+  "version": "1.1.2",
+  "summary": "This is a certbot plugin to perform dns-01 authentication using the Hetzner Cloud (Console) API",
+  "author": "EMX107",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/EMX107/certbot-dns-hcloud",
+  "download_filename": "certbot_dns_hcloud-1.1.2.tar.gz",
+  "download_time": "2025-11-14T16:34:18.472128",
+  "package_url": "https://pypi.org/project/certbot-dns-hcloud/"
+}

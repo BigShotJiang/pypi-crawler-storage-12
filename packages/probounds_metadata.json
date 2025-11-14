@@ -1,0 +1,11 @@
+{
+  "name": "probounds",
+  "version": "0.3.5",
+  "summary": "Probability bounds project",
+  "author": "Uriah Finkel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "probounds-0.3.5.tar.gz",
+  "download_time": "2025-11-14T16:34:58.748974",
+  "package_url": "https://pypi.org/project/probounds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.FactSetSupplyChain",
+  "version": "2.0.1",
+  "summary": "FactSet Supply Chain client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/FactSetSupplyChain/v1",
+  "download_filename": "fds_sdk_factsetsupplychain-2.0.1.tar.gz",
+  "download_time": "2025-11-14T16:34:40.043460",
+  "package_url": "https://pypi.org/project/fds.sdk.FactSetSupplyChain/"
+}

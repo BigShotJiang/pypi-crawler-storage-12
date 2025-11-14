@@ -1,0 +1,11 @@
+{
+  "name": "nmslib-nobrainz",
+  "version": "2.1.2",
+  "summary": "Non-Metric Space Library (NMSLIB)",
+  "author": "B. Naidan, L. Boytsov, Yu. Malkov, B. Frederickson, D. Novak, et al.",
+  "license": null,
+  "home_page": "https://github.com/notfoundsoft/nmslib",
+  "download_filename": "nmslib_nobrainz-2.1.2.tar.gz",
+  "download_time": "2025-11-14T16:35:03.505295",
+  "package_url": "https://pypi.org/project/nmslib-nobrainz/"
+}

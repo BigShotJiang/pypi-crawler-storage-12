@@ -1,0 +1,11 @@
+{
+  "name": "adf-builder",
+  "version": "0.0.1",
+  "summary": "Python builder for the Atlassian Document Format (ADF)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adf_builder-0.0.1.tar.gz",
+  "download_time": "2025-11-14T16:34:38.089935",
+  "package_url": "https://pypi.org/project/adf-builder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tensap",
+  "version": "1.8",
+  "summary": "Tensor Approximation Package: a Python package for the                  approximation of functions and tensors.",
+  "author": "Anthony Nouy, Erwan Grelier",
+  "license": null,
+  "home_page": "https://anthony-nouy.github.io/tensap/",
+  "download_filename": "tensap-1.8.tar.gz",
+  "download_time": "2025-11-14T16:34:15.001099",
+  "package_url": "https://pypi.org/project/tensap/"
+}

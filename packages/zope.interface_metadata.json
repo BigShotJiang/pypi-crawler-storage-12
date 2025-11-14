@@ -1,0 +1,11 @@
+{
+  "name": "zope.interface",
+  "version": "8.1",
+  "summary": "Interfaces for Python",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.interface",
+  "download_filename": "zope_interface-8.1.tar.gz",
+  "download_time": "2025-11-14T16:34:22.573184",
+  "package_url": "https://pypi.org/project/zope.interface/"
+}

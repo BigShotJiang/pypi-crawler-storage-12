@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.FactSetPartnerFunds",
+  "version": "0.1.0",
+  "summary": "FactSet Partner Funds client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/FactSetPartnerFunds/v1",
+  "download_filename": "fds_sdk_factsetpartnerfunds-0.1.0.tar.gz",
+  "download_time": "2025-11-14T16:34:40.682160",
+  "package_url": "https://pypi.org/project/fds.sdk.FactSetPartnerFunds/"
+}

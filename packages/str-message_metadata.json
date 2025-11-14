@@ -1,11 +1,11 @@
 {
   "name": "str-message",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Any Message Could be a String, for LLM Usage",
   "author": "Allen Chou",
   "license": "MIT",
   "home_page": "https://github.com/allen2c/str-message",
-  "download_filename": "str_message-0.6.0.tar.gz",
-  "download_time": "2025-11-13T11:42:47.910798",
+  "download_filename": "str_message-0.7.0.tar.gz",
+  "download_time": "2025-11-14T16:34:16.169922",
   "package_url": "https://pypi.org/project/str-message/"
 }

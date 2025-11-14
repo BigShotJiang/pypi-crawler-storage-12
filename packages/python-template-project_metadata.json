@@ -1,11 +1,11 @@
 {
   "name": "python-template-project",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Feature-rich Python project template designed for robustness and ease of use.",
   "author": "pamagister",
   "license": null,
   "home_page": null,
-  "download_filename": "python_template_project-0.2.1.tar.gz",
-  "download_time": "2025-11-14T07:28:58.137270",
+  "download_filename": "python_template_project-0.2.2.tar.gz",
+  "download_time": "2025-11-14T16:35:00.574034",
   "package_url": "https://pypi.org/project/python-template-project/"
 }

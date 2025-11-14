@@ -1,0 +1,11 @@
+{
+  "name": "InterSCellar",
+  "version": "0.1.0",
+  "summary": "Surface-based Cell Neighbor Detection and Interscellar Volume Computation for 2D & 3D Spatial Omics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "interscellar-0.1.0.tar.gz",
+  "download_time": "2025-11-14T16:34:53.806298",
+  "package_url": "https://pypi.org/project/InterSCellar/"
+}
