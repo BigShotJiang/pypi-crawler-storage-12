@@ -1,0 +1,11 @@
+{
+  "name": "django-template-partials",
+  "version": "25.3",
+  "summary": "Reusable named inline-partials for the Django Template Language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_template_partials-25.3.tar.gz",
+  "download_time": "2025-11-14T08:34:04.735499",
+  "package_url": "https://pypi.org/project/django-template-partials/"
+}

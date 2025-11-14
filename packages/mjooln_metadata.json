@@ -1,0 +1,11 @@
+{
+  "name": "mjooln",
+  "version": "0.9.2",
+  "summary": "File handling for Data Engineers",
+  "author": "Vemund Halmø Aarstrand",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mjooln-0.9.2.tar.gz",
+  "download_time": "2025-11-14T08:33:58.954596",
+  "package_url": "https://pypi.org/project/mjooln/"
+}

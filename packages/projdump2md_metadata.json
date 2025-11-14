@@ -1,0 +1,11 @@
+{
+  "name": "projdump2md",
+  "version": "0.1.0",
+  "summary": "Dump project files into a single markdown file with folder structure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "projdump2md-0.1.0.tar.gz",
+  "download_time": "2025-11-14T08:34:03.677551",
+  "package_url": "https://pypi.org/project/projdump2md/"
+}
