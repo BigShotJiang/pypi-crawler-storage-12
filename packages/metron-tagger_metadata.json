@@ -1,0 +1,11 @@
+{
+  "name": "metron-tagger",
+  "version": "4.5.0",
+  "summary": "A program to write metadata from metron.cloud to a comic archive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metron_tagger-4.5.0.tar.gz",
+  "download_time": "2025-11-15T16:59:10.149206",
+  "package_url": "https://pypi.org/project/metron-tagger/"
+}

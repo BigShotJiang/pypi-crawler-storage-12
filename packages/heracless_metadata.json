@@ -1,11 +1,11 @@
 {
   "name": "heracless",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Yaml to Dataclass parser for Config files (Rust-powered for performance)",
   "author": null,
   "license": null,
   "home_page": "https://heracless.io",
-  "download_filename": "heracless-0.5.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-15T15:23:50.285563",
+  "download_filename": "heracless-0.5.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-15T16:59:02.013338",
   "package_url": "https://pypi.org/project/heracless/"
 }

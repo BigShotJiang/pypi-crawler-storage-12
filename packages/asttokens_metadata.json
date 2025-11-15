@@ -1,0 +1,11 @@
+{
+  "name": "asttokens",
+  "version": "3.0.1",
+  "summary": "Annotate AST trees with source code positions",
+  "author": "Dmitry Sagalovskiy, Grist Labs",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/gristlabs/asttokens",
+  "download_filename": "asttokens-3.0.1.tar.gz",
+  "download_time": "2025-11-15T16:59:00.857775",
+  "package_url": "https://pypi.org/project/asttokens/"
+}

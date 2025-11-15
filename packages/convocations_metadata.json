@@ -1,11 +1,11 @@
 {
   "name": "convocations",
-  "version": "2.24",
+  "version": "2.26",
   "summary": "convocations",
   "author": "2ps",
   "license": "BSD",
   "home_page": "https://github.com/crazy-penguins/convocations",
-  "download_filename": "convocations-2.24.tar.gz",
-  "download_time": "2025-11-10T21:22:45.691408",
+  "download_filename": "convocations-2.26.tar.gz",
+  "download_time": "2025-11-15T16:59:10.723631",
   "package_url": "https://pypi.org/project/convocations/"
 }
