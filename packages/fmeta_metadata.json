@@ -1,0 +1,11 @@
+{
+  "name": "fmeta",
+  "version": "0.1.4",
+  "summary": "A small package to scan directories and list file metadata in a tabular format.",
+  "author": "Benevant Mathew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmeta-0.1.4.tar.gz",
+  "download_time": "2025-11-15T06:56:34.917514",
+  "package_url": "https://pypi.org/project/fmeta/"
+}

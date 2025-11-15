@@ -1,0 +1,11 @@
+{
+  "name": "solo-cli",
+  "version": "0.6.1",
+  "summary": "CLI for Physical AI",
+  "author": "Dhruv Diddi",
+  "license": null,
+  "home_page": "https://github.com/GetSoloTech/solo-cli",
+  "download_filename": "solo_cli-0.6.1.tar.gz",
+  "download_time": "2025-11-15T06:56:32.872022",
+  "package_url": "https://pypi.org/project/solo-cli/"
+}

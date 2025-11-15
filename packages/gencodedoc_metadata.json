@@ -1,0 +1,11 @@
+{
+  "name": "gencodedoc",
+  "version": "2.0.0",
+  "summary": "Smart documentation generator and intelligent versioning system with MCP support",
+  "author": "fkom13",
+  "license": "MIT",
+  "home_page": "https://github.com/fkom13/gencodedoc",
+  "download_filename": "gencodedoc-2.0.0.tar.gz",
+  "download_time": "2025-11-15T06:56:30.817513",
+  "package_url": "https://pypi.org/project/gencodedoc/"
+}
