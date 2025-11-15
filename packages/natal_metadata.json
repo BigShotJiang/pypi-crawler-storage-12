@@ -1,11 +1,11 @@
 {
   "name": "natal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "create Natal Chart with ease",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "natal-1.0.0.tar.gz",
-  "download_time": "2025-11-14T13:55:04.648313",
+  "download_filename": "natal-1.0.1.tar.gz",
+  "download_time": "2025-11-15T12:04:40.991102",
   "package_url": "https://pypi.org/project/natal/"
 }
