@@ -1,0 +1,11 @@
+{
+  "name": "powerhub",
+  "version": "2.0.11",
+  "summary": "A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "powerhub-2.0.11.tar.gz",
+  "download_time": "2025-11-15T12:46:15.346937",
+  "package_url": "https://pypi.org/project/powerhub/"
+}

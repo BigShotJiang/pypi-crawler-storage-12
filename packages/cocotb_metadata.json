@@ -1,0 +1,11 @@
+{
+  "name": "cocotb",
+  "version": "2.0.1",
+  "summary": "cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.",
+  "author": "Chris Higgs, Stuart Hodgson",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cocotb.org",
+  "download_filename": "cocotb-2.0.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-15T12:46:05.598102",
+  "package_url": "https://pypi.org/project/cocotb/"
+}

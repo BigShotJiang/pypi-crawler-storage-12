@@ -1,0 +1,11 @@
+{
+  "name": "bdclient",
+  "version": "0.4.2",
+  "summary": "An unofficial Python client for Bright Data APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bdclient-0.4.2.tar.gz",
+  "download_time": "2025-11-15T12:46:29.280622",
+  "package_url": "https://pypi.org/project/bdclient/"
+}

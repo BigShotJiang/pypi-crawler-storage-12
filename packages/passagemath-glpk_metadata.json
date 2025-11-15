@@ -1,11 +1,11 @@
 {
   "name": "passagemath-glpk",
-  "version": "10.6.34",
+  "version": "10.6.36",
   "summary": "passagemath: Linear and mixed integer linear optimization backend using GLPK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_glpk-10.6.34-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-11-10T11:53:04.616178",
+  "download_filename": "passagemath_glpk-10.6.36-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-11-15T12:46:21.472750",
   "package_url": "https://pypi.org/project/passagemath-glpk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "scope-profiler",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Profile code regions in python, optionally with LIKWID markers.",
   "author": "Max",
   "license": null,
   "home_page": null,
-  "download_filename": "scope_profiler-0.1.2.tar.gz",
-  "download_time": "2025-11-15T12:04:41.512757",
+  "download_filename": "scope_profiler-0.1.3.tar.gz",
+  "download_time": "2025-11-15T12:46:26.080890",
   "package_url": "https://pypi.org/project/scope-profiler/"
 }

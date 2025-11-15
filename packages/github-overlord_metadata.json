@@ -1,0 +1,11 @@
+{
+  "name": "github-overlord",
+  "version": "0.8.0",
+  "summary": "Automatically merge Dependabot PRs in public repositories",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": "https://github.com/iloveitaly/github-overlord",
+  "download_filename": "github_overlord-0.8.0.tar.gz",
+  "download_time": "2025-11-15T12:46:30.381508",
+  "package_url": "https://pypi.org/project/github-overlord/"
+}

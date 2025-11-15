@@ -1,0 +1,11 @@
+{
+  "name": "yolo-poser",
+  "version": "0.1.18",
+  "summary": "YOLO-based human pose detection and visualization tool",
+  "author": "[Tom Dyson]",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yolo_poser-0.1.18.tar.gz",
+  "download_time": "2025-11-15T12:46:37.632944",
+  "package_url": "https://pypi.org/project/yolo-poser/"
+}

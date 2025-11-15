@@ -1,0 +1,11 @@
+{
+  "name": "pocketbase-sdk",
+  "version": "0.1.0",
+  "summary": "PocketBase Python SDK - A unofficial Python client library for PocketBase backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pocketbase_sdk-0.1.0.tar.gz",
+  "download_time": "2025-11-15T12:46:27.138506",
+  "package_url": "https://pypi.org/project/pocketbase-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Zen-STT",
-  "version": "0.2",
+  "version": "0.4",
   "summary": "Speech to Text automation package created by ZEN",
   "author": "ZEN",
   "license": null,
   "home_page": null,
-  "download_filename": "zen_stt-0.2.tar.gz",
-  "download_time": "2025-11-15T10:44:38.340590",
+  "download_filename": "zen_stt-0.4.tar.gz",
+  "download_time": "2025-11-15T12:46:26.609687",
   "package_url": "https://pypi.org/project/Zen-STT/"
 }

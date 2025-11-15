@@ -1,0 +1,11 @@
+{
+  "name": "kernex",
+  "version": "0.2.1",
+  "summary": "Stencil computations in JAX.",
+  "author": "Mahmoud Asem",
+  "license": "MIT",
+  "home_page": "https://github.com/ASEM000/kernex",
+  "download_filename": "kernex-0.2.1.tar.gz",
+  "download_time": "2025-11-15T12:46:42.267926",
+  "package_url": "https://pypi.org/project/kernex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "MyCommandCenter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Production-Ready MongoDB & Web Scraping Toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mycommandcenter-0.2.0.tar.gz",
-  "download_time": "2025-11-15T12:04:29.813834",
+  "download_filename": "mycommandcenter-0.2.1.tar.gz",
+  "download_time": "2025-11-15T12:46:34.702288",
   "package_url": "https://pypi.org/project/MyCommandCenter/"
 }
