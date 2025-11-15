@@ -1,0 +1,11 @@
+{
+  "name": "pycourier",
+  "version": "1.3.0",
+  "summary": "PyCourier: A simple, reliable and fast email package for python",
+  "author": "Mayank Vats",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/Theorist-Git/PyCourier",
+  "download_filename": "pycourier-1.3.0.tar.gz",
+  "download_time": "2025-11-15T08:30:42.642104",
+  "package_url": "https://pypi.org/project/pycourier/"
+}

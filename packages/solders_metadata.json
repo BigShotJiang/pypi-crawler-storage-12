@@ -5,7 +5,7 @@
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "solders-0.27.1-cp38-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
-  "download_time": "2025-11-15T07:54:21.059641",
+  "download_filename": "solders-0.27.1.tar.gz",
+  "download_time": "2025-11-15T08:31:03.997391",
   "package_url": "https://pypi.org/project/solders/"
 }

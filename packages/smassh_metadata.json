@@ -1,0 +1,11 @@
+{
+  "name": "smassh",
+  "version": "3.2.1",
+  "summary": "A TUI based typing application",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "smassh-3.2.1.tar.gz",
+  "download_time": "2025-11-15T08:30:55.300142",
+  "package_url": "https://pypi.org/project/smassh/"
+}

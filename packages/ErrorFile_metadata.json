@@ -1,0 +1,11 @@
+{
+  "name": "ErrorFile",
+  "version": "0.1.8",
+  "summary": "一个用于检测图片、文档、压缩包与媒体文件是否损坏的Python包",
+  "author": "Hellohistory",
+  "license": null,
+  "home_page": "https://github.com/Hellohistory/Errorfile",
+  "download_filename": "errorfile-0.1.8.tar.gz",
+  "download_time": "2025-11-15T08:30:58.612382",
+  "package_url": "https://pypi.org/project/ErrorFile/"
+}

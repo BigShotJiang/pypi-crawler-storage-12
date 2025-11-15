@@ -1,0 +1,11 @@
+{
+  "name": "ScaleNx",
+  "version": "2025.11.15.34",
+  "summary": "Image resizing using Scale2x, Scale3x, Scale2xSFX and Scale3xSFX algorithms, in pure Python.",
+  "author": "Ilya Razmanov",
+  "license": null,
+  "home_page": "https://dnyarri.github.io/",
+  "download_filename": "scalenx-2025.11.15.34.tar.gz",
+  "download_time": "2025-11-15T08:30:26.866012",
+  "package_url": "https://pypi.org/project/ScaleNx/"
+}

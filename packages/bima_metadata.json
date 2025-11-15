@@ -1,0 +1,11 @@
+{
+  "name": "bima",
+  "version": "0.2.3",
+  "summary": "N-body simulation powered with Rust backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bima-0.2.3.tar.gz",
+  "download_time": "2025-11-15T08:30:30.646438",
+  "package_url": "https://pypi.org/project/bima/"
+}
