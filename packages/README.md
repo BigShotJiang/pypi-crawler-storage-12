@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T20:44:01.474442
-- **Total Packages**: 81
-- **Total Size**: 0.34 MB
+- **Download Time**: 2025-11-15T20:56:21.825397
+- **Total Packages**: 80
+- **Total Size**: 10.05 MB
 
 ## Packages List
+- libzapi
+- flagswift
+- ankigammon
+- ilc-provider
+- paya
+- totoon
+- vector-vault
+- setting-manager
+- solokit
+- simpletuner
+- blacksheep
+- catpic
+- fudstop4
+- iolanta
+- wot-pdf
+- hump
+- paylink
+- caldavctl
+- mirascope
+- floatcsep
+- click
+- yearn-treasury
+- swc-utils
+- agentor
+- skillz
+- lmur
+- mjnf
+- STRling
+- inspect-swe
+- latin-nlp-utilities
 - reqlib
 - playlist2podcast
 - rupython
 - perpetual-context-window
 - PyQuaRT
-- physicsx.pxs
 - deezy
 - soup-files
 - betwatch
@@ -31,7 +60,6 @@
 - mbari-pbp
 - processcube-client
 - stjlib
-- paylink
 - python-yarp
 - winipedia-utils
 - feed2fedi
@@ -58,32 +86,3 @@
 - browser-use
 - comlrl
 - mcrentcast
-- duppla-slack
-- domo-actors
-- fastcrud
-- gtalk
-- freyja
-- totoon
-- dao-treasury
-- airweave-sdk
-- hashtray
-- textzle
-- niceguicrud
-- rellu
-- mcp-outline
-- itk-morphologicalcontourinterpolation
-- fragua
-- flock-core
-- pyrometheus
-- ai-swarm
-- alphatrion
-- fba-finance
-- mjnf
-- crystal-cell-setter
-- juham-core
-- aiocache-pro
-- STRling
-- acoriss-payment-gateway
-- masterpiece
-- mindm-mcp
-- huitzo-sdk

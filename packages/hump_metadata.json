@@ -1,0 +1,11 @@
+{
+  "name": "hump",
+  "version": "1.0.0",
+  "summary": "Hump (a defining part of grizzly's neck) is a zero-dependency simple async web server framework for registering request handlers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hump-1.0.0.tar.gz",
+  "download_time": "2025-11-15T20:55:44.645194",
+  "package_url": "https://pypi.org/project/hump/"
+}

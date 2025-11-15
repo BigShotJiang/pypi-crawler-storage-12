@@ -1,0 +1,11 @@
+{
+  "name": "catpic",
+  "version": "0.9.0",
+  "summary": "Display images in terminals using Unicode mosaics and ANSI colors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catpic-0.9.0.tar.gz",
+  "download_time": "2025-11-15T20:55:42.313686",
+  "package_url": "https://pypi.org/project/catpic/"
+}
