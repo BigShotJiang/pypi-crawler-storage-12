@@ -1,11 +1,11 @@
 {
   "name": "delta-trace-db",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "summary": "The NoSQL in-memory database with class-based functionality and detailed operation history tracking.",
   "author": "Masahide Mori",
   "license": null,
   "home_page": null,
-  "download_filename": "delta_trace_db-0.0.37.tar.gz",
-  "download_time": "2025-11-15T10:25:15.991151",
+  "download_filename": "delta_trace_db-0.0.38.tar.gz",
+  "download_time": "2025-11-15T15:24:06.108870",
   "package_url": "https://pypi.org/project/delta-trace-db/"
 }

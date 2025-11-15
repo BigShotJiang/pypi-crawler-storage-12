@@ -1,11 +1,11 @@
 {
   "name": "bookmark-lens",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Local-first MCP server for intelligent bookmark management with semantic search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bookmark_lens-0.0.5.tar.gz",
-  "download_time": "2025-11-14T23:24:27.390844",
+  "download_filename": "bookmark_lens-0.0.6.tar.gz",
+  "download_time": "2025-11-15T15:23:46.244814",
   "package_url": "https://pypi.org/project/bookmark-lens/"
 }

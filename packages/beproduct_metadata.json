@@ -1,0 +1,11 @@
+{
+  "name": "beproduct",
+  "version": "0.6.29",
+  "summary": "BeProduct Public API SDK",
+  "author": "Yuri Golub",
+  "license": null,
+  "home_page": "https://github.com/BeProduct/BeProduct.Python.SDK",
+  "download_filename": "beproduct-0.6.29.tar.gz",
+  "download_time": "2025-11-15T15:23:45.022645",
+  "package_url": "https://pypi.org/project/beproduct/"
+}

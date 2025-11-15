@@ -1,0 +1,11 @@
+{
+  "name": "collapsiblepane",
+  "version": "0.10.30",
+  "summary": "A PySide6 widget for collapsible panels, inspired by JavaFX's TitledPane",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collapsiblepane-0.10.30.tar.gz",
+  "download_time": "2025-11-15T15:23:52.133857",
+  "package_url": "https://pypi.org/project/collapsiblepane/"
+}

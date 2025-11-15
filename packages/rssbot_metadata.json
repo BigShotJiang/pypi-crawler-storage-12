@@ -1,0 +1,11 @@
+{
+  "name": "rssbot",
+  "version": "655",
+  "summary": "24/7 IRC Feed Fetcher, a contribution back to society. Public Domain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rssbot-655.tar.gz",
+  "download_time": "2025-11-15T15:23:55.846747",
+  "package_url": "https://pypi.org/project/rssbot/"
+}
