@@ -1,11 +1,11 @@
 {
   "name": "tmux-language-server",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "tmux language server",
   "author": null,
   "license": "GPL v3",
   "home_page": null,
-  "download_filename": "tmux_language_server-0.0.15.tar.gz",
-  "download_time": "2025-11-15T03:13:10.839354",
+  "download_filename": "tmux_language_server-0.0.16.tar.gz",
+  "download_time": "2025-11-15T16:28:57.932608",
   "package_url": "https://pypi.org/project/tmux-language-server/"
 }

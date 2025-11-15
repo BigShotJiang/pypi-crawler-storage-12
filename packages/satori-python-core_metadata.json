@@ -1,11 +1,11 @@
 {
   "name": "satori-python-core",
-  "version": "0.17.6",
+  "version": "0.17.7",
   "summary": "Satori Protocol SDK for python, specify common part",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/RF-Tar-Railt/satori-python",
-  "download_filename": "satori_python_core-0.17.6.tar.gz",
-  "download_time": "2025-11-14T09:48:23.372130",
+  "download_filename": "satori_python_core-0.17.7.tar.gz",
+  "download_time": "2025-11-15T16:29:06.128439",
   "package_url": "https://pypi.org/project/satori-python-core/"
 }

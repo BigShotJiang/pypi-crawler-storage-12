@@ -1,0 +1,11 @@
+{
+  "name": "gtpp",
+  "version": "0.1.0",
+  "summary": "Game To PyPI - Virtual pet game with PYPI, Coding for play, not for make game",
+  "author": "Ahmet ELCI",
+  "license": null,
+  "home_page": "https://github.com/rabertsa/gtpp",
+  "download_filename": "gtpp-0.1.0.tar.gz",
+  "download_time": "2025-11-15T16:28:50.907151",
+  "package_url": "https://pypi.org/project/gtpp/"
+}

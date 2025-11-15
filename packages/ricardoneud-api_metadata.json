@@ -1,0 +1,11 @@
+{
+  "name": "ricardoneud-api",
+  "version": "1.2.0",
+  "summary": "Official Python SDK for the API from Ricardoneud.com",
+  "author": "Ricardoneud.com",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ricardoneud_api-1.2.0.tar.gz",
+  "download_time": "2025-11-15T16:29:15.365471",
+  "package_url": "https://pypi.org/project/ricardoneud-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "private-assistant-comms-satellite",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "The satellite is an open source library to work with the private assistant oecosystem built to run on edge devices. It allows the other components to interact speech based with the user and listen for user keywords to activate.",
   "author": "stkr22",
   "license": null,
   "home_page": null,
-  "download_filename": "private_assistant_comms_satellite-1.4.0.tar.gz",
-  "download_time": "2025-11-14T18:58:34.996089",
+  "download_filename": "private_assistant_comms_satellite-1.5.0.tar.gz",
+  "download_time": "2025-11-15T16:28:52.536291",
   "package_url": "https://pypi.org/project/private-assistant-comms-satellite/"
 }

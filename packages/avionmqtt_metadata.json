@@ -1,0 +1,11 @@
+{
+  "name": "avionmqtt",
+  "version": "2.0.1",
+  "summary": "Bridge Avion Bluetooth mesh lights to MQTT/Home Assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "avionmqtt-2.0.1.tar.gz",
+  "download_time": "2025-11-15T16:29:04.485175",
+  "package_url": "https://pypi.org/project/avionmqtt/"
+}

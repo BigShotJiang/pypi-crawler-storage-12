@@ -1,0 +1,11 @@
+{
+  "name": "module-typica",
+  "version": "0.2.11",
+  "summary": "Standard Pydantic usages & utilities",
+  "author": "Oktapian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "module_typica-0.2.11.tar.gz",
+  "download_time": "2025-11-15T16:28:49.271179",
+  "package_url": "https://pypi.org/project/module-typica/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "htmlxify",
+  "version": "1.0.0",
+  "summary": "htmlxify - A simplified web markup language compiler that transpiles to HTML, CSS, and JavaScript",
+  "author": "Aquib489",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Aquib489/htmlxify",
+  "download_filename": "htmlxify-1.0.0.tar.gz",
+  "download_time": "2025-11-15T16:28:59.580451",
+  "package_url": "https://pypi.org/project/htmlxify/"
+}

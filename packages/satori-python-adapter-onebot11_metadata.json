@@ -1,11 +1,11 @@
 {
   "name": "satori-python-adapter-onebot11",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Satori Protocol SDK for python, adapter for OneBot 11",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/RF-Tar-Railt/satori-python",
-  "download_filename": "satori_python_adapter_onebot11-0.2.6.tar.gz",
-  "download_time": "2025-11-14T09:48:19.202227",
+  "download_filename": "satori_python_adapter_onebot11-0.2.7.tar.gz",
+  "download_time": "2025-11-15T16:29:07.756513",
   "package_url": "https://pypi.org/project/satori-python-adapter-onebot11/"
 }

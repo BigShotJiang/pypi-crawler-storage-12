@@ -1,11 +1,11 @@
 {
   "name": "hygrapher",
-  "version": "0.4.0",
+  "version": "0.5.2",
   "summary": "A GUI application for plotting CSV/Excel data with Matplotlib.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hygrapher-0.4.0.tar.gz",
-  "download_time": "2025-11-15T13:16:20.047187",
+  "download_filename": "hygrapher-0.5.2.tar.gz",
+  "download_time": "2025-11-15T16:29:12.090760",
   "package_url": "https://pypi.org/project/hygrapher/"
 }

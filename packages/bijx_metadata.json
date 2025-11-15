@@ -1,0 +1,11 @@
+{
+  "name": "bijx",
+  "version": "1.1.0",
+  "summary": "Bijections & normalizing flows with JAX/NNX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bijx-1.1.0.tar.gz",
+  "download_time": "2025-11-15T16:29:08.828832",
+  "package_url": "https://pypi.org/project/bijx/"
+}
