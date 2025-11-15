@@ -1,11 +1,11 @@
 {
   "name": "slidedeckai",
-  "version": "8.0.2",
-  "summary": "A Python package to generate slide decks using AI.",
+  "version": "8.0.3",
+  "summary": "Co-create PowerPoint slide decks with AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slidedeckai-8.0.2.tar.gz",
-  "download_time": "2025-11-14T17:57:34.123946",
+  "download_filename": "slidedeckai-8.0.3.tar.gz",
+  "download_time": "2025-11-15T07:40:52.606483",
   "package_url": "https://pypi.org/project/slidedeckai/"
 }
