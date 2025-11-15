@@ -1,11 +1,11 @@
 {
   "name": "aline-ai",
-  "version": "0.4.9",
-  "summary": "AI Agent Chat Session Tracker - Automatically preserve AI conversations",
+  "version": "0.1.0",
+  "summary": "Shared AI memory; everyone knows everything in teams",
   "author": "Sharemind",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aline_ai-0.4.9.tar.gz",
-  "download_time": "2025-11-15T21:23:05.681304",
+  "download_filename": "aline_ai-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-15T22:21:34.666650",
   "package_url": "https://pypi.org/project/aline-ai/"
 }

@@ -1,71 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T21:56:18.425384
-- **Total Packages**: 85
-- **Total Size**: 21.75 MB
+- **Download Time**: 2025-11-15T22:22:04.659102
+- **Total Packages**: 83
+- **Total Size**: 0.42 MB
 
 ## Packages List
-- ncoreparser
-- grafana-fastmcp
-- maleo-middlewares
-- pystorz
-- newspaper4k
-- lexia
-- tibs
-- maleo-google
-- maleo-client
-- python-alpm
-- odoo-addon-l10n-es-verifactu-oca
-- robotframework-processcube
-- lfsir
-- pyfuzzy-toolbox
-- rapyer
-- midi-markdown
-- ocsf-schema-compiler
-- mpesakit
-- maleo-infra
-- trustspeccli
-- trustspecpy
-- webtoolkit
-- wedeliver-core-plus
-- maleo-database
-- ushka
-- django-email-learning
-- powerlawrs
-- mindm-mcp
-- bssir
-- grabpy
-- pandas-toon
-- maleo-schemas
-- dsf-enginexai-sdk
-- dataform-tools
-- yemot-api
-- isitpublic
-- cadens-package
-- chqr
-- itk-growcut
-- fin-infra
-- lar-engine
-- fastapi-auth-starter
-- svc-infra
-- gofish-graphics
-- fsc-assistant
-- static-import-analysis
-- gofish-python
-- fba-finance
-- pachinko-sdlr-dv
-- py-samsungtv
-- trust-free
-- flagswift
-- hmr
-- myfy
-- leakpy
-- myfy-frontend
-- myfy-cli
-- myfy-web
-- myfy-core
-- whitemagic
 - boursobank-scraper
 - git-zap
 - mindm
@@ -80,10 +20,12 @@
 - cdk-factory
 - hubcap
 - slurm-factory
+- webtoolkit
 - tagic
 - hrcx
 - glidergun
 - kollabor
+- robotframework-processcube
 - openghg
 - waveform-reg-access-extractor
 - pyhausbus
@@ -91,3 +33,59 @@
 - wmill-pg
 - wmill
 - windmill-api
+- paya
+- robotpy-pykit
+- dsf-scoring-sdk
+- itk-boneenhancement
+- mycli
+- aline-ai
+- ofed-private-utils
+- cb-events
+- svc-infra
+- stjlib
+- ptwordpress
+- itk-montage
+- sc-napalm
+- trackbear-api
+- spotoptim
+- wpiformat
+- pysupercluster-problematy
+- selenium-ui-test-tool
+- ezesri
+- libzapi
+- flagswift
+- ankigammon
+- ilc-provider
+- totoon
+- vector-vault
+- setting-manager
+- solokit
+- simpletuner
+- blacksheep
+- catpic
+- fudstop4
+- iolanta
+- wot-pdf
+- hump
+- paylink
+- caldavctl
+- mirascope
+- floatcsep
+- click
+- yearn-treasury
+- swc-utils
+- agentor
+- skillz
+- lmur
+- mjnf
+- STRling
+- inspect-swe
+- latin-nlp-utilities
+- reqlib
+- playlist2podcast
+- rupython
+- perpetual-context-window
+- PyQuaRT
+- deezy
+- soup-files
+- betwatch
