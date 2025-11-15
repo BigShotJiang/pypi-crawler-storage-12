@@ -1,11 +1,11 @@
 {
   "name": "lymo",
-  "version": "0.9",
+  "version": "0.10",
   "summary": "Python HTTP micro-framework for AWS Lambda.",
   "author": "New Adventures In Coding",
-  "license": null,
+  "license": "BSD-3-Clause",
   "home_page": "https://github.com/newadventures/lymo",
-  "download_filename": "lymo-0.9.tar.gz",
-  "download_time": "2025-11-15T11:20:30.088390",
+  "download_filename": "lymo-0.10.tar.gz",
+  "download_time": "2025-11-15T11:41:20.202830",
   "package_url": "https://pypi.org/project/lymo/"
 }

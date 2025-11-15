@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T11:20:58.197340
-- **Total Packages**: 70
-- **Total Size**: 13.59 MB
+- **Download Time**: 2025-11-15T11:41:55.988223
+- **Total Packages**: 68
+- **Total Size**: 8.89 MB
 
 ## Packages List
+- sixfinger
+- pyais
+- ryn-data
+- lymo
+- subnoto-api-client
+- pySwivells
+- vs-server-colab
+- fastkmeanspp
+- imvf
+- portacode
+- zensical
+- netwatchpy
+- mestDS
+- onyx-client
+- miniml-jax
+- mcli-framework
+- fluxloop
+- fluxloop-cli
+- meta-spec
+- html-to-markdown
+- gds2palace
+- torchx-nightly
+- pulumi-proxmoxve
+- mcp-postgres-duwenji
+- torchft-nightly
+- visiontext
+- typedparser
+- linediff
+- polyfactory
+- wigle-ssid-search
+- SHICTHRSLogCore
+- pytest-language-server
+- ping-rs
+- vibetuner
 - annize-pidev
 - sdevpy
 - llm-lab
@@ -13,17 +47,13 @@
 - annize
 - packg
 - academia-mcp
-- vs-server-colab
-- ryn-data
 - sharedkernel
 - prompty-dumpty
 - tf-keras-nightly
 - el-loom
 - CheckmarxPythonSDK
-- typedparser
 - ncuhep
 - alchemy-mapper
-- lymo
 - cribl-control-plane
 - create-st
 - modelx-cython
@@ -44,35 +74,3 @@
 - vents
 - clipped
 - poping
-- rapidquery
-- locust
-- dircomply
-- xllify
-- portacode
-- sendgridsend
-- netlite
-- storygenerator
-- task-scheduling
-- binaryoptionstoolsv2
-- openocd
-- git-sanity
-- wigle-ssid-search
-- cwb-utils
-- nonebot-plugin-jrrp3
-- programgarden
-- fastapps
-- utils-devops
-- friendly-sequences
-- mcp-sharepoint
-- konduktor-nightly
-- trainy-policy-nightly
-- junshan-kit
-- cobra-color
-- letta-nightly
-- pyodide-mkdocs-theme
-- mkpkg
-- mcp-idcard-photo
-- serialdevicelib
-- programgarden-community
-- singular-tweaks
-- avrotize

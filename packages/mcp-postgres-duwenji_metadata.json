@@ -1,11 +1,11 @@
 {
   "name": "mcp-postgres-duwenji",
-  "version": "1.2.29",
+  "version": "1.2.31",
   "summary": "MCP server for PostgreSQL database operations",
   "author": "mcp-postgres, duwenji",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_postgres_duwenji-1.2.29.tar.gz",
-  "download_time": "2025-11-10T15:27:54.407377",
+  "download_filename": "mcp_postgres_duwenji-1.2.31.tar.gz",
+  "download_time": "2025-11-15T11:41:32.349704",
   "package_url": "https://pypi.org/project/mcp-postgres-duwenji/"
 }
