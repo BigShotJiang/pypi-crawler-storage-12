@@ -1,59 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T18:33:37.299264
-- **Total Packages**: 85
-- **Total Size**: 20.03 MB
+- **Download Time**: 2025-11-15T18:55:44.363876
+- **Total Packages**: 87
+- **Total Size**: 4.9 MB
 
 ## Packages List
-- h5pandas
-- anonymask
-- nifti2bids
-- iris-vector-graph
-- odfdo
-- litellm-enterprise
-- chuk-mcp-telnet-client
-- crystal-cell-setter
-- blacksheep
-- rlic
-- kollabor
-- crystalwindow
-- linemark
-- resrm
-- yf-simple-fetcher
-- awive
-- artemis-model
-- storygenerator
-- roi-rectangle
-- pbesa
-- picteus-extension-sdk
-- wayne-graphics
-- chuk-protocol-server
-- bqseine
-- easyrunner-cli
-- vista-imagery
-- stochtest
-- scald
-- wmill-pg
-- aider-ce
-- wmill
-- windmill-api
-- pytrendy
-- BloodSpiderModel
-- py-xbrl
-- odoo-env
-- code-intelligence
-- locoformer
-- aiecs
-- lunaengine
-- vibe-todo
-- ssrjson
-- radio-curses
-- gtalk
-- pywiim
-- claudestine
-- oidcauthlib
-- nodcast
 - vendy-rpc
 - beets-cdman
 - comlrl
@@ -78,16 +30,66 @@
 - retrocast
 - meshcore-cli
 - maleo-soma
+- gtalk
 - maleo-metadata
 - hedgebuddy
 - maleo-middlewares
 - rxfoundry.clients.swifty_oauth_api
+- bqseine
 - rxfoundry.clients.swifty_api
 - valid8r
 - bookmark-tk
 - cobra-color
+- pywiim
 - maleo-google
 - grabpy
+- kollabor
 - iflow-mcp_mcp-observer-server
 - vector-vault
 - depanalyzer
+- ghostimports
+- starco-dj-utils
+- maleo-client
+- named-arrays
+- dwdatareader
+- jsl-lang
+- sentineltoolbox
+- maps4fs
+- signal-fabric-client
+- annize
+- yt-bhs
+- docsible
+- realms-cli
+- vogel-video-analyzer
+- maleo-infra
+- deepseek-agent
+- maleo-database
+- nodcast
+- cb-events
+- aquiles-rag
+- humanitix-client
+- starrail_damage_cal
+- meshcore
+- artemis-model
+- pyvizx
+- scikit-autoeval
+- icad-tone-detection
+- MGost
+- blart-py
+- reqlib
+- maleo-schemas
+- trinnov-altitude
+- mqtt-ingestor
+- jokoor
+- seafoam
+- woodtapper
+- jaf
+- two-point-interpolation
+- claude-worktree
+- setupEM
+- sindripy
+- weakincentives
+- locoformer
+- phx
+- mcli-framework
+- doctra

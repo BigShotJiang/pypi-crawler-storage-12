@@ -1,11 +1,11 @@
 {
   "name": "lazysdk",
-  "version": "0.1.127",
+  "version": "0.1.128",
   "summary": "基于Python的懒人包",
   "author": "ZeroSeeker",
   "license": null,
   "home_page": "https://gitee.com/ZeroSeeker/lazysdk",
-  "download_filename": "lazysdk-0.1.127.tar.gz",
-  "download_time": "2025-11-15T18:33:20.702154",
+  "download_filename": "lazysdk-0.1.128.tar.gz",
+  "download_time": "2025-11-15T18:54:59.155512",
   "package_url": "https://pypi.org/project/lazysdk/"
 }
