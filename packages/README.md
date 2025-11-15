@@ -1,67 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T16:59:46.091362
-- **Total Packages**: 88
-- **Total Size**: 8.58 MB
+- **Download Time**: 2025-11-15T17:23:40.862435
+- **Total Packages**: 82
+- **Total Size**: 4.55 MB
 
 ## Packages List
-- flekspy
-- aponyx
-- yt-dlp-termux-gui
-- shyt
-- clc99
-- qtoggleserver
-- unimath
-- asttokens
-- fastapi-auth-starter
-- heracless
-- pyqrackising
-- dokuWikiDumper
-- pyextract-junbo
-- bookdatamaker
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- locoformer
-- loxodo-curses
-- mkpkg
-- treesak
-- returnn
-- osier
-- pageindex
-- metron-tagger
-- convocations
-- perforatedbp
-- tallyfy
-- pyoe2-craftpath
-- podflow
-- exploit_utils
-- maldatagen
-- bqseine
-- openhive
-- kleinkram
-- pywiim
-- smartpush
-- aa-mailrelay
-- darkseid
-- pyem-st-artifacts
 - nodcast
-- claude-worktree
-- matrice-inference
-- module-typica
-- huitzo-sdk
-- gtpp
-- v2simux
-- private-assistant-comms-satellite
-- quannengbao
-- ttw-tool-sdk
-- m3d0tr1xnums
-- pmccc
-- ha-mqtt-discoverable-cli
-- makeprov
-- tmux-language-server
-- cilpy
 - htmlxify
+- bookdatamaker
 - wikiteam3
 - niemarkov
 - aiinbx
@@ -94,3 +41,50 @@
 - pyaterochka-api
 - maleo-metadata
 - simplyprint-bambu-lab
+- tzif-parser
+- pyextract-junbo
+- chatads-mcp-wrapper
+- crackerjack
+- cocoindex
+- nobs
+- chatads-sdk
+- mkdocs-search-links-plugin
+- cloudoll
+- maleo-soma
+- setup-fleet-mcp
+- GameSentenceMiner
+- mlstac
+- TunEd
+- cilpy
+- lyricsipsum
+- context-lens
+- yaspeedtest
+- ha-mqtt-discoverable
+- duckrun
+- semtools-py
+- maleo-middlewares
+- pywiim
+- odoo-addon-l10n-ec-account-edi
+- steindamm
+- cybrid-api-organization-python
+- flixopt
+- cybrid-api-bank-python
+- prisma-web3-py
+- thanos-cli
+- cybrid-api-id-python
+- oeissequences
+- docuvert
+- NitroExpose
+- setupEM
+- smooth-cli
+- go-or-no-go
+- pythran
+- bookmark-lens
+- maleo-google
+- maleo-client
+- aa-structures
+- ipe
+- python-roborock
+- maleo-infra
+- maleo-database
+- quannengbao
