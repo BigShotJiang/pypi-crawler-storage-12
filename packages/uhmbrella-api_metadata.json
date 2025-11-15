@@ -1,11 +1,11 @@
 {
   "name": "uhmbrella-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Uhmbrella AIMD - client SDK and CLI for the Uhmbrella AI music detection API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uhmbrella_api-0.1.2.tar.gz",
-  "download_time": "2025-11-15T03:13:01.250942",
+  "download_filename": "uhmbrella_api-0.1.3.tar.gz",
+  "download_time": "2025-11-15T03:48:36.097878",
   "package_url": "https://pypi.org/project/uhmbrella-api/"
 }

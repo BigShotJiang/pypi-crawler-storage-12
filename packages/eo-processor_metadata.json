@@ -1,11 +1,11 @@
 {
   "name": "eo-processor",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "High-performance Rust UDFs for Earth Observation processing",
   "author": "Benjamin Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "eo_processor-0.7.0.tar.gz",
-  "download_time": "2025-11-14T18:36:53.619999",
+  "download_filename": "eo_processor-0.7.2.tar.gz",
+  "download_time": "2025-11-15T03:48:28.041957",
   "package_url": "https://pypi.org/project/eo-processor/"
 }

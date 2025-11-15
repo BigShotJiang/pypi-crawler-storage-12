@@ -1,11 +1,11 @@
 {
   "name": "stochtest",
-  "version": "0.0.2",
-  "summary": "Automated statistical testing for stochastic code (coming soon)",
+  "version": "0.0.4",
+  "summary": "Stochtest is a Python library for performing statistical assertions on stochastic outputs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stochtest-0.0.2.tar.gz",
-  "download_time": "2025-11-13T03:20:32.329524",
+  "download_filename": "stochtest-0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-15T03:48:28.560778",
   "package_url": "https://pypi.org/project/stochtest/"
 }
