@@ -1,0 +1,11 @@
+{
+  "name": "hyperlane",
+  "version": "0.1.0",
+  "summary": "Distributed GPU inference engine for heterogeneous prosumer hardware",
+  "author": "Hyperlane Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hyperlane",
+  "download_filename": "hyperlane-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-15T14:44:07.606952",
+  "package_url": "https://pypi.org/project/hyperlane/"
+}
