@@ -1,11 +1,11 @@
 {
   "name": "datawrapper-mcp",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datawrapper_mcp-0.0.13.tar.gz",
-  "download_time": "2025-11-15T13:16:22.100188",
+  "download_filename": "datawrapper_mcp-0.0.14.tar.gz",
+  "download_time": "2025-11-15T13:38:13.775527",
   "package_url": "https://pypi.org/project/datawrapper-mcp/"
 }
