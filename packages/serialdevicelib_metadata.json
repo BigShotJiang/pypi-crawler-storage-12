@@ -1,11 +1,11 @@
 {
   "name": "serialdevicelib",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A package for controling serial devices",
   "author": "bobisaperson1",
   "license": null,
   "home_page": null,
-  "download_filename": "serialdevicelib-0.0.5.tar.gz",
-  "download_time": "2025-11-15T09:24:20.449497",
+  "download_filename": "serialdevicelib-0.0.6.tar.gz",
+  "download_time": "2025-11-15T09:41:45.925981",
   "package_url": "https://pypi.org/project/serialdevicelib/"
 }
