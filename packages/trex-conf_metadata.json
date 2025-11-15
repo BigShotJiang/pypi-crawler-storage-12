@@ -1,11 +1,11 @@
 {
   "name": "trex-conf",
-  "version": "1.6.14",
+  "version": "1.6.15",
   "summary": "TRex Configuration package",
   "author": "Jack Lok",
   "license": null,
   "home_page": "https://bitbucket.org/lokjac/trex-conf",
-  "download_filename": "trex_conf-1.6.14.tar.gz",
-  "download_time": "2025-11-15T09:41:39.193161",
+  "download_filename": "trex_conf-1.6.15.tar.gz",
+  "download_time": "2025-11-15T14:22:32.445508",
   "package_url": "https://pypi.org/project/trex-conf/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "polars-mcp",
-  "version": "0.1.1",
-  "summary": "MCP server providing Polars API reference via introspection",
+  "version": "0.2.0",
+  "summary": "MCP server providing Polars API reference and usage guides for efficient Polars query development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_mcp-0.1.1.tar.gz",
-  "download_time": "2025-11-11T07:56:16.678381",
+  "download_filename": "polars_mcp-0.2.0.tar.gz",
+  "download_time": "2025-11-15T14:22:41.468245",
   "package_url": "https://pypi.org/project/polars-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pptx-tools",
+  "version": "1.0.0",
+  "summary": "MCP server for creating and managing PowerPoint presentations using python-pptx",
+  "author": "PowerPoint MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_pptx_tools-1.0.0.tar.gz",
+  "download_time": "2025-11-15T14:22:45.086400",
+  "package_url": "https://pypi.org/project/mcp-pptx-tools/"
+}

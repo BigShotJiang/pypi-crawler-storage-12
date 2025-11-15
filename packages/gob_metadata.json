@@ -1,11 +1,11 @@
 {
   "name": "gob",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A collection of global optimization algorithms implemented in C++ and linked with Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gob-0.0.4.tar.gz",
-  "download_time": "2025-11-15T13:54:49.312256",
+  "download_filename": "gob-0.0.5.tar.gz",
+  "download_time": "2025-11-15T14:22:34.494392",
   "package_url": "https://pypi.org/project/gob/"
 }

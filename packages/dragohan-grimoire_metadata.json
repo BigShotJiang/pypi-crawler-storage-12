@@ -1,11 +1,11 @@
 {
   "name": "dragohan-grimoire",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": "AI Automation Grimoire - The Shadow Monarch's Arsenal",
   "author": "DragoHan",
   "license": null,
   "home_page": "https://github.com/farhanistopG1/my_grimoire",
-  "download_filename": "dragohan_grimoire-1.8.2.tar.gz",
-  "download_time": "2025-11-15T09:41:41.266145",
+  "download_filename": "dragohan_grimoire-1.8.3.tar.gz",
+  "download_time": "2025-11-15T14:22:39.336027",
   "package_url": "https://pypi.org/project/dragohan-grimoire/"
 }
