@@ -1,0 +1,11 @@
+{
+  "name": "niceguicrud",
+  "version": "0.1.11",
+  "summary": "Edit your pydantic models with a nice GUI - CRUD Create Update Replace Delete",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "niceguicrud-0.1.11.tar.gz",
+  "download_time": "2025-11-15T19:55:06.202524",
+  "package_url": "https://pypi.org/project/niceguicrud/"
+}

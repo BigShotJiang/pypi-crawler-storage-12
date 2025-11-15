@@ -1,0 +1,11 @@
+{
+  "name": "ai-swarm",
+  "version": "0.1.6",
+  "summary": "This is a framework for a multi-agent system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_swarm-0.1.6.tar.gz",
+  "download_time": "2025-11-15T19:55:09.891536",
+  "package_url": "https://pypi.org/project/ai-swarm/"
+}
