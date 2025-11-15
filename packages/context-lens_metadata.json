@@ -1,11 +1,11 @@
 {
   "name": "context-lens",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Context Lens - Give your LLM glasses to understand meaning, not just read words. Semantic search for AI assistants.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "context_lens-0.1.7.tar.gz",
-  "download_time": "2025-11-12T18:37:42.070734",
+  "download_filename": "context_lens-0.1.8.tar.gz",
+  "download_time": "2025-11-15T15:56:04.826640",
   "package_url": "https://pypi.org/project/context-lens/"
 }

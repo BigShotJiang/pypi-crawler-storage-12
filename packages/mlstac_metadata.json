@@ -1,11 +1,11 @@
 {
   "name": "mlstac",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "A machine learning model-sharing specification based on STAC MLM and Safetensors.",
   "author": "Cesar Aybar",
   "license": null,
   "home_page": "https://github.com/csaybar/isp-models",
-  "download_filename": "mlstac-0.4.2.tar.gz",
-  "download_time": "2025-11-15T15:42:38.771440",
+  "download_filename": "mlstac-0.4.3.tar.gz",
+  "download_time": "2025-11-15T15:56:02.779637",
   "package_url": "https://pypi.org/project/mlstac/"
 }
