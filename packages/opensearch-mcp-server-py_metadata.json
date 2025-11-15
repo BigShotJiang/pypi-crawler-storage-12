@@ -1,11 +1,11 @@
 {
   "name": "opensearch-mcp-server-py",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "OpenSearch MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opensearch_mcp_server_py-0.5.0.tar.gz",
-  "download_time": "2025-11-13T05:26:28.494960",
+  "download_filename": "opensearch_mcp_server_py-0.5.2.tar.gz",
+  "download_time": "2025-11-15T01:53:14.247149",
   "package_url": "https://pypi.org/project/opensearch-mcp-server-py/"
 }

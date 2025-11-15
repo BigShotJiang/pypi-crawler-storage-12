@@ -1,11 +1,11 @@
 {
   "name": "dataframe-textual",
-  "version": "1.0.0",
-  "summary": "Interactive CSV/Excel viewer for the terminal (Textual TUI)",
+  "version": "1.3.9",
+  "summary": "Interactive terminal viewer/editor for tabular data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dataframe_textual-1.0.0.tar.gz",
-  "download_time": "2025-11-10T16:58:28.776343",
+  "download_filename": "dataframe_textual-1.3.9.tar.gz",
+  "download_time": "2025-11-15T01:53:09.195787",
   "package_url": "https://pypi.org/project/dataframe-textual/"
 }

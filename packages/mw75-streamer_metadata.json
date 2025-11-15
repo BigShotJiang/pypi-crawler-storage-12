@@ -1,11 +1,11 @@
 {
   "name": "mw75-streamer",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Stream EEG data from MW75 Neuro headphones using BLE and RFCOMM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mw75_streamer-1.0.7-py3-none-any.whl",
-  "download_time": "2025-11-11T22:55:36.765582",
+  "download_filename": "mw75_streamer-1.0.8-py3-none-any.whl",
+  "download_time": "2025-11-15T01:52:50.953356",
   "package_url": "https://pypi.org/project/mw75-streamer/"
 }

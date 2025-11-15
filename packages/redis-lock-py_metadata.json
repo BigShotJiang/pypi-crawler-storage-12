@@ -1,0 +1,11 @@
+{
+  "name": "redis-lock-py",
+  "version": "1.2.1",
+  "summary": "Redis distributed lock implementation for Python based on Pub/Sub messaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis_lock_py-1.2.1.tar.gz",
+  "download_time": "2025-11-15T01:52:47.237754",
+  "package_url": "https://pypi.org/project/redis-lock-py/"
+}

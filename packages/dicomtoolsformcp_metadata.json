@@ -1,11 +1,11 @@
 {
   "name": "dicomtoolsformcp",
-  "version": "1.1.3",
+  "version": "1.1.6",
   "summary": "基于 MCP (Model Context Protocol) 的 DICOM 医学影像文件分析工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dicomtoolsformcp-1.1.3.tar.gz",
-  "download_time": "2025-11-14T08:58:59.115095",
+  "download_filename": "dicomtoolsformcp-1.1.6.tar.gz",
+  "download_time": "2025-11-15T01:52:44.118146",
   "package_url": "https://pypi.org/project/dicomtoolsformcp/"
 }

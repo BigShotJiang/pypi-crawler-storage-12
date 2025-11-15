@@ -1,0 +1,11 @@
+{
+  "name": "dangerously-prompt-permissions",
+  "version": "0.1.0",
+  "summary": "A manager system for Claude Code that intercepts and supervises tool actions using OpenRouter LLMs",
+  "author": "smarsx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dangerously_prompt_permissions-0.1.0.tar.gz",
+  "download_time": "2025-11-15T01:53:19.507753",
+  "package_url": "https://pypi.org/project/dangerously-prompt-permissions/"
+}
