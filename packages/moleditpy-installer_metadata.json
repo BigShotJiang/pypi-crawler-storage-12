@@ -1,0 +1,11 @@
+{
+  "name": "moleditpy-installer",
+  "version": "0.1.3",
+  "summary": "Installer and shortcut creator for moleditpy (OS-dependent)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moleditpy_installer-0.1.3.tar.gz",
+  "download_time": "2025-11-15T09:24:22.023515",
+  "package_url": "https://pypi.org/project/moleditpy-installer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pjrpc",
+  "version": "2.1.2",
+  "summary": "Extensible JSON-RPC library",
+  "author": "Dmitry Pershin",
+  "license": "Unlicense",
+  "home_page": "https://github.com/dapper91/pjrpc",
+  "download_filename": "pjrpc-2.1.2.tar.gz",
+  "download_time": "2025-11-15T09:25:00.392357",
+  "package_url": "https://pypi.org/project/pjrpc/"
+}

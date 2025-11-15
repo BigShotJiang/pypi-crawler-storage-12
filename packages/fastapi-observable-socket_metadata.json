@@ -1,11 +1,11 @@
 {
   "name": "fastapi-observable-socket",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "A lightweight WebSocket router for FastAPI, fully compatible with the ObservableSocket (JS/TS) client.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_observable_socket-1.0.0.tar.gz",
-  "download_time": "2025-11-12T10:28:47.778555",
+  "download_filename": "fastapi_observable_socket-1.1.1.tar.gz",
+  "download_time": "2025-11-15T09:24:28.472389",
   "package_url": "https://pypi.org/project/fastapi-observable-socket/"
 }

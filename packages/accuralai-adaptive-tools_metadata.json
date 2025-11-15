@@ -1,0 +1,11 @@
+{
+  "name": "accuralai-adaptive-tools",
+  "version": "0.2.0",
+  "summary": "Self-improving tool ecosystem with V1 (pattern-based generation), V2 (learning-based optimization), and V3 (unified coordination)",
+  "author": "AccuralAI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "accuralai_adaptive_tools-0.2.0.tar.gz",
+  "download_time": "2025-11-15T09:24:32.140925",
+  "package_url": "https://pypi.org/project/accuralai-adaptive-tools/"
+}

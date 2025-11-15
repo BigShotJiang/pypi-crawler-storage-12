@@ -1,0 +1,11 @@
+{
+  "name": "codosdk",
+  "version": "1.0.55",
+  "summary": "CODO项目的Python SDK",
+  "author": "shenshuo",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ss1917/codo_sdk/",
+  "download_filename": "codosdk-1.0.55.tar.gz",
+  "download_time": "2025-11-15T09:24:21.491742",
+  "package_url": "https://pypi.org/project/codosdk/"
+}
