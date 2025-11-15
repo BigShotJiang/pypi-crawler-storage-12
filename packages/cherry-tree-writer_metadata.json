@@ -1,0 +1,11 @@
+{
+  "name": "cherry-tree-writer",
+  "version": "0.41",
+  "summary": "Minimalist Python library for writting cherrytree document",
+  "author": "Guilhem RIOUX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cherry_tree_writer-0.41-py3-none-any.whl",
+  "download_time": "2025-11-15T19:41:07.168329",
+  "package_url": "https://pypi.org/project/cherry-tree-writer/"
+}

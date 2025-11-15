@@ -1,0 +1,11 @@
+{
+  "name": "pybookkeeper",
+  "version": "0.11.0",
+  "summary": "Utility for small-scale Finnish double-ledger bookkeeping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybookkeeper-0.11.0.tar.gz",
+  "download_time": "2025-11-15T19:41:05.332874",
+  "package_url": "https://pypi.org/project/pybookkeeper/"
+}

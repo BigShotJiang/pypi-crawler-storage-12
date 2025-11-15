@@ -1,0 +1,11 @@
+{
+  "name": "pydpkg",
+  "version": "1.9.5",
+  "summary": "A python library for parsing debian package control headers and version strings",
+  "author": "Nathan J. Mehl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/memory/python-dpkg",
+  "download_filename": "pydpkg-1.9.5.tar.gz",
+  "download_time": "2025-11-15T19:41:11.119624",
+  "package_url": "https://pypi.org/project/pydpkg/"
+}

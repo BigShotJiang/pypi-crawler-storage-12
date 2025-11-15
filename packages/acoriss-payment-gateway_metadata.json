@@ -1,0 +1,11 @@
+{
+  "name": "acoriss-payment-gateway",
+  "version": "0.1.0",
+  "summary": "Python SDK for Acoriss Payment Gateway",
+  "author": "Acoriss",
+  "license": "MIT",
+  "home_page": "https://github.com/Acoriss-RDC/payment-gateway-python-sdk",
+  "download_filename": "acoriss_payment_gateway-0.1.0.tar.gz",
+  "download_time": "2025-11-15T19:41:01.138629",
+  "package_url": "https://pypi.org/project/acoriss-payment-gateway/"
+}
