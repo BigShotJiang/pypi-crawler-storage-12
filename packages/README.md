@@ -1,12 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T10:45:16.789745
-- **Total Packages**: 89
-- **Total Size**: 4.07 MB
+- **Download Time**: 2025-11-15T10:56:27.831992
+- **Total Packages**: 87
+- **Total Size**: 12.06 MB
 
 ## Packages List
+- portacode
+- create-st
+- sendgridsend
+- vs-server-colab
+- netlite
+- storygenerator
+- task-scheduling
+- binaryoptionstoolsv2
+- openocd
+- git-sanity
+- wigle-ssid-search
+- cwb-utils
+- nonebot-plugin-jrrp3
+- cribl-control-plane
+- programgarden
+- fastapps
+- utils-devops
+- friendly-sequences
+- mcp-sharepoint
+- konduktor-nightly
 - trainy-policy-nightly
+- junshan-kit
+- cobra-color
 - locust
 - letta-nightly
 - pyodide-mkdocs-theme
@@ -26,7 +48,6 @@
 - nvidia-nat-data-flywheel
 - nvidia-nat-semantic-kernel
 - nvidia-nat-opentelemetry
-- wigle-ssid-search
 - nvidia-nat-llama-index
 - Zen-STT
 - programgarden-finance
@@ -72,26 +93,3 @@
 - aiqtoolkit
 - python-obfuscation-framework
 - plumhound
-- packg
-- OmniSlicer
-- ai-edge-torch-nightly
-- docker-enumsensitive
-- programgarden-core
-- online-deterministic-annealing
-- egos-helpers
-- linediff
-- nercone-modern
-- netwatchpy
-- rds-proxy-password-rotation
-- Fix-agent
-- typedparser
-- genomen
-- pypcapkit
-- exioml
-- nessus-plugin-hosts
-- onlyuserclient
-- AnkiHelper
-- django-spire
-- datagpu
-- mtlearn
-- typeflowapp

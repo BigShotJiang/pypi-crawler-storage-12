@@ -1,0 +1,11 @@
+{
+  "name": "openocd",
+  "version": "0.4.0",
+  "summary": "Python interface library for OpenOCD",
+  "author": "Marc Schink",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://gitlab.zapb.de/openocd/python-openocd",
+  "download_filename": "openocd-0.4.0.tar.gz",
+  "download_time": "2025-11-15T10:55:46.079800",
+  "package_url": "https://pypi.org/project/openocd/"
+}
