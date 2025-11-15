@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-observer-server",
+  "version": "0.1.1",
+  "summary": "An MCP server that monitors system events, such as file changes, and sends notifications to an MCP client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_observer_server-0.1.1.tar.gz",
+  "download_time": "2025-11-15T17:54:59.841285",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-observer-server/"
+}

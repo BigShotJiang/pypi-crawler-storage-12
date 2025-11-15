@@ -1,0 +1,11 @@
+{
+  "name": "dwdatareader",
+  "version": "1.2.0",
+  "summary": "Python module to interact with Dewesoft DWDataReaderLib shared library",
+  "author": "Carl Osterwisch",
+  "license": "MIT",
+  "home_page": "https://github.com/costerwi/dwdatareader/",
+  "download_filename": "dwdatareader-1.2.0.tar.gz",
+  "download_time": "2025-11-15T17:55:03.475252",
+  "package_url": "https://pypi.org/project/dwdatareader/"
+}

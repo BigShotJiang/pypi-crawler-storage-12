@@ -1,0 +1,11 @@
+{
+  "name": "trinnov-altitude",
+  "version": "1.2.8",
+  "summary": "\"Python client for interfacing with the Trinnov Altitude processor.\"",
+  "author": "Ben Johnson",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/binarylogic/py-trinnov-altitude",
+  "download_filename": "trinnov_altitude-1.2.8.tar.gz",
+  "download_time": "2025-11-15T17:55:18.634241",
+  "package_url": "https://pypi.org/project/trinnov-altitude/"
+}

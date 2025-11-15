@@ -1,0 +1,11 @@
+{
+  "name": "docsible",
+  "version": "0.8.0",
+  "summary": "Document generator for ansible role/collection",
+  "author": "Lucian BLETAN",
+  "license": "MIT",
+  "home_page": "https://github.com/docsible/docsible",
+  "download_filename": "docsible-0.8.0.tar.gz",
+  "download_time": "2025-11-15T17:55:07.634454",
+  "package_url": "https://pypi.org/project/docsible/"
+}
