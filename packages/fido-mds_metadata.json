@@ -1,0 +1,11 @@
+{
+  "name": "fido-mds",
+  "version": "2025.11",
+  "summary": "FIDO Alliance Metadata Service in a package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fido_mds-2025.11.tar.gz",
+  "download_time": "2025-11-15T03:13:26.257908",
+  "package_url": "https://pypi.org/project/fido-mds/"
+}

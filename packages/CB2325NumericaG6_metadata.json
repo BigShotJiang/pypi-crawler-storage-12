@@ -1,11 +1,11 @@
 {
   "name": "CB2325NumericaG6",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Alpha version of NumericaG6",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cb2325numericag6-1.1.0.tar.gz",
-  "download_time": "2025-11-14T23:24:17.274949",
+  "download_filename": "cb2325numericag6-1.2.1.tar.gz",
+  "download_time": "2025-11-15T03:13:18.528431",
   "package_url": "https://pypi.org/project/CB2325NumericaG6/"
 }

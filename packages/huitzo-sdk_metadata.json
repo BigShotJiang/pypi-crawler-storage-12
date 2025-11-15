@@ -1,11 +1,11 @@
 {
   "name": "huitzo-sdk",
-  "version": "0.0.855",
+  "version": "0.0.890",
   "summary": "Developer SDK for Huitzo WebCLI Platform Tools - HTTP Clients and Plugin Development Interfaces",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "huitzo_sdk-0.0.855.tar.gz",
-  "download_time": "2025-11-13T17:58:02.671114",
+  "download_filename": "huitzo_sdk-0.0.890.tar.gz",
+  "download_time": "2025-11-15T03:12:43.359184",
   "package_url": "https://pypi.org/project/huitzo-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastinit-cli",
+  "version": "0.1.4",
+  "summary": "A simple CLI to quickly and cleanly create FastAPI projects and modules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastinit_cli-0.1.4.tar.gz",
+  "download_time": "2025-11-15T03:13:09.166028",
+  "package_url": "https://pypi.org/project/fastinit-cli/"
+}
