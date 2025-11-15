@@ -1,0 +1,11 @@
+{
+  "name": "envbox",
+  "version": "2.0.0",
+  "summary": "Detect environment type and work within.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envbox-2.0.0.tar.gz",
+  "download_time": "2025-11-15T10:25:25.964118",
+  "package_url": "https://pypi.org/project/envbox/"
+}

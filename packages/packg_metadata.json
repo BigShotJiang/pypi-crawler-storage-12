@@ -1,11 +1,11 @@
 {
   "name": "packg",
-  "version": "0.32.12",
+  "version": "0.33.1",
   "summary": "Collection of utilities used in other python projects.",
   "author": "simon-ging",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "packg-0.32.12.tar.gz",
-  "download_time": "2025-11-15T09:24:28.994402",
+  "download_filename": "packg-0.33.1.tar.gz",
+  "download_time": "2025-11-15T10:25:03.431418",
   "package_url": "https://pypi.org/project/packg/"
 }

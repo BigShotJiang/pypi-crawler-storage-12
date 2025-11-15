@@ -1,11 +1,11 @@
 {
   "name": "subnethostcount",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Count usable IPv4 hosts across CIDR subnets and individual IP addresses.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subnethostcount-0.1.4.tar.gz",
-  "download_time": "2025-11-15T09:24:25.224636",
+  "download_filename": "subnethostcount-0.1.5.tar.gz",
+  "download_time": "2025-11-15T10:24:59.786923",
   "package_url": "https://pypi.org/project/subnethostcount/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "genomen",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Polygenic Risk and Association beyond Linearity",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genomen-0.1.3.tar.gz",
-  "download_time": "2025-11-15T07:40:50.026760",
+  "download_filename": "genomen-0.1.4.tar.gz",
+  "download_time": "2025-11-15T10:25:10.749710",
   "package_url": "https://pypi.org/project/genomen/"
 }

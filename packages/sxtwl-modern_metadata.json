@@ -1,0 +1,11 @@
+{
+  "name": "sxtwl-modern",
+  "version": "1.1.2",
+  "summary": "Sxtwl_cpp wrapper for Python - Chinese Lunar Calendar Library",
+  "author": "yuangu",
+  "license": "BSD",
+  "home_page": "https://github.com/SIC98/sxtwl",
+  "download_filename": "sxtwl_modern-1.1.2.tar.gz",
+  "download_time": "2025-11-15T10:25:03.967434",
+  "package_url": "https://pypi.org/project/sxtwl-modern/"
+}

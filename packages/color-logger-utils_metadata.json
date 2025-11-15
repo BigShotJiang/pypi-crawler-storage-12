@@ -1,0 +1,11 @@
+{
+  "name": "color-logger-utils",
+  "version": "0.1.0",
+  "summary": "Dependency-injection friendly logging utilities with colorized console output.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "color_logger_utils-0.1.0.tar.gz",
+  "download_time": "2025-11-15T10:24:58.200235",
+  "package_url": "https://pypi.org/project/color-logger-utils/"
+}
