@@ -1,0 +1,11 @@
+{
+  "name": "eDoping",
+  "version": "0.4.3",
+  "summary": "A high-throughput software package for evaluating point defects",
+  "author": "Jianbo ZHU, Jingyu LI, Peng-Fei LIU",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/JianboHIT/eDoping",
+  "download_filename": "edoping-0.4.3.tar.gz",
+  "download_time": "2025-11-15T07:54:22.722933",
+  "package_url": "https://pypi.org/project/eDoping/"
+}

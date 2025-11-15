@@ -1,11 +1,11 @@
 {
   "name": "nessus-plugin-hosts",
-  "version": "0.1.1",
+  "version": "2.0.2",
   "summary": "A collection of Python CLI tools for parsing and summarizing Nessus .nessus scan results.",
   "author": null,
-  "license": null,
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "nessus_plugin_hosts-0.1.1.tar.gz",
-  "download_time": "2025-11-15T07:40:47.447105",
+  "download_filename": "nessus_plugin_hosts-2.0.2.tar.gz",
+  "download_time": "2025-11-15T07:54:19.202310",
   "package_url": "https://pypi.org/project/nessus-plugin-hosts/"
 }
