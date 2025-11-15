@@ -1,0 +1,11 @@
+{
+  "name": "pybioinformatic",
+  "version": "1.2.5",
+  "summary": "Bioinformatic python package.",
+  "author": "Wenlin Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/wenlinXu-njfu/Leo",
+  "download_filename": "pybioinformatic-1.2.5-py3-none-any.whl",
+  "download_time": "2025-11-15T13:54:20.783927",
+  "package_url": "https://pypi.org/project/pybioinformatic/"
+}

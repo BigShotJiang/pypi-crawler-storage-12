@@ -1,0 +1,11 @@
+{
+  "name": "biofile-kit",
+  "version": "0.1.0",
+  "summary": "Bioinformatics File Operations Toolkit.",
+  "author": "Wenlin Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/wenlinXu-njfu/BioFileKit",
+  "download_filename": "biofile_kit-0.1.0.tar.gz",
+  "download_time": "2025-11-15T13:54:26.236713",
+  "package_url": "https://pypi.org/project/biofile-kit/"
+}

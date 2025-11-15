@@ -1,11 +1,11 @@
 {
   "name": "ara-api-web",
-  "version": "1.1.0rc1",
+  "version": "1.1.0rc2",
   "summary": "Web interface for ARA API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ara_api_web-1.1.0rc1.tar.gz",
-  "download_time": "2025-11-15T07:54:30.902694",
+  "download_filename": "ara_api_web-1.1.0rc2.tar.gz",
+  "download_time": "2025-11-15T13:54:33.693294",
   "package_url": "https://pypi.org/project/ara-api-web/"
 }

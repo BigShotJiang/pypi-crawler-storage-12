@@ -1,11 +1,11 @@
 {
   "name": "flerity-core",
-  "version": "0.1.2.dev20251115124733",
+  "version": "0.1.2.dev20251115134646",
   "summary": "Flerity shared core library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flerity_core-0.1.2.dev20251115124733.tar.gz",
-  "download_time": "2025-11-15T13:16:28.970018",
+  "download_filename": "flerity_core-0.1.2.dev20251115134646.tar.gz",
+  "download_time": "2025-11-15T13:54:24.670916",
   "package_url": "https://pypi.org/project/flerity-core/"
 }

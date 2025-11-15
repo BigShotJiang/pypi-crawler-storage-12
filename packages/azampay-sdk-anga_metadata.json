@@ -1,0 +1,11 @@
+{
+  "name": "azampay-sdk-anga",
+  "version": "0.1.13",
+  "summary": "A dynamic Python SDK for AzamPay (AzamPay Python SDK used for native python, Django, Flask, FastApi e.t.c)",
+  "author": "Anganile Adam (Anga)",
+  "license": "MIT",
+  "home_page": "https://github.com/tbwahacker/azampay-sdk-anga",
+  "download_filename": "azampay_sdk_anga-0.1.13.tar.gz",
+  "download_time": "2025-11-15T13:54:37.327399",
+  "package_url": "https://pypi.org/project/azampay-sdk-anga/"
+}

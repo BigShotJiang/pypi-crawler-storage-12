@@ -1,11 +1,11 @@
 {
   "name": "grabpy",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "summary": "Simple package for requesting web pages that respects robots.txt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grabpy-0.0.2.tar.gz",
-  "download_time": "2025-11-12T23:24:13.497896",
+  "download_filename": "grabpy-0.0.6.tar.gz",
+  "download_time": "2025-11-15T13:54:25.718963",
   "package_url": "https://pypi.org/project/grabpy/"
 }
