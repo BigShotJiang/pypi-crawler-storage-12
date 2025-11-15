@@ -1,11 +1,11 @@
 {
   "name": "wecompush",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "企业微信信息推送",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wecompush-0.0.1.tar.gz",
-  "download_time": "2025-11-12T10:29:25.882102",
+  "download_filename": "wecompush-0.0.2.tar.gz",
+  "download_time": "2025-11-15T06:38:04.937235",
   "package_url": "https://pypi.org/project/wecompush/"
 }

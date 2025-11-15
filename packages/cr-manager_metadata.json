@@ -1,11 +1,11 @@
 {
   "name": "cr-manager",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "summary": "Tool to automatically add, update, or delete multi-format copyright headers",
   "author": "marslo",
   "license": "MIT",
-  "home_page": "https://github.com/marslo/cr-manager",
-  "download_filename": "cr_manager-3.0.3.tar.gz",
-  "download_time": "2025-11-15T03:48:34.526978",
+  "home_page": "https://pypi.org/project/cr-manager/",
+  "download_filename": "cr_manager-3.0.5.tar.gz",
+  "download_time": "2025-11-15T06:37:56.091600",
   "package_url": "https://pypi.org/project/cr-manager/"
 }

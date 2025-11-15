@@ -1,0 +1,11 @@
+{
+  "name": "irff",
+  "version": "1.7.7",
+  "summary": "Intelligent Reactive Force Field",
+  "author": "FengGo",
+  "license": "LGPL",
+  "home_page": "https://gitee.com/fenggo/I-ReaxFF",
+  "download_filename": "irff-1.7.7.tar.gz",
+  "download_time": "2025-11-15T06:37:46.205411",
+  "package_url": "https://pypi.org/project/irff/"
+}

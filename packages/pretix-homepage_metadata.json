@@ -1,0 +1,11 @@
+{
+  "name": "pretix-homepage",
+  "version": "1.0.3",
+  "summary": "A home page for self hosted Pretix",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pretix_homepage-1.0.3.tar.gz",
+  "download_time": "2025-11-15T06:38:19.492362",
+  "package_url": "https://pypi.org/project/pretix-homepage/"
+}

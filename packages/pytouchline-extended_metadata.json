@@ -1,0 +1,11 @@
+{
+  "name": "pytouchline-extended",
+  "version": "1.0.0.post1",
+  "summary": "A Roth Touchline interface library",
+  "author": "Peter Brondum",
+  "license": "MIT",
+  "home_page": "https://github.com/brondum/pytouchline",
+  "download_filename": "pytouchline_extended-1.0.0.post1.tar.gz",
+  "download_time": "2025-11-15T06:37:53.527971",
+  "package_url": "https://pypi.org/project/pytouchline-extended/"
+}
