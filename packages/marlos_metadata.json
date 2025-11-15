@@ -1,11 +1,11 @@
 {
   "name": "marlos",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Autonomous Distributed Computing Operating System with Reinforcement Learning",
   "author": "Team async_await",
   "license": null,
   "home_page": "https://github.com/ayush-jadaun/MarlOS",
-  "download_filename": "marlos-1.0.4.tar.gz",
-  "download_time": "2025-11-11T19:44:23.516984",
+  "download_filename": "marlos-1.0.5.tar.gz",
+  "download_time": "2025-11-15T07:22:47.393545",
   "package_url": "https://pypi.org/project/marlos/"
 }

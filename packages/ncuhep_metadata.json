@@ -1,11 +1,11 @@
 {
   "name": "ncuhep",
-  "version": "0.1.82",
+  "version": "0.1.83",
   "summary": "A Python project for NCU High Energy Physics.",
   "author": "Kah Seng Phay",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/ncuhep",
-  "download_filename": "ncuhep-0.1.82.tar.gz",
-  "download_time": "2025-11-15T05:47:30.575571",
+  "download_filename": "ncuhep-0.1.83.tar.gz",
+  "download_time": "2025-11-15T07:22:48.967917",
   "package_url": "https://pypi.org/project/ncuhep/"
 }

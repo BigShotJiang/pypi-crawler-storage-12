@@ -1,0 +1,11 @@
+{
+  "name": "funnyreason",
+  "version": "0.1.0",
+  "summary": "A simple package that gives a random funny reason for anything.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "funnyreason-0.1.0.tar.gz",
+  "download_time": "2025-11-15T07:22:49.486199",
+  "package_url": "https://pypi.org/project/funnyreason/"
+}

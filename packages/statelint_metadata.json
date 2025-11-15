@@ -1,0 +1,11 @@
+{
+  "name": "statelint",
+  "version": "3.1.0",
+  "summary": "command-line validator for Amazon States Language",
+  "author": "taro-kayo",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/taro-kayo/statelint",
+  "download_filename": "statelint-3.1.0.tar.gz",
+  "download_time": "2025-11-15T07:22:26.437110",
+  "package_url": "https://pypi.org/project/statelint/"
+}

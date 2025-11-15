@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-paocha",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A NoneBot plugin for tea drinking sign-in system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_paocha-1.0.0.tar.gz",
-  "download_time": "2025-11-15T06:37:54.042839",
+  "download_filename": "nonebot_plugin_paocha-1.1.0.tar.gz",
+  "download_time": "2025-11-15T07:22:43.202332",
   "package_url": "https://pypi.org/project/nonebot-plugin-paocha/"
 }
