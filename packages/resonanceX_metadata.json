@@ -1,0 +1,11 @@
+{
+  "name": "resonanceX",
+  "version": "0.1.0",
+  "summary": "Detect and visualize orbital resonances in exoplanet systems",
+  "author": "Sugeeta",
+  "license": "MIT",
+  "home_page": "https://github.com/Sugeeta/resonanceX",
+  "download_filename": "resonancex-0.1.0.tar.gz",
+  "download_time": "2025-11-15T23:55:48.210868",
+  "package_url": "https://pypi.org/project/resonanceX/"
+}

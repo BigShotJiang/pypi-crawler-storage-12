@@ -1,0 +1,11 @@
+{
+  "name": "sheet-stream",
+  "version": "0.1.3",
+  "summary": "Leitura de dados em planilhas .csv/.ods/.xlsx",
+  "author": "Bruno Chaves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sheet_stream-0.1.3.tar.gz",
+  "download_time": "2025-11-15T23:55:49.766278",
+  "package_url": "https://pypi.org/project/sheet-stream/"
+}

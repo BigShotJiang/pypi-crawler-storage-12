@@ -1,0 +1,11 @@
+{
+  "name": "slimschema",
+  "version": "0.0.0.dev1",
+  "summary": "Token-efficient schema language for LLMs with validation and conversion",
+  "author": "BotAssembly",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slimschema-0.0.0.dev1.tar.gz",
+  "download_time": "2025-11-15T23:55:46.561971",
+  "package_url": "https://pypi.org/project/slimschema/"
+}
