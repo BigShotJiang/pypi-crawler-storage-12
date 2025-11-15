@@ -1,0 +1,11 @@
+{
+  "name": "goeyewitnesscategorizer",
+  "version": "0.1.2",
+  "summary": "Parse GoWitness SQLite results and categorize HTML using EyeWitness-style signatures to produce a CSV report.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "goeyewitnesscategorizer-0.1.2.tar.gz",
+  "download_time": "2025-11-15T11:20:38.306859",
+  "package_url": "https://pypi.org/project/goeyewitnesscategorizer/"
+}

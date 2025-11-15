@@ -1,0 +1,11 @@
+{
+  "name": "wowool-entity-graph",
+  "version": "3.1.5",
+  "summary": "Wowool Entity Graph",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_entity_graph-3.1.5-py3-none-any.whl",
+  "download_time": "2025-11-15T11:20:36.771176",
+  "package_url": "https://pypi.org/project/wowool-entity-graph/"
+}

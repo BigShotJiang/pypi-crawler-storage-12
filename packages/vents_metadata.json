@@ -1,0 +1,11 @@
+{
+  "name": "vents",
+  "version": "0.7.0",
+  "summary": "Open source connections, integrations, alerting, and notification library.",
+  "author": "Mourad Mourafiq",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mmourafiq/vents",
+  "download_filename": "vents-0.7.0.tar.gz",
+  "download_time": "2025-11-15T11:20:39.333731",
+  "package_url": "https://pypi.org/project/vents/"
+}

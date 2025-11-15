@@ -1,11 +1,11 @@
 {
   "name": "typedparser",
-  "version": "0.33.1",
+  "version": "0.33.6",
   "summary": "Extension for python argparse with typehints and typechecks.",
   "author": "simon-ging",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "typedparser-0.33.1.tar.gz",
-  "download_time": "2025-11-15T10:25:10.230840",
+  "download_filename": "typedparser-0.33.6.tar.gz",
+  "download_time": "2025-11-15T11:20:28.557254",
   "package_url": "https://pypi.org/project/typedparser/"
 }

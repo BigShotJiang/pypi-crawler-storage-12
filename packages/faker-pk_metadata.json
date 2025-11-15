@@ -1,0 +1,11 @@
+{
+  "name": "faker-pk",
+  "version": "0.1.8",
+  "summary": "Fake data generator for Pakistani names, CNICs, personal info, address info, job titles, IBAN, Bank names, cities, provinces, castes, sect, network providers, job aware salaries and companies info.",
+  "author": "Muhammad Khubaib Ahmad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "faker_pk-0.1.8.tar.gz",
+  "download_time": "2025-11-15T11:20:36.260827",
+  "package_url": "https://pypi.org/project/faker-pk/"
+}

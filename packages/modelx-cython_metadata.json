@@ -1,0 +1,11 @@
+{
+  "name": "modelx-cython",
+  "version": "0.0.8",
+  "summary": "Cythonize modelx models.",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "modelx_cython-0.0.8.tar.gz",
+  "download_time": "2025-11-15T11:20:31.623882",
+  "package_url": "https://pypi.org/project/modelx-cython/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "protontricks",
+  "version": "1.13.1",
+  "summary": "A simple wrapper for running Winetricks commands for Proton-enabled games.",
+  "author": "Janne Pulkkinen",
+  "license": "GPL3",
+  "home_page": "https://github.com/Matoking/protontricks",
+  "download_filename": "protontricks-1.13.1.tar.gz",
+  "download_time": "2025-11-15T11:20:37.795132",
+  "package_url": "https://pypi.org/project/protontricks/"
+}

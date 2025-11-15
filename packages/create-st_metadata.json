@@ -1,11 +1,11 @@
 {
   "name": "create-st",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "CLI tool for generating directory structures from a text file",
   "author": "aloha v2",
   "license": null,
   "home_page": null,
-  "download_filename": "create_st-0.1.1.tar.gz",
-  "download_time": "2025-11-15T10:55:41.907817",
+  "download_filename": "create_st-0.1.6.tar.gz",
+  "download_time": "2025-11-15T11:20:31.104388",
   "package_url": "https://pypi.org/project/create-st/"
 }
