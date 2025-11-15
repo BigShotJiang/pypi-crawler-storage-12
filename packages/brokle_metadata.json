@@ -1,0 +1,11 @@
+{
+  "name": "brokle",
+  "version": "0.2.11",
+  "summary": "Brokle Platform Python SDK for intelligent LLM routing, caching, and observability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brokle-0.2.11.tar.gz",
+  "download_time": "2025-11-15T19:19:11.404983",
+  "package_url": "https://pypi.org/project/brokle/"
+}

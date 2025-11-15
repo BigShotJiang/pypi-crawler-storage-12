@@ -1,0 +1,11 @@
+{
+  "name": "colpali-engine",
+  "version": "0.3.13",
+  "summary": "The code used to train and run inference with the ColPali architecture.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "colpali_engine-0.3.13.tar.gz",
+  "download_time": "2025-11-15T19:19:25.783567",
+  "package_url": "https://pypi.org/project/colpali-engine/"
+}

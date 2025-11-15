@@ -1,0 +1,11 @@
+{
+  "name": "god-mcp",
+  "version": "0.1.0",
+  "summary": "A meta-MCP server that enables AI agents to dynamically create, manage, and debug other MCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "god_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-15T19:19:07.024931",
+  "package_url": "https://pypi.org/project/god-mcp/"
+}

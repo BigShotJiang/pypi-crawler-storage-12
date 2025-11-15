@@ -1,0 +1,11 @@
+{
+  "name": "mcp-this",
+  "version": "0.0.22",
+  "summary": "MCP Server that exposes CLI commands as tools for Claude using YAML configuration files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_this-0.0.22.tar.gz",
+  "download_time": "2025-11-15T19:18:59.161066",
+  "package_url": "https://pypi.org/project/mcp-this/"
+}

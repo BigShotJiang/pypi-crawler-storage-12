@@ -1,0 +1,11 @@
+{
+  "name": "techfactsdb",
+  "version": "0.1.0",
+  "summary": "My custom module",
+  "author": "Abhiram",
+  "license": null,
+  "home_page": null,
+  "download_filename": "techfactsdb-0.1.0.tar.gz",
+  "download_time": "2025-11-15T19:19:19.037977",
+  "package_url": "https://pypi.org/project/techfactsdb/"
+}

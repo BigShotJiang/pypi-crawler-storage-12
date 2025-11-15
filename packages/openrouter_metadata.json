@@ -1,11 +1,11 @@
 {
   "name": "openrouter",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Official Python Client SDK for OpenRouter.",
   "author": "OpenRouter",
   "license": null,
   "home_page": null,
-  "download_filename": "openrouter-0.0.15.tar.gz",
-  "download_time": "2025-11-13T19:40:21.116249",
+  "download_filename": "openrouter-0.0.16.tar.gz",
+  "download_time": "2025-11-15T19:19:11.951283",
   "package_url": "https://pypi.org/project/openrouter/"
 }
