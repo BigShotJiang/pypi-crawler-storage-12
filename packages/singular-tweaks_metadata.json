@@ -1,0 +1,11 @@
+{
+  "name": "singular-tweaks",
+  "version": "1.0.8",
+  "summary": "Helper UI and HTTP API for Singular.live + optional TfL data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "singular_tweaks-1.0.8.tar.gz",
+  "download_time": "2025-11-15T10:44:30.388067",
+  "package_url": "https://pypi.org/project/singular-tweaks/"
+}
