@@ -1,0 +1,11 @@
+{
+  "name": "pyect",
+  "version": "0.1.5",
+  "summary": "Generalized computation of the WECT using PyTorch.",
+  "author": "Alex McCleary, Eli Quist, Jack Ruder, Jacob Sriraman",
+  "license": "MIT",
+  "home_page": "https://github.com/compTAG/pyECT",
+  "download_filename": "pyect-0.1.5.tar.gz",
+  "download_time": "2025-11-15T14:56:03.659383",
+  "package_url": "https://pypi.org/project/pyect/"
+}

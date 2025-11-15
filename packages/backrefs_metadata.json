@@ -1,0 +1,11 @@
+{
+  "name": "backrefs",
+  "version": "6.1",
+  "summary": "A wrapper around re and regex that adds additional back references.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backrefs-6.1.tar.gz",
+  "download_time": "2025-11-15T14:56:01.503714",
+  "package_url": "https://pypi.org/project/backrefs/"
+}

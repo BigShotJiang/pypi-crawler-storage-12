@@ -1,11 +1,11 @@
 {
   "name": "STAVAG",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Uncovering directionally and temporally variable genes with STAVAG",
   "author": "Qunlun Shen",
   "license": "MIT",
   "home_page": "https://github.com/Zhanglabtools/STAVAG",
-  "download_filename": "stavag-1.0.2.tar.gz",
-  "download_time": "2025-11-15T09:24:42.512417",
+  "download_filename": "stavag-1.0.3.tar.gz",
+  "download_time": "2025-11-15T14:55:59.865129",
   "package_url": "https://pypi.org/project/STAVAG/"
 }
