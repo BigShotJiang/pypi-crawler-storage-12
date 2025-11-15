@@ -1,26 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T21:41:28.540256
-- **Total Packages**: 86
-- **Total Size**: 13.8 MB
+- **Download Time**: 2025-11-15T21:56:18.425384
+- **Total Packages**: 85
+- **Total Size**: 21.75 MB
 
 ## Packages List
+- ncoreparser
+- grafana-fastmcp
+- maleo-middlewares
+- pystorz
+- newspaper4k
+- lexia
+- tibs
+- maleo-google
+- maleo-client
+- python-alpm
+- odoo-addon-l10n-es-verifactu-oca
+- robotframework-processcube
+- lfsir
+- pyfuzzy-toolbox
+- rapyer
+- midi-markdown
+- ocsf-schema-compiler
+- mpesakit
+- maleo-infra
+- trustspeccli
+- trustspecpy
+- webtoolkit
+- wedeliver-core-plus
+- maleo-database
+- ushka
+- django-email-learning
+- powerlawrs
+- mindm-mcp
+- bssir
+- grabpy
+- pandas-toon
+- maleo-schemas
+- dsf-enginexai-sdk
+- dataform-tools
+- yemot-api
+- isitpublic
+- cadens-package
 - chqr
 - itk-growcut
 - fin-infra
 - lar-engine
 - fastapi-auth-starter
 - svc-infra
-- pytmb
 - gofish-graphics
 - fsc-assistant
 - static-import-analysis
 - gofish-python
 - fba-finance
-- trustspeccli
-- trustspecpy
-- pyfuzzy-toolbox
 - pachinko-sdlr-dv
 - py-samsungtv
 - trust-free
@@ -47,12 +80,10 @@
 - cdk-factory
 - hubcap
 - slurm-factory
-- webtoolkit
 - tagic
 - hrcx
 - glidergun
 - kollabor
-- robotframework-processcube
 - openghg
 - waveform-reg-access-extractor
 - pyhausbus
@@ -60,35 +91,3 @@
 - wmill-pg
 - wmill
 - windmill-api
-- paya
-- robotpy-pykit
-- dsf-scoring-sdk
-- itk-boneenhancement
-- mycli
-- aline-ai
-- ofed-private-utils
-- cb-events
-- stjlib
-- ptwordpress
-- itk-montage
-- sc-napalm
-- trackbear-api
-- spotoptim
-- wpiformat
-- pysupercluster-problematy
-- selenium-ui-test-tool
-- ezesri
-- libzapi
-- ankigammon
-- ilc-provider
-- totoon
-- vector-vault
-- setting-manager
-- solokit
-- simpletuner
-- blacksheep
-- catpic
-- fudstop4
-- iolanta
-- wot-pdf
-- hump

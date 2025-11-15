@@ -1,11 +1,11 @@
 {
   "name": "dataform-tools",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "wrapper of the Google Cloud Dataform API (google-cloud-dataform) that simplifies common operations such as listing repositories, managing workspaces, creating compilation results, and triggering workflow invocations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dataform_tools-1.0.3.tar.gz",
-  "download_time": "2025-11-13T18:58:38.032806",
+  "download_filename": "dataform_tools-1.0.4.tar.gz",
+  "download_time": "2025-11-15T21:55:51.502371",
   "package_url": "https://pypi.org/project/dataform-tools/"
 }

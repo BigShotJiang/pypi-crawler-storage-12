@@ -1,11 +1,11 @@
 {
   "name": "robotframework-processcube",
-  "version": "6.0.5",
+  "version": "6.1.2",
   "summary": "Robot Framework Keywords for processcube workflow engine.",
   "author": "5Minds IT-Solutions GmbH & Co. KG",
   "license": "MIT Licence",
   "home_page": "https://github.com/atlas-engine-contrib/robotframework-processcube",
-  "download_filename": "robotframework_processcube-6.0.5.tar.gz",
-  "download_time": "2025-11-15T20:43:18.292453",
+  "download_filename": "robotframework_processcube-6.1.2.tar.gz",
+  "download_time": "2025-11-15T21:55:40.059705",
   "package_url": "https://pypi.org/project/robotframework-processcube/"
 }
