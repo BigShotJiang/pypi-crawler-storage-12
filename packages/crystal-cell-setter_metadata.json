@@ -1,0 +1,11 @@
+{
+  "name": "crystal-cell-setter",
+  "version": "0.1.1",
+  "summary": "A GUI tool to set and adjust unit cell parameters for molecular structures.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "crystal_cell_setter-0.1.1.tar.gz",
+  "download_time": "2025-11-15T18:32:55.843549",
+  "package_url": "https://pypi.org/project/crystal-cell-setter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "roi-rectangle",
+  "version": "1.0.0",
+  "summary": "A module for handling rectangular regions of interest (ROI) in images.",
+  "author": "Isaac Yong",
+  "license": null,
+  "home_page": "https://github.com/SJB7777/roi_rectangle",
+  "download_filename": "roi_rectangle-1.0.0.tar.gz",
+  "download_time": "2025-11-15T18:33:02.171640",
+  "package_url": "https://pypi.org/project/roi-rectangle/"
+}

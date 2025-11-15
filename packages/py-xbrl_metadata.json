@@ -1,0 +1,11 @@
+{
+  "name": "py-xbrl",
+  "version": "2.2.17",
+  "summary": "Parser for parsing XBRL and iXBRL files (instance documents, taxonomy schemas, taxonomy linkbases).",
+  "author": "Manuel Schmidt",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/manusimidt/xbrl_parser",
+  "download_filename": "py_xbrl-2.2.17.tar.gz",
+  "download_time": "2025-11-15T18:33:10.687154",
+  "package_url": "https://pypi.org/project/py-xbrl/"
+}
