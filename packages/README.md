@@ -1,21 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T04:47:39.730792
-- **Total Packages**: 86
-- **Total Size**: 0.68 MB
+- **Download Time**: 2025-11-15T04:59:42.780468
+- **Total Packages**: 75
+- **Total Size**: 21.0 MB
 
 ## Packages List
-- veriskgo
+- axioms-fastapi
+- gwcelery
+- pdf-craft
+- bedrock-agentcore-starter-toolkit
+- pyclnf
+- winipedia-django
+- hitoshura25-gemini-workflow-bridge
+- n3mpy
+- tator
+- meta-spec
+- loce-zap
+- spafw37
+- winipedia-utils
+- iamdata
+- doc-page-extractor
+- craftable
 - fin-infra
-- solie
+- feasytools
+- django-powercrud
+- mecha
+- beet
+- powermem
+- ncuhep
+- mcp-server-nbotbb
+- BoschMiniRpa
+- crackerjack
+- topic-sdk
+- briefconf
+- nlweb-core
+- django-spire
+- odoo-addon-l10n-br-fiscal
+- san-cli
+- odoo-addon-web-chatter-position
+- zabob-houdini
+- veriskgo
+- triton-augment
+- toonit
+- fiftyone-devicedetection-onpremise
+- fiftyone-devicedetection
+- fiftyone-devicedetection-shared
+- fiftyone-devicedetection-cloud
+- keras-nlp-nightly
+- dayabay-model
+- keras-hub-nightly
 - wlater-mcp
+- airweave-sdk
+- beautiful-oops
+- biolith
+- solie
 - webl
 - cloudmersive-documentai-api-client
 - odoo-addon-stock-lot-condition
-- spafw37
 - unxt
-- axioms-fastapi
 - snowflake-connector-python-nightly
 - maxllm
 - fabrictestbed-mflib
@@ -37,58 +80,4 @@
 - plain.api
 - plain.admin
 - plain
-- meta-spec
 - cdktf-cdktf-provider-tfe
-- doc-page-extractor
-- beet
-- odoo-addons-oca-sale-workflow
-- odoo-addon-sale-order-product-recommendation
-- lacrei-models
-- testtutorialcalculator
-- cdktf-cdktf-provider-github
-- pulumi-harness
-- tgdl
-- claude-explore
-- odoo-addon-purchase-order-product-recommendation-brand
-- xl-router
-- sharingan-core
-- pulumi-artifactory
-- musicdl
-- concord-sc
-- medthermal-dicom
-- odoo-addon-project-task-ancestor
-- yacs-stubgen
-- publicsuffixlist
-- dd-coresets
-- odoo-addon-product-multi-price
-- py-near-primitives
-- mecha
-- sdv
-- odoo-addons-oca-partner-contact
-- cqc-quam-state
-- ails-cli-tool
-- coregenai
-- tinygenkey
-- odoo-addon-openupgrade-scripts
-- minitap-mobile-use
-- keras-rs-nightly
-- odoo-addon-purchase-sale-stock-inter-company
-- odoo14-addon-purchase-sale-inter-company
-- eo-processor
-- stochtest
-- astronomer-orbiter
-- framedisplay
-- winipedia-utils
-- RRTlearning
-- GANDLF
-- orbiter-community-translations
-- goputn
-- hyperquant
-- xinference-client
-- cheetah-greb
-- cr-manager
-- CB2325NumericaG07
-- sglang-router
-- uhmbrella-api
-- shotgun-api3
-- sphinx-combine
