@@ -1,0 +1,11 @@
+{
+  "name": "waveform-reg-access-extractor",
+  "version": "0.1.0.0",
+  "summary": "A modular tool for reverse engineering register accesses from digital waveforms",
+  "author": "Mohamed Barae Buri",
+  "license": null,
+  "home_page": "https://github.com/mbarae/waveform-reg-access-extractor",
+  "download_filename": "waveform_reg_access_extractor-0.1.0.0.tar.gz",
+  "download_time": "2025-11-15T21:22:59.416279",
+  "package_url": "https://pypi.org/project/waveform-reg-access-extractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysupercluster-problematy",
+  "version": "0.7.8",
+  "summary": "A fast geospatial point clustering module (Problematy fork).",
+  "author": "Problematy",
+  "license": null,
+  "home_page": "https://github.com/Problematy/pysupercluster",
+  "download_filename": "pysupercluster_problematy-0.7.8.tar.gz",
+  "download_time": "2025-11-15T21:23:11.936701",
+  "package_url": "https://pypi.org/project/pysupercluster-problematy/"
+}

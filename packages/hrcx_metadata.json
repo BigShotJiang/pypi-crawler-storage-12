@@ -1,0 +1,11 @@
+{
+  "name": "hrcx",
+  "version": "1.0.0",
+  "summary": "Split your files into encrypted fragments.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hrcx-1.0.0.tar.gz",
+  "download_time": "2025-11-15T21:22:56.845423",
+  "package_url": "https://pypi.org/project/hrcx/"
+}

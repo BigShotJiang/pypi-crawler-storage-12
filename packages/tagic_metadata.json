@@ -1,0 +1,11 @@
+{
+  "name": "tagic",
+  "version": "1.4.0",
+  "summary": "Build html / xhtml with a nice syntax.",
+  "author": "Tammo Ippen",
+  "license": "MIT",
+  "home_page": "https://github.com/tammoippen/tagic",
+  "download_filename": "tagic-1.4.0.tar.gz",
+  "download_time": "2025-11-15T21:22:56.328981",
+  "package_url": "https://pypi.org/project/tagic/"
+}
