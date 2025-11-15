@@ -1,0 +1,11 @@
+{
+  "name": "yt-bhs",
+  "version": "1.0.1",
+  "summary": "A cmdline tool to download Youtube videos as songs through BlackHole playlists.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_bhs-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-15T17:41:20.349237",
+  "package_url": "https://pypi.org/project/yt-bhs/"
+}

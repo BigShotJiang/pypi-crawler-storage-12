@@ -1,0 +1,11 @@
+{
+  "name": "mappy-python",
+  "version": "0.3.2",
+  "summary": "Python bindings for the Reynard mappy maplet data structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mappy_python-0.3.2.tar.gz",
+  "download_time": "2025-11-15T17:41:26.161003",
+  "package_url": "https://pypi.org/project/mappy-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phyphox-py",
+  "version": "0.0.6",
+  "summary": "Python API for phyphox phone application",
+  "author": null,
+  "license": "LICENSE*",
+  "home_page": null,
+  "download_filename": "phyphox_py-0.0.6.tar.gz",
+  "download_time": "2025-11-15T17:41:31.759209",
+  "package_url": "https://pypi.org/project/phyphox-py/"
+}

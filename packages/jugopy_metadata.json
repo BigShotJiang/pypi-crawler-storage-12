@@ -1,11 +1,11 @@
 {
   "name": "jugopy",
-  "version": "1.0.8",
-  "summary": "Mini-framework WSGI en Python",
+  "version": "1.0.9",
+  "summary": "Mini-framework WSGI en Python avec logs enrichis et design amélioré",
   "author": "Jean Junior LOGBO",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "jugopy-1.0.8.tar.gz",
-  "download_time": "2025-11-11T17:45:13.372964",
+  "download_filename": "jugopy-1.0.9.tar.gz",
+  "download_time": "2025-11-15T17:41:47.021823",
   "package_url": "https://pypi.org/project/jugopy/"
 }

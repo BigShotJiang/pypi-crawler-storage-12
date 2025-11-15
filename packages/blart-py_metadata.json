@@ -1,0 +1,11 @@
+{
+  "name": "blart-py",
+  "version": "0.1.0",
+  "summary": "High-performance adaptive radix tree (ART) for Python with prefix queries and fuzzy search",
+  "author": "Axel Vanraes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blart_py-0.1.0.tar.gz",
+  "download_time": "2025-11-15T17:41:47.547462",
+  "package_url": "https://pypi.org/project/blart-py/"
+}
