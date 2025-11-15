@@ -1,0 +1,11 @@
+{
+  "name": "AnimeGameRemap",
+  "version": "4.6.1",
+  "summary": "A library to help remap the mods installed on a character onto the skins of the character",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "animegameremap-4.6.1.tar.gz",
+  "download_time": "2025-11-15T05:28:18.183897",
+  "package_url": "https://pypi.org/project/AnimeGameRemap/"
+}
