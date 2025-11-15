@@ -1,17 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T15:24:33.205134
-- **Total Packages**: 87
-- **Total Size**: 33.28 MB
+- **Download Time**: 2025-11-15T15:43:12.970940
+- **Total Packages**: 77
+- **Total Size**: 5.71 MB
 
 ## Packages List
+- cybrid-api-organization-python
+- flixopt
+- cybrid-api-bank-python
+- prisma-web3-py
+- thanos-cli
+- cybrid-api-id-python
+- oeissequences
+- docuvert
+- NitroExpose
+- pywiim
+- setupEM
+- smooth-cli
+- mlstac
+- go-or-no-go
+- pythran
+- bookmark-lens
+- maleo-google
+- maleo-client
+- aa-structures
+- pyextract-junbo
+- ipe
+- python-roborock
+- maleo-infra
+- maleo-database
+- quannengbao
+- cv-preprocess
+- lokalise-mcp
+- brynq-sdk-adp-decidium
 - beproduct
 - GameSentenceMiner
-- bookmark-lens
 - aa-markettracker-plugin
 - jarvis-ai-assistant
-- docuvert
 - usdm4-fhir
 - aiinbx
 - python-workflow-plugin-framework
@@ -20,7 +46,6 @@
 - spec-kitty-cli
 - collapsiblepane
 - funcoesBasicas
-- pywiim
 - zangshencc
 - emotionx
 - iris-vector-graph
@@ -29,13 +54,10 @@
 - pyrobale
 - spatialdata
 - hzclient
-- quannengbao
 - research-assistant-llm
 - bqseine
 - returnn
-- prisma-web3-py
 - pyaterochka-api
-- smooth-cli
 - barotropy
 - kleinkram
 - glog-python
@@ -61,35 +83,3 @@
 - pyect
 - docs2synth
 - canns
-- orka-reasoning
-- ynca
-- fmtr.tools
-- opteryx
-- fastapi-opinionated-eventbus
-- aa-srp
-- duckrun
-- ncatbot
-- drf-authentify
-- eh-sample-8
-- pyforces-cli
-- fastapi-opinionated-socket
-- cachine
-- reno-sd
-- liblaf-grapes
-- kirilica
-- robot-soccer-kit
-- pyscreeps-arena
-- koleo-cli
-- hyperlane
-- supertable
-- kawaii-traceback
-- kroma
-- unsloth
-- parallaxapis-sdk-py
-- fastapi-opinionated-core
-- unsloth-zoo
-- searchconsole
-- siman
-- better-exchook
-- grabpy
-- smartswitch
