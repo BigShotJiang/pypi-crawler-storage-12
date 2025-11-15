@@ -1,11 +1,11 @@
 {
   "name": "general-intelligence",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Self-organizing knowledge systems for structural pattern learning",
-  "author": "Oluwaseyi Shoboyejo",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/yourusername/general-intelligence",
-  "download_filename": "general_intelligence-0.3.2.tar.gz",
-  "download_time": "2025-11-15T13:54:23.000375",
+  "home_page": null,
+  "download_filename": "general_intelligence-0.3.3.tar.gz",
+  "download_time": "2025-11-15T22:54:51.226187",
   "package_url": "https://pypi.org/project/general-intelligence/"
 }

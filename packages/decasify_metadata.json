@@ -1,11 +1,11 @@
 {
   "name": "decasify",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/alerque/decasify",
-  "download_filename": "decasify-0.11.0.tar.gz",
-  "download_time": "2025-11-15T21:23:00.453060",
+  "download_filename": "decasify-0.11.1.tar.gz",
+  "download_time": "2025-11-15T22:54:54.059489",
   "package_url": "https://pypi.org/project/decasify/"
 }

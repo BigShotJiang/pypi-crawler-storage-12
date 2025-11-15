@@ -1,0 +1,11 @@
+{
+  "name": "qardl",
+  "version": "1.0.0",
+  "summary": "Quantile Autoregressive Distributed Lag (QARDL) Model Estimation and Testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qardl-1.0.0.tar.gz",
+  "download_time": "2025-11-15T22:54:52.937700",
+  "package_url": "https://pypi.org/project/qardl/"
+}

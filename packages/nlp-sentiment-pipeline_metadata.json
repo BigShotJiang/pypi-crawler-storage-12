@@ -1,0 +1,11 @@
+{
+  "name": "nlp-sentiment-pipeline",
+  "version": "0.1.0",
+  "summary": "A comprehensive pipeline for sentiment analysis using deep learning models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlp_sentiment_pipeline-0.1.0.tar.gz",
+  "download_time": "2025-11-15T22:54:53.496557",
+  "package_url": "https://pypi.org/project/nlp-sentiment-pipeline/"
+}
