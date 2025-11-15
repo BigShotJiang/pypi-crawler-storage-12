@@ -1,11 +1,11 @@
 {
   "name": "unimath",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "summary": "Mathematical Environment Library in Python",
   "author": "Poyraz Soylu",
   "license": null,
   "home_page": "https://github.com/Jolankaa/unimath",
-  "download_filename": "unimath-1.3.0.tar.gz",
-  "download_time": "2025-11-15T16:28:54.727061",
+  "download_filename": "unimath-1.4.1.tar.gz",
+  "download_time": "2025-11-15T16:47:00.054384",
   "package_url": "https://pypi.org/project/unimath/"
 }

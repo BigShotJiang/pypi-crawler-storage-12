@@ -1,11 +1,11 @@
 {
   "name": "nodcast",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "NodCast, a text-based article reader and manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nodcast-0.1.10.tar.gz",
-  "download_time": "2025-11-15T16:28:59.023863",
+  "download_filename": "nodcast-0.1.11.tar.gz",
+  "download_time": "2025-11-15T16:47:05.334107",
   "package_url": "https://pypi.org/project/nodcast/"
 }
