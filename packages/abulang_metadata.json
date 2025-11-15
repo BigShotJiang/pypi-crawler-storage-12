@@ -1,0 +1,11 @@
+{
+  "name": "abulang",
+  "version": "3.0.0",
+  "summary": "A friendly, Pythonic programming language for beginners and creative coders",
+  "author": "Abu",
+  "license": null,
+  "home_page": "https://github.com/AbuCodingAI/abulang",
+  "download_filename": "abulang-3.0.0.tar.gz",
+  "download_time": "2025-11-15T05:58:28.447904",
+  "package_url": "https://pypi.org/project/abulang/"
+}

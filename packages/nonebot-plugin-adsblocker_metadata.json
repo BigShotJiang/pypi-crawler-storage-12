@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-adsblocker",
+  "version": "0.1.2",
+  "summary": "NoneBot 广告屏蔽插件，支持AI检测和二维码识别",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_adsblocker-0.1.2.tar.gz",
+  "download_time": "2025-11-15T05:58:31.867572",
+  "package_url": "https://pypi.org/project/nonebot-plugin-adsblocker/"
+}
