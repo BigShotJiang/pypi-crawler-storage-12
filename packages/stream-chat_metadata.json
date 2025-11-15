@@ -1,0 +1,11 @@
+{
+  "name": "stream-chat",
+  "version": "4.28.0",
+  "summary": "Client for Stream Chat.",
+  "author": "Tommaso Barbugli",
+  "license": null,
+  "home_page": "https://github.com/GetStream/stream-chat-python",
+  "download_filename": "stream_chat-4.28.0.tar.gz",
+  "download_time": "2025-11-15T09:54:34.830234",
+  "package_url": "https://pypi.org/project/stream-chat/"
+}

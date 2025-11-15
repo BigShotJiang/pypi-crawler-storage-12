@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-11-15T09:42:18.619803",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 1.19,
+  "download_time": "2025-11-15T09:55:18.934780",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 7.02,
   "packages": [
+    "stream-chat",
+    "langchat",
+    "nucleation",
     "methurator",
     "strio",
     "multi-crypt",
@@ -16,7 +19,6 @@
     "datagpu",
     "query-tables",
     "universal-mcp-agents",
-    "langchat",
     "gmtorch",
     "ChurchSong",
     "serialdevicelib",
@@ -75,9 +77,6 @@
     "microsoft-agents-hosting-aiohttp",
     "microsoft-agents-copilotstudio-client",
     "microsoft-agents-authentication-msal",
-    "microsoft-agents-activity",
-    "sphinxnotes-strike",
-    "alchemy-mapper",
-    "Persistence"
+    "microsoft-agents-activity"
   ]
 }
