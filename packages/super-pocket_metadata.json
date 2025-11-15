@@ -1,0 +1,11 @@
+{
+  "name": "super-pocket",
+  "version": "1.0.1",
+  "summary": "A collection of developer tools including markdown rendering, project exporters, agent templates, and cheatsheets management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "super_pocket-1.0.1.tar.gz",
+  "download_time": "2025-11-15T08:48:27.369231",
+  "package_url": "https://pypi.org/project/super-pocket/"
+}
