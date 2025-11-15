@@ -1,11 +1,11 @@
 {
   "name": "spotoptim",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Add your description here",
   "author": "bartzbeielstein",
   "license": null,
   "home_page": null,
-  "download_filename": "spotoptim-0.0.14.tar.gz",
-  "download_time": "2025-11-15T22:21:40.636120",
+  "download_filename": "spotoptim-0.0.15.tar.gz",
+  "download_time": "2025-11-15T22:42:53.821625",
   "package_url": "https://pypi.org/project/spotoptim/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hossam",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "summary": "Hossam Data Loader",
   "author": "Lee Kwang-Ho",
   "license": "MIT",
   "home_page": "https://github.com/leekh4232/hossam-data",
-  "download_filename": "hossam-0.0.3.tar.gz",
-  "download_time": "2025-11-12T11:54:20.722548",
+  "download_filename": "hossam-0.1.0.tar.gz",
+  "download_time": "2025-11-15T22:42:43.415692",
   "package_url": "https://pypi.org/project/hossam/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Restless-NG",
+  "version": "3.3.0",
+  "summary": "A fork of Flask-Restless with updated dependencies and bug fixes",
+  "author": null,
+  "license": "GNU AGPLv3+ or BSD",
+  "home_page": null,
+  "download_filename": "flask_restless_ng-3.3.0.tar.gz",
+  "download_time": "2025-11-15T22:42:55.353465",
+  "package_url": "https://pypi.org/project/Flask-Restless-NG/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pytmb",
-  "version": "0.1.0b1",
+  "version": "0.1.0b3",
   "summary": "An unofficial python client for Barcelona public transport (TMB) API.",
   "author": "Goktug Alperen Kurt",
   "license": null,
   "home_page": null,
-  "download_filename": "pytmb-0.1.0b1.tar.gz",
-  "download_time": "2025-11-15T21:40:45.090537",
+  "download_filename": "pytmb-0.1.0b3.tar.gz",
+  "download_time": "2025-11-15T22:43:04.686491",
   "package_url": "https://pypi.org/project/pytmb/"
 }
