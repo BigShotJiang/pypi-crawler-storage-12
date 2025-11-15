@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-15T21:23:38.313559
-- **Total Packages**: 80
-- **Total Size**: 13.53 MB
+- **Download Time**: 2025-11-15T21:41:28.540256
+- **Total Packages**: 86
+- **Total Size**: 13.8 MB
 
 ## Packages List
+- chqr
+- itk-growcut
+- fin-infra
+- lar-engine
+- fastapi-auth-starter
+- svc-infra
+- pytmb
+- gofish-graphics
+- fsc-assistant
+- static-import-analysis
+- gofish-python
+- fba-finance
+- trustspeccli
+- trustspecpy
+- pyfuzzy-toolbox
+- pachinko-sdlr-dv
+- py-samsungtv
+- trust-free
+- flagswift
+- hmr
+- myfy
+- leakpy
+- myfy-frontend
+- myfy-cli
+- myfy-web
+- myfy-core
+- whitemagic
+- boursobank-scraper
+- git-zap
+- mindm
+- ai-swarm
+- aenet-gpr
+- jamfmcp
+- tallyfy
+- processcube-client
+- sigmatcher
+- abulang
+- goodmap
+- cdk-factory
 - hubcap
 - slurm-factory
 - webtoolkit
@@ -29,7 +68,6 @@
 - aline-ai
 - ofed-private-utils
 - cb-events
-- svc-infra
 - stjlib
 - ptwordpress
 - itk-montage
@@ -41,7 +79,6 @@
 - selenium-ui-test-tool
 - ezesri
 - libzapi
-- flagswift
 - ankigammon
 - ilc-provider
 - totoon
@@ -55,34 +92,3 @@
 - iolanta
 - wot-pdf
 - hump
-- paylink
-- caldavctl
-- mirascope
-- floatcsep
-- click
-- yearn-treasury
-- swc-utils
-- agentor
-- skillz
-- lmur
-- mjnf
-- STRling
-- inspect-swe
-- latin-nlp-utilities
-- reqlib
-- playlist2podcast
-- rupython
-- perpetual-context-window
-- PyQuaRT
-- deezy
-- soup-files
-- betwatch
-- aioyookassa
-- auto-rename-ai
-- san-cli
-- appscriptInterpeter
-- xllify
-- mkv-episode-matcher
-- oq
-- winipedia-pyside
-- winipedia-django
