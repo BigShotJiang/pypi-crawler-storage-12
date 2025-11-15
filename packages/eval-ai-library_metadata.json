@@ -1,11 +1,11 @@
 {
   "name": "eval-ai-library",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "Comprehensive AI Model Evaluation Framework with support for multiple LLM providers",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "eval_ai_library-0.4.7.tar.gz",
-  "download_time": "2025-11-15T23:23:17.138324",
+  "download_filename": "eval_ai_library-0.4.9.tar.gz",
+  "download_time": "2025-11-15T23:41:15.638501",
   "package_url": "https://pypi.org/project/eval-ai-library/"
 }

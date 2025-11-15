@@ -1,0 +1,11 @@
+{
+  "name": "effect-form-validators",
+  "version": "1.5.0",
+  "summary": "Form validation classes for the EFFECT trial",
+  "author": "Erik van Widenfelt, Jonathan Willitts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "effect_form_validators-1.5.0.tar.gz",
+  "download_time": "2025-11-15T23:41:21.960096",
+  "package_url": "https://pypi.org/project/effect-form-validators/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "supplychain-portal-lib",
+  "version": "0.1.0",
+  "summary": "Analytics helpers for Supply Chain Portal bookings",
+  "author": "Vishnu Vardhan",
+  "license": null,
+  "home_page": "https://pypi.org/project/supplychain-portal-lib/",
+  "download_filename": "supplychain_portal_lib-0.1.0.tar.gz",
+  "download_time": "2025-11-15T23:41:30.832369",
+  "package_url": "https://pypi.org/project/supplychain-portal-lib/"
+}

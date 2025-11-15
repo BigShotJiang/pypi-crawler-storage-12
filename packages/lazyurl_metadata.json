@@ -1,0 +1,11 @@
+{
+  "name": "lazyurl",
+  "version": "1.0.0",
+  "summary": "解析url",
+  "author": "ZeroSeeker",
+  "license": null,
+  "home_page": "https://gitee.com/ZeroSeeker/lazyurl",
+  "download_filename": "lazyurl-1.0.0.tar.gz",
+  "download_time": "2025-11-15T23:41:16.216365",
+  "package_url": "https://pypi.org/project/lazyurl/"
+}
