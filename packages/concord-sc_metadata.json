@@ -1,0 +1,11 @@
+{
+  "name": "concord-sc",
+  "version": "1.0.11",
+  "summary": "CONCORD: Contrastive Learning for Cross-domain Reconciliation and Discovery",
+  "author": "Qin Zhu",
+  "license": "MIT",
+  "home_page": "https://github.com/Gartner-Lab/Concord",
+  "download_filename": "concord_sc-1.0.11.tar.gz",
+  "download_time": "2025-11-15T04:29:41.778958",
+  "package_url": "https://pypi.org/project/concord-sc/"
+}

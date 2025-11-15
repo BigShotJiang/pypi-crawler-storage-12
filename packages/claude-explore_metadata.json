@@ -1,11 +1,11 @@
 {
   "name": "claude-explore",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Ephemeral workspace manager for exploring GitHub repositories with Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_explore-0.1.1.tar.gz",
-  "download_time": "2025-11-15T03:49:06.939458",
+  "download_filename": "claude_explore-0.1.2.tar.gz",
+  "download_time": "2025-11-15T04:29:38.480947",
   "package_url": "https://pypi.org/project/claude-explore/"
 }

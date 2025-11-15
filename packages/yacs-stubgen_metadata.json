@@ -1,0 +1,11 @@
+{
+  "name": "yacs-stubgen",
+  "version": "0.3.1",
+  "summary": "Generate stub file for yacs config.",
+  "author": "JamzumSum",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yacs_stubgen-0.3.1.tar.gz",
+  "download_time": "2025-11-15T04:29:43.436512",
+  "package_url": "https://pypi.org/project/yacs-stubgen/"
+}

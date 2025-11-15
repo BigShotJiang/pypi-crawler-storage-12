@@ -1,0 +1,11 @@
+{
+  "name": "webl",
+  "version": "0.2.0",
+  "summary": "Command-line tool for domain intelligence and authority lookups",
+  "author": "Website Launches",
+  "license": null,
+  "home_page": "https://github.com/websitelaunches/webl-cli",
+  "download_filename": "webl-0.2.0.tar.gz",
+  "download_time": "2025-11-15T04:29:17.179854",
+  "package_url": "https://pypi.org/project/webl/"
+}

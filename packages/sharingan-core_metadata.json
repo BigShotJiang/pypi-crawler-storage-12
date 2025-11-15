@@ -1,0 +1,11 @@
+{
+  "name": "sharingan-core",
+  "version": "3.0.0",
+  "summary": "OpenCV for Semantic Video Understanding with Temporal Reasoning",
+  "author": "Sharingan Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/skhavindev/sharingan",
+  "download_filename": "sharingan_core-3.0.0.tar.gz",
+  "download_time": "2025-11-15T04:29:40.116636",
+  "package_url": "https://pypi.org/project/sharingan-core/"
+}

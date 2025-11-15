@@ -1,0 +1,11 @@
+{
+  "name": "fabrictestbed-mflib",
+  "version": "1.0.7",
+  "summary": "FABRIC Measurement Framework Python Client Library - Makes monitoring FABRIC Slice easy.",
+  "author": "Song, Pinyi, Hussam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabrictestbed_mflib-1.0.7.tar.gz",
+  "download_time": "2025-11-15T04:29:21.739347",
+  "package_url": "https://pypi.org/project/fabrictestbed-mflib/"
+}

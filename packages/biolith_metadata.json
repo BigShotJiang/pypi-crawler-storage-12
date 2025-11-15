@@ -1,0 +1,11 @@
+{
+  "name": "biolith",
+  "version": "0.0.13",
+  "summary": "Bayesian Ecological Modeling in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biolith-0.0.13.tar.gz",
+  "download_time": "2025-11-15T04:29:15.492793",
+  "package_url": "https://pypi.org/project/biolith/"
+}

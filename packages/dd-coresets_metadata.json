@@ -1,11 +1,11 @@
 {
   "name": "dd-coresets",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Density–Diversity Coresets (DDC) for dataset summarization and distributional approximation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dd_coresets-0.1.3.tar.gz",
-  "download_time": "2025-11-12T11:54:39.887922",
+  "download_filename": "dd_coresets-0.2.0.tar.gz",
+  "download_time": "2025-11-15T04:29:44.501149",
   "package_url": "https://pypi.org/project/dd-coresets/"
 }
