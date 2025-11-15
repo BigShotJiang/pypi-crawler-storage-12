@@ -1,0 +1,11 @@
+{
+  "name": "lazyip",
+  "version": "1.0.0",
+  "summary": "获取ip信息，支持ipv4和ipv6",
+  "author": "ZeroSeeker",
+  "license": null,
+  "home_page": "https://gitee.com/ZeroSeeker/lazyip",
+  "download_filename": "lazyip-1.0.0.tar.gz",
+  "download_time": "2025-11-15T23:23:19.921096",
+  "package_url": "https://pypi.org/project/lazyip/"
+}

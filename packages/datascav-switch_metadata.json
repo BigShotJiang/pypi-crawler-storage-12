@@ -1,0 +1,11 @@
+{
+  "name": "datascav-switch",
+  "version": "1.1.0",
+  "summary": "Modules to convert different types of files using AI based validations and conversions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datascav_switch-1.1.0.tar.gz",
+  "download_time": "2025-11-15T23:23:25.296512",
+  "package_url": "https://pypi.org/project/datascav-switch/"
+}

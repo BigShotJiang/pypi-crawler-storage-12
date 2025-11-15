@@ -1,11 +1,11 @@
 {
   "name": "py-samsungtv",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Async Samsung 2024+ TV control via the HTTPS JSON-RPC interface",
   "author": "@iloveicedgreentea",
   "license": null,
   "home_page": null,
-  "download_filename": "py_samsungtv-1.0.0.tar.gz",
-  "download_time": "2025-11-15T21:40:51.006251",
+  "download_filename": "py_samsungtv-1.0.2.tar.gz",
+  "download_time": "2025-11-15T23:23:23.174062",
   "package_url": "https://pypi.org/project/py-samsungtv/"
 }
