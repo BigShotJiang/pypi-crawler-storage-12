@@ -1,11 +1,11 @@
 {
   "name": "ticca",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Terminal Injected Coding CLI Assistant",
   "author": "Michael Pfaffenberger",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ticca-0.1.4.tar.gz",
-  "download_time": "2025-11-14T19:55:07.882111",
+  "download_filename": "ticca-0.2.0.tar.gz",
+  "download_time": "2025-11-15T20:26:07.307405",
   "package_url": "https://pypi.org/project/ticca/"
 }

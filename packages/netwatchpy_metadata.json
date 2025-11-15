@@ -1,11 +1,11 @@
 {
   "name": "netwatchpy",
-  "version": "0.2.9",
+  "version": "0.3.1",
   "summary": "A TUI network usage monitor.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netwatchpy-0.2.9.tar.gz",
-  "download_time": "2025-11-15T19:41:01.742505",
+  "download_filename": "netwatchpy-0.3.1.tar.gz",
+  "download_time": "2025-11-15T20:26:06.254257",
   "package_url": "https://pypi.org/project/netwatchpy/"
 }

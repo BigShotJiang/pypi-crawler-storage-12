@@ -1,11 +1,11 @@
 {
   "name": "GoekenDataScience",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "Python package for Goeken Data Science",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "goekendatascience-0.1.22.tar.gz",
-  "download_time": "2025-11-15T19:54:56.730082",
+  "download_filename": "goekendatascience-0.1.23.tar.gz",
+  "download_time": "2025-11-15T20:26:13.103434",
   "package_url": "https://pypi.org/project/GoekenDataScience/"
 }
