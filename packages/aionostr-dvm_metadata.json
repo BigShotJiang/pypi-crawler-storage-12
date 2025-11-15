@@ -1,11 +1,11 @@
 {
   "name": "aionostr-dvm",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Simple Framework for NIP-89/90 Data Vending Machines using electrum-aionostr asyncio nostr library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aionostr_dvm-0.0.4.tar.gz",
-  "download_time": "2025-11-14T20:29:56.423137",
+  "download_filename": "aionostr_dvm-0.0.5.tar.gz",
+  "download_time": "2025-11-15T13:16:21.072292",
   "package_url": "https://pypi.org/project/aionostr-dvm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "federated-learning-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A professional, modular and extensible framework for federated learning applications with privacy, security, and error recovery.",
   "author": "Mehrdad Javadi",
   "license": null,
   "home_page": "https://github.com/mehrdaddjavadi/federated_learning_framework",
-  "download_filename": "federated_learning_framework-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-15T12:46:05.007437",
+  "download_filename": "federated_learning_framework-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-15T13:16:09.594220",
   "package_url": "https://pypi.org/project/federated-learning-framework/"
 }

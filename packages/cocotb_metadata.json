@@ -5,7 +5,7 @@
   "author": "Chris Higgs, Stuart Hodgson",
   "license": "BSD-3-Clause",
   "home_page": "https://www.cocotb.org",
-  "download_filename": "cocotb-2.0.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-11-15T12:46:05.598102",
+  "download_filename": "cocotb-2.0.1.tar.gz",
+  "download_time": "2025-11-15T13:16:32.047734",
   "package_url": "https://pypi.org/project/cocotb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hydrodataset",
+  "version": "0.2.4",
+  "summary": "A Python package for downloading and reading hydrological datasets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydrodataset-0.2.4.tar.gz",
+  "download_time": "2025-11-15T13:16:26.305365",
+  "package_url": "https://pypi.org/project/hydrodataset/"
+}
