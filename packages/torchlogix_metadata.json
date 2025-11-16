@@ -1,0 +1,11 @@
+{
+  "name": "torchlogix",
+  "version": "0.1.0",
+  "summary": "Differentiable Logic Gate Networks in PyTorch",
+  "author": "Lino Gerlach",
+  "license": "MIT",
+  "home_page": "https://github.com/ligerlac/torchlogix",
+  "download_filename": "torchlogix-0.1.0.tar.gz",
+  "download_time": "2025-11-16T22:44:57.418923",
+  "package_url": "https://pypi.org/project/torchlogix/"
+}

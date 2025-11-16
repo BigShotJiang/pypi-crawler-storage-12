@@ -1,11 +1,11 @@
 {
   "name": "QuerySUTRA",
-  "version": "0.3.2",
-  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture - AI-powered data analysis with custom visualizations, fuzzy matching, and smart caching",
+  "version": "0.3.3",
+  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture",
   "author": "Aditya Batta",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/querysutra",
-  "download_filename": "querysutra-0.3.2.tar.gz",
-  "download_time": "2025-11-14T22:25:18.948864",
+  "download_filename": "querysutra-0.3.3.tar.gz",
+  "download_time": "2025-11-16T22:45:11.396038",
   "package_url": "https://pypi.org/project/QuerySUTRA/"
 }

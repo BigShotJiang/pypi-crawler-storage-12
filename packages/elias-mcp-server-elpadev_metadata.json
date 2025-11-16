@@ -1,11 +1,11 @@
 {
   "name": "elias-mcp-server-elpadev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A small MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elias_mcp_server_elpadev-0.0.1.tar.gz",
-  "download_time": "2025-11-16T22:24:14.669006",
+  "download_filename": "elias_mcp_server_elpadev-0.0.2.tar.gz",
+  "download_time": "2025-11-16T22:45:11.923353",
   "package_url": "https://pypi.org/project/elias-mcp-server-elpadev/"
 }

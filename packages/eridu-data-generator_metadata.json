@@ -1,0 +1,11 @@
+{
+  "name": "eridu-data-generator",
+  "version": "0.1.0",
+  "summary": "A mock cloud financial data generator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eridu_data_generator-0.1.0.tar.gz",
+  "download_time": "2025-11-16T22:45:13.512756",
+  "package_url": "https://pypi.org/project/eridu-data-generator/"
+}
