@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T07:42:04.701548
-- **Total Packages**: 81
-- **Total Size**: 11.47 MB
+- **Download Time**: 2025-11-16T07:55:43.498419
+- **Total Packages**: 84
+- **Total Size**: 0.42 MB
 
 ## Packages List
-- bin2elf
-- pretix-homepage
-- webscout
-- mcpower-proxy
-- payme-pkg
-- django-user-timezone
-- BioArticlePusher
-- wpiformat
-- py-near
-- avadcaded-math
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - auth-sso-client
@@ -25,6 +15,7 @@
 - drf-authentify
 - biblemategui
 - lili-logger
+- bin2elf
 - podflow
 - aimusic-mcp
 - codec-cub
@@ -35,17 +26,20 @@
 - reaction-balancer
 - viewtif
 - pytouchline-extended
+- py-near
 - game-lingo
 - datarun
 - ai-edge-litert-nightly
 - sphinx-confluencebuilder-bridge
 - dr-widget
+- payme-pkg
 - tritonparse
 - pyTibber
 - streamlit-nightly
 - unsplash-lite-dataset-api
 - juham-systemstatus
 - eo-processor
+- pretix-homepage
 - Python-Lua-Helper
 - pubmed-client-py
 - scrollstats
@@ -56,6 +50,7 @@
 - par-term-emu-core-rust
 - langbot-plugin
 - MoleditPy-linux
+- avadcaded-math
 - weixinautox4
 - MoleditPy
 - h2ogpte
@@ -87,3 +82,11 @@
 - nodcast
 - matrice-inference
 - juham-automation
+- peargent
+- aframexr
+- easyrunner-cli
+- togura
+- mathsys
+- chemrxn-cleaner
+- galago-tools
+- mcp-ticketer
