@@ -1,11 +1,11 @@
 {
   "name": "omu-chat-twitch",
-  "version": "0.9.26",
+  "version": "0.9.31",
   "summary": "OMUAPPS Twitch Chat Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omu_chat_twitch-0.9.26.tar.gz",
-  "download_time": "2025-11-11T16:58:12.776141",
+  "download_filename": "omu_chat_twitch-0.9.31.tar.gz",
+  "download_time": "2025-11-16T04:07:16.422273",
   "package_url": "https://pypi.org/project/omu-chat-twitch/"
 }

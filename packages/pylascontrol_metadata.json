@@ -1,0 +1,11 @@
+{
+  "name": "pylascontrol",
+  "version": "1.0.0",
+  "summary": "pylascontrol. Package for personal financial management. Beta version for educational use.",
+  "author": "Rodrigo de Araujo Rosa",
+  "license": "MIT",
+  "home_page": "https://github.com/rodrigoaraujorosa/pylascontrol",
+  "download_filename": "pylascontrol-1.0.0.tar.gz",
+  "download_time": "2025-11-16T04:07:11.125155",
+  "package_url": "https://pypi.org/project/pylascontrol/"
+}

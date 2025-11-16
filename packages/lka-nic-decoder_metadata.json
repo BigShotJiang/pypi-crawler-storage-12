@@ -1,0 +1,11 @@
+{
+  "name": "lka-nic-decoder",
+  "version": "1.0.7",
+  "summary": "Decode Sri Lankan NIC numbers into birth date, gender, and NIC type",
+  "author": "Dilith Achalan",
+  "license": "MIT",
+  "home_page": "https://github.com/dilith-lab/srilanka-nic-decoder",
+  "download_filename": "lka_nic_decoder-1.0.7.tar.gz",
+  "download_time": "2025-11-16T04:07:27.243451",
+  "package_url": "https://pypi.org/project/lka-nic-decoder/"
+}

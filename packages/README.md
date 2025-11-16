@@ -1,19 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T03:36:22.621822
-- **Total Packages**: 86
-- **Total Size**: 30.61 MB
+- **Download Time**: 2025-11-16T04:07:56.826440
+- **Total Packages**: 83
+- **Total Size**: 26.13 MB
 
 ## Packages List
+- pylascontrol
+- chromedriver-binary
+- kuzu-memory
+- mecha
+- cdk-factory
+- openhive
+- omuserver
+- omuplugin-obs
+- omu-chatprovider
+- omu-chat-youtube
+- omu-chat-twitch
+- omu-chat
+- omu
+- abi-core-ai
+- scmg-toolkit
+- fastapi-easylimiter
+- delphix-dct-api
+- yta-video-frame-time
+- vfab
+- oidcauthlib
+- coguard-cli
+- iowarp-agent-toolkit
+- pywebtask
+- wyn360-cli
+- math-engine
 - docs2synth
+- benchmax
+- sequenzo
+- lka-nic-decoder
+- zbWidgetLib
+- langmiddle
+- odoo-addon-product-state-sale
+- bayesianflow-for-chem
+- kumacub
+- datahub_binary
+- robotframework-androiduiautomation
+- scpviz
+- cqc-quam-state
+- pygametool-rui
+- sqlspec
+- atlas-asset-websocket-client
+- paytechuz
+- rkstiff
+- compact-rienet
+- mcp-ticketer
+- keras-rs-nightly
+- powerlawrs
 - GANDLF
 - hitoshura25-gemini-workflow-bridge
-- scmg-toolkit
 - fotolab
 - objectory
 - qcrypto
-- fastapi-easylimiter
 - unxt
 - pyboot-webmvc
 - heatmap_cli
@@ -26,12 +70,10 @@
 - odoo-addon-l10n-es-verifactu-oca
 - pyboot-dataflow
 - tombi
-- facebook-publisher
 - videolab
 - qardl
 - pyextract-junbo
 - strayl-mcp-server
-- srilanka-nic-decoder
 - fusionctl
 - pyAgrum-nightly
 - realtimex-computer-use
@@ -47,48 +89,3 @@
 - odoo-addon-l10n-br-fiscal
 - types-psutil
 - types-pycountry
-- mcp-server-trending
-- beancode
-- task-scheduling
-- togura
-- model-mp-core
-- model-mp-io
-- snapy
-- amrita
-- mcp-sys-bridge
-- henosis-cli
-- pygametool-rui
-- larper
-- itk-subdivisionquadedgemeshfilter
-- voicemd-gui
-- junshan-kit
-- powder-ens-commons
-- canopy-mcp
-- claude-mpm
-- turboloader
-- cdk-factory
-- beet
-- gradescopeapi
-- bintang
-- cb-events
-- cep-fetch
-- awsimple
-- reasoning-library
-- safe-view
-- ragbits-guardrails
-- ragbits-evaluate
-- ragbits-document-search
-- ragbits-core
-- ragbits-cli
-- ragbits-chat
-- ragbits-agents
-- ragbits
-- fastplotlib
-- wool
-- monai-weekly
-- databae
-- metrics-utility
-- phanterpwa
-- TSVZ
-- aiida-aimall
-- varanus
