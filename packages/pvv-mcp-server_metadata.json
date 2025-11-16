@@ -1,0 +1,11 @@
+{
+  "name": "pvv-mcp-server",
+  "version": "0.5.0",
+  "summary": "MCP server for VOICEVOX text-to-speech synthesis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pvv_mcp_server-0.5.0.tar.gz",
+  "download_time": "2025-11-16T23:55:49.466742",
+  "package_url": "https://pypi.org/project/pvv-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "g4music-discord-rpc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Discord Rich Presence for g4music.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "g4music_discord_rpc-1.0.1.tar.gz",
-  "download_time": "2025-11-10T23:26:13.876383",
+  "download_filename": "g4music_discord_rpc-1.0.2.tar.gz",
+  "download_time": "2025-11-16T23:55:55.416675",
   "package_url": "https://pypi.org/project/g4music-discord-rpc/"
 }

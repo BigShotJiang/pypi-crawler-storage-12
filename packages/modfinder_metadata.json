@@ -1,0 +1,11 @@
+{
+  "name": "modfinder",
+  "version": "0.2.0",
+  "summary": "A Python-native module installer and CLI tool that installs packages without pip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modfinder-0.2.0.tar.gz",
+  "download_time": "2025-11-16T23:55:49.993610",
+  "package_url": "https://pypi.org/project/modfinder/"
+}

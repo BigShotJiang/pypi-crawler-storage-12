@@ -1,11 +1,11 @@
 {
   "name": "sdkgen",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Multi-language SDK generator from OpenAPI specifications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sdkgen-0.1.3.tar.gz",
-  "download_time": "2025-11-16T16:30:07.244745",
+  "download_filename": "sdkgen-0.2.0.tar.gz",
+  "download_time": "2025-11-16T23:55:58.044309",
   "package_url": "https://pypi.org/project/sdkgen/"
 }
