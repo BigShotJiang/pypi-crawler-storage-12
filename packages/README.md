@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T14:44:13.169699
-- **Total Packages**: 79
-- **Total Size**: 14.87 MB
+- **Download Time**: 2025-11-16T14:57:41.484812
+- **Total Packages**: 70
+- **Total Size**: 7.91 MB
 
 ## Packages List
+- fastapi-easylimiter
+- tree2cmd
+- lka-nic-decoder
+- mask-env
+- async-tkinter-loop
+- feedback-mcp
+- tdxlite
+- legit-api-client
+- spoox
+- flowtrace
+- highway-dsl
+- dbus-fast
+- sc-napalm
+- klimalogger
+- mypkg6668
+- fantasy-nba-israel-mcp
+- utils-devops
+- onthefly-ai
+- open-enum
+- rpds-py
+- mateval
+- authera
+- autoheader
+- geoparticle
+- wyn360-cli
+- sphinxcontrib-pseudocode2
+- wiktionary-de-parser
+- psqlpy-sqlalchemy
+- sefixlines
+- kodexa
+- rya
+- luis-money-cli
+- antd-mcp-server
+- pnutty
+- pytest-language-server
+- gotn
+- jp-odesolver
+- celeste-text-generation
+- celeste-image-generation
+- celeste-ai
+- calico-ssg
+- simba-uw-tf-dev
+- gtalk
 - ossdbs
 - meta-spec
 - bluer-ai
@@ -16,72 +59,20 @@
 - allianceauth-app-utils
 - Acquisition
 - microservice-chassis-grupo2
-- glm-vision-mcp
 - heytelecom
 - locoformer
-- kodexa
 - pyextract-junbo
 - jsonschema-rs
 - spond-classes
-- utils-devops
 - firefly-test
 - miniflux-tui-py
 - servents-data-model
 - optics-framework
-- mypkg6668
-- tree2cmd
 - munin-plot
 - subcursor
 - EFN
-- jp-odesolver
-- spoox
 - xmovsystemmonitor
 - Flask-Exts
-- feedback-mcp
 - cumulusci-plus-azure-devops
 - pybenutils
 - mio-package
-- aiotgbot
-- repoyard
-- pyquoks
-- drun
-- avm-mcp-server
-- secretpkg555
-- uniweather
-- beets-audible
-- rname
-- pabumeasures
-- moat-link
-- pyspecan
-- py-env-studio
-- zodchy
-- dataspike-livekit-plugins
-- nblite
-- flaxfile
-- aubellhop
-- qwak-sdk
-- pypdf
-- pypixelcolor
-- commity
-- ultimateraylib
-- rappmysql
-- stigg-api-client-v2
-- rstmat
-- geodesk
-- stigg-api-client
-- secure-password-manager
-- ggxs
-- VKPyKit
-- loggez
-- lionherd-core
-- sembicho-cli
-- instance-cache
-- smartpush
-- stindex
-- agentmap
-- tensordict-nightly
-- extendedstim
-- expr-codegen
-- pywiim
-- gotn
-- calico-ssg

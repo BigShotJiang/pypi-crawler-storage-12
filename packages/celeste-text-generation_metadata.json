@@ -1,11 +1,11 @@
 {
   "name": "celeste-text-generation",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Type-safe text generation for Celeste AI. Unified interface for OpenAI, Anthropic, Google, Mistral, Cohere, and more",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "celeste_text_generation-0.2.1.tar.gz",
-  "download_time": "2025-11-10T18:55:26.657929",
+  "download_filename": "celeste_text_generation-0.2.2.tar.gz",
+  "download_time": "2025-11-16T14:57:23.187990",
   "package_url": "https://pypi.org/project/celeste-text-generation/"
 }

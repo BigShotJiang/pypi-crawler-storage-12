@@ -1,0 +1,11 @@
+{
+  "name": "pnutty",
+  "version": "0.1.0",
+  "summary": "A TTY client application for pnut.io",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pnutty-0.1.0.tar.gz",
+  "download_time": "2025-11-16T14:57:20.584109",
+  "package_url": "https://pypi.org/project/pnutty/"
+}

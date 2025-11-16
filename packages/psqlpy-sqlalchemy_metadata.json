@@ -1,0 +1,11 @@
+{
+  "name": "psqlpy-sqlalchemy",
+  "version": "0.1.0a12",
+  "summary": "SQLAlchemy dialect for psqlpy PostgreSQL driver",
+  "author": "psqlpy-sqlalchemy contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psqlpy_sqlalchemy-0.1.0a12.tar.gz",
+  "download_time": "2025-11-16T14:57:16.928630",
+  "package_url": "https://pypi.org/project/psqlpy-sqlalchemy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mask-env",
+  "version": "1.0.0",
+  "summary": "Create safe .example files from secret config files by masking sensitive values",
+  "author": "mask-env contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mask_env-1.0.0.tar.gz",
+  "download_time": "2025-11-16T14:57:02.718516",
+  "package_url": "https://pypi.org/project/mask-env/"
+}

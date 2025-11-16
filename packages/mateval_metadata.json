@@ -1,0 +1,11 @@
+{
+  "name": "mateval",
+  "version": "0.0.1.dev0",
+  "summary": "AI for Materials Evaluation Harness - Our library for reproducible and transparent evaluation of AI for Accelerated Materials Discovery.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mateval-0.0.1.dev0.tar.gz",
+  "download_time": "2025-11-16T14:57:12.844155",
+  "package_url": "https://pypi.org/project/mateval/"
+}

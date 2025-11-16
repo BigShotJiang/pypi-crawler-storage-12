@@ -1,0 +1,11 @@
+{
+  "name": "rpds-py",
+  "version": "0.29.0",
+  "summary": "Python bindings to Rust's persistent data structures (rpds)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpds_py-0.29.0.tar.gz",
+  "download_time": "2025-11-16T14:57:12.323071",
+  "package_url": "https://pypi.org/project/rpds-py/"
+}
