@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-maker",
+  "version": "0.13.2",
+  "summary": "A command line app to create a Python project skeleton.",
+  "author": "Grant Ramsay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproject_maker-0.13.2.tar.gz",
+  "download_time": "2025-11-16T10:44:48.108997",
+  "package_url": "https://pypi.org/project/pyproject-maker/"
+}

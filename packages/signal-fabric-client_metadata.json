@@ -1,11 +1,11 @@
 {
   "name": "signal-fabric-client",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Client library for Signal Fabric",
   "author": "PhaseQuant",
   "license": "MIT",
   "home_page": "https://github.com/phasequant/signal-fabric",
-  "download_filename": "signal_fabric_client-0.1.6.tar.gz",
-  "download_time": "2025-11-15T17:55:06.103356",
+  "download_filename": "signal_fabric_client-0.1.7.tar.gz",
+  "download_time": "2025-11-16T10:45:18.411345",
   "package_url": "https://pypi.org/project/signal-fabric-client/"
 }

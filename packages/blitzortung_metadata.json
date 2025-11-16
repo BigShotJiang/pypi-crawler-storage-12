@@ -1,11 +1,11 @@
 {
   "name": "blitzortung",
-  "version": "1.11.29",
+  "version": "1.11.31",
   "summary": "blitzortung.org python modules",
   "author": "Andreas Würl",
   "license": null,
   "home_page": null,
-  "download_filename": "blitzortung-1.11.29.tar.gz",
-  "download_time": "2025-11-16T09:55:11.270930",
+  "download_filename": "blitzortung-1.11.31.tar.gz",
+  "download_time": "2025-11-16T10:44:53.855652",
   "package_url": "https://pypi.org/project/blitzortung/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kiwipiepy",
+  "version": "0.22.0",
+  "summary": "Kiwi, the Korean Tokenizer for Python",
+  "author": "bab2min",
+  "license": "LGPL v3 License",
+  "home_page": "https://github.com/bab2min/kiwipiepy",
+  "download_filename": "kiwipiepy-0.22.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-16T10:45:13.308746",
+  "package_url": "https://pypi.org/project/kiwipiepy/"
+}

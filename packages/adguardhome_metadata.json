@@ -1,11 +1,11 @@
 {
   "name": "adguardhome",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Asynchronous Python client for the AdGuard Home API.",
   "author": "Franck Nijhof",
   "license": null,
   "home_page": null,
-  "download_filename": "adguardhome-0.8.0.tar.gz",
-  "download_time": "2025-11-15T12:46:44.941977",
+  "download_filename": "adguardhome-0.8.1.tar.gz",
+  "download_time": "2025-11-16T10:44:55.389063",
   "package_url": "https://pypi.org/project/adguardhome/"
 }

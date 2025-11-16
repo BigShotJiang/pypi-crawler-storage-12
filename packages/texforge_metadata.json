@@ -1,0 +1,11 @@
+{
+  "name": "texforge",
+  "version": "0.1.1",
+  "summary": "TexForge - Forge perfect LaTeX papers with automated compilation, validation, and maintenance",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "texforge-0.1.1.tar.gz",
+  "download_time": "2025-11-16T10:45:15.345876",
+  "package_url": "https://pypi.org/project/texforge/"
+}
