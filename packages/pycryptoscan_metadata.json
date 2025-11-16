@@ -1,11 +1,11 @@
 {
   "name": "pycryptoscan",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Professional Real-Time Crypto Payment Monitoring Library for Python",
   "author": "DedInc.",
   "license": "MIT",
   "home_page": "https://github.com/DedInc/cryptoscan",
-  "download_filename": "pycryptoscan-2.0.0.tar.gz",
-  "download_time": "2025-11-16T12:46:14.316276",
+  "download_filename": "pycryptoscan-2.0.1.tar.gz",
+  "download_time": "2025-11-16T13:17:00.212799",
   "package_url": "https://pypi.org/project/pycryptoscan/"
 }

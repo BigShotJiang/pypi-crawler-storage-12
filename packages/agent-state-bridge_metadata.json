@@ -1,0 +1,11 @@
+{
+  "name": "agent-state-bridge",
+  "version": "0.2.0",
+  "summary": "Python backend utilities for sharing app state with AI agents. New: {messages, actions, context} model for RAG-ready architecture.",
+  "author": "Sergio Cantera",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_state_bridge-0.2.0.tar.gz",
+  "download_time": "2025-11-16T13:16:50.543188",
+  "package_url": "https://pypi.org/project/agent-state-bridge/"
+}
