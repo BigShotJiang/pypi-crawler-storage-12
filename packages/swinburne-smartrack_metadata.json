@@ -1,0 +1,11 @@
+{
+  "name": "swinburne-smartrack",
+  "version": "0.0.9",
+  "summary": "Tools to manage devices via Swinburne Cisco SmartRack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swinburne_smartrack-0.0.9.tar.gz",
+  "download_time": "2025-11-16T09:25:25.367569",
+  "package_url": "https://pypi.org/project/swinburne-smartrack/"
+}

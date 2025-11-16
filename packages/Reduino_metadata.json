@@ -1,0 +1,11 @@
+{
+  "name": "Reduino",
+  "version": "1.2.0",
+  "summary": "Reduino transpiles Python scripts into efficient Arduino C++ and uploads automatically. A simple, intuitive way to control sensors, LEDs, and actuators without touching C++.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reduino-1.2.0.tar.gz",
+  "download_time": "2025-11-16T09:25:14.799543",
+  "package_url": "https://pypi.org/project/Reduino/"
+}

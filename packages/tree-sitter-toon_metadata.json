@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-toon",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "TOON (Token-Oriented Object Notation) grammar for tree-sitter",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "tree_sitter_toon-0.0.7.tar.gz",
-  "download_time": "2025-11-16T05:44:53.648333",
+  "download_filename": "tree_sitter_toon-0.0.8.tar.gz",
+  "download_time": "2025-11-16T09:25:13.733653",
   "package_url": "https://pypi.org/project/tree-sitter-toon/"
 }

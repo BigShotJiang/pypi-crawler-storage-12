@@ -1,0 +1,11 @@
+{
+  "name": "noex-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for the noex cryptocurrency exchange",
+  "author": "noex Team",
+  "license": null,
+  "home_page": "https://github.com/noex/noex-sdk-python",
+  "download_filename": "noex_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-16T09:25:36.516295",
+  "package_url": "https://pypi.org/project/noex-sdk/"
+}

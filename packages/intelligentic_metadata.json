@@ -1,0 +1,11 @@
+{
+  "name": "intelligentic",
+  "version": "1.0.0",
+  "summary": "Intelligentic AI - Advanced Multi-Agent Framework",
+  "author": "Intelligentic AI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/intelligentic-ai/intelligentic-ai",
+  "download_filename": "intelligentic-1.0.0.tar.gz",
+  "download_time": "2025-11-16T09:25:20.107359",
+  "package_url": "https://pypi.org/project/intelligentic/"
+}

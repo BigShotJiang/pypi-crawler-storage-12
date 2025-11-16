@@ -1,0 +1,11 @@
+{
+  "name": "schoolmospy",
+  "version": "0.2.1",
+  "summary": "A lightweight async Python wrapper for school.mos.ru APIs",
+  "author": "Ivan Kriventsev",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/xd2dd/schoolmospy",
+  "download_filename": "schoolmospy-0.2.1.tar.gz",
+  "download_time": "2025-11-16T09:25:03.529648",
+  "package_url": "https://pypi.org/project/schoolmospy/"
+}

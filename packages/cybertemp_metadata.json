@@ -1,0 +1,11 @@
+{
+  "name": "cybertemp",
+  "version": "0.0.9",
+  "summary": "A Python wrapper for the CyberTemp temporary email service API",
+  "author": "Sexfrance",
+  "license": null,
+  "home_page": "https://github.com/sexfrance/cybertemp-wrapper",
+  "download_filename": "cybertemp-0.0.9.tar.gz",
+  "download_time": "2025-11-16T09:25:23.751595",
+  "package_url": "https://pypi.org/project/cybertemp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "birthday-surprise",
+  "version": "1.0.0",
+  "summary": "A CLI birthday surprise package",
+  "author": "Devika Harshey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "birthday_surprise-1.0.0.tar.gz",
+  "download_time": "2025-11-16T09:25:33.393799",
+  "package_url": "https://pypi.org/project/birthday-surprise/"
+}

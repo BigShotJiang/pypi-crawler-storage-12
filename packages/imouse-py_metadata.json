@@ -1,0 +1,11 @@
+{
+  "name": "imouse-py",
+  "version": "0.0.4",
+  "summary": "iMouse设备自动化控制库一个基于客户端-服务端架构的Python库,用于自动化控制iOS设备",
+  "author": "iMouse",
+  "license": null,
+  "home_page": "https://github.com/iosauto/imouse-py",
+  "download_filename": "imouse_py-0.0.4.tar.gz",
+  "download_time": "2025-11-16T09:25:33.925646",
+  "package_url": "https://pypi.org/project/imouse-py/"
+}

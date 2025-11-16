@@ -1,11 +1,11 @@
 {
   "name": "iasei-apiui",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "iasei-admin 插件：基于 Vue 的 Swagger UI 界面",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourname/iasei-apiui",
-  "download_filename": "iasei_apiui-0.1.2.tar.gz",
-  "download_time": "2025-11-16T08:50:38.660384",
+  "download_filename": "iasei_apiui-0.1.5.tar.gz",
+  "download_time": "2025-11-16T09:25:15.313274",
   "package_url": "https://pypi.org/project/iasei-apiui/"
 }
