@@ -1,11 +1,11 @@
 {
   "name": "sembicho-cli",
-  "version": "2.4.7",
-  "summary": "SAST + SBOM + CVE Tracking automático - Análisis de seguridad profesional estilo Conviso AppSec",
+  "version": "2.6.0",
+  "summary": "SAST + SBOM (CycloneDX/SPDX) + CVE Scanning (OSV/Safety/NVD) - Análisis de seguridad empresarial completo",
   "author": "SemBicho Team",
   "license": null,
   "home_page": "https://github.com/Claudio-Barrios-83/sembicho-cli",
-  "download_filename": "sembicho_cli-2.4.7.tar.gz",
-  "download_time": "2025-11-16T05:57:37.917540",
+  "download_filename": "sembicho_cli-2.6.0.tar.gz",
+  "download_time": "2025-11-16T12:46:16.881494",
   "package_url": "https://pypi.org/project/sembicho-cli/"
 }

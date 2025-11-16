@@ -1,11 +1,11 @@
 {
   "name": "unisonai",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "UnisonAI Multi-Agent Framework provides a flexible, light-weight experience and extensible environment for creating and coordinating multiple AI agents.",
   "author": "E5Anant (Anant Sharma)",
   "license": null,
   "home_page": null,
-  "download_filename": "unisonai-1.0.tar.gz",
-  "download_time": "2025-11-14T14:25:40.865657",
+  "download_filename": "unisonai-1.1.tar.gz",
+  "download_time": "2025-11-16T12:46:18.924143",
   "package_url": "https://pypi.org/project/unisonai/"
 }

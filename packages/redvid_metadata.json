@@ -1,0 +1,11 @@
+{
+  "name": "redvid",
+  "version": "2.0.6",
+  "summary": "Smart downloader for Reddit hosted videos",
+  "author": "Khaled El-Morshedy",
+  "license": "GPL-v3.0",
+  "home_page": "https://github.com/elmoiv/redvid",
+  "download_filename": "redvid-2.0.6.tar.gz",
+  "download_time": "2025-11-16T12:46:11.753908",
+  "package_url": "https://pypi.org/project/redvid/"
+}

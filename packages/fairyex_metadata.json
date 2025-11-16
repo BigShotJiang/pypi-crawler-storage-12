@@ -1,11 +1,11 @@
 {
   "name": "fairyex",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "FairyEx - FEErical Extraction",
   "author": "Harry Ung",
   "license": null,
   "home_page": null,
-  "download_filename": "fairyex-0.1.3.tar.gz",
-  "download_time": "2025-11-11T18:38:20.681135",
+  "download_filename": "fairyex-0.1.4.tar.gz",
+  "download_time": "2025-11-16T12:46:36.432014",
   "package_url": "https://pypi.org/project/fairyex/"
 }

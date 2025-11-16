@@ -1,11 +1,11 @@
 {
   "name": "pkg-guard",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Safe, typo-aware package installer for Python.",
   "author": "Prasad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pkg_guard-0.1.2.tar.gz",
-  "download_time": "2025-11-16T11:55:11.890849",
+  "download_filename": "pkg_guard-0.1.3.tar.gz",
+  "download_time": "2025-11-16T12:46:34.387135",
   "package_url": "https://pypi.org/project/pkg-guard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbconnector-python",
+  "version": "0.0.8",
+  "summary": "A python package for connecting with database.",
+  "author": "attigeriabhishek",
+  "license": "MIT",
+  "home_page": "https://github.com/attigeriabhishek/DB_connector",
+  "download_filename": "dbconnector_python-0.0.8.tar.gz",
+  "download_time": "2025-11-16T12:46:20.475496",
+  "package_url": "https://pypi.org/project/dbconnector-python/"
+}

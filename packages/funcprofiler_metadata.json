@@ -1,0 +1,11 @@
+{
+  "name": "funcprofiler",
+  "version": "1.1.0",
+  "summary": "An open-source Python library for finding bottlenecks in code. Includes function profiling, data exports, logging, and even line-by-line profiling, for more control.",
+  "author": "Infinitode Pty Ltd",
+  "license": null,
+  "home_page": "https://github.com/infinitode/funcprofiler",
+  "download_filename": "funcprofiler-1.1.0.tar.gz",
+  "download_time": "2025-11-16T12:46:17.394137",
+  "package_url": "https://pypi.org/project/funcprofiler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "brewing",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A web framework built on sqlachemy and fastapi.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brewing-0.0.10.tar.gz",
-  "download_time": "2025-11-13T11:42:19.345076",
+  "download_filename": "brewing-0.0.11.tar.gz",
+  "download_time": "2025-11-16T12:46:48.727081",
   "package_url": "https://pypi.org/project/brewing/"
 }

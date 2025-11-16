@@ -1,0 +1,11 @@
+{
+  "name": "zarque-profiling",
+  "version": "0.5.17",
+  "summary": "Data profiling tools for Big Data",
+  "author": "Crescendo Medix",
+  "license": "MIT",
+  "home_page": "https://github.com/crescendo-medix/zarque-profiling",
+  "download_filename": "zarque_profiling-0.5.17-py2.py3-none-any.whl",
+  "download_time": "2025-11-16T12:46:30.769157",
+  "package_url": "https://pypi.org/project/zarque-profiling/"
+}
