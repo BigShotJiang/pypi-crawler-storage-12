@@ -1,11 +1,11 @@
 {
   "name": "autopublisher-facebook-sdk",
-  "version": "0.1.3",
+  "version": "0.1.8",
   "summary": "SDK para automatizar publicaciones en Facebook (Playwright) en entornos SaaS.",
   "author": "Tu Nombre",
   "license": "Proprietary",
   "home_page": "https://tu-dominio.example",
-  "download_filename": "autopublisher_facebook_sdk-0.1.3.tar.gz",
-  "download_time": "2025-11-15T23:55:48.724655",
+  "download_filename": "autopublisher_facebook_sdk-0.1.8.tar.gz",
+  "download_time": "2025-11-16T02:02:56.434117",
   "package_url": "https://pypi.org/project/autopublisher-facebook-sdk/"
 }

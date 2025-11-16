@@ -1,11 +1,11 @@
 {
   "name": "aimusic-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "The MCP server of MusicMCP.AI - AI Music Generation Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aimusic_mcp-1.0.1.tar.gz",
-  "download_time": "2025-11-15T08:30:46.423763",
+  "download_filename": "aimusic_mcp-1.0.2.tar.gz",
+  "download_time": "2025-11-16T02:03:02.104579",
   "package_url": "https://pypi.org/project/aimusic-mcp/"
 }

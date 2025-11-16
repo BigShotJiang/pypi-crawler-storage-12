@@ -1,0 +1,11 @@
+{
+  "name": "cloudmersive-fraud-detection-api-client",
+  "version": "3.0.0",
+  "summary": "fraudapi",
+  "author": null,
+  "license": null,
+  "home_page": "https://cloudmersive.com/ai-fraud-detection-api",
+  "download_filename": "cloudmersive_fraud_detection_api_client-3.0.0.tar.gz",
+  "download_time": "2025-11-16T02:02:57.078218",
+  "package_url": "https://pypi.org/project/cloudmersive-fraud-detection-api-client/"
+}

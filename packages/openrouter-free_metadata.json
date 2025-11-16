@@ -1,0 +1,11 @@
+{
+  "name": "openrouter-free",
+  "version": "0.1.4",
+  "summary": "A Python client for managing multiple free OpenRouter API keys with automatic rotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrouter_free-0.1.4.tar.gz",
+  "download_time": "2025-11-16T02:02:47.404397",
+  "package_url": "https://pypi.org/project/openrouter-free/"
+}

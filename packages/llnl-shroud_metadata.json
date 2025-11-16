@@ -1,0 +1,11 @@
+{
+  "name": "llnl-shroud",
+  "version": "0.14.0",
+  "summary": "Generate Fortran and Python wrappers for C and C++ Libraries",
+  "author": "Lawrence Livermore National Laboratory",
+  "license": null,
+  "home_page": "http://github.gov/llnl/shroud",
+  "download_filename": "llnl_shroud-0.14.0.tar.gz",
+  "download_time": "2025-11-16T02:02:57.742300",
+  "package_url": "https://pypi.org/project/llnl-shroud/"
+}
