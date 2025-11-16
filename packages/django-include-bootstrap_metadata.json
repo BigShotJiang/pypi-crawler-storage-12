@@ -1,0 +1,11 @@
+{
+  "name": "django-include-bootstrap",
+  "version": "5.3.8.1",
+  "summary": "Includes bootstrap css/js and a default template to make it easier to use Bootstrap with Django",
+  "author": "Paul Traylor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_include_bootstrap-5.3.8.1.tar.gz",
+  "download_time": "2025-11-16T03:35:43.104302",
+  "package_url": "https://pypi.org/project/django-include-bootstrap/"
+}

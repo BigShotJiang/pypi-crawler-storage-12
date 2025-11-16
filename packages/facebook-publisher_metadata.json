@@ -1,0 +1,11 @@
+{
+  "name": "facebook-publisher",
+  "version": "0.1.0",
+  "summary": "SDK para publicar en grupos de Facebook con Playwright",
+  "author": null,
+  "license": "Copyright (c) 2025 Raydiel Espinosa\r\n        \r\n        All Rights Reserved.\r\n        \r\n        This software is proprietary and confidential. \r\n        No part of this software may be used, copied, modified, merged, published, \r\n        distributed, sublicensed, or sold without explicit written permission \r\n        from the copyright holder.\r\n        ",
+  "home_page": null,
+  "download_filename": "facebook_publisher-0.1.0.tar.gz",
+  "download_time": "2025-11-16T03:35:47.293527",
+  "package_url": "https://pypi.org/project/facebook-publisher/"
+}

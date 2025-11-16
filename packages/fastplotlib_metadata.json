@@ -1,0 +1,11 @@
+{
+  "name": "fastplotlib",
+  "version": "0.6.1",
+  "summary": "Next-gen fast plotting library running on WGPU using the Pygfx rendering engine ",
+  "author": "Kushal Kolar, Caitlin Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastplotlib-0.6.1.tar.gz",
+  "download_time": "2025-11-16T03:36:17.361409",
+  "package_url": "https://pypi.org/project/fastplotlib/"
+}

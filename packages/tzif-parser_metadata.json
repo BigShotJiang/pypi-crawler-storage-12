@@ -1,11 +1,11 @@
 {
   "name": "tzif-parser",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Easily parse Time Zone Information Format (TZif) files.",
   "author": "Mason Flint",
   "license": null,
   "home_page": "https://github.com/MasonFlint44/tzif-parser",
-  "download_filename": "tzif_parser-0.0.14.tar.gz",
-  "download_time": "2025-11-15T23:23:27.270058",
+  "download_filename": "tzif_parser-0.0.16.tar.gz",
+  "download_time": "2025-11-16T03:35:52.551140",
   "package_url": "https://pypi.org/project/tzif-parser/"
 }

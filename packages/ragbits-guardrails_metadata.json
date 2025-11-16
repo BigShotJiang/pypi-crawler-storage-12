@@ -1,0 +1,11 @@
+{
+  "name": "ragbits-guardrails",
+  "version": "1.3.0",
+  "summary": "Guardrails module for Ragbits components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragbits_guardrails-1.3.0.tar.gz",
+  "download_time": "2025-11-16T03:36:12.894775",
+  "package_url": "https://pypi.org/project/ragbits-guardrails/"
+}

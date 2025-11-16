@@ -1,11 +1,11 @@
 {
   "name": "phanterpwa",
-  "version": "14.3.6",
+  "version": "14.3.8",
   "summary": "Tools for the phanterpwadeveloper framework",
   "author": "PhanterJR",
   "license": "MIT",
   "home_page": "https://github.com/PhanterJR/phanterpwa",
-  "download_filename": "phanterpwa-14.3.6.tar.gz",
-  "download_time": "2025-11-11T06:58:58.325538",
+  "download_filename": "phanterpwa-14.3.8.tar.gz",
+  "download_time": "2025-11-16T03:36:20.587400",
   "package_url": "https://pypi.org/project/phanterpwa/"
 }
