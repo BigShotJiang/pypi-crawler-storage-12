@@ -1,0 +1,11 @@
+{
+  "name": "beets-alternatives",
+  "version": "0.14.0",
+  "summary": "beets plugin to manage multiple files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_alternatives-0.14.0.tar.gz",
+  "download_time": "2025-11-16T15:55:12.743517",
+  "package_url": "https://pypi.org/project/beets-alternatives/"
+}

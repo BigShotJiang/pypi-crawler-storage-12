@@ -1,0 +1,11 @@
+{
+  "name": "pinterest-dl",
+  "version": "0.8.3",
+  "summary": "An unofficial Pinterest image downloader",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pinterest_dl-0.8.3.tar.gz",
+  "download_time": "2025-11-16T15:55:23.726867",
+  "package_url": "https://pypi.org/project/pinterest-dl/"
+}
