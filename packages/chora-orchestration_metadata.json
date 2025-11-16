@@ -1,11 +1,11 @@
 {
   "name": "chora-orchestration",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "MCP server orchestration CLI and HTTP server for managing Docker-based MCP services",
   "author": "Liminal Commons",
   "license": "MIT",
-  "home_page": "https://github.com/liminalcommons/chora-orchestration",
-  "download_filename": "chora_orchestration-0.3.1.tar.gz",
-  "download_time": "2025-11-16T04:42:11.445784",
+  "home_page": null,
+  "download_filename": "chora_orchestration-0.3.2.tar.gz",
+  "download_time": "2025-11-16T10:26:24.175647",
   "package_url": "https://pypi.org/project/chora-orchestration/"
 }

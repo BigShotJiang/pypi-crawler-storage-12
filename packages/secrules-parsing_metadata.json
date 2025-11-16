@@ -1,0 +1,11 @@
+{
+  "name": "secrules-parsing",
+  "version": "0.2.14",
+  "summary": "ModSecurity DSL Parser package using textX",
+  "author": "Felipe Zipitria",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/coreruleset/secrules_parsing",
+  "download_filename": "secrules_parsing-0.2.14.tar.gz",
+  "download_time": "2025-11-16T10:26:04.391075",
+  "package_url": "https://pypi.org/project/secrules-parsing/"
+}
