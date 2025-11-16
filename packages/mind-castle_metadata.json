@@ -1,0 +1,11 @@
+{
+  "name": "mind-castle",
+  "version": "0.4.6",
+  "summary": "A universal secrets manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mind_castle-0.4.6.tar.gz",
+  "download_time": "2025-11-16T19:41:53.133714",
+  "package_url": "https://pypi.org/project/mind-castle/"
+}

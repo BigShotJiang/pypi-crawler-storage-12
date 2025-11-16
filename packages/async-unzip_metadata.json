@@ -1,11 +1,11 @@
 {
   "name": "async-unzip",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Async unzipping to prevent asyncio timeout errors and decrease the memory usage for bigger zip files",
   "author": "Dmytro Nikolayev",
   "license": "MIT",
   "home_page": "https://github.com/ueni-ltd/async-unzip",
-  "download_filename": "async_unzip-0.4.0-py3-none-any.whl",
-  "download_time": "2025-11-16T19:20:09.632947",
+  "download_filename": "async_unzip-0.4.1.tar.gz",
+  "download_time": "2025-11-16T19:42:11.715105",
   "package_url": "https://pypi.org/project/async-unzip/"
 }

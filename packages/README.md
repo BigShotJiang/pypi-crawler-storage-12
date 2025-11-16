@@ -1,23 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T19:20:52.713998
+- **Download Time**: 2025-11-16T19:42:36.034439
 - **Total Packages**: 82
-- **Total Size**: 34.11 MB
+- **Total Size**: 21.94 MB
 
 ## Packages List
+- mind-castle
+- synqed
+- pyqutree
+- ferb
+- beaglemind-cli
+- tremors
+- tacoreader
+- automate-teaching
+- oidcauthlib
+- 2025-assignment2-vaultPasswordManager
+- questfoundry-compiler
+- tacotoolbox
+- fin-infra
+- teehistorian-py
+- coaiapy-mcp
+- coaiapy
+- MinecraftDockerCLI
+- fastapi-easylimiter
+- kaiserlift
+- nui-lambda-shared-utils
+- AbuLang
+- grummage
+- sl-shared-assets
+- streamlit-music-score
+- aiagent-2025
+- openhive
+- tonie-podcast-sync
+- dr-ingest
+- foundationallm-agent-plugins-langchain
+- foundationallm-agent-plugins-azure-ai
+- foundationallm-agent-plugins-experimental
+- foundationallm-agent-plugins
+- AbuLangModule
+- jogo-da-adivinhacao-renan-martins
+- code4swipe
 - async-unzip
+- gitview
+- knuckledragger
+- bitbully
+- bpt-py
+- pico-sqlalchemy
+- markdownify
+- publishprs
 - blessed
 - sunscanpy
-- synqed
 - tokenrouter
 - geo-activity-playground
-- bpt-py
 - genoai
 - sandfs
 - khoj
 - mas-devops
-- kaiserlift
 - py-nymta
 - cereon-sdk
 - amangkurat
@@ -29,7 +68,6 @@
 - aider-ce
 - pysyscore
 - lampman
-- tremors
 - click-extended
 - LLM-Bridge
 - pr-telegram-bot
@@ -50,41 +88,3 @@
 - devflux-aider-code
 - vaapi
 - pyprotectorx
-- project-explorer-mcp
-- priyam
-- aoc-mod
-- genlist-butler
-- craftable
-- dbus-fast
-- x-mlps-pytorch
-- whatsapp-utilsFAPI
-- ondine
-- xllify
-- ws-bom-robot-app
-- elementary-python-sdk-dqx
-- elementary-python-sdk-core
-- slimschema
-- boxlab
-- dronewq
-- ezviz-openapi-utils
-- mio-package
-- emod-generic
-- flachtex
-- mgimo
-- candorflow
-- pysmithchart
-- tklr-dgraham
-- mapbox-earcut
-- tooluniverse
-- python-cvmclient
-- dott-ng
-- straddle
-- deepnote-toolkit
-- pyqutree
-- lerax
-- fastredis
-- jps-crontab-utils
-- sbdl
-- epub-browser
-- thunder-bench
-- vitag

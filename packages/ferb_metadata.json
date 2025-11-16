@@ -1,0 +1,11 @@
+{
+  "name": "ferb",
+  "version": "1.0.0",
+  "summary": "Link Checker: A GUI + JS-rendered multithreaded broken link checker for dynamic websites.",
+  "author": "Shreyash Srivastva",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ferb-1.0.0.tar.gz",
+  "download_time": "2025-11-16T19:41:54.712212",
+  "package_url": "https://pypi.org/project/ferb/"
+}

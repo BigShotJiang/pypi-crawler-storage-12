@@ -1,11 +1,11 @@
 {
   "name": "dr-ingest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Helpers for ingesting data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dr_ingest-0.1.1.tar.gz",
-  "download_time": "2025-11-11T21:02:04.731232",
+  "download_filename": "dr_ingest-0.1.2.tar.gz",
+  "download_time": "2025-11-16T19:42:07.537557",
   "package_url": "https://pypi.org/project/dr-ingest/"
 }

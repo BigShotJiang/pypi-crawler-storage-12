@@ -1,0 +1,11 @@
+{
+  "name": "beaglemind-cli",
+  "version": "1.0.6",
+  "summary": "Intelligent documentation assistant CLI for Beagleboard projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beaglemind_cli-1.0.6.tar.gz",
+  "download_time": "2025-11-16T19:41:55.231966",
+  "package_url": "https://pypi.org/project/beaglemind-cli/"
+}
