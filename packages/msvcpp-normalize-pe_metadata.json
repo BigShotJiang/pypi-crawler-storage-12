@@ -1,0 +1,11 @@
+{
+  "name": "msvcpp-normalize-pe",
+  "version": "0.0.post38",
+  "summary": "Normalize PE files for reproducible MSVC++ builds",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "msvcpp_normalize_pe-0.0.post38.tar.gz",
+  "download_time": "2025-11-16T23:43:08.959484",
+  "package_url": "https://pypi.org/project/msvcpp-normalize-pe/"
+}

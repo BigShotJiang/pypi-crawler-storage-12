@@ -1,18 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T23:24:31.900366
-- **Total Packages**: 86
-- **Total Size**: 24.11 MB
+- **Download Time**: 2025-11-16T23:43:52.662098
+- **Total Packages**: 80
+- **Total Size**: 14.2 MB
 
 ## Packages List
-- batchtensor
+- aponyx
+- mat3ra-ide
+- tanco
+- msvcpp-normalize-pe
+- oslash
+- arduino-mcp
+- radia
+- mawo-grammar
+- pywebtask
+- expli
+- pythra
+- INFINITE-CONTEXT-WINDOW
 - synqed
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- docuchango
+- nv-ingest
+- nv-ingest-client
+- yt-dlp
+- nv-ingest-api
+- gym-soarm
+- lcr-api-2
+- KeyisBVMHost
+- astrostash
 - option-price-repair
+- batch-router
+- osprey-framework
+- pytmb
+- jupyterlab-macaulay2
+- azula
+- gfnx
+- pydynamodb
+- pokerkit
+- spio
+- batchtensor
 - onnxruntime-genai
 - ort-python
 - distribution-regressor
-- arduino-mcp
 - klavis
 - onnxruntime-genai-directml
 - investimentos
@@ -55,40 +86,3 @@
 - toon-codec
 - onkopus
 - rompy-oceanum
-- iowarp-core
-- piwave
-- numpy
-- biblemategui
-- mun-feas-ga-data
-- openaivec
-- koschey
-- SCons
-- pico-celery
-- smrpgpatchbuilder
-- fast-agent-mcp
-- fast-agent-acp
-- honeyhive
-- pyqrackising
-- investimentpylv
-- anndata-mcp
-- torchlogix
-- batplot
-- yabi-bython
-- rxiv-maker
-- secure-string-cipher
-- consenrich
-- EriduLab-tool
-- annize
-- annize-pidev
-- setting-manager
-- machineconfig
-- starco-dj-bot
-- mvsr
-- leakpy
-- parllama
-- GameSentenceMiner
-- rusty-di-runner
-- apm-cli
-- devduck
-- QuerySUTRA
-- elias-mcp-server-elpadev

@@ -1,0 +1,11 @@
+{
+  "name": "gym-soarm",
+  "version": "0.4.0",
+  "summary": "A gymnasium environment for SO-ARM100 single-arm manipulation based on gym-aloha",
+  "author": "Masato Kawamura (masato-ka)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gym_soarm-0.4.0-py3-none-any.whl",
+  "download_time": "2025-11-16T23:43:19.148656",
+  "package_url": "https://pypi.org/project/gym-soarm/"
+}
