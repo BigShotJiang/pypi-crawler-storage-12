@@ -1,0 +1,11 @@
+{
+  "name": "ratisbona-shellutils",
+  "version": "0.0.4",
+  "summary": "A python package comprising a collection of shell utilities, such as: ratisbona_gcalendar, a command line interface that can sync git logs and other stuff to google calendar, ratisbona_dialogator, a set of tools revolving around the so called dialoge markdown useful for archiving and typesetting whatsapp conversations or chat-gpt dialogs. ratisbona_paste_image, a utility that can be very useful for example for copy and pasting images into VI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ratisbona_shellutils-0.0.4.tar.gz",
+  "download_time": "2025-11-16T18:34:22.453442",
+  "package_url": "https://pypi.org/project/ratisbona-shellutils/"
+}

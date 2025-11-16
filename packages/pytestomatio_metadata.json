@@ -1,0 +1,11 @@
+{
+  "name": "pytestomatio",
+  "version": "2.10.2",
+  "summary": "Pytest plugin to sync test with testomat.io",
+  "author": "Oleksii Ostapov, TikoQA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytestomatio-2.10.2.tar.gz",
+  "download_time": "2025-11-16T18:34:16.585420",
+  "package_url": "https://pypi.org/project/pytestomatio/"
+}

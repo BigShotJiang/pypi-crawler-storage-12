@@ -1,11 +1,11 @@
 {
   "name": "moisten-ew",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "This is a part of the Moisten package, including calculations for the equatorial waves.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moisten_ew-0.1.0.tar.gz",
-  "download_time": "2025-11-16T13:39:13.907631",
+  "download_filename": "moisten_ew-0.1.2.tar.gz",
+  "download_time": "2025-11-16T18:34:12.098724",
   "package_url": "https://pypi.org/project/moisten-ew/"
 }
