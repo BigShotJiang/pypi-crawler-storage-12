@@ -1,0 +1,11 @@
+{
+  "name": "sunscanpy",
+  "version": "0.1.3",
+  "summary": "A python module for radar pointing calibration using the sun",
+  "author": null,
+  "license": "CC-BY-SA-4.0",
+  "home_page": null,
+  "download_filename": "sunscanpy-0.1.3.tar.gz",
+  "download_time": "2025-11-16T19:20:10.731497",
+  "package_url": "https://pypi.org/project/sunscanpy/"
+}

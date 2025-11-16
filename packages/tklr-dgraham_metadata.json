@@ -1,11 +1,11 @@
 {
   "name": "tklr-dgraham",
-  "version": "0.0.0rc15",
+  "version": "0.0.0rc16",
   "summary": "Reminders Tickler / CLI and Textual UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tklr_dgraham-0.0.0rc15.tar.gz",
-  "download_time": "2025-11-14T11:42:51.043799",
+  "download_filename": "tklr_dgraham-0.0.0rc16.tar.gz",
+  "download_time": "2025-11-16T19:20:44.511827",
   "package_url": "https://pypi.org/project/tklr-dgraham/"
 }

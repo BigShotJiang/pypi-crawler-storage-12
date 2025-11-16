@@ -1,0 +1,11 @@
+{
+  "name": "project-explorer-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server toolkit for analyzing the structure of a Python project",
+  "author": "l0kifs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_explorer_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-16T19:20:32.543317",
+  "package_url": "https://pypi.org/project/project-explorer-mcp/"
+}

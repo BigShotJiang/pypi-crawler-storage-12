@@ -1,0 +1,11 @@
+{
+  "name": "pysyscore",
+  "version": "1.0.0",
+  "summary": "Core System Management Utilities for Windows (Registry, Services, Processes, User Management).",
+  "author": "Lethudu70",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pysyscore-1.0.0.tar.gz",
+  "download_time": "2025-11-16T19:20:20.593188",
+  "package_url": "https://pypi.org/project/pysyscore/"
+}

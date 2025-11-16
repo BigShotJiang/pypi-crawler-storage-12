@@ -1,11 +1,11 @@
 {
   "name": "deepnote-toolkit",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Essential Python toolkit for Deepnote environments",
   "author": "Deepnote Engineering",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deepnote_toolkit-1.1.3-py3-none-any.whl",
-  "download_time": "2025-11-11T15:28:01.209404",
+  "download_filename": "deepnote_toolkit-1.1.4-py3-none-any.whl",
+  "download_time": "2025-11-16T19:20:47.626373",
   "package_url": "https://pypi.org/project/deepnote-toolkit/"
 }

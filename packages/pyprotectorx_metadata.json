@@ -1,0 +1,11 @@
+{
+  "name": "pyprotectorx",
+  "version": "5.0.1",
+  "summary": "PPX ENCRYPTION - Python Code Protection for 3.11 & 3.12",
+  "author": "Zain Alkhalil",
+  "license": "MIT",
+  "home_page": "https://github.com/zainalkhalil/pyprotectorx",
+  "download_filename": "pyprotectorx-5.0.1-py3-none-any.whl",
+  "download_time": "2025-11-16T19:20:32.030459",
+  "package_url": "https://pypi.org/project/pyprotectorx/"
+}

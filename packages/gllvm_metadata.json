@@ -1,0 +1,11 @@
+{
+  "name": "gllvm",
+  "version": "0.1.0",
+  "summary": "Generalized latent variable model framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gllvm-0.1.0.tar.gz",
+  "download_time": "2025-11-16T19:20:28.375227",
+  "package_url": "https://pypi.org/project/gllvm/"
+}

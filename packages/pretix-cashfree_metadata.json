@@ -1,11 +1,11 @@
 {
   "name": "pretix-cashfree",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Pretix plugin for accepting payments via Cashfree.",
   "author": "Diptangshu Chakrabarty",
   "license": "Apache",
   "home_page": null,
-  "download_filename": "pretix_cashfree-1.0.5.tar.gz",
-  "download_time": "2025-11-16T17:22:05.808025",
+  "download_filename": "pretix_cashfree-1.0.6.tar.gz",
+  "download_time": "2025-11-16T19:20:28.887834",
   "package_url": "https://pypi.org/project/pretix-cashfree/"
 }

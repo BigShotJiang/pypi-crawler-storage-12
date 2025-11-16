@@ -1,0 +1,11 @@
+{
+  "name": "flachtex",
+  "version": "0.7.0",
+  "summary": "A traceable LaTeX flattener",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flachtex-0.7.0.tar.gz",
+  "download_time": "2025-11-16T19:20:42.436723",
+  "package_url": "https://pypi.org/project/flachtex/"
+}

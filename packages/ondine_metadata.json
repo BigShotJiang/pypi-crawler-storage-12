@@ -1,11 +1,11 @@
 {
   "name": "ondine",
-  "version": "1.2.1",
+  "version": "1.3.1",
   "summary": "Ondine - The LLM Dataset Engine. SDK for processing tabular datasets using LLMs with reliability, observability, and cost control",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ondine-1.2.1.tar.gz",
-  "download_time": "2025-11-12T13:57:28.909887",
+  "download_filename": "ondine-1.3.1.tar.gz",
+  "download_time": "2025-11-16T19:20:36.741486",
   "package_url": "https://pypi.org/project/ondine/"
 }

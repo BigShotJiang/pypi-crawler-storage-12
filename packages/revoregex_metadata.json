@@ -1,0 +1,11 @@
+{
+  "name": "revoregex",
+  "version": "0.1.0",
+  "summary": "A multilingual regex library for Python (Turkish, English, German, French, and more)",
+  "author": "Barış Aksel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "revoregex-0.1.0.tar.gz",
+  "download_time": "2025-11-16T19:20:24.764039",
+  "package_url": "https://pypi.org/project/revoregex/"
+}

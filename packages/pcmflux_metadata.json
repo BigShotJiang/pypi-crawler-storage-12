@@ -1,0 +1,11 @@
+{
+  "name": "pcmflux",
+  "version": "1.0.6",
+  "summary": "A performant audio capture pipeline that encodes raw PCM to Opus, skipping silence.",
+  "author": "Linuxserver.io",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/linuxserver/pcmflux",
+  "download_filename": "pcmflux-1.0.6.tar.gz",
+  "download_time": "2025-11-16T19:20:26.826507",
+  "package_url": "https://pypi.org/project/pcmflux/"
+}

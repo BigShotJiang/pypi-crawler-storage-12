@@ -1,0 +1,11 @@
+{
+  "name": "jps-crontab-utils",
+  "version": "0.1.0",
+  "summary": "Collection of Python utilities for inspecting and searching crontab.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jps_crontab_utils-0.1.0.tar.gz",
+  "download_time": "2025-11-16T19:20:49.677349",
+  "package_url": "https://pypi.org/project/jps-crontab-utils/"
+}
