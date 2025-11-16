@@ -1,11 +1,11 @@
 {
   "name": "game-lingo",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Multi-language video game description translator with smart API orchestration",
   "author": "Sermodi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "game_lingo-0.4.0.tar.gz",
-  "download_time": "2025-11-13T19:40:35.652608",
+  "download_filename": "game_lingo-0.4.1.tar.gz",
+  "download_time": "2025-11-16T07:23:56.499878",
   "package_url": "https://pypi.org/project/game-lingo/"
 }
