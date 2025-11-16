@@ -1,0 +1,11 @@
+{
+  "name": "buct-course",
+  "version": "1.2.0",
+  "summary": "北京化工大学课程平台作业查询",
+  "author": "LingXin07",
+  "license": "MIT",
+  "home_page": "https://github.com/Ling0727-ai/python-buct-course",
+  "download_filename": "buct_course-1.2.0.tar.gz",
+  "download_time": "2025-11-16T04:55:52.129357",
+  "package_url": "https://pypi.org/project/buct-course/"
+}
