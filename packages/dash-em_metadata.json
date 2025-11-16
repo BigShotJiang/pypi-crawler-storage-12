@@ -1,11 +1,11 @@
 {
   "name": "dash-em",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Enterprise-Grade Em-Dash Removal Library — SIMD-Accelerated String Processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dash_em-1.0.0.tar.gz",
-  "download_time": "2025-11-15T14:22:29.881186",
+  "download_filename": "dash_em-1.0.1.tar.gz",
+  "download_time": "2025-11-16T15:42:28.420484",
   "package_url": "https://pypi.org/project/dash-em/"
 }

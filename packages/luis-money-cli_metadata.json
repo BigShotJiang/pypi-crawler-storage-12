@@ -1,11 +1,11 @@
 {
   "name": "luis-money-cli",
-  "version": "0.8.1",
+  "version": "0.10.0",
   "summary": "A minimal money CLI with sqlite-backed accounts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luis_money_cli-0.8.1.tar.gz",
-  "download_time": "2025-11-16T15:23:52.662454",
+  "download_filename": "luis_money_cli-0.10.0.tar.gz",
+  "download_time": "2025-11-16T15:42:10.997861",
   "package_url": "https://pypi.org/project/luis-money-cli/"
 }

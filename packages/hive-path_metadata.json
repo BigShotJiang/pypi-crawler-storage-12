@@ -1,0 +1,11 @@
+{
+  "name": "hive-path",
+  "version": "0.1.0",
+  "summary": "A simple package pathlib extension for paths with Hive-style partitioning.",
+  "author": "Ben",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hive_path-0.1.0.tar.gz",
+  "download_time": "2025-11-16T15:42:24.757434",
+  "package_url": "https://pypi.org/project/hive-path/"
+}
