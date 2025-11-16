@@ -1,11 +1,11 @@
 {
   "name": "humesql",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Natural language to SQL to JSON results using Gemini.",
   "author": "Nirajan Ghimire",
   "license": null,
   "home_page": "https://github.com/nirajang20/HumeSQL",
-  "download_filename": "humesql-0.3.1.tar.gz",
-  "download_time": "2025-11-16T05:25:44.921807",
+  "download_filename": "humesql-0.3.2.tar.gz",
+  "download_time": "2025-11-16T05:44:43.182003",
   "package_url": "https://pypi.org/project/humesql/"
 }
