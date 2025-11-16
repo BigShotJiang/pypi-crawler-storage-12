@@ -1,0 +1,11 @@
+{
+  "name": "Indago",
+  "version": "0.5.4",
+  "summary": "Numerical optimization framework",
+  "author": "Department of fluid mechanics and computational engineering, Faculty of engineering, University of Rijeka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "indago-0.5.4-py3-none-any.whl",
+  "download_time": "2025-11-16T09:55:17.468289",
+  "package_url": "https://pypi.org/project/Indago/"
+}
