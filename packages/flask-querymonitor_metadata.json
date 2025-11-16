@@ -1,11 +1,11 @@
 {
   "name": "flask-querymonitor",
-  "version": "1.0.0",
-  "summary": null,
+  "version": "1.0.3",
+  "summary": "Detect and eliminate N+1 queries in Flask-SQLAlchemy",
   "author": "wallmarkets Team",
   "license": null,
-  "home_page": null,
-  "download_filename": "flask_querymonitor-1.0.0.tar.gz",
-  "download_time": "2025-11-16T05:25:36.007841",
+  "home_page": "https://github.com/wallmarkets/flask-querymonitor",
+  "download_filename": "flask_querymonitor-1.0.3.tar.gz",
+  "download_time": "2025-11-16T06:36:46.099094",
   "package_url": "https://pypi.org/project/flask-querymonitor/"
 }

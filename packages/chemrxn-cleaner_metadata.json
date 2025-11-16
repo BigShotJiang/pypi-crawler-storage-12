@@ -1,0 +1,11 @@
+{
+  "name": "chemrxn-cleaner",
+  "version": "0.0.4",
+  "summary": "A lightweight toolkit for cleaning and standardizing organic reaction datasets.",
+  "author": "Peiye Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/peiyeliu/chemrxn-cleaner",
+  "download_filename": "chemrxn_cleaner-0.0.4.tar.gz",
+  "download_time": "2025-11-16T06:36:33.869552",
+  "package_url": "https://pypi.org/project/chemrxn-cleaner/"
+}
