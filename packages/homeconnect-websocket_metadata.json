@@ -1,0 +1,11 @@
+{
+  "name": "homeconnect-websocket",
+  "version": "1.4.4",
+  "summary": "Home Connect Websocket API",
+  "author": "chris-mc1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "homeconnect_websocket-1.4.4.tar.gz",
+  "download_time": "2025-11-16T11:20:26.774146",
+  "package_url": "https://pypi.org/project/homeconnect-websocket/"
+}

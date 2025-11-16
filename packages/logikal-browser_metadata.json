@@ -1,0 +1,11 @@
+{
+  "name": "logikal-browser",
+  "version": "2.1.2",
+  "summary": "Common browser automation utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logikal_browser-2.1.2.tar.gz",
+  "download_time": "2025-11-16T11:20:13.621282",
+  "package_url": "https://pypi.org/project/logikal-browser/"
+}

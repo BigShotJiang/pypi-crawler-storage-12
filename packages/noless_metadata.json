@@ -1,0 +1,11 @@
+{
+  "name": "noless",
+  "version": "0.1.0",
+  "summary": "Multi-agent CLI for automatic dataset discovery and ML project generation",
+  "author": "NoLess Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/NoLess",
+  "download_filename": "noless-0.1.0.tar.gz",
+  "download_time": "2025-11-16T11:20:21.122119",
+  "package_url": "https://pypi.org/project/noless/"
+}

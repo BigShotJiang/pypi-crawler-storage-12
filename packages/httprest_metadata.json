@@ -1,0 +1,11 @@
+{
+  "name": "httprest",
+  "version": "0.4.1",
+  "summary": "A library for making simple REST-like HTTP requests",
+  "author": "Andrii Nechaiev",
+  "license": "MIT",
+  "home_page": "https://github.com/litteratum/httprest",
+  "download_filename": "httprest-0.4.1.tar.gz",
+  "download_time": "2025-11-16T11:20:30.407647",
+  "package_url": "https://pypi.org/project/httprest/"
+}

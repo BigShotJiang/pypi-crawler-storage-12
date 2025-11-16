@@ -1,11 +1,11 @@
 {
   "name": "wagtailosm",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Open Street Map integration for Wagtail",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wagtailosm-0.3.2.tar.gz",
-  "download_time": "2025-11-13T22:24:45.942821",
+  "download_filename": "wagtailosm-0.4.0.tar.gz",
+  "download_time": "2025-11-16T11:20:29.361503",
   "package_url": "https://pypi.org/project/wagtailosm/"
 }

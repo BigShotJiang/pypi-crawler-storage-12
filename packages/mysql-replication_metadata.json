@@ -1,0 +1,11 @@
+{
+  "name": "mysql-replication",
+  "version": "1.0.11",
+  "summary": "Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL.",
+  "author": "Julien Duponchelle",
+  "license": "Apache 2",
+  "home_page": "https://github.com/julien-duponchelle/python-mysql-replication",
+  "download_filename": "mysql_replication-1.0.11.tar.gz",
+  "download_time": "2025-11-16T11:20:16.969953",
+  "package_url": "https://pypi.org/project/mysql-replication/"
+}
