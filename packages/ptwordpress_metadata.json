@@ -1,11 +1,11 @@
 {
   "name": "ptwordpress",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "summary": "Wordpress Security Testing Tool",
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptwordpress-0.0.35.tar.gz",
-  "download_time": "2025-11-15T21:23:08.764585",
+  "download_filename": "ptwordpress-0.0.36.tar.gz",
+  "download_time": "2025-11-16T21:55:12.205059",
   "package_url": "https://pypi.org/project/ptwordpress/"
 }

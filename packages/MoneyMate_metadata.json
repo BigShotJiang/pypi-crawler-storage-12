@@ -1,0 +1,11 @@
+{
+  "name": "MoneyMate",
+  "version": "1.1.4",
+  "summary": "Description of the project here",
+  "author": "Name Surname",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/aequitas-aod/MoneyMate",
+  "download_filename": "moneymate-1.1.4.tar.gz",
+  "download_time": "2025-11-16T21:55:04.075623",
+  "package_url": "https://pypi.org/project/MoneyMate/"
+}

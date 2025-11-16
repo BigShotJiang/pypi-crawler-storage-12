@@ -1,11 +1,11 @@
 {
   "name": "kaiserlift",
-  "version": "0.1.80",
+  "version": "0.1.81",
   "summary": "Science-based progressive overload system for weightlifting and running with Pareto optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kaiserlift-0.1.80.tar.gz",
-  "download_time": "2025-11-16T21:42:15.035070",
+  "download_filename": "kaiserlift-0.1.81.tar.gz",
+  "download_time": "2025-11-16T21:55:03.010209",
   "package_url": "https://pypi.org/project/kaiserlift/"
 }
