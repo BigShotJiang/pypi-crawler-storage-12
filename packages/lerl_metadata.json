@@ -1,11 +1,11 @@
 {
   "name": "lerl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "RL code-snippet generator for notebooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lerl-0.0.1.tar.gz",
-  "download_time": "2025-11-16T15:42:25.816226",
+  "download_filename": "lerl-0.1.0.tar.gz",
+  "download_time": "2025-11-16T16:30:36.523893",
   "package_url": "https://pypi.org/project/lerl/"
 }

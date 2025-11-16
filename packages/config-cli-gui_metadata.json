@@ -1,11 +1,11 @@
 {
   "name": "config-cli-gui",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Feature-rich Python project template for config-cli-gui.",
   "author": "pamagister",
   "license": null,
   "home_page": null,
-  "download_filename": "config_cli_gui-0.2.2.tar.gz",
-  "download_time": "2025-11-14T14:57:30.637693",
+  "download_filename": "config_cli_gui-0.2.3.tar.gz",
+  "download_time": "2025-11-16T16:30:24.106423",
   "package_url": "https://pypi.org/project/config-cli-gui/"
 }

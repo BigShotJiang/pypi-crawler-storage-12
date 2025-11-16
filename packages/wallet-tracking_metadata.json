@@ -1,11 +1,11 @@
 {
   "name": "wallet-tracking",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "copy trading bot tracking",
   "author": "Private",
   "license": null,
   "home_page": null,
-  "download_filename": "wallet_tracking-1.0.1.tar.gz",
-  "download_time": "2025-11-16T08:37:43.443513",
+  "download_filename": "wallet_tracking-1.0.3.tar.gz",
+  "download_time": "2025-11-16T16:30:40.555556",
   "package_url": "https://pypi.org/project/wallet-tracking/"
 }

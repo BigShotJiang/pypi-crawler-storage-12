@@ -1,11 +1,11 @@
 {
   "name": "nasa-lsp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Language Server Protocol implementation that enforces NASA's Power of 10 rules for safety-critical code in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nasa_lsp-0.1.0.tar.gz",
-  "download_time": "2025-11-16T15:55:18.748085",
+  "download_filename": "nasa_lsp-0.1.2.tar.gz",
+  "download_time": "2025-11-16T16:30:30.136345",
   "package_url": "https://pypi.org/project/nasa-lsp/"
 }

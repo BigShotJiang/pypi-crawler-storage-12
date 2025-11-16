@@ -1,11 +1,11 @@
 {
   "name": "ciscoconfparse2",
-  "version": "0.8.52",
+  "version": "0.8.53",
   "summary": "Parse, Audit, Query, Build, and Modify Cisco IOS-style and JunOS-style configs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ciscoconfparse2-0.8.52.tar.gz",
-  "download_time": "2025-11-16T15:55:09.490225",
+  "download_filename": "ciscoconfparse2-0.8.53.tar.gz",
+  "download_time": "2025-11-16T16:30:27.745848",
   "package_url": "https://pypi.org/project/ciscoconfparse2/"
 }

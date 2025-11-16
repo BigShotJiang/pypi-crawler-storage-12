@@ -1,0 +1,11 @@
+{
+  "name": "disint",
+  "version": "0.1.0",
+  "summary": "Reproducible pipeline for normalization, UMAP/K-means clustering, and cluster quality evaluation",
+  "author": "Cong Yi",
+  "license": "Research-only / non-commercial use. See README for terms.",
+  "home_page": null,
+  "download_filename": "disint-0.1.0.tar.gz",
+  "download_time": "2025-11-16T16:30:28.319700",
+  "package_url": "https://pypi.org/project/disint/"
+}

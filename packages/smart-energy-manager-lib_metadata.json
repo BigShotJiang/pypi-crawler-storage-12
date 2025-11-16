@@ -1,0 +1,11 @@
+{
+  "name": "smart-energy-manager-lib",
+  "version": "1.0.0",
+  "summary": "A library for managing solar energy generation, consumption, and trading",
+  "author": "Tejas Patil",
+  "license": null,
+  "home_page": "https://github.com/x24250511/energy-manager",
+  "download_filename": "smart_energy_manager_lib-1.0.0.tar.gz",
+  "download_time": "2025-11-16T16:30:31.925994",
+  "package_url": "https://pypi.org/project/smart-energy-manager-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eyeD3",
+  "version": "0.9.9",
+  "summary": "Python audio data toolkit (ID3 and MP3)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eyed3-0.9.9.tar.gz",
+  "download_time": "2025-11-16T16:30:24.682191",
+  "package_url": "https://pypi.org/project/eyeD3/"
+}
