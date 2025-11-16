@@ -1,15 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T22:45:38.749743
-- **Total Packages**: 86
-- **Total Size**: 28.26 MB
+- **Download Time**: 2025-11-16T22:58:33.715742
+- **Total Packages**: 88
+- **Total Size**: 10.44 MB
 
 ## Packages List
+- brizz
+- PlaywrightCapture
+- fastapi-factory-utilities
+- gseapy
+- star-toffee
+- gtalk
+- toon-codec
+- onkopus
+- rompy-oceanum
+- iowarp-core
+- piwave
+- numpy
+- biblemategui
+- mun-feas-ga-data
+- maleo-identity
 - openaivec
 - koschey
 - SCons
-- toon-codec
 - pico-celery
 - smrpgpatchbuilder
 - fast-agent-mcp
@@ -76,19 +90,7 @@
 - regula-documentreader-webclient
 - tradingview-scraper
 - tawala
-- biblemategui
 - jokoor
 - markpub
 - jubilee
 - lcr-api-2
-- PyNinja
-- skillkit
-- wpiformat
-- prime
-- derive-client
-- morphZ
-- streamlit-supabase-auth-ui
-- calgebra
-- mkdocs-drawio
-- oidcauthlib
-- rusty-todo-md

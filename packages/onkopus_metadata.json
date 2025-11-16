@@ -1,11 +1,11 @@
 {
   "name": "onkopus",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Variant interpretation framework to analyze and interpret genetic alterations in cancer",
   "author": "Nadine S. Kurz",
   "license": "GPLv3",
   "home_page": "https://gitlab.gwdg.de/MedBioinf/mtb/onkopus/onkopus",
-  "download_filename": "onkopus-0.6.6.tar.gz",
-  "download_time": "2025-11-16T17:21:57.347626",
+  "download_filename": "onkopus-0.6.7.tar.gz",
+  "download_time": "2025-11-16T22:57:51.775375",
   "package_url": "https://pypi.org/project/onkopus/"
 }
