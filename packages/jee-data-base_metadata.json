@@ -1,11 +1,11 @@
 {
   "name": "jee-data-base",
-  "version": "0.1.4.post5",
+  "version": "0.1.5.post2",
   "summary": "JEE Mains PYQS data base",
   "author": "HostServer001",
   "license": "MIT",
   "home_page": "https://github.com/HostServer001/jee_mains_pyqs_data_base",
-  "download_filename": "jee_data_base-0.1.4.post5.tar.gz",
-  "download_time": "2025-11-15T19:41:09.606016",
+  "download_filename": "jee_data_base-0.1.5.post2.tar.gz",
+  "download_time": "2025-11-16T08:38:01.594042",
   "package_url": "https://pypi.org/project/jee-data-base/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "terminus-ai",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Terminus CLI: An autonomous AI agent for terminal-based task execution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminus_ai-2.0.0.tar.gz",
-  "download_time": "2025-11-16T02:03:21.957125",
+  "download_filename": "terminus_ai-2.0.1.tar.gz",
+  "download_time": "2025-11-16T08:38:10.993076",
   "package_url": "https://pypi.org/project/terminus-ai/"
 }

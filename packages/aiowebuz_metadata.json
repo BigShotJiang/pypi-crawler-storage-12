@@ -1,0 +1,11 @@
+{
+  "name": "aiowebuz",
+  "version": "1.0.0",
+  "summary": "O'zbek tilida mukammal web parsing va avtomatizatsiya kutubxonasi",
+  "author": "oscoder",
+  "license": null,
+  "home_page": "https://github.com/oscoderuz/aiowebuz",
+  "download_filename": "aiowebuz-1.0.0.tar.gz",
+  "download_time": "2025-11-16T08:38:12.528193",
+  "package_url": "https://pypi.org/project/aiowebuz/"
+}

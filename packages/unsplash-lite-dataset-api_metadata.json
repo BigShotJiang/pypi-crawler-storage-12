@@ -1,11 +1,11 @@
 {
   "name": "unsplash-lite-dataset-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Utilities for building and querying an Unsplash-style OpenSearch index",
   "author": "Baneet",
   "license": null,
   "home_page": null,
-  "download_filename": "unsplash_lite_dataset_api-0.1.0.tar.gz",
-  "download_time": "2025-11-16T07:24:02.059019",
+  "download_filename": "unsplash_lite_dataset_api-0.1.1.tar.gz",
+  "download_time": "2025-11-16T08:37:38.308059",
   "package_url": "https://pypi.org/project/unsplash-lite-dataset-api/"
 }

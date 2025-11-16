@@ -1,11 +1,11 @@
 {
   "name": "reaction-balancer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Balance chemical equations and generate printable forms",
   "author": "ponyofshadows",
   "license": null,
   "home_page": null,
-  "download_filename": "reaction_balancer-2.0.1.tar.gz",
-  "download_time": "2025-11-16T07:23:54.350074",
+  "download_filename": "reaction_balancer-2.0.2.tar.gz",
+  "download_time": "2025-11-16T08:37:32.677376",
   "package_url": "https://pypi.org/project/reaction-balancer/"
 }

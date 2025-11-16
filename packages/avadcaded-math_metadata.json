@@ -1,11 +1,11 @@
 {
   "name": "avadcaded-math",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "a custom math module that has many operaton,these operating is more than a built in math module,enjoy!",
   "author": "Nguy Nhat",
   "license": null,
   "home_page": null,
-  "download_filename": "avadcaded_math-0.0.3.tar.gz",
-  "download_time": "2025-11-16T07:41:27.019333",
+  "download_filename": "avadcaded_math-0.0.5.tar.gz",
+  "download_time": "2025-11-16T08:37:39.334323",
   "package_url": "https://pypi.org/project/avadcaded-math/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "chem-mrl",
+  "version": "0.8.2",
+  "summary": "SMILES-based Matryoshka Representation Learning Embedding Model",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "chem_mrl-0.8.2.tar.gz",
+  "download_time": "2025-11-16T08:38:09.461652",
+  "package_url": "https://pypi.org/project/chem-mrl/"
+}

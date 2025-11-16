@@ -1,0 +1,11 @@
+{
+  "name": "my-telugu-lib",
+  "version": "1.0.0",
+  "summary": "Complete Telugu Translation & Transliteration Package with Built-in Typing Tool",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/my_telugu_lib",
+  "download_filename": "my_telugu_lib-1.0.0.tar.gz",
+  "download_time": "2025-11-16T08:37:51.815706",
+  "package_url": "https://pypi.org/project/my-telugu-lib/"
+}

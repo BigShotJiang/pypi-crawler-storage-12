@@ -1,0 +1,11 @@
+{
+  "name": "chora-manifest",
+  "version": "0.1.0",
+  "summary": "Manifest - Multi-interface capability server (CLI/REST/MCP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chora_manifest-0.1.0.tar.gz",
+  "download_time": "2025-11-16T08:37:42.400673",
+  "package_url": "https://pypi.org/project/chora-manifest/"
+}

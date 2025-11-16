@@ -1,0 +1,11 @@
+{
+  "name": "spry",
+  "version": "0.5.7",
+  "summary": "social media scanner",
+  "author": "James A. Campbell",
+  "license": null,
+  "home_page": "https://github.com/jamesacampbell/spry",
+  "download_filename": "spry-0.5.7.tar.gz",
+  "download_time": "2025-11-16T08:38:12.015821",
+  "package_url": "https://pypi.org/project/spry/"
+}

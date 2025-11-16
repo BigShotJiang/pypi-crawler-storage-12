@@ -1,11 +1,11 @@
 {
   "name": "helmkit",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Parse HELM strings into RDKit molecules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "helmkit-0.5.1.tar.gz",
-  "download_time": "2025-11-10T14:46:34.238568",
+  "download_filename": "helmkit-0.5.3.tar.gz",
+  "download_time": "2025-11-16T08:37:34.212984",
   "package_url": "https://pypi.org/project/helmkit/"
 }

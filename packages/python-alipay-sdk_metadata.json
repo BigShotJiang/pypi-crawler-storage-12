@@ -1,0 +1,11 @@
+{
+  "name": "python-alipay-sdk",
+  "version": "3.4.0",
+  "summary": "Python SDK for AliPay, RSA is the only sign method we support",
+  "author": "fzlee",
+  "license": "BSD",
+  "home_page": "https://github.com/fzlee/alipay",
+  "download_filename": "python_alipay_sdk-3.4.0.tar.gz",
+  "download_time": "2025-11-16T08:37:53.352301",
+  "package_url": "https://pypi.org/project/python-alipay-sdk/"
+}

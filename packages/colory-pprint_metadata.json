@@ -1,0 +1,11 @@
+{
+  "name": "colory-pprint",
+  "version": "1.5.1",
+  "summary": "Colory PPrint is your new best friend when it comes to logging in Python—especially if you like your logs colorful, stylish, and super readable! Say goodbye to bland, hard-to-read logs and hello to clean, color-coded JSON logs with all the bells and whistles. Plus, it’s got your back when logging things that Python doesn't like to serialize.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colory_pprint-1.5.1.tar.gz",
+  "download_time": "2025-11-16T08:37:33.698150",
+  "package_url": "https://pypi.org/project/colory-pprint/"
+}
