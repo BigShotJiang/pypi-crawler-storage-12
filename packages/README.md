@@ -1,30 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T06:37:06.128903
-- **Total Packages**: 78
-- **Total Size**: 11.7 MB
+- **Download Time**: 2025-11-16T06:58:08.655065
+- **Total Packages**: 75
+- **Total Size**: 15.02 MB
 
 ## Packages List
-- rlang-compiler
+- aimusic-mcp
+- oidcauthlib
+- par-term-emu-core-rust
+- langbot-plugin
+- MoleditPy-linux
+- avadcaded-math
+- weixinautox4
+- MoleditPy
+- h2ogpte
 - pulumi-aws-native
+- deltachat-rpc-client
+- mcp-vector-search
+- listdump
+- rlang-compiler
+- dubina
+- langchain-qwq
+- rsspolymlp
+- bugboy
+- facebook-publisher
+- bookdatamaker
+- devduck
+- django-push-notifications
+- ant-ray-cpp-nightly
+- stlflib
+- gwseq-io
+- vallaipallam
+- sekai-deck-recommend-cpp
+- wsba-hockey
+- mikrotik-swos
+- rxlm
+- nonebot-plugin-paocha
 - handsfreed
 - craftable
-- devduck
 - arcbeam-langchain-connector
 - payme-pkg
 - nodcast
 - matrice-inference
 - juham-automation
 - py-near
-- moleditpy
 - peargent
-- moleditpy-linux
 - aframexr
 - easyrunner-cli
 - togura
 - mathsys
-- weixinautox4
 - chemrxn-cleaner
 - galago-tools
 - mcp-ticketer
@@ -53,34 +78,6 @@
 - flask-security-headers
 - scc-firewall-manager-sdk
 - kigo-gui-framework
-- mikrotik-swos
 - yt-jsc-youtubei
 - sssekai
 - vortexpy
-- nonebot-plugin-paocha
-- ails-cli-tool
-- rabbitmq-mcp-server
-- pywebtask
-- botasaurus
-- PyNeoFile
-- lka-nic-decoder
-- pytouchline-extended
-- ABetter
-- kawaii-traceback
-- funcy-bear
-- FastPWA
-- crackerjack
-- fluxloop-cli
-- pmv
-- patent-downloader
-- pyezvizapi
-- modelforge-finetuning
-- tree-sitter-toon
-- reaction-balancer
-- PyFoxFile
-- Chemiverse
-- aijournal
-- xbox-controller-py
-- wpiformat
-- abi3audit
-- aenet-gpr

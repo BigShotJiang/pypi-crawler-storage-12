@@ -1,0 +1,11 @@
+{
+  "name": "django-push-notifications",
+  "version": "3.3.0",
+  "summary": "Send push notifications to mobile devices through GCM, APNS or WNS and to WebPush (Chrome, Firefox and Opera) in Django",
+  "author": "Jerome Leclanche",
+  "license": null,
+  "home_page": "https://github.com/jazzband/django-push-notifications",
+  "download_filename": "django_push_notifications-3.3.0.tar.gz",
+  "download_time": "2025-11-16T06:57:41.120550",
+  "package_url": "https://pypi.org/project/django-push-notifications/"
+}
