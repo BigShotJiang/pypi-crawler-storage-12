@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T21:55:37.341491
-- **Total Packages**: 75
-- **Total Size**: 15.59 MB
+- **Download Time**: 2025-11-16T22:24:54.334204
+- **Total Packages**: 81
+- **Total Size**: 8.74 MB
 
 ## Packages List
+- dbinfer-relbench-adapter
+- py-eol
+- morningpy
+- crystalwindow
+- openalgo
+- elias-mcp-server-elpadev
+- dbus-fast
+- dwex
+- sequana-multitax
+- hctef
+- flerity-core
+- machineconfig
+- epub-browser
+- screenshot-cleaner
+- wnnet
+- par-ai-core
+- qrgenkit
+- docpull
+- flumy
+- rxiv-maker
+- minnesota-immunization-core
+- regula-documentreader-webclient
+- tradingview-scraper
+- getWixSecrets
+- tawala
+- biblemategui
+- jokoor
+- markpub
+- spotoptim
+- jubilee
+- lcr-api-2
+- PyNinja
+- skillkit
+- wpiformat
+- prime
+- derive-client
+- morphZ
+- streamlit-supabase-auth-ui
+- calgebra
+- mkdocs-drawio
+- oidcauthlib
+- rusty-todo-md
 - python-iso639
 - AbuLang
 - perpetual-context-window
@@ -23,7 +65,6 @@
 - har2tree
 - MoneyMate
 - botmaro-secrets-manager
-- spotoptim
 - alternative
 - google-nest-sdm
 - geocif
@@ -38,7 +79,6 @@
 - ptwordpress
 - sqlmodelgen
 - mrx-runway
-- par-ai-core
 - python-blossom
 - ngff-zarr
 - alubia
@@ -47,37 +87,3 @@
 - routheon-server
 - polars-rpsl
 - whisperlivekit
-- cadens-package
-- yabi-bython
-- pythra-red-x
-- turboloader
-- respectify
-- textmine-cli
-- noiseframework
-- sieves
-- webquest
-- derive-client
-- oakley
-- starco-dj-utils
-- rxlm
-- gazpar2mqtt
-- craftgate
-- descanso
-- odoo-addon-account-banking-ach-credit-transfer
-- odoo-addon-l10n-us-gaap
-- netlite
-- stripe-referral
-- kineverse
-- casetools
-- keywordsai-tracing
-- hbsir
-- diagramagic
-- kedro-boot
-- investos
-- trimci
-- myfy
-- myfy-frontend
-- myfy-cli
-- myfy-web
-- myfy-core
-- pyuml2svg

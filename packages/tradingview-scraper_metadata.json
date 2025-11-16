@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-scraper",
+  "version": "0.4.18",
+  "summary": "Tradingview scraper tool",
+  "author": "Mostafa Najmi",
+  "license": "MIT",
+  "home_page": "https://github.com/mnwato/tradingview-scraper",
+  "download_filename": "tradingview_scraper-0.4.18.tar.gz",
+  "download_time": "2025-11-16T22:24:23.621073",
+  "package_url": "https://pypi.org/project/tradingview-scraper/"
+}

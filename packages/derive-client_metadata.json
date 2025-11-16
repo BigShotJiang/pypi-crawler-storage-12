@@ -1,11 +1,11 @@
 {
   "name": "derive-client",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": "8baller",
   "license": null,
   "home_page": null,
-  "download_filename": "derive_client-0.3.0.tar.gz",
-  "download_time": "2025-11-16T21:55:24.040036",
+  "download_filename": "derive_client-0.3.1.tar.gz",
+  "download_time": "2025-11-16T22:24:30.836633",
   "package_url": "https://pypi.org/project/derive-client/"
 }

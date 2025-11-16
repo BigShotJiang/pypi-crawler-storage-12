@@ -1,0 +1,11 @@
+{
+  "name": "hctef",
+  "version": "0.1.1",
+  "summary": "Helper classes to read files over HTTP using Range requests, with caching",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "hctef-0.1.1.tar.gz",
+  "download_time": "2025-11-16T22:24:16.900204",
+  "package_url": "https://pypi.org/project/hctef/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dwex",
+  "version": "4.56",
+  "summary": "GUI viewer for DWARF debug information",
+  "author": "Seva Alekseyev",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/sevaa/dwex/",
+  "download_filename": "dwex-4.56.tar.gz",
+  "download_time": "2025-11-16T22:24:15.856208",
+  "package_url": "https://pypi.org/project/dwex/"
+}

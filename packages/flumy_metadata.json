@@ -1,0 +1,11 @@
+{
+  "name": "flumy",
+  "version": "8.500",
+  "summary": "Meandering Channelized Reservoir Creator",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "flumy-8.500-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-16T22:24:21.538541",
+  "package_url": "https://pypi.org/project/flumy/"
+}

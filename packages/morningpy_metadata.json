@@ -1,0 +1,11 @@
+{
+  "name": "morningpy",
+  "version": "0.1.0",
+  "summary": "A Python wrapper to fetch financial data from Morningstar",
+  "author": "Thomas Piton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morningpy-0.1.0.tar.gz",
+  "download_time": "2025-11-16T22:24:13.116821",
+  "package_url": "https://pypi.org/project/morningpy/"
+}

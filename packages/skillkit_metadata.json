@@ -1,0 +1,11 @@
+{
+  "name": "skillkit",
+  "version": "0.2.0",
+  "summary": "Python library implementing Anthropic's Agent Skills functionality for LLM-powered agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skillkit-0.2.0.tar.gz",
+  "download_time": "2025-11-16T22:24:29.285349",
+  "package_url": "https://pypi.org/project/skillkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dbus-fast",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "A faster version of dbus-next",
   "author": "Bluetooth Devices Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbus_fast-3.0.0.tar.gz",
-  "download_time": "2025-11-16T20:27:55.129193",
+  "download_filename": "dbus_fast-3.1.0.tar.gz",
+  "download_time": "2025-11-16T22:24:15.236282",
   "package_url": "https://pypi.org/project/dbus-fast/"
 }
