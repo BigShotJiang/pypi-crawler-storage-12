@@ -1,11 +1,11 @@
 {
   "name": "csemod",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Personal Project - Education Purpose Only",
   "author": "BonzoDon",
   "license": "CC0-1.0",
   "home_page": null,
-  "download_filename": "csemod-0.0.2.tar.gz",
-  "download_time": "2025-11-14T19:41:09.006827",
+  "download_filename": "csemod-0.0.3.tar.gz",
+  "download_time": "2025-11-16T13:54:43.451856",
   "package_url": "https://pypi.org/project/csemod/"
 }

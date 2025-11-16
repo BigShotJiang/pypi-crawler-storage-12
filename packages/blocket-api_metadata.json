@@ -1,11 +1,11 @@
 {
   "name": "blocket-api",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "A python API wrapper for blocket.se",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blocket_api-0.3.6.tar.gz",
-  "download_time": "2025-11-13T19:23:48.878602",
+  "download_filename": "blocket_api-0.3.7.tar.gz",
+  "download_time": "2025-11-16T13:54:34.448989",
   "package_url": "https://pypi.org/project/blocket-api/"
 }

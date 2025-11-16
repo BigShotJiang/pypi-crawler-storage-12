@@ -1,0 +1,11 @@
+{
+  "name": "wooldridge",
+  "version": "0.5.0",
+  "summary": "Data sets from Introductory Econometrics: A Modern Approach (7th ed, J.M. Wooldridge)",
+  "author": "Tetsu Haruyama",
+  "license": "LICENSE",
+  "home_page": "https://github.com/spring-haru/wooldridge",
+  "download_filename": "wooldridge-0.5.0.tar.gz",
+  "download_time": "2025-11-16T13:54:35.645185",
+  "package_url": "https://pypi.org/project/wooldridge/"
+}

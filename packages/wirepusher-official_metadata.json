@@ -1,11 +1,11 @@
 {
   "name": "wirepusher-official",
-  "version": "1.0.0a2",
+  "version": "1.0.0a6",
   "summary": "Official WirePusher client library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wirepusher_official-1.0.0a2.tar.gz",
-  "download_time": "2025-11-16T02:03:14.339908",
+  "download_filename": "wirepusher_official-1.0.0a6.tar.gz",
+  "download_time": "2025-11-16T13:54:41.375817",
   "package_url": "https://pypi.org/project/wirepusher-official/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-stripzip",
+  "version": "2.0.0",
+  "summary": "strip zip timestamps for reproducible builds",
+  "author": "Oliver Bristow",
+  "license": "MIT",
+  "home_page": "https://github.com/Code0x58/python-stripzip/",
+  "download_filename": "python_stripzip-2.0.0.tar.gz",
+  "download_time": "2025-11-16T13:54:36.164830",
+  "package_url": "https://pypi.org/project/python-stripzip/"
+}

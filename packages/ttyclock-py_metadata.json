@@ -1,0 +1,11 @@
+{
+  "name": "ttyclock-py",
+  "version": "2.0.0",
+  "summary": "Basically tty-clock but rewritten in Python",
+  "author": null,
+  "license": "CC-BY-SA-4.0",
+  "home_page": null,
+  "download_filename": "ttyclock_py-2.0.0.tar.gz",
+  "download_time": "2025-11-16T13:54:40.857768",
+  "package_url": "https://pypi.org/project/ttyclock-py/"
+}

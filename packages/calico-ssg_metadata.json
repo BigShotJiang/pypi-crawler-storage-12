@@ -1,11 +1,11 @@
 {
   "name": "calico-ssg",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Django-based static site generator",
   "author": "LevIT SCS",
   "license": null,
   "home_page": "https://codeberg.org/emmaDelescolle/calico",
-  "download_filename": "calico_ssg-0.3.1.tar.gz",
-  "download_time": "2025-11-16T11:42:46.956789",
+  "download_filename": "calico_ssg-0.3.2.tar.gz",
+  "download_time": "2025-11-16T13:54:32.888589",
   "package_url": "https://pypi.org/project/calico-ssg/"
 }

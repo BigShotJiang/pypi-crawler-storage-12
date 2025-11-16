@@ -1,0 +1,11 @@
+{
+  "name": "symlink-editor",
+  "version": "1.1.0",
+  "summary": "A TUI to change the target of a symlink.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symlink_editor-1.1.0.tar.gz",
+  "download_time": "2025-11-16T13:54:40.339331",
+  "package_url": "https://pypi.org/project/symlink-editor/"
+}
