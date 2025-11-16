@@ -1,0 +1,11 @@
+{
+  "name": "kedro-boot",
+  "version": "0.3.0",
+  "summary": "A kedro plugin that streamlines the integration between Kedro projects and external applications, making it easier for you to develop production-ready data science applications.",
+  "author": "Takieddine Kadiri",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": "https://github.com/takikadiri/kedro-boot",
+  "download_filename": "kedro_boot-0.3.0.tar.gz",
+  "download_time": "2025-11-16T21:23:17.307448",
+  "package_url": "https://pypi.org/project/kedro-boot/"
+}

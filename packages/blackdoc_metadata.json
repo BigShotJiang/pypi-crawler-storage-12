@@ -1,0 +1,11 @@
+{
+  "name": "blackdoc",
+  "version": "0.4.6",
+  "summary": "run black on documentation code snippets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blackdoc-0.4.6.tar.gz",
+  "download_time": "2025-11-16T21:23:26.206702",
+  "package_url": "https://pypi.org/project/blackdoc/"
+}

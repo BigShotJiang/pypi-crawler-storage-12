@@ -1,11 +1,11 @@
 {
   "name": "bulloh",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Script to automate gathering personal productivity data.",
   "author": "anggelomos",
   "license": null,
   "home_page": null,
-  "download_filename": "bulloh-0.1.17.tar.gz",
-  "download_time": "2025-11-16T18:34:37.307615",
+  "download_filename": "bulloh-0.1.18.tar.gz",
+  "download_time": "2025-11-16T21:23:28.813864",
   "package_url": "https://pypi.org/project/bulloh/"
 }

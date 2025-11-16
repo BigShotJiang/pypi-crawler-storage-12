@@ -1,11 +1,11 @@
 {
   "name": "keywordsai-tracing",
-  "version": "0.0.53",
+  "version": "0.0.54",
   "summary": "Keywords AI SDK allows you to interact with the Keywords AI API smoothly",
   "author": "Keywords AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keywordsai_tracing-0.0.53.tar.gz",
-  "download_time": "2025-11-16T20:57:17.801102",
+  "download_filename": "keywordsai_tracing-0.0.54.tar.gz",
+  "download_time": "2025-11-16T21:23:15.756599",
   "package_url": "https://pypi.org/project/keywordsai-tracing/"
 }

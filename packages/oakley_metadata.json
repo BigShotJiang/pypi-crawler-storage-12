@@ -1,11 +1,11 @@
 {
   "name": "oakley",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "summary": "A small collection of lightweight, opinionated utilities for printing fancy console output in Python: colored strings, pretty messages, simple progress bars, task context managers, and tiny system/status helpers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oakley-2.1.7.tar.gz",
-  "download_time": "2025-11-16T16:30:26.018030",
+  "download_filename": "oakley-2.1.8.tar.gz",
+  "download_time": "2025-11-16T21:23:18.333438",
   "package_url": "https://pypi.org/project/oakley/"
 }

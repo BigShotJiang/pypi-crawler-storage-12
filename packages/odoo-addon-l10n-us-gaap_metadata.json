@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-us-gaap",
+  "version": "17.0.1.0.0.6",
+  "summary": "United States Sample GAAP Chart of Accounts",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-usa",
+  "download_filename": "odoo_addon_l10n_us_gaap-17.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-16T21:23:12.156377",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-us-gaap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "casetools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A lightweight library for controlling text.",
   "author": "Johnathan31",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "casetools-1.0.0.tar.gz",
-  "download_time": "2025-11-16T20:27:50.459013",
+  "download_filename": "casetools-1.0.1.tar.gz",
+  "download_time": "2025-11-16T21:23:15.241683",
   "package_url": "https://pypi.org/project/casetools/"
 }

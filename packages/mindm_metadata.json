@@ -1,11 +1,11 @@
 {
   "name": "mindm",
-  "version": "0.0.5.3",
+  "version": "0.0.5.4",
   "summary": "Python library for interacting with local installed MindManager(tm) on Windows and MacOS platform.",
   "author": "Robert Zaufall",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mindm-0.0.5.3.tar.gz",
-  "download_time": "2025-11-15T21:40:57.992412",
+  "download_filename": "mindm-0.0.5.4.tar.gz",
+  "download_time": "2025-11-16T21:23:31.918707",
   "package_url": "https://pypi.org/project/mindm/"
 }

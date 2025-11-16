@@ -1,11 +1,11 @@
 {
   "name": "ms-image-process",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A simple CLI tool for processing images.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ms_image_process-0.3.0.tar.gz",
-  "download_time": "2025-11-16T20:44:33.502769",
+  "download_filename": "ms_image_process-0.4.0.tar.gz",
+  "download_time": "2025-11-16T21:23:32.447908",
   "package_url": "https://pypi.org/project/ms-image-process/"
 }
