@@ -1,0 +1,11 @@
+{
+  "name": "vessel-validator",
+  "version": "0.1.1",
+  "summary": "Professional MMSI and IMO number validator for maritime applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vessel_validator-0.1.1.tar.gz",
+  "download_time": "2025-11-16T20:28:05.189526",
+  "package_url": "https://pypi.org/project/vessel-validator/"
+}

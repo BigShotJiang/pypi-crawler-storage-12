@@ -1,0 +1,11 @@
+{
+  "name": "binned-cdf",
+  "version": "0.0.0",
+  "summary": "Implementations of the CRPS using PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binned_cdf-0.0.0.tar.gz",
+  "download_time": "2025-11-16T20:28:10.350617",
+  "package_url": "https://pypi.org/project/binned-cdf/"
+}

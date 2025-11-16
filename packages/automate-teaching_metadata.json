@@ -1,11 +1,11 @@
 {
   "name": "automate-teaching",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "Functions to assist in course management, particularly economics.",
   "author": "Brian C. Jenkins",
   "license": null,
   "home_page": "https://github.com/letsgoexploring/automate_teaching",
-  "download_filename": "automate_teaching-0.0.7.tar.gz",
-  "download_time": "2025-11-16T19:41:56.799149",
+  "download_filename": "automate_teaching-0.0.9.tar.gz",
+  "download_time": "2025-11-16T20:28:15.489929",
   "package_url": "https://pypi.org/project/automate-teaching/"
 }

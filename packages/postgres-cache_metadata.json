@@ -1,11 +1,11 @@
 {
   "name": "postgres-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PostgreSQL as a cache for Python applications",
   "author": "Mykhailo Chalyi",
   "license": null,
   "home_page": null,
-  "download_filename": "postgres_cache-0.1.0.tar.gz",
-  "download_time": "2025-11-16T04:42:26.907880",
+  "download_filename": "postgres_cache-0.1.1.tar.gz",
+  "download_time": "2025-11-16T20:28:14.464354",
   "package_url": "https://pypi.org/project/postgres-cache/"
 }
