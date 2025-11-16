@@ -1,0 +1,11 @@
+{
+  "name": "sgb-advisor",
+  "version": "0.2.4",
+  "summary": "A tool to analyse Sovereign Gold Bonds and compare their yields.",
+  "author": "Vishal Nandagopal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgb_advisor-0.2.4.tar.gz",
+  "download_time": "2025-11-16T11:42:38.828110",
+  "package_url": "https://pypi.org/project/sgb-advisor/"
+}

@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T11:20:54.608270
-- **Total Packages**: 86
-- **Total Size**: 23.3 MB
+- **Download Time**: 2025-11-16T11:43:20.828703
+- **Total Packages**: 83
+- **Total Size**: 20.66 MB
 
 ## Packages List
-- openkitx403-client
+- kailash-dataflow
+- bbwebservice
 - python_quant
+- sgb-advisor
+- unimath
+- EFN
+- habapp_rules
+- flowlens-mcp-server
+- shudaodao
+- openkitx403
+- prek
+- noless
+- langbot
+- chqr
+- homecom-alt
+- kececilayout
+- selectolax
+- semantiva-imaging
+- calico-ssg
+- torchx-nightly
+- colibri-stateless
+- mcp-postgres-duwenji
+- cumulusci-plus-azure-devops
+- time-split
+- pylocc
+- torchft-nightly
+- webquest
+- crypto-monitor
+- gpack
+- goputn
+- arrowbit
+- isitpublic
+- openkitx403-client
 - ibridges
 - gmo-fx
 - Uranus-IDE
@@ -22,14 +53,12 @@
 - sandbox-executor
 - lll-simple-ai-shared
 - mysql-replication
-- langbot
 - time-split-app
 - aioyookassa
 - memlayer
 - mcp-docs
 - tinygenkey
 - bluer-ugv
-- noless
 - pkg-guard
 - mqtt-mcp-server
 - sqlite3-to-mysql
@@ -37,7 +66,6 @@
 - littlelogger
 - trading-state
 - pyhausbus
-- openkitx403
 - luis-money-cli
 - pyTibber
 - homeconnect-websocket
@@ -61,34 +89,3 @@
 - filetags
 - assisted-service-client
 - reaction-balancer
-- QCPROGS
-- selectolax
-- autocrud
-- ExtensionClass
-- prek
-- pysyslink-toolkit
-- llm-repeator-redis
-- starlasu-specs
-- mkdocs-to-confluence
-- dictforge
-- laakhay-ta
-- CodeVideoRenderer
-- spotoptim
-- mongo-broadcaster
-- repoyard
-- llm-client-redis
-- satnogs-client
-- achatbot
-- fstui
-- konduktor-nightly
-- jdaughter
-- pyproject-maker
-- trainy-policy-nightly
-- flatflow
-- dao-treasury
-- letta-nightly
-- mcp-weather-gy
-- gateagent
-- san-cli
-- blitzortung
-- pyspark2pmml

@@ -1,11 +1,11 @@
 {
   "name": "selectolax",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Fast HTML5 parser with CSS selectors.",
   "author": "Artem Golubin",
   "license": null,
   "home_page": "https://github.com/rushter/selectolax",
-  "download_filename": "selectolax-0.4.2.tar.gz",
-  "download_time": "2025-11-16T10:57:25.031892",
+  "download_filename": "selectolax-0.4.3.tar.gz",
+  "download_time": "2025-11-16T11:42:45.935751",
   "package_url": "https://pypi.org/project/selectolax/"
 }
