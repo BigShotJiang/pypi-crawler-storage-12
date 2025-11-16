@@ -1,11 +1,11 @@
 {
   "name": "basicdsplibrary",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "summary": "Basic DSP library without numpy",
   "author": "Shivaprasad",
   "license": "MIT",
   "home_page": "https://github.com/shivarao101/vcet-dsp-bec502",
-  "download_filename": "basicdsplibrary-0.0.1-py3-none-any.whl",
-  "download_time": "2025-11-12T07:56:28.605847",
+  "download_filename": "basicdsplibrary-0.0.12-py3-none-any.whl",
+  "download_time": "2025-11-16T04:42:18.984442",
   "package_url": "https://pypi.org/project/basicdsplibrary/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "saweriaqris",
+  "version": "0.2.1",
+  "summary": "Saweria QRIS code generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "saweriaqris-0.2.1.tar.gz",
+  "download_time": "2025-11-16T04:42:38.951626",
+  "package_url": "https://pypi.org/project/saweriaqris/"
+}

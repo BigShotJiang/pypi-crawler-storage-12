@@ -1,0 +1,11 @@
+{
+  "name": "ppsspp-cwcheat-helpy",
+  "version": "0.5.0",
+  "summary": "cwCheat address rewriter for PSP/PPSSPP memory patch lines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ppsspp_cwcheat_helpy-0.5.0.tar.gz",
+  "download_time": "2025-11-16T04:42:16.335095",
+  "package_url": "https://pypi.org/project/ppsspp-cwcheat-helpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "iowarp-agent-toolkit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Agent Toolkit - MCP Servers, Clients, and Tools for AI Agents",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "iowarp_agent_toolkit-1.0.1.tar.gz",
-  "download_time": "2025-11-16T04:07:23.476746",
+  "download_filename": "iowarp_agent_toolkit-1.0.3.tar.gz",
+  "download_time": "2025-11-16T04:42:20.593697",
   "package_url": "https://pypi.org/project/iowarp-agent-toolkit/"
 }
