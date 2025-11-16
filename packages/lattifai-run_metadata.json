@@ -1,0 +1,11 @@
+{
+  "name": "lattifai-run",
+  "version": "1.0.0rc0",
+  "summary": "A powerful tool designed to streamline the configuration, execution and management of Machine Learning experiments across various computing environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lattifai_run-1.0.0rc0.tar.gz",
+  "download_time": "2025-11-16T05:25:48.129768",
+  "package_url": "https://pypi.org/project/lattifai-run/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qsimkit",
+  "version": "0.1.12",
+  "summary": "Quantum Simulation Toolkit - Error bounds and Trotterization tools",
+  "author": "Jue XU",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Jue-Xu/Qsimkit",
+  "download_filename": "qsimkit-0.1.12.tar.gz",
+  "download_time": "2025-11-16T05:25:25.938775",
+  "package_url": "https://pypi.org/project/qsimkit/"
+}

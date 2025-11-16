@@ -1,0 +1,11 @@
+{
+  "name": "haarpy",
+  "version": "0.0.6",
+  "summary": "Symbolic calculation of Weingarten functions",
+  "author": "Yanic Cardin",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/polyquantique/haarpy",
+  "download_filename": "haarpy-0.0.6.tar.gz",
+  "download_time": "2025-11-16T05:25:46.991574",
+  "package_url": "https://pypi.org/project/haarpy/"
+}

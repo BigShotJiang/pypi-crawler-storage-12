@@ -1,0 +1,11 @@
+{
+  "name": "veribiota",
+  "version": "0.1.0",
+  "summary": "Python adapter and CLI for VeriBiota EditDAG JSON normalization and Lean suite generation.",
+  "author": "VeriBiota developers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "veribiota-0.1.0.tar.gz",
+  "download_time": "2025-11-16T05:25:45.440219",
+  "package_url": "https://pypi.org/project/veribiota/"
+}

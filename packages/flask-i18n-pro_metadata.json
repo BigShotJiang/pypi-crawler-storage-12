@@ -1,0 +1,11 @@
+{
+  "name": "flask-i18n-pro",
+  "version": "1.0.0",
+  "summary": "Production-grade i18n for Flask with Cyrillic and Asian language support",
+  "author": "wallmarkets Team",
+  "license": null,
+  "home_page": "https://github.com/wallmarkets/flask-i18n-pro",
+  "download_filename": "flask_i18n_pro-1.0.0.tar.gz",
+  "download_time": "2025-11-16T05:25:37.051665",
+  "package_url": "https://pypi.org/project/flask-i18n-pro/"
+}
