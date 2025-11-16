@@ -1,0 +1,11 @@
+{
+  "name": "package-sampling",
+  "version": "1.0.0",
+  "summary": "Python implementation of probability-based sampling algorithms inspired by the R package Sampling.",
+  "author": "Mohammadreza Razavian",
+  "license": "MIT",
+  "home_page": "https://github.com/smrrazavian/package-sampling",
+  "download_filename": "package_sampling-1.0.0.tar.gz",
+  "download_time": "2025-11-16T23:24:05.167495",
+  "package_url": "https://pypi.org/project/package-sampling/"
+}

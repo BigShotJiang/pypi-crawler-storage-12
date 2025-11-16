@@ -1,11 +1,11 @@
 {
   "name": "linemark",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A command-line tool for planning, organizing, and writing stories using a hierarchical document structure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linemark-0.2.1.tar.gz",
-  "download_time": "2025-11-15T18:32:59.039850",
+  "download_filename": "linemark-0.2.2.tar.gz",
+  "download_time": "2025-11-16T23:24:02.544342",
   "package_url": "https://pypi.org/project/linemark/"
 }

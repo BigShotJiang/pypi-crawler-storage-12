@@ -1,11 +1,11 @@
 {
   "name": "arduino-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Arduino CLI interactions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arduino_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-16T20:57:27.629756",
+  "download_filename": "arduino_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-16T23:23:48.754174",
   "package_url": "https://pypi.org/project/arduino-mcp/"
 }

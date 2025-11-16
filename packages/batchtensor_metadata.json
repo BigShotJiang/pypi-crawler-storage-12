@@ -1,0 +1,11 @@
+{
+  "name": "batchtensor",
+  "version": "0.1.1",
+  "summary": "Functions to manipulate batches of PyTorch tensors",
+  "author": "Thibaut Durand",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/durandtibo/batchtensor",
+  "download_filename": "batchtensor-0.1.1.tar.gz",
+  "download_time": "2025-11-16T23:23:45.551741",
+  "package_url": "https://pypi.org/project/batchtensor/"
+}

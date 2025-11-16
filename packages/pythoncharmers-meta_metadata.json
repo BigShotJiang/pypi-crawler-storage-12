@@ -1,0 +1,11 @@
+{
+  "name": "pythoncharmers-meta",
+  "version": "0.7.8",
+  "summary": "Meta package with dependencies for Python Charmers training courses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythoncharmers_meta-0.7.8.tar.gz",
+  "download_time": "2025-11-16T23:23:53.542198",
+  "package_url": "https://pypi.org/project/pythoncharmers-meta/"
+}

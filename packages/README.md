@@ -1,16 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T22:58:33.715742
-- **Total Packages**: 88
-- **Total Size**: 10.44 MB
+- **Download Time**: 2025-11-16T23:24:31.900366
+- **Total Packages**: 86
+- **Total Size**: 24.11 MB
 
 ## Packages List
+- batchtensor
+- synqed
+- option-price-repair
+- onnxruntime-genai
+- ort-python
+- distribution-regressor
+- arduino-mcp
+- klavis
+- onnxruntime-genai-directml
+- investimentos
+- borb
+- radboy
+- simphyni
+- pythoncharmers-meta
+- gatewizard
+- aiinbx
+- pdap-access-manager
+- cirro_api_client
+- cloud-autopkg-runner
+- spotoptim
+- lusid-sdk
+- textual-mastermind
+- pycommons
+- lmnr-claude-code-proxy
+- nexgenomics
+- cdk-factory
+- mat3ra-standata
+- maleo-identity
+- pyspeckle
+- ascii-guard
+- linemark
+- Graphinate
+- noqa-runner
+- star-toffee
+- chem-eclipse
+- package-sampling
+- investos
+- iot-devices
+- biosteam
+- typer-invoke
+- openalgo
 - brizz
 - PlaywrightCapture
 - fastapi-factory-utilities
 - gseapy
-- star-toffee
 - gtalk
 - toon-codec
 - onkopus
@@ -20,7 +60,6 @@
 - numpy
 - biblemategui
 - mun-feas-ga-data
-- maleo-identity
 - openaivec
 - koschey
 - SCons
@@ -37,12 +76,9 @@
 - yabi-bython
 - rxiv-maker
 - secure-string-cipher
-- noqa-runner
-- lmnr-claude-code-proxy
 - consenrich
 - EriduLab-tool
 - annize
-- spotoptim
 - annize-pidev
 - setting-manager
 - machineconfig
@@ -50,47 +86,9 @@
 - mvsr
 - leakpy
 - parllama
-- gatewizard
 - GameSentenceMiner
 - rusty-di-runner
 - apm-cli
 - devduck
 - QuerySUTRA
 - elias-mcp-server-elpadev
-- flask-imp
-- rdkit-to-params
-- eridu-data-generator
-- crystalwindow
-- line-protocol-parser
-- chameo
-- ecoledirecte
-- arbok-driver
-- torch-gqc
-- getWixSecrets
-- clippy-code
-- varray
-- iam-policy-validator
-- dbinfer-relbench-adapter
-- py-eol
-- morningpy
-- openalgo
-- dbus-fast
-- dwex
-- sequana-multitax
-- hctef
-- flerity-core
-- epub-browser
-- screenshot-cleaner
-- wnnet
-- par-ai-core
-- qrgenkit
-- docpull
-- flumy
-- minnesota-immunization-core
-- regula-documentreader-webclient
-- tradingview-scraper
-- tawala
-- jokoor
-- markpub
-- jubilee
-- lcr-api-2

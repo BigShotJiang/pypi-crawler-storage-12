@@ -1,11 +1,11 @@
 {
   "name": "pdap-access-manager",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Access Manager for accessing PDAP API",
   "author": "Max Chis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdap_access_manager-0.4.3.tar.gz",
-  "download_time": "2025-11-14T22:25:26.160217",
+  "download_filename": "pdap_access_manager-0.4.4.tar.gz",
+  "download_time": "2025-11-16T23:23:55.110638",
   "package_url": "https://pypi.org/project/pdap-access-manager/"
 }
