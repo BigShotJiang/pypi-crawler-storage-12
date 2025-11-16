@@ -1,0 +1,11 @@
+{
+  "name": "dggrid4py",
+  "version": "0.5.3",
+  "summary": "a Python library to run highlevel functions of DGGRIDv7 and v8",
+  "author": "Alexander Kmoch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dggrid4py-0.5.3.tar.gz",
+  "download_time": "2025-11-16T09:43:05.437537",
+  "package_url": "https://pypi.org/project/dggrid4py/"
+}

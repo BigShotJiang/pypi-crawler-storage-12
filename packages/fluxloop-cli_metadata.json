@@ -1,11 +1,11 @@
 {
   "name": "fluxloop-cli",
-  "version": "0.2.25",
+  "version": "0.2.26",
   "summary": "FluxLoop CLI for running agent simulations",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fluxloop_cli-0.2.25.tar.gz",
-  "download_time": "2025-11-16T05:57:26.086765",
+  "download_filename": "fluxloop_cli-0.2.26.tar.gz",
+  "download_time": "2025-11-16T09:43:06.477031",
   "package_url": "https://pypi.org/project/fluxloop-cli/"
 }

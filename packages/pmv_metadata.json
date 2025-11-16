@@ -1,11 +1,11 @@
 {
   "name": "pmv",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A TUI image viewer for Kitty terminal with keyboard navigation and PDF support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pmv-0.1.0.tar.gz",
-  "download_time": "2025-11-16T05:57:26.597234",
+  "download_filename": "pmv-0.2.0.tar.gz",
+  "download_time": "2025-11-16T09:43:03.297508",
   "package_url": "https://pypi.org/project/pmv/"
 }
