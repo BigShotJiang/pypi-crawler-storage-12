@@ -1,12 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T14:57:41.484812
-- **Total Packages**: 70
-- **Total Size**: 7.91 MB
+- **Download Time**: 2025-11-16T15:24:29.417628
+- **Total Packages**: 74
+- **Total Size**: 22.29 MB
 
 ## Packages List
+- wiktionary-de-parser
+- tokon
+- blitzortung
+- scope-profiler
+- amg-player
+- atsphinx-mini18n
+- luis-money-cli
+- lean4check
+- spScriptTest3Py
+- mcp-outline
+- simpleterraform
+- bssir
+- pycmd2
+- python-miwear
+- amzsc
+- colcon-cargo-ros2
+- exovista
+- clearml-agent
+- fantasy-nba-israel-mcp
+- brainbox
+- vectorstores
+- epub-browser
+- mat-eval
+- pobapi-extended
+- lattifai-run
+- bookmark-lens
+- pyimagedl
+- Persistence
+- RLTest
+- compoconf
+- AccessControl
+- gambaterm
+- chuk-mcp-math-server
+- meta-spec
+- pushtunes
+- synrbl
+- hypersonic-heygen
 - fastapi-easylimiter
+- tschm
+- dbus-fast
+- opexcore
+- stor4build
+- perpetual-context-window
+- countmut
+- knwl
+- prisma-web3-py
+- glidergun
+- iron-gql
+- auto-coder
+- agently
+- hufengguo
 - tree2cmd
 - lka-nic-decoder
 - mask-env
@@ -17,62 +67,16 @@
 - spoox
 - flowtrace
 - highway-dsl
-- dbus-fast
 - sc-napalm
 - klimalogger
 - mypkg6668
-- fantasy-nba-israel-mcp
 - utils-devops
 - onthefly-ai
 - open-enum
 - rpds-py
-- mateval
 - authera
 - autoheader
 - geoparticle
 - wyn360-cli
 - sphinxcontrib-pseudocode2
-- wiktionary-de-parser
 - psqlpy-sqlalchemy
-- sefixlines
-- kodexa
-- rya
-- luis-money-cli
-- antd-mcp-server
-- pnutty
-- pytest-language-server
-- gotn
-- jp-odesolver
-- celeste-text-generation
-- celeste-image-generation
-- celeste-ai
-- calico-ssg
-- simba-uw-tf-dev
-- gtalk
-- ossdbs
-- meta-spec
-- bluer-ai
-- campo-estatico-mdf
-- rustest
-- adcp
-- dbt-col-lineage
-- allianceauth-app-utils
-- Acquisition
-- microservice-chassis-grupo2
-- heytelecom
-- locoformer
-- pyextract-junbo
-- jsonschema-rs
-- spond-classes
-- firefly-test
-- miniflux-tui-py
-- servents-data-model
-- optics-framework
-- munin-plot
-- subcursor
-- EFN
-- xmovsystemmonitor
-- Flask-Exts
-- cumulusci-plus-azure-devops
-- pybenutils
-- mio-package

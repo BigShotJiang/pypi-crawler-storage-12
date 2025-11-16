@@ -1,11 +1,11 @@
 {
   "name": "wiktionary-de-parser",
-  "version": "0.12.15",
+  "version": "0.13.1",
   "summary": "Extracts data from German Wiktionary dump files.",
   "author": "Gregor Weichbrodt",
   "license": "MIT",
   "home_page": "https://github.com/gambolputty/wiktionary-de-parser",
-  "download_filename": "wiktionary_de_parser-0.12.15.tar.gz",
-  "download_time": "2025-11-16T14:57:16.416458",
+  "download_filename": "wiktionary_de_parser-0.13.1.tar.gz",
+  "download_time": "2025-11-16T15:23:49.577692",
   "package_url": "https://pypi.org/project/wiktionary-de-parser/"
 }

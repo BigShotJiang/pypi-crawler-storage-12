@@ -1,0 +1,11 @@
+{
+  "name": "brainbox",
+  "version": "0.0.9",
+  "summary": "Simplifying the life of a computational neuroscientist.",
+  "author": "Luke Taylor",
+  "license": null,
+  "home_page": "https://github.com/webstorms/BrainBox",
+  "download_filename": "brainbox-0.0.9.tar.gz",
+  "download_time": "2025-11-16T15:23:59.915353",
+  "package_url": "https://pypi.org/project/brainbox/"
+}

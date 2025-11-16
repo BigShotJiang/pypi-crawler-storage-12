@@ -1,11 +1,11 @@
 {
   "name": "perpetual-context-window",
-  "version": "2.0.1",
+  "version": "2.0.7",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/perpetual_context_window",
-  "download_filename": "perpetual_context_window-2.0.1.tar.gz",
-  "download_time": "2025-11-15T23:23:07.779201",
+  "download_filename": "perpetual_context_window-2.0.7.tar.gz",
+  "download_time": "2025-11-16T15:24:11.930496",
   "package_url": "https://pypi.org/project/perpetual-context-window/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "countmut",
+  "version": "0.0.7",
+  "summary": "Ultra-fast strand-aware mutation counter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "countmut-0.0.7.tar.gz",
+  "download_time": "2025-11-16T15:24:12.442579",
+  "package_url": "https://pypi.org/project/countmut/"
+}
