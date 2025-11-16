@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T21:23:52.820065
+- **Download Time**: 2025-11-16T21:42:25.435859
 - **Total Packages**: 83
-- **Total Size**: 20.57 MB
+- **Total Size**: 4.99 MB
 
 ## Packages List
-- starco-dj-utils
-- rxlm
-- gazpar2mqtt
-- craftgate
-- descanso
 - better-qdrant-mcp
 - odoo-addon-account-banking-ach-credit-transfer
 - odoo-addon-l10n-us-gaap
@@ -26,6 +21,7 @@
 - investos
 - oakley
 - trimci
+- rxlm
 - myfy
 - myfy-frontend
 - myfy-cli
@@ -89,3 +85,7 @@
 - biosteam
 - servents-data-model
 - thermosteam
+- pytest-pve-cloud
+- qtoggleserver
+- gplay-scraper
+- webtoolkit
