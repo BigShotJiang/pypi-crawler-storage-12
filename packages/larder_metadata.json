@@ -1,0 +1,11 @@
+{
+  "name": "larder",
+  "version": "0.0.4",
+  "summary": "Connect functions to stores - fetch inputs & persist outputs",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/larder",
+  "download_filename": "larder-0.0.4.tar.gz",
+  "download_time": "2025-11-16T17:22:07.880592",
+  "package_url": "https://pypi.org/project/larder/"
+}

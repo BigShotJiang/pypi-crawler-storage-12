@@ -1,11 +1,11 @@
 {
   "name": "rxlm",
-  "version": "0.2.37",
+  "version": "0.2.38",
   "summary": "RxNN - RxLM: Reactive Language Models platform",
   "author": "Adam Filipek",
   "license": null,
   "home_page": "https://rxai.dev/rxnn",
-  "download_filename": "rxlm-0.2.37.tar.gz",
-  "download_time": "2025-11-16T13:39:13.398866",
+  "download_filename": "rxlm-0.2.38.tar.gz",
+  "download_time": "2025-11-16T17:21:57.872585",
   "package_url": "https://pypi.org/project/rxlm/"
 }

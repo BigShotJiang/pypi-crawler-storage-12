@@ -1,11 +1,11 @@
 {
   "name": "elementary-python-sdk-core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Core runtime for Elementary's Python SDK (types, context, logger)",
   "author": "Elementary Data",
   "license": null,
   "home_page": null,
-  "download_filename": "elementary_python_sdk_core-0.1.6.tar.gz",
-  "download_time": "2025-11-13T09:32:54.968420",
+  "download_filename": "elementary_python_sdk_core-0.1.7.tar.gz",
+  "download_time": "2025-11-16T17:21:52.040228",
   "package_url": "https://pypi.org/project/elementary-python-sdk-core/"
 }

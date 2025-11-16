@@ -1,0 +1,11 @@
+{
+  "name": "sandfs",
+  "version": "0.1.0",
+  "summary": "Composable virtual filesystem sandbox with a UNIX-like command surface for agents",
+  "author": "sandfs contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sandfs-0.1.0.tar.gz",
+  "download_time": "2025-11-16T17:21:55.785099",
+  "package_url": "https://pypi.org/project/sandfs/"
+}

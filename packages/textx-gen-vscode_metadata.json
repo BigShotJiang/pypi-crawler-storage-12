@@ -1,0 +1,11 @@
+{
+  "name": "textx-gen-vscode",
+  "version": "0.2.2",
+  "summary": "A VS Code extension generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textx_gen_vscode-0.2.2.tar.gz",
+  "download_time": "2025-11-16T17:21:49.439430",
+  "package_url": "https://pypi.org/project/textx-gen-vscode/"
+}
