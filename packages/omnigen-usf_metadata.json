@@ -1,11 +1,11 @@
 {
   "name": "omnigen-usf",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Production-ready synthetic data generation framework with pipeline-based architecture, multi-provider support, auto-resume, and enterprise-grade reliability",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnigen_usf-0.1.17.tar.gz",
-  "download_time": "2025-11-16T11:20:30.920441",
+  "download_filename": "omnigen_usf-0.1.18.tar.gz",
+  "download_time": "2025-11-16T13:38:59.945200",
   "package_url": "https://pypi.org/project/omnigen-usf/"
 }

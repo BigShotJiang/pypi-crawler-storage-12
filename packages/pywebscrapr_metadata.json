@@ -1,0 +1,11 @@
+{
+  "name": "pywebscrapr",
+  "version": "0.1.6",
+  "summary": "An open-source Python library for web scraping tasks. Includes support for both image scraping and text scraping.",
+  "author": "Infinitode Pty Ltd",
+  "license": null,
+  "home_page": "https://github.com/infinitode/pywebscrapr",
+  "download_filename": "pywebscrapr-0.1.6.tar.gz",
+  "download_time": "2025-11-16T13:39:08.215944",
+  "package_url": "https://pypi.org/project/pywebscrapr/"
+}

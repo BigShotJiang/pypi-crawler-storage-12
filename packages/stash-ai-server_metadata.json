@@ -1,11 +1,11 @@
 {
   "name": "stash-ai-server",
-  "version": "0.1.1a20",
+  "version": "0.5.0b2",
   "summary": "Stash AI Overhaul Backend Server",
   "author": "Stash AI Overhaul",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stash_ai_server-0.1.1a20-py3-none-any.whl",
-  "download_time": "2025-11-14T16:59:46.405027",
+  "download_filename": "stash_ai_server-0.5.0b2-py3-none-any.whl",
+  "download_time": "2025-11-16T13:39:06.174117",
   "package_url": "https://pypi.org/project/stash-ai-server/"
 }

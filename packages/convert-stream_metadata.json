@@ -1,0 +1,11 @@
+{
+  "name": "convert-stream",
+  "version": "2.5.1",
+  "summary": "Manipulação de documentos PDF e Imagens. Converter, Ler, rotacionar exportar etc.",
+  "author": "Bruno Chaves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "convert_stream-2.5.1.tar.gz",
+  "download_time": "2025-11-16T13:39:05.154938",
+  "package_url": "https://pypi.org/project/convert-stream/"
+}

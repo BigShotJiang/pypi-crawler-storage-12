@@ -1,11 +1,11 @@
 {
   "name": "mh-operator",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Awesome `mh-operator` provide interfaces and common routines for the Agilent MassHunter official SDK.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mh_operator-0.2.2.tar.gz",
-  "download_time": "2025-11-13T16:54:15.869635",
+  "download_filename": "mh_operator-0.2.3.tar.gz",
+  "download_time": "2025-11-16T13:39:02.095460",
   "package_url": "https://pypi.org/project/mh-operator/"
 }

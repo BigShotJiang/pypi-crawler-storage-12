@@ -1,0 +1,11 @@
+{
+  "name": "quantaxis-webserver-lance",
+  "version": "2.0.0",
+  "summary": "QUANTAXIS WEBSERVER: WEBSERVER FOR QUANTAXIS",
+  "author": "yutiansut",
+  "license": "MIT",
+  "home_page": "https://github.com/yutiansut/quantaxis_webserver",
+  "download_filename": "quantaxis_webserver_lance-2.0.0.tar.gz",
+  "download_time": "2025-11-16T13:39:33.612829",
+  "package_url": "https://pypi.org/project/quantaxis-webserver-lance/"
+}

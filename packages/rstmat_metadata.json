@@ -1,11 +1,11 @@
 {
   "name": "rstmat",
-  "version": "0.1.8",
+  "version": "0.1.67",
   "summary": "Random structured matrices.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rstmat-0.1.8.tar.gz",
-  "download_time": "2025-11-15T08:48:35.172528",
+  "download_filename": "rstmat-0.1.67.tar.gz",
+  "download_time": "2025-11-16T13:39:31.063686",
   "package_url": "https://pypi.org/project/rstmat/"
 }

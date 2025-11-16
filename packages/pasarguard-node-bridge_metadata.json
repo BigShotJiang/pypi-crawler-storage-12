@@ -1,11 +1,11 @@
 {
   "name": "pasarguard-node-bridge",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "python package to connect your project with PasarGuard node go",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pasarguard_node_bridge-0.2.0.tar.gz",
-  "download_time": "2025-11-13T23:42:08.850757",
+  "download_filename": "pasarguard_node_bridge-0.2.1.tar.gz",
+  "download_time": "2025-11-16T13:38:54.540423",
   "package_url": "https://pypi.org/project/pasarguard-node-bridge/"
 }
