@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T13:55:17.901188
-- **Total Packages**: 92
-- **Total Size**: 7.59 MB
+- **Download Time**: 2025-11-16T14:23:59.475175
+- **Total Packages**: 82
+- **Total Size**: 32.56 MB
 
 ## Packages List
+- munin-plot
+- subcursor
+- EFN
+- jp-odesolver
+- spoox
+- xmovsystemmonitor
+- Flask-Exts
+- feedback-mcp
+- cumulusci-plus-azure-devops
+- pybenutils
+- mio-package
+- aiotgbot
+- repoyard
+- pyquoks
+- drun
+- avm-mcp-server
+- secretpkg555
+- uniweather
+- beets-audible
+- rname
+- utils-devops
+- pabumeasures
+- moat-link
+- pyspecan
+- py-env-studio
+- zodchy
+- dataspike-livekit-plugins
+- nblite
+- flaxfile
+- aubellhop
+- qwak-sdk
+- pypdf
+- pypixelcolor
+- commity
+- ultimateraylib
+- rappmysql
+- stigg-api-client-v2
+- rstmat
+- geodesk
+- stigg-api-client
+- secure-password-manager
+- ggxs
+- VKPyKit
+- mypkg6668
+- loggez
+- lionherd-core
+- sembicho-cli
+- instance-cache
+- smartpush
+- stindex
+- firefly-test
+- agentmap
 - tensordict-nightly
 - extendedstim
 - expr-codegen
@@ -15,7 +67,6 @@
 - wiktionary-de-parser
 - ciit-checkin
 - blocket-api
-- loggez
 - wooldridge
 - python-stripzip
 - zvolv-sdk-corp
@@ -37,64 +88,3 @@
 - peakrdl-python
 - langchat
 - svg-timeline
-- mia21
-- aiohomematic-test-support
-- aiohomematic
-- belay
-- crystal-eval
-- memlayer
-- pasarguard-node-bridge
-- ailyrics
-- liblaf-grapes
-- diffpy.srxplanar
-- kleinkram
-- ezpose
-- make-playlist
-- pyspecan
-- mcp-postgres-duwenji
-- omnigen-usf
-- exllamav3
-- typespecs
-- fbgemm-gpu-nightly-cpu
-- mh-operator
-- ellar
-- nercone-fastget
-- crypto-extranet
-- ocr-stream
-- tkapi
-- convert-stream
-- nercone-modern
-- stash-ai-server
-- pnw-python-subscriptions
-- goat2
-- defenter-proxy
-- pywebscrapr
-- kamihi
-- tombi
-- pixelcraft
-- virgo-modules
-- utils-devops
-- dbt-cube-sync
-- pixel-craft-utils
-- jquantstats
-- smart-pdf-for-business
-- rxlm
-- moisten-ew
-- throtty
-- authera
-- mnemoreg
-- hrcx
-- pygamer-tools
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- pycryptoscan
-- indipyweb
-- specql-generator
-- mcp-memory-service
-- elastalert2

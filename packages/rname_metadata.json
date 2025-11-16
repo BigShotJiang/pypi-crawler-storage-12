@@ -1,0 +1,11 @@
+{
+  "name": "rname",
+  "version": "1.0.0",
+  "summary": "Get random first/last name",
+  "author": "Adam Walkiewicz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rname-1.0.0.tar.gz",
+  "download_time": "2025-11-16T14:23:23.223407",
+  "package_url": "https://pypi.org/project/rname/"
+}

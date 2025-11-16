@@ -1,11 +1,11 @@
 {
   "name": "nblite",
-  "version": "0.6.7",
+  "version": "0.6.10",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nblite-0.6.7.tar.gz",
-  "download_time": "2025-11-13T13:38:16.478812",
+  "download_filename": "nblite-0.6.10.tar.gz",
+  "download_time": "2025-11-16T14:23:27.945658",
   "package_url": "https://pypi.org/project/nblite/"
 }

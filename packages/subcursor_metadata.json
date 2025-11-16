@@ -1,0 +1,11 @@
+{
+  "name": "subcursor",
+  "version": "0.1.0",
+  "summary": "Specialized AI subagents for Cursor with isolated configurations",
+  "author": "subcursor contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "subcursor-0.1.0.tar.gz",
+  "download_time": "2025-11-16T14:23:12.033734",
+  "package_url": "https://pypi.org/project/subcursor/"
+}

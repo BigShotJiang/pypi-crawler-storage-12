@@ -1,0 +1,11 @@
+{
+  "name": "munin-plot",
+  "version": "1.10",
+  "summary": "Alternative web front-end for Munin",
+  "author": "Arthur de Jong",
+  "license": "MIT",
+  "home_page": "https://arthurdejong.org/munin-plot/",
+  "download_filename": "munin_plot-1.10.tar.gz",
+  "download_time": "2025-11-16T14:23:11.425281",
+  "package_url": "https://pypi.org/project/munin-plot/"
+}
