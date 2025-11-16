@@ -1,0 +1,11 @@
+{
+  "name": "mongo-broadcaster",
+  "version": "0.1.6",
+  "summary": "Broadcast MongoDB change streams to WebSocket, Redis, HTTP, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mongo_broadcaster-0.1.6.tar.gz",
+  "download_time": "2025-11-16T10:57:31.729982",
+  "package_url": "https://pypi.org/project/mongo-broadcaster/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "starlasu-specs",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Starlasu Specs",
   "author": "Federico Tomassetti",
   "license": null,
   "home_page": null,
-  "download_filename": "starlasu_specs-0.6.2.tar.gz",
-  "download_time": "2025-11-16T10:44:51.256036",
+  "download_filename": "starlasu_specs-0.6.3.tar.gz",
+  "download_time": "2025-11-16T10:57:28.121772",
   "package_url": "https://pypi.org/project/starlasu-specs/"
 }

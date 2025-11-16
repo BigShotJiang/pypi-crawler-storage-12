@@ -1,0 +1,11 @@
+{
+  "name": "satnogs-client",
+  "version": "2.1",
+  "summary": "SatNOGS Client",
+  "author": "SatNOGS project",
+  "license": "AGPLv3",
+  "home_page": "https://gitlab.com/librespacefoundation/satnogs/satnogs-client",
+  "download_filename": "satnogs_client-2.1.tar.gz",
+  "download_time": "2025-11-16T10:57:33.280417",
+  "package_url": "https://pypi.org/project/satnogs-client/"
+}
