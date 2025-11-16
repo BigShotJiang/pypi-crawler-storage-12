@@ -1,0 +1,11 @@
+{
+  "name": "lithio-sdk",
+  "version": "0.1.0",
+  "summary": "The Official Python SDK for the Lithio API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lithio_sdk-0.1.0.tar.gz",
+  "download_time": "2025-11-16T20:44:50.116075",
+  "package_url": "https://pypi.org/project/lithio-sdk/"
+}

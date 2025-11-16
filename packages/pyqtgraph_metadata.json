@@ -1,0 +1,11 @@
+{
+  "name": "pyqtgraph",
+  "version": "0.14.0",
+  "summary": "Scientific Graphics and GUI Library for Python",
+  "author": "Luke Campagnola",
+  "license": "MIT",
+  "home_page": "http://www.pyqtgraph.org",
+  "download_filename": "pyqtgraph-0.14.0-py3-none-any.whl",
+  "download_time": "2025-11-16T20:44:51.251130",
+  "package_url": "https://pypi.org/project/pyqtgraph/"
+}

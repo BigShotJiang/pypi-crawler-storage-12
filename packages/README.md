@@ -1,56 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-16T20:28:20.652799
-- **Total Packages**: 78
-- **Total Size**: 26.95 MB
+- **Download Time**: 2025-11-16T20:45:02.805186
+- **Total Packages**: 77
+- **Total Size**: 3.89 MB
 
 ## Packages List
-- pycap-dss
-- fastapi-easylimiter
-- turboloader
-- 2025-assignment2-vaultPasswordManager
-- opencloudtool
-- faceghost
-- repoyard
-- kaiserlift
-- canopen-asyncio
-- conson-xp
-- amg-player
-- myfy
-- myfy-frontend
-- myfy-cli
-- myfy-web
-- myfy-core
-- updog
-- gmtorch
-- little-timmy
-- aimemo
-- tonie-podcast-sync
-- casetools
-- python-can-cvector
-- ort-python
-- scapex
-- code-spy
-- AbuLang
-- stochtest
-- ai-lab-testing
-- dbus-fast
-- resilient-circuit
-- aiofreqlimit
-- elia-opendata
-- js-api
-- jogo-da-adivinhacao-renan-martins
-- email-to-calendar
-- pixelflux
-- rubix-agent-dna
-- cereon-sdk
-- intugle
-- tklr-dgraham
-- synqed
-- bambu-slicer-tools
-- mixemy
-- ossdbs
 - selenium-ui-test-tool
 - tremors
 - atomicshop
@@ -64,7 +19,11 @@
 - omemo-dr
 - dkinst
 - gsply
+- tonie-podcast-sync
+- cereon-sdk
+- synqed
 - binned-cdf
+- kaiserlift
 - openalex-analysis
 - simpledevsecops
 - sqlalchemy-jdbcapi
@@ -73,6 +32,7 @@
 - ruleforge
 - ms-image-process
 - postgres-cache
+- jogo-da-adivinhacao-renan-martins
 - dishka-strawberry
 - automate-teaching
 - teehistorian-py
@@ -83,4 +43,43 @@
 - mas-cli
 - calgebra
 - shareddata
+- AbuLang
 - osprey-framework
+- meshagent-computers
+- meshagent-agents
+- meshagent-tools
+- meshagent-otel
+- meshagent-mcp
+- meshagent
+- meshagent-api
+- meshagent-cli
+- meshagent-livekit
+- meshagent-openai
+- meshagent-markitdown
+- vector-vault
+- gw-limr
+- ondine
+- qoro-divi
+- lithio-sdk
+- pdf2md-ocr
+- pyqtgraph
+- mind-castle
+- pyqutree
+- ferb
+- beaglemind-cli
+- tacoreader
+- oidcauthlib
+- 2025-assignment2-vaultPasswordManager
+- questfoundry-compiler
+- tacotoolbox
+- fin-infra
+- coaiapy-mcp
+- coaiapy
+- MinecraftDockerCLI
+- fastapi-easylimiter
+- nui-lambda-shared-utils
+- grummage
+- sl-shared-assets
+- streamlit-music-score
+- aiagent-2025
+- openhive
