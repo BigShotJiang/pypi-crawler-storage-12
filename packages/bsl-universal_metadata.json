@@ -1,0 +1,11 @@
+{
+  "name": "bsl-universal",
+  "version": "0.5",
+  "summary": "Universal Research Library for BioSensors Lab @ UIUC",
+  "author": "Zhongmin Zhu",
+  "license": "MIT",
+  "home_page": "https://github.com/BioSensorsLab-Illinois/bsl_universal",
+  "download_filename": "bsl_universal-0.5.tar.gz",
+  "download_time": "2025-11-16T08:50:35.058509",
+  "package_url": "https://pypi.org/project/bsl-universal/"
+}
