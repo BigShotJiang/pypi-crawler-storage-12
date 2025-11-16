@@ -1,11 +1,11 @@
 {
   "name": "vibe-todo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A beautiful CLI and Web todo manager with multi-backend support (SQLite, Notion, Microsoft To Do)",
   "author": "Vibe Todo Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibe_todo-0.1.0.tar.gz",
-  "download_time": "2025-11-15T18:33:13.865673",
+  "download_filename": "vibe_todo-0.1.2.tar.gz",
+  "download_time": "2025-11-16T16:48:42.794795",
   "package_url": "https://pypi.org/project/vibe-todo/"
 }

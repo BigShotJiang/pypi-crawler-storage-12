@@ -1,11 +1,11 @@
 {
   "name": "iowarp-core",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "IOWarp Core: High-performance distributed I/O and task execution runtime",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "iowarp_core-0.2.3.tar.gz",
-  "download_time": "2025-11-14T07:00:04.226061",
+  "download_filename": "iowarp_core-0.2.4.tar.gz",
+  "download_time": "2025-11-16T16:48:43.364621",
   "package_url": "https://pypi.org/project/iowarp-core/"
 }

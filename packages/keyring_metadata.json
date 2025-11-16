@@ -1,0 +1,11 @@
+{
+  "name": "keyring",
+  "version": "25.7.0",
+  "summary": "Store and access your passwords safely.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keyring-25.7.0.tar.gz",
+  "download_time": "2025-11-16T16:48:58.368154",
+  "package_url": "https://pypi.org/project/keyring/"
+}

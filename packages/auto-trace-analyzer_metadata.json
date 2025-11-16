@@ -1,0 +1,11 @@
+{
+  "name": "auto-trace-analyzer",
+  "version": "0.1.1",
+  "summary": "A lightweight automated engine for traceback analysis and explanation.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "auto_trace_analyzer-0.1.1.tar.gz",
+  "download_time": "2025-11-16T16:49:00.448307",
+  "package_url": "https://pypi.org/project/auto-trace-analyzer/"
+}

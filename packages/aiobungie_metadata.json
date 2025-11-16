@@ -1,0 +1,11 @@
+{
+  "name": "aiobungie",
+  "version": "0.5.0",
+  "summary": "A Python and Asyncio API wrapper for Bungie's API.",
+  "author": "nxtlo",
+  "license": "MIT",
+  "home_page": "https://github.com/nxtlo/aiobungie",
+  "download_filename": "aiobungie-0.5.0.tar.gz",
+  "download_time": "2025-11-16T16:48:57.340016",
+  "package_url": "https://pypi.org/project/aiobungie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unzipwalk",
+  "version": "1.8.1",
+  "summary": "Recursively walk into directories and archives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unzipwalk-1.8.1.tar.gz",
+  "download_time": "2025-11-16T16:48:47.476438",
+  "package_url": "https://pypi.org/project/unzipwalk/"
+}
