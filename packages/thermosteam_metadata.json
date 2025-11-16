@@ -1,11 +1,11 @@
 {
   "name": "thermosteam",
-  "version": "0.52.15",
+  "version": "0.52.16",
   "summary": "BioSTEAM's Premier Thermodynamic Engine",
   "author": "Yoel Cortes-Pena",
   "license": "MIT",
   "home_page": "https://github.com/BioSTEAMDevelopmentGroup/thermosteam",
-  "download_filename": "thermosteam-0.52.15.tar.gz",
-  "download_time": "2025-11-13T03:21:10.113547",
+  "download_filename": "thermosteam-0.52.16.tar.gz",
+  "download_time": "2025-11-16T20:57:29.968221",
   "package_url": "https://pypi.org/project/thermosteam/"
 }
