@@ -1,0 +1,11 @@
+{
+  "name": "sql-mongo-converter",
+  "version": "2.1.0",
+  "summary": "Production-ready converter for SQL and MongoDB queries with full CRUD operations, JOINs, and advanced SQL support",
+  "author": "Son Nguyen",
+  "license": null,
+  "home_page": "https://github.com/hoangsonww/SQL-Mongo-Query-Converter",
+  "download_filename": "sql_mongo_converter-2.1.0.tar.gz",
+  "download_time": "2025-11-16T17:55:45.842539",
+  "package_url": "https://pypi.org/project/sql-mongo-converter/"
+}

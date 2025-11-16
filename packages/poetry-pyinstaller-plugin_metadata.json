@@ -1,0 +1,11 @@
+{
+  "name": "poetry-pyinstaller-plugin",
+  "version": "2.0.0",
+  "summary": "Poetry plugin to build and/or bundle executable binaries with PyInstaller",
+  "author": "Thomas Mahé",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poetry_pyinstaller_plugin-2.0.0.tar.gz",
+  "download_time": "2025-11-16T17:55:29.149508",
+  "package_url": "https://pypi.org/project/poetry-pyinstaller-plugin/"
+}

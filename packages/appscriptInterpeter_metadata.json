@@ -1,11 +1,11 @@
 {
   "name": "appscriptInterpeter",
-  "version": "0.1",
+  "version": "0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "appscriptinterpeter-0.1.tar.gz",
-  "download_time": "2025-11-15T20:25:54.107348",
+  "download_filename": "appscriptinterpeter-0.2.tar.gz",
+  "download_time": "2025-11-16T17:55:58.406245",
   "package_url": "https://pypi.org/project/appscriptInterpeter/"
 }

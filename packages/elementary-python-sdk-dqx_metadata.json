@@ -1,11 +1,11 @@
 {
   "name": "elementary-python-sdk-dqx",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "DQX integration for Elementary's Python SDK",
   "author": "Elementary Data",
   "license": null,
   "home_page": null,
-  "download_filename": "elementary_python_sdk_dqx-0.1.8.tar.gz",
-  "download_time": "2025-11-16T17:42:47.305750",
+  "download_filename": "elementary_python_sdk_dqx-0.1.9.tar.gz",
+  "download_time": "2025-11-16T17:55:42.246348",
   "package_url": "https://pypi.org/project/elementary-python-sdk-dqx/"
 }
