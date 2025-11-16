@@ -1,11 +1,11 @@
 {
   "name": "jp-odesolver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple Python project for solving and eventually plotting numerically obtained solutions for ODEs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jp_odesolver-0.0.1-py3-none-any.whl",
-  "download_time": "2025-11-16T14:23:13.324643",
+  "download_filename": "jp_odesolver-0.0.2.tar.gz",
+  "download_time": "2025-11-16T14:43:45.999419",
   "package_url": "https://pypi.org/project/jp-odesolver/"
 }

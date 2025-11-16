@@ -1,0 +1,11 @@
+{
+  "name": "Acquisition",
+  "version": "6.2",
+  "summary": "Acquisition is a mechanism that allows objects to obtain attributes from the containment hierarchy they're in.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acquisition-6.2.tar.gz",
+  "download_time": "2025-11-16T14:43:36.087638",
+  "package_url": "https://pypi.org/project/Acquisition/"
+}

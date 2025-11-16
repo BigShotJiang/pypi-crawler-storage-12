@@ -1,11 +1,11 @@
 {
   "name": "mypkg6668",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "AutoWeave - Import Hook 拦截器",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mypkg6668-0.1.1.tar.gz",
-  "download_time": "2025-11-16T14:23:37.423595",
+  "download_filename": "mypkg6668-0.1.3.tar.gz",
+  "download_time": "2025-11-16T14:43:43.455940",
   "package_url": "https://pypi.org/project/mypkg6668/"
 }
