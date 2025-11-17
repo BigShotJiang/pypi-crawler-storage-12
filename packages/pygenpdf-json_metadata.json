@@ -1,0 +1,11 @@
+{
+  "name": "pygenpdf-json",
+  "version": "0.1.12",
+  "summary": "Python bindings to Rust's genpdf-json library (PDF generator)",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/numaelis/pygenpdf_json",
+  "download_filename": "pygenpdf_json-0.1.12.tar.gz",
+  "download_time": "2025-11-17T04:03:03.743667",
+  "package_url": "https://pypi.org/project/pygenpdf-json/"
+}

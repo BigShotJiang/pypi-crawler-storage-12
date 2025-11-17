@@ -1,11 +1,11 @@
 {
   "name": "cognautic-cli",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "A Python-based CLI AI coding agent that provides agentic development capabilities with multi-provider AI support and real-time interaction",
   "author": "Cognautic",
   "license": null,
   "home_page": "https://github.com/cognautic/cognautic-cli",
-  "download_filename": "cognautic_cli-1.1.7.tar.gz",
-  "download_time": "2025-11-14T07:00:10.393606",
+  "download_filename": "cognautic_cli-1.1.8.tar.gz",
+  "download_time": "2025-11-17T04:03:02.687485",
   "package_url": "https://pypi.org/project/cognautic-cli/"
 }

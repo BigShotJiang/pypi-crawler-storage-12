@@ -1,0 +1,11 @@
+{
+  "name": "indigetranslate-api",
+  "version": "1.0.1",
+  "summary": "Cliente oficial de la API IndigeTranslate para traducciones de lenguas indígenas.",
+  "author": "WinCreativeX",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indigetranslate_api-1.0.1.tar.gz",
+  "download_time": "2025-11-17T04:03:05.707384",
+  "package_url": "https://pypi.org/project/indigetranslate-api/"
+}

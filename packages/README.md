@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T03:24:05.408882
-- **Total Packages**: 77
-- **Total Size**: 48.51 MB
+- **Download Time**: 2025-11-17T04:03:50.475744
+- **Total Packages**: 81
+- **Total Size**: 11.02 MB
 
 ## Packages List
+- cellart
+- onflow-wms-shared-auth
+- odoo-addon-l10n-es-verifactu-oca
+- cognautic-cli
+- pygenpdf-json
+- sphinx-exercise
+- treesak
+- indigetranslate-api
+- intsig-mcp-atlassian
+- nonebot-plugin-parser
 - dde-agent-lib
 - xmovsystemmonitor
 - san-cli
@@ -21,7 +31,6 @@
 - gatling
 - qoco
 - svc-infra
-- treesak
 - aiinbx
 - fudstop4
 - aspose-diagram
@@ -78,8 +87,3 @@
 - unxt
 - tklr-dgraham
 - test-parlant
-- restiny
-- fastgenerateapi
-- TechTrash-comfyapi
-- good-common
-- par-term-emu-core-rust
