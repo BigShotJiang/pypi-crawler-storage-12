@@ -1,0 +1,11 @@
+{
+  "name": "pytest-moto-fixtures",
+  "version": "0.0.1a4",
+  "summary": "Fixtures for testing code that interacts with AWS",
+  "author": "Eduardo Klosowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_moto_fixtures-0.0.1a4.tar.gz",
+  "download_time": "2025-11-17T04:45:06.852016",
+  "package_url": "https://pypi.org/project/pytest-moto-fixtures/"
+}

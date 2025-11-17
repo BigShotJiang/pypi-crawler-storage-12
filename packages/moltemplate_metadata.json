@@ -1,0 +1,11 @@
+{
+  "name": "moltemplate",
+  "version": "2.22.5",
+  "summary": "A general cross-platform text-based molecule builder for LAMMPS",
+  "author": "Andrew Jewett",
+  "license": "MIT",
+  "home_page": "https://github.com/jewettaij/moltemplate",
+  "download_filename": "moltemplate-2.22.5.tar.gz",
+  "download_time": "2025-11-17T04:45:08.936656",
+  "package_url": "https://pypi.org/project/moltemplate/"
+}

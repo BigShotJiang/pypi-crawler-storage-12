@@ -1,11 +1,11 @@
 {
   "name": "py-nymta",
-  "version": "0.1.2",
+  "version": "0.3.1",
   "summary": "Python library for accessing MTA (Metropolitan Transportation Authority) real-time transit data for NYC",
   "author": "py-nymta Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_nymta-0.1.2.tar.gz",
-  "download_time": "2025-11-16T19:20:15.953496",
+  "download_filename": "py_nymta-0.3.1.tar.gz",
+  "download_time": "2025-11-17T04:45:01.624276",
   "package_url": "https://pypi.org/project/py-nymta/"
 }

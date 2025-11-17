@@ -1,11 +1,11 @@
 {
   "name": "python-miwear",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Python Miwear tools for extracting and handling archives/logs",
   "author": "Junbo Zheng",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Junbo-Zheng/python_miwear",
-  "download_filename": "python_miwear-0.0.3.tar.gz",
-  "download_time": "2025-11-17T01:58:43.448525",
+  "download_filename": "python_miwear-0.0.6.tar.gz",
+  "download_time": "2025-11-17T04:44:55.251891",
   "package_url": "https://pypi.org/project/python-miwear/"
 }

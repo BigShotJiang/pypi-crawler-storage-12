@@ -1,0 +1,11 @@
+{
+  "name": "neoversity-group1-assistant-bot",
+  "version": "1.0.1",
+  "summary": "Students project for learning Python",
+  "author": "Neoversity Group1 Team",
+  "license": null,
+  "home_page": "https://github.com/kms-engineer/assistant-bot.git",
+  "download_filename": "neoversity_group1_assistant_bot-1.0.1.tar.gz",
+  "download_time": "2025-11-17T04:44:36.371202",
+  "package_url": "https://pypi.org/project/neoversity-group1-assistant-bot/"
+}

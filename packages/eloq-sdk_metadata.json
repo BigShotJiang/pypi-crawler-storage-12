@@ -1,0 +1,11 @@
+{
+  "name": "eloq-sdk",
+  "version": "0.1.4",
+  "summary": "Python SDK for Eloq API",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/eloq-sdk",
+  "download_filename": "eloq_sdk-0.1.4.tar.gz",
+  "download_time": "2025-11-17T04:45:03.715469",
+  "package_url": "https://pypi.org/project/eloq-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "audiozen",
+  "version": "2025.11.17",
+  "summary": "Audio ZEN is a library for audio/speech signal processing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "audiozen-2025.11.17.tar.gz",
+  "download_time": "2025-11-17T04:44:59.533463",
+  "package_url": "https://pypi.org/project/audiozen/"
+}
