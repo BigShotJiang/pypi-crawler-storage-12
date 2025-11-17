@@ -1,0 +1,11 @@
+{
+  "name": "eidanagios",
+  "version": "0.2",
+  "summary": "eidanagios: Nagios plugins and test code for EIDA services",
+  "author": "Javier Quinteros",
+  "license": "GPLv3",
+  "home_page": "https://gitext.gfz-potsdam.de/javier/eidanagios",
+  "download_filename": "eidanagios-0.2.tar.gz",
+  "download_time": "2025-11-17T13:59:32.269775",
+  "package_url": "https://pypi.org/project/eidanagios/"
+}

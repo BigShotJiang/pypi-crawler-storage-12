@@ -1,0 +1,11 @@
+{
+  "name": "fsga",
+  "version": "0.1.1",
+  "summary": "Feature Selection via Genetic Algorithm - ML framework for optimal feature subset discovery",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fsga-0.1.1.tar.gz",
+  "download_time": "2025-11-17T13:59:25.736417",
+  "package_url": "https://pypi.org/project/fsga/"
+}
