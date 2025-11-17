@@ -1,11 +1,11 @@
 {
   "name": "octoprint-factor-plugin",
-  "version": "2.6.2",
+  "version": "2.6.6",
   "summary": "FACTOR Plugin - Remote monitoring and camera integration for OctoPrint",
   "author": "FACTOR",
   "license": "AGPLv3",
   "home_page": "https://github.com/kangbyounggwan/octoprint-factor-plugin",
-  "download_filename": "octoprint_factor_plugin-2.6.2.tar.gz",
-  "download_time": "2025-11-17T04:03:09.594745",
+  "download_filename": "octoprint_factor_plugin-2.6.6.tar.gz",
+  "download_time": "2025-11-17T05:28:57.574043",
   "package_url": "https://pypi.org/project/octoprint-factor-plugin/"
 }

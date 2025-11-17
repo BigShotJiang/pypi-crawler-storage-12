@@ -1,11 +1,11 @@
 {
   "name": "nlp2mcp",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Convert GAMS NLP models to MCP via KKT conditions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nlp2mcp-0.6.0.tar.gz",
-  "download_time": "2025-11-14T15:44:21.226684",
+  "download_filename": "nlp2mcp-0.7.0.tar.gz",
+  "download_time": "2025-11-17T05:29:13.854542",
   "package_url": "https://pypi.org/project/nlp2mcp/"
 }

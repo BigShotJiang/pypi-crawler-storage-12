@@ -1,11 +1,11 @@
 {
   "name": "enumex",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A modified version of the standard enum with inheritance.",
   "author": "Addio",
   "license": null,
   "home_page": null,
-  "download_filename": "enumex-0.2.1.tar.gz",
-  "download_time": "2025-11-13T04:35:39.733852",
+  "download_filename": "enumex-0.2.3.tar.gz",
+  "download_time": "2025-11-17T05:29:01.282733",
   "package_url": "https://pypi.org/project/enumex/"
 }

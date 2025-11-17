@@ -1,0 +1,11 @@
+{
+  "name": "manifoldbot",
+  "version": "0.2.9",
+  "summary": "A comprehensive Python package for creating intelligent trading bots that interact with Manifold Markets",
+  "author": "ManifoldBot Contributors",
+  "license": null,
+  "home_page": "https://github.com/petercotton/manifoldbot",
+  "download_filename": "manifoldbot-0.2.9.tar.gz",
+  "download_time": "2025-11-17T05:29:09.698052",
+  "package_url": "https://pypi.org/project/manifoldbot/"
+}

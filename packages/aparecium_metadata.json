@@ -1,0 +1,11 @@
+{
+  "name": "aparecium",
+  "version": "1.0.0",
+  "summary": "Aparecium v2: pooled MPNet embedding reversal for crypto social-media posts.",
+  "author": "SentiChain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aparecium-1.0.0.tar.gz",
+  "download_time": "2025-11-17T05:29:10.217159",
+  "package_url": "https://pypi.org/project/aparecium/"
+}
