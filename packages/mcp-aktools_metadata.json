@@ -1,11 +1,11 @@
 {
   "name": "mcp-aktools",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "MCP Server for stock and crypto",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_aktools-0.1.12.tar.gz",
-  "download_time": "2025-11-14T07:28:45.029554",
+  "download_filename": "mcp_aktools-0.1.13.tar.gz",
+  "download_time": "2025-11-17T08:39:00.837931",
   "package_url": "https://pypi.org/project/mcp-aktools/"
 }

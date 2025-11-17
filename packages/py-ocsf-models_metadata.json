@@ -1,0 +1,11 @@
+{
+  "name": "py-ocsf-models",
+  "version": "0.8.0",
+  "summary": "This is a Python implementation of the OCSF models. The models are used to represent the data of the OCSF Schema defined in https://schema.ocsf.io/.",
+  "author": "Prowler Engineering",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/prowler-cloud/py-ocsf-models",
+  "download_filename": "py_ocsf_models-0.8.0.tar.gz",
+  "download_time": "2025-11-17T08:39:02.940840",
+  "package_url": "https://pypi.org/project/py-ocsf-models/"
+}

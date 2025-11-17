@@ -1,0 +1,11 @@
+{
+  "name": "kleister",
+  "version": "2.0.0",
+  "summary": "Kleister OpenAPI",
+  "author": "Thomas Boerger",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kleister-2.0.0.tar.gz",
+  "download_time": "2025-11-17T08:39:05.017964",
+  "package_url": "https://pypi.org/project/kleister/"
+}

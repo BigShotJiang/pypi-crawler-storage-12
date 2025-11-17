@@ -1,0 +1,11 @@
+{
+  "name": "django-simple-dms",
+  "version": "0.2.0",
+  "summary": "Django simple Document Management System",
+  "author": null,
+  "license": "K-Tech",
+  "home_page": null,
+  "download_filename": "django_simple_dms-0.2.0.tar.gz",
+  "download_time": "2025-11-17T08:38:45.244254",
+  "package_url": "https://pypi.org/project/django-simple-dms/"
+}

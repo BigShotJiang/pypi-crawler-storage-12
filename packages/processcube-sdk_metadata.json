@@ -1,11 +1,11 @@
 {
   "name": "processcube-sdk",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Some tools and defaults to program for the ProcessCube.",
   "author": "5Minds IT-Solutions GmbH & Co. KG",
   "license": null,
   "home_page": "https://github.com/5minds/processcube_sdk.py",
-  "download_filename": "processcube_sdk-6.0.0.tar.gz",
-  "download_time": "2025-11-16T13:16:51.694782",
+  "download_filename": "processcube_sdk-6.0.1.tar.gz",
+  "download_time": "2025-11-17T08:38:53.524179",
   "package_url": "https://pypi.org/project/processcube-sdk/"
 }
