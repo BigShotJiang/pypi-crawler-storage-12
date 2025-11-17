@@ -1,0 +1,11 @@
+{
+  "name": "sfctools",
+  "version": "1.1.9.3",
+  "summary": "Framework for stock-flow consistent agent-based modeling, being developed at the German Aerospace Center (DLR) for and in the scientific context of energy systems analysis, however, it is widely applicable in other scientific fields.",
+  "author": "Thomas Baldauf",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/dlr-ve/esy/sfctools/framework",
+  "download_filename": "sfctools-1.1.9.3.tar.gz",
+  "download_time": "2025-11-17T09:02:01.803542",
+  "package_url": "https://pypi.org/project/sfctools/"
+}

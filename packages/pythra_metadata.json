@@ -1,11 +1,11 @@
 {
   "name": "pythra",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "PyThra — a Flutter-like GUI framework in Python. a declarative Python UI framework for desktop apps with a webview renderer.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythra-0.1.6.tar.gz",
-  "download_time": "2025-11-17T08:38:36.392615",
+  "download_filename": "pythra-0.1.8.tar.gz",
+  "download_time": "2025-11-17T09:02:03.858652",
   "package_url": "https://pypi.org/project/pythra/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "heudiconv-ancp",
+  "version": "0.1.2",
+  "summary": "Heuristic DICOM Converter",
+  "author": "HeuDiConv team and contributors",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "heudiconv_ancp-0.1.2.tar.gz",
+  "download_time": "2025-11-17T09:02:08.026085",
+  "package_url": "https://pypi.org/project/heudiconv-ancp/"
+}

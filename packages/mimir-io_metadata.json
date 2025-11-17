@@ -1,0 +1,11 @@
+{
+  "name": "mimir-io",
+  "version": "0.1.1",
+  "summary": "Declarative dataset processing library with lens-based transformations",
+  "author": "lmz-oleksii",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimir_io-0.1.1.tar.gz",
+  "download_time": "2025-11-17T09:02:17.391715",
+  "package_url": "https://pypi.org/project/mimir-io/"
+}

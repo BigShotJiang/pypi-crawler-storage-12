@@ -1,0 +1,11 @@
+{
+  "name": "starco-dj-payment",
+  "version": "1.0.0",
+  "summary": "A Django pluggable app for payments.",
+  "author": "Mojtaba",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starco_dj_payment-1.0.0.tar.gz",
+  "download_time": "2025-11-17T09:02:01.286154",
+  "package_url": "https://pypi.org/project/starco-dj-payment/"
+}
