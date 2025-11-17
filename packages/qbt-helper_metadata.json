@@ -1,0 +1,11 @@
+{
+  "name": "qbt-helper",
+  "version": "0.10",
+  "summary": "Helper program for adding torrents from URLs to a qBittorrent instance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbt_helper-0.10.tar.gz",
+  "download_time": "2025-11-17T07:58:23.458808",
+  "package_url": "https://pypi.org/project/qbt-helper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flet-asp",
+  "version": "0.2.2",
+  "summary": "Flet-ASP – The Flet Atomic State Pattern is a reactive state management library for Flet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_asp-0.2.2.tar.gz",
+  "download_time": "2025-11-17T07:58:22.356387",
+  "package_url": "https://pypi.org/project/flet-asp/"
+}

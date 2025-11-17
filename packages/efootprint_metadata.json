@@ -1,0 +1,11 @@
+{
+  "name": "efootprint",
+  "version": "14.0.2",
+  "summary": "Digital service environmental footprint model",
+  "author": "Vincent Villet for Publicis Sapient",
+  "license": null,
+  "home_page": null,
+  "download_filename": "efootprint-14.0.2.tar.gz",
+  "download_time": "2025-11-17T07:58:34.217129",
+  "package_url": "https://pypi.org/project/efootprint/"
+}

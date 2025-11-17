@@ -1,0 +1,11 @@
+{
+  "name": "aiotaskqueue",
+  "version": "0.15.0",
+  "summary": "Asynchronous task queue framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiotaskqueue-0.15.0.tar.gz",
+  "download_time": "2025-11-17T07:58:21.809487",
+  "package_url": "https://pypi.org/project/aiotaskqueue/"
+}

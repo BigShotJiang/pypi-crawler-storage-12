@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T07:46:41.129012
+- **Download Time**: 2025-11-17T07:59:07.705192
 - **Total Packages**: 94
-- **Total Size**: 12.6 MB
+- **Total Size**: 25.77 MB
 
 ## Packages List
+- pruna-client
+- hilda
+- well-log-toolkit
+- abacum-mcp-server
+- daliuge-translator
+- daliuge-common
+- daliuge-engine
+- uvlink
+- botmaro-secrets-manager
+- aiotaskqueue
+- flet-asp
+- stickers-downloader
+- qbt-helper
+- KairoCore
+- lingchu-bot
+- test-keishis
+- whoruv
+- ant-ray-cpp-nightly
+- gmtorch
+- spark-rapids-ml
+- CheckmarxPythonSDK
+- turbopuffer
+- mreg-cli
+- python-docx-oss
+- jvs-cli
+- pyslurp
+- splunk-add-on-ucc-modinput-test
+- snapinfra
+- ear-analytics-core
+- pyversity
+- efootprint
 - bqseine
 - rquote
 - molify
@@ -40,7 +71,6 @@
 - quri-parts
 - tgframework-bot
 - ComicGUISpider
-- KairoCore
 - aoe2-bot
 - pdf4llm
 - pyfcstm
@@ -70,33 +100,3 @@
 - dde-agent-lib
 - auto-pytest-generator
 - rust-pyfunc
-- pyqueen
-- anise
-- agent-builder-gateway-sdk
-- duckdb-upgrade
-- partial-json-parser
-- egpu
-- scrapy-webarchive
-- test-keishis
-- alibabacloud-eds-aic20230930
-- ocpi-pydantic
-- gha-utils
-- tencent-wedata-feature-engineering-dev
-- colcon-cargo-ros2
-- warmth
-- realtimex-pyautogui-server
-- RedenPy
-- ai-edge-litert-nightly
-- flask-postgresql-audit
-- kailash-dataflow
-- wagtail-newsletter-django-backend
-- tritonparse
-- taolib
-- streamlit-nightly
-- wpiformat
-- rustychickpeas
-- flamehaven-doc-sanity
-- aiinbx
-- xparse-pipeline
-- foxops
-- v2simux
