@@ -1,11 +1,11 @@
 {
   "name": "netbox-freeipa",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "NetBox plugin for FreeIPA integration - manage hosts, DNS zones and records",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netbox_freeipa-0.2.2.tar.gz",
-  "download_time": "2025-11-17T15:30:29.354964",
+  "download_filename": "netbox_freeipa-0.2.6.tar.gz",
+  "download_time": "2025-11-17T15:49:51.036923",
   "package_url": "https://pypi.org/project/netbox-freeipa/"
 }

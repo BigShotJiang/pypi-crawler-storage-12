@@ -1,0 +1,11 @@
+{
+  "name": "agentUniverse",
+  "version": "0.0.19",
+  "summary": "agentUniverse is a framework for developing applications powered by multi-agent base on large language model.",
+  "author": "AntGroup",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentuniverse-0.0.19.tar.gz",
+  "download_time": "2025-11-17T15:49:57.769167",
+  "package_url": "https://pypi.org/project/agentUniverse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-cli-helper",
+  "version": "0.1.0",
+  "summary": "AI辅助的命令行工具，提供错误捕获和bash历史管理功能",
+  "author": "guozhibing",
+  "license": "MIT",
+  "home_page": "https://github.com/yougebug/ai-cli",
+  "download_filename": "ai_cli_helper-0.1.0.tar.gz",
+  "download_time": "2025-11-17T15:50:39.404663",
+  "package_url": "https://pypi.org/project/ai-cli-helper/"
+}

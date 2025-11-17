@@ -1,11 +1,11 @@
 {
   "name": "pydivkit",
-  "version": "32.25.0",
+  "version": "32.26.0",
   "summary": "DivKit python library",
   "author": "Vladislav Bakaev",
   "license": null,
   "home_page": "https://github.com/divkit/divkit/tree/main/json-builder/python",
-  "download_filename": "pydivkit-32.25.0.tar.gz",
-  "download_time": "2025-11-10T10:49:40.566172",
+  "download_filename": "pydivkit-32.26.0.tar.gz",
+  "download_time": "2025-11-17T15:50:13.817000",
   "package_url": "https://pypi.org/project/pydivkit/"
 }

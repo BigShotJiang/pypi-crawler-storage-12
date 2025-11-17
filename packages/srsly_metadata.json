@@ -1,0 +1,11 @@
+{
+  "name": "srsly",
+  "version": "2.5.2",
+  "summary": "Modern high-performance serialization utilities for Python",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": "https://github.com/explosion/srsly",
+  "download_filename": "srsly-2.5.2.tar.gz",
+  "download_time": "2025-11-17T15:50:46.464590",
+  "package_url": "https://pypi.org/project/srsly/"
+}

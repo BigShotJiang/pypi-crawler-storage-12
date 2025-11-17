@@ -1,11 +1,11 @@
 {
   "name": "control-arena",
-  "version": "10.3.2",
+  "version": "11.0.0",
   "summary": "ControlArena settings and control protocols",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "control_arena-10.3.2.tar.gz",
-  "download_time": "2025-11-14T15:25:09.911335",
+  "download_filename": "control_arena-11.0.0.tar.gz",
+  "download_time": "2025-11-17T15:49:49.203916",
   "package_url": "https://pypi.org/project/control-arena/"
 }
