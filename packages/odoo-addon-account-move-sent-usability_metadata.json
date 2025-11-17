@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-sent-usability",
+  "version": "16.0.1.1.0",
+  "summary": "Allows to filter moves on 'is_move_sent' and to see the value of the field in form",
+  "author": "BCIM,ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_move_sent_usability-16.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-11-17T09:37:35.195829",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-sent-usability/"
+}

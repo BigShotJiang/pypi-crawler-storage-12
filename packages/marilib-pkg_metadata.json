@@ -1,0 +1,11 @@
+{
+  "name": "marilib-pkg",
+  "version": "0.8.0",
+  "summary": "MariLib is a Python library for interacting with the Mari network.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "marilib_pkg-0.8.0.tar.gz",
+  "download_time": "2025-11-17T09:37:47.496164",
+  "package_url": "https://pypi.org/project/marilib-pkg/"
+}

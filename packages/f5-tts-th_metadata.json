@@ -1,11 +1,11 @@
 {
   "name": "f5-tts-th",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "summary": "F5-TTS: Text-to-Speech (TTS) ภาษาไทย — เครื่องมือสร้างเสียงพูดจากข้อความด้วยเทคนิค Flow Matching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "f5_tts_th-1.0.6.tar.gz",
-  "download_time": "2025-11-17T09:02:09.080515",
+  "download_filename": "f5_tts_th-1.0.9.tar.gz",
+  "download_time": "2025-11-17T09:37:11.926716",
   "package_url": "https://pypi.org/project/f5-tts-th/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "leek",
+  "version": "1.7.3",
+  "summary": "Task publishing and consumption Middleware",
+  "author": "cc",
+  "license": "MIT License",
+  "home_page": "https://github.com/abo123456789/redisqueue/tree/leek",
+  "download_filename": "leek-1.7.3.tar.gz",
+  "download_time": "2025-11-17T09:37:23.749965",
+  "package_url": "https://pypi.org/project/leek/"
+}

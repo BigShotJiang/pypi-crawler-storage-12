@@ -1,0 +1,11 @@
+{
+  "name": "tilsit-config",
+  "version": "1.0.1",
+  "summary": "Configuration handling",
+  "author": "Rafal Padkowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tilsit_config-1.0.1.tar.gz",
+  "download_time": "2025-11-17T09:37:07.798402",
+  "package_url": "https://pypi.org/project/tilsit-config/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ctao-bdms-rucio-policy",
+  "version": "0.2.1",
+  "summary": "CTAO RUCIO policy package",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ctao_bdms_rucio_policy-0.2.1.tar.gz",
+  "download_time": "2025-11-17T09:37:15.526339",
+  "package_url": "https://pypi.org/project/ctao-bdms-rucio-policy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "handsoff",
+  "version": "1.2.0",
+  "summary": "Auto file tranfer with scp command.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "handsoff-1.2.0.tar.gz",
+  "download_time": "2025-11-17T09:37:43.905148",
+  "package_url": "https://pypi.org/project/handsoff/"
+}

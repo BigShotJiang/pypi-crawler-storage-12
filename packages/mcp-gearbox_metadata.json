@@ -1,11 +1,11 @@
 {
   "name": "mcp-gearbox",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "A command-line interface tool for MCP server management and project initialization",
   "author": "Rohit Soni",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_gearbox-0.0.12.tar.gz",
-  "download_time": "2025-11-11T13:35:04.261295",
+  "download_filename": "mcp_gearbox-0.0.13.tar.gz",
+  "download_time": "2025-11-17T09:37:38.774867",
   "package_url": "https://pypi.org/project/mcp-gearbox/"
 }

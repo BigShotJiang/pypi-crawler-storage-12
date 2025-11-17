@@ -1,0 +1,11 @@
+{
+  "name": "grimoirelab-core",
+  "version": "0.1.0",
+  "summary": "Core of GrimoireLab",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "grimoirelab_core-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-17T09:37:28.999977",
+  "package_url": "https://pypi.org/project/grimoirelab-core/"
+}

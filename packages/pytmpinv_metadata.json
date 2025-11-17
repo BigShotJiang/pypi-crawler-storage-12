@@ -1,0 +1,11 @@
+{
+  "name": "pytmpinv",
+  "version": "1.3.3",
+  "summary": "Tabular Matrix Problems via Pseudoinverse Estimation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytmpinv-1.3.3.tar.gz",
+  "download_time": "2025-11-17T09:37:05.745461",
+  "package_url": "https://pypi.org/project/pytmpinv/"
+}

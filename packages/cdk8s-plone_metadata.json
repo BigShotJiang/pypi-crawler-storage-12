@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-plone",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Provides a CMS Plone Backend and Frontend for Kubernetes with cdk8s",
   "author": "Jens W. Klein<jk@kleinundpartner.at>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/bluedynamics/cdk8s-plone.git",
-  "download_filename": "cdk8s_plone-0.1.8.tar.gz",
-  "download_time": "2025-11-13T14:27:51.269227",
+  "download_filename": "cdk8s_plone-0.1.10.tar.gz",
+  "download_time": "2025-11-17T09:37:08.315837",
   "package_url": "https://pypi.org/project/cdk8s-plone/"
 }
