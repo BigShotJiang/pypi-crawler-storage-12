@@ -1,0 +1,11 @@
+{
+  "name": "li-ezdxf",
+  "version": "1.4.4",
+  "summary": "A Python package to create/manipulate DXF drawings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "li_ezdxf-1.4.4.tar.gz",
+  "download_time": "2025-11-17T09:56:29.107663",
+  "package_url": "https://pypi.org/project/li-ezdxf/"
+}

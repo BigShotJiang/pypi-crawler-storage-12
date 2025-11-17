@@ -1,0 +1,11 @@
+{
+  "name": "doris-vector-search",
+  "version": "0.0.6",
+  "summary": "Doris Vector Search Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doris_vector_search-0.0.6.tar.gz",
+  "download_time": "2025-11-17T09:56:36.467760",
+  "package_url": "https://pypi.org/project/doris-vector-search/"
+}
