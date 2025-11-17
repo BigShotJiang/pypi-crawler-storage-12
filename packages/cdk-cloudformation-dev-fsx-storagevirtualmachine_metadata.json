@@ -1,0 +1,11 @@
+{
+  "name": "cdk-cloudformation-dev-fsx-storagevirtualmachine",
+  "version": "0.0.0a7",
+  "summary": "Constructs for Dev::FSx::StorageVirtualMachine",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-cloudformation.git",
+  "download_filename": "cdk_cloudformation_dev_fsx_storagevirtualmachine-0.0.0a7.tar.gz",
+  "download_time": "2025-11-17T06:40:25.345511",
+  "package_url": "https://pypi.org/project/cdk-cloudformation-dev-fsx-storagevirtualmachine/"
+}

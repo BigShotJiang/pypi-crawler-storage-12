@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-paifeaturestore",
+  "version": "1.0.19",
+  "summary": "The paifeaturestore module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_paifeaturestore-1.0.19-py2.py3-none-any.whl",
+  "download_time": "2025-11-17T06:40:44.587564",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-paifeaturestore/"
+}

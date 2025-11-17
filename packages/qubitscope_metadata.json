@@ -1,11 +1,11 @@
 {
   "name": "qubitscope",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "qubit analysis tool",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "qubitscope-0.0.2-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-17T04:03:23.192762",
+  "download_filename": "qubitscope-0.0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-17T06:40:25.925266",
   "package_url": "https://pypi.org/project/qubitscope/"
 }

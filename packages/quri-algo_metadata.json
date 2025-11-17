@@ -1,0 +1,11 @@
+{
+  "name": "quri-algo",
+  "version": "0.24.1",
+  "summary": "Algorithm library based on QURI Parts",
+  "author": "QunaSys",
+  "license": "MIT",
+  "home_page": "https://github.com/QunaSys/quri-algo",
+  "download_filename": "quri_algo-0.24.1.tar.gz",
+  "download_time": "2025-11-17T06:40:37.596802",
+  "package_url": "https://pypi.org/project/quri-algo/"
+}

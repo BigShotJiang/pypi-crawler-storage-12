@@ -1,0 +1,11 @@
+{
+  "name": "alphaaidig-datacenter-common",
+  "version": "0.1.22",
+  "summary": "Shared schemas and utils for the datacenter project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alphaaidig_datacenter_common-0.1.22.tar.gz",
+  "download_time": "2025-11-17T06:40:33.763433",
+  "package_url": "https://pypi.org/project/alphaaidig-datacenter-common/"
+}

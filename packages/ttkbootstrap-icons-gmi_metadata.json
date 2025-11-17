@@ -1,0 +1,11 @@
+{
+  "name": "ttkbootstrap-icons-gmi",
+  "version": "1.0.1",
+  "summary": "Google Material Icons (baseline/outlined/round/sharp/twotone) provider for ttkbootstrap-icons",
+  "author": "Israel Dryer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttkbootstrap_icons_gmi-1.0.1.tar.gz",
+  "download_time": "2025-11-17T06:40:28.260804",
+  "package_url": "https://pypi.org/project/ttkbootstrap-icons-gmi/"
+}
