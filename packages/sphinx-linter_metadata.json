@@ -1,11 +1,11 @@
 {
   "name": "sphinx-linter",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A lightweight Python linter for checking Sphinx docstrings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_linter-0.1.5.tar.gz",
-  "download_time": "2025-11-12T15:29:26.720708",
+  "download_filename": "sphinx_linter-0.1.7.tar.gz",
+  "download_time": "2025-11-17T11:24:33.855067",
   "package_url": "https://pypi.org/project/sphinx-linter/"
 }

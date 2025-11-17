@@ -1,0 +1,11 @@
+{
+  "name": "lazyreq",
+  "version": "0.0.1",
+  "summary": "A library for manage dependencies.",
+  "author": "Netronis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazyreq-0.0.1.tar.gz",
+  "download_time": "2025-11-17T11:24:30.995231",
+  "package_url": "https://pypi.org/project/lazyreq/"
+}

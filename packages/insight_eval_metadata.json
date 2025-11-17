@@ -1,0 +1,11 @@
+{
+  "name": "insight_eval",
+  "version": "0.1.2",
+  "summary": "Open source repo for the insight-discovery benchmarking evaluation framework",
+  "author": "Sparkbeyond",
+  "license": "Apache-2.0",
+  "home_page": "https://www.sparkbeyond.ai/",
+  "download_filename": "insight_eval-0.1.2.tar.gz",
+  "download_time": "2025-11-17T11:25:16.311714",
+  "package_url": "https://pypi.org/project/insight_eval/"
+}

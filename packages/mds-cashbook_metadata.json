@@ -1,11 +1,11 @@
 {
   "name": "mds-cashbook",
-  "version": "7.0.39",
+  "version": "7.0.40",
   "summary": "Tryton module to add a cashbook.",
   "author": "martin-data services",
   "license": "GPL-3",
   "home_page": "https://www.m-ds.de/",
-  "download_filename": "mds_cashbook-7.0.39.tar.gz",
-  "download_time": "2025-11-12T11:22:21.529942",
+  "download_filename": "mds_cashbook-7.0.40.tar.gz",
+  "download_time": "2025-11-17T11:24:43.262920",
   "package_url": "https://pypi.org/project/mds-cashbook/"
 }

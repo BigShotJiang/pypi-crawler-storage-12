@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-view-leaflet-map-partner",
+  "version": "18.0.1.0.0.2",
+  "summary": "TODO",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/geospatial",
+  "download_filename": "odoo_addon_web_view_leaflet_map_partner-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-17T11:24:46.918498",
+  "package_url": "https://pypi.org/project/odoo-addon-web-view-leaflet-map-partner/"
+}

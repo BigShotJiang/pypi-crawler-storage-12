@@ -1,0 +1,11 @@
+{
+  "name": "shraga-common",
+  "version": "0.8.8",
+  "summary": "Common infrastructure for Shraga AI",
+  "author": "Itamar Syn-Hershko",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shraga_common-0.8.8.tar.gz",
+  "download_time": "2025-11-17T11:25:05.289903",
+  "package_url": "https://pypi.org/project/shraga-common/"
+}

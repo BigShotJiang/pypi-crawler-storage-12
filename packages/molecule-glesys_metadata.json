@@ -1,0 +1,11 @@
+{
+  "name": "molecule-glesys",
+  "version": "0.6",
+  "summary": "Molecule GleSYS Plugin :: run molecule tests in GleSYS Cloud",
+  "author": "Magnus Johansson",
+  "license": "MIT",
+  "home_page": "https://github.com/glesys/molecule-driver",
+  "download_filename": "molecule_glesys-0.6.tar.gz",
+  "download_time": "2025-11-17T11:24:47.436694",
+  "package_url": "https://pypi.org/project/molecule-glesys/"
+}
