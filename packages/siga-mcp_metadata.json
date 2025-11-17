@@ -1,11 +1,11 @@
 {
   "name": "siga-mcp",
-  "version": "0.1.82",
+  "version": "0.1.83",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "siga_mcp-0.1.82.tar.gz",
-  "download_time": "2025-11-17T13:38:32.403766",
+  "download_filename": "siga_mcp-0.1.83.tar.gz",
+  "download_time": "2025-11-17T14:50:11.329769",
   "package_url": "https://pypi.org/project/siga-mcp/"
 }

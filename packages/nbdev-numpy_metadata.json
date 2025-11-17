@@ -1,11 +1,11 @@
 {
   "name": "nbdev-numpy",
-  "version": "0.0.2223",
+  "version": "0.0.2224",
   "summary": "nbdev docs lookup for numpy",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_numpy-0.0.2223.tar.gz",
-  "download_time": "2025-11-17T01:58:53.523268",
+  "download_filename": "nbdev_numpy-0.0.2224.tar.gz",
+  "download_time": "2025-11-17T14:50:29.429422",
   "package_url": "https://pypi.org/project/nbdev-numpy/"
 }

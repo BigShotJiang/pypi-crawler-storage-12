@@ -1,11 +1,11 @@
 {
   "name": "simple-saga",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "summary": "A lightweight implementation of the Saga pattern for managing distributed transactions in Python",
   "author": "Tetsuya Wakita",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_saga-0.0.6.tar.gz",
-  "download_time": "2025-11-17T13:38:37.399506",
+  "download_filename": "simple_saga-0.1.0.tar.gz",
+  "download_time": "2025-11-17T14:50:03.932756",
   "package_url": "https://pypi.org/project/simple-saga/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "msastats",
+  "version": "25.11.1",
+  "summary": "Simple utility to compute MSA summary statistics",
+  "author": "Elya Wygoda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "msastats-25.11.1.tar.gz",
+  "download_time": "2025-11-17T14:50:35.943752",
+  "package_url": "https://pypi.org/project/msastats/"
+}
