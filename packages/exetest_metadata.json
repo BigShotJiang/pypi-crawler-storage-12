@@ -1,0 +1,11 @@
+{
+  "name": "exetest",
+  "version": "0.9.13",
+  "summary": "A pytest-based test framework for black-box approach to testing executables",
+  "author": "Guillaume227",
+  "license": "MIT",
+  "home_page": "https://github.com/Guillaume227/exetest",
+  "download_filename": "exetest-0.9.13.tar.gz",
+  "download_time": "2025-11-17T12:54:47.447493",
+  "package_url": "https://pypi.org/project/exetest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toolium",
+  "version": "3.5.0",
+  "summary": "Wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project",
+  "author": "Rubén González Alonso, Telefónica I+D",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/telefonica/toolium",
+  "download_filename": "toolium-3.5.0.tar.gz",
+  "download_time": "2025-11-17T12:55:22.307915",
+  "package_url": "https://pypi.org/project/toolium/"
+}

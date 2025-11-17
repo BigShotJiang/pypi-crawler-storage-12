@@ -1,0 +1,11 @@
+{
+  "name": "featomic",
+  "version": "0.6.4",
+  "summary": "Computing representations for atomistic machine learning",
+  "author": "Guillaume Fraux, Philip Loche, Sergei Kliavinek, Kevin Kazuki Huguenin-Dumittan, Davide Tisi, Alexander Goscinski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "featomic-0.6.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-17T12:54:46.932456",
+  "package_url": "https://pypi.org/project/featomic/"
+}

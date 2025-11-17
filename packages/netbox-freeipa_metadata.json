@@ -1,0 +1,11 @@
+{
+  "name": "netbox-freeipa",
+  "version": "0.1.0",
+  "summary": "NetBox plugin for FreeIPA integration - manage enrolled hosts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_freeipa-0.1.0.tar.gz",
+  "download_time": "2025-11-17T12:54:44.798157",
+  "package_url": "https://pypi.org/project/netbox-freeipa/"
+}

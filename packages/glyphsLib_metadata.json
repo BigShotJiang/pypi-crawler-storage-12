@@ -1,0 +1,11 @@
+{
+  "name": "glyphsLib",
+  "version": "6.12.4",
+  "summary": "A bridge from Glyphs source files (.glyphs) to UFOs",
+  "author": "James Godfrey-Kittle",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/googlefonts/glyphsLib",
+  "download_filename": "glyphslib-6.12.4-py3-none-any.whl",
+  "download_time": "2025-11-17T12:55:28.528219",
+  "package_url": "https://pypi.org/project/glyphsLib/"
+}

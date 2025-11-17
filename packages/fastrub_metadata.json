@@ -1,11 +1,11 @@
 {
   "name": "fastrub",
-  "version": "2.2",
+  "version": "2.3",
   "summary": "the library for rubika bots.",
   "author": "seyyed mohamad hosein moosavi raja(01)",
   "license": "MIT",
   "home_page": "https://github.com/OandONE/fast_rub",
-  "download_filename": "fastrub-2.2.tar.gz",
-  "download_time": "2025-11-11T18:58:56.553449",
+  "download_filename": "fastrub-2.3.tar.gz",
+  "download_time": "2025-11-17T12:55:28.010612",
   "package_url": "https://pypi.org/project/fastrub/"
 }

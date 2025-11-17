@@ -1,0 +1,11 @@
+{
+  "name": "argops",
+  "version": "1.1.1",
+  "summary": "Promote argo application between environments",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "argops-1.1.1.tar.gz",
+  "download_time": "2025-11-17T12:54:57.067941",
+  "package_url": "https://pypi.org/project/argops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gaussdb-django",
+  "version": "5.2.0",
+  "summary": "Django backend for GaussDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaussdb_django-5.2.0-py3-none-any.whl",
+  "download_time": "2025-11-17T12:54:56.536685",
+  "package_url": "https://pypi.org/project/gaussdb-django/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netlas",
+  "version": "0.7.4",
+  "summary": "Netlas.io API package",
+  "author": "Netlas Team",
+  "license": null,
+  "home_page": "https://github.com/netlas-io/netlas-python",
+  "download_filename": "netlas-0.7.4.tar.gz",
+  "download_time": "2025-11-17T12:55:20.223072",
+  "package_url": "https://pypi.org/project/netlas/"
+}

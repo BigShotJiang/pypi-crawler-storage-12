@@ -1,11 +1,11 @@
 {
   "name": "openhive",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "Core library for implementing H.I.V.E. Protocol compliant agents in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openhive-0.11.0.tar.gz",
-  "download_time": "2025-11-16T19:42:06.475144",
+  "download_filename": "openhive-0.11.1.tar.gz",
+  "download_time": "2025-11-17T12:55:10.314403",
   "package_url": "https://pypi.org/project/openhive/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kamihi",
-  "version": "5.2.0",
+  "version": "5.3.0",
   "summary": "Framework for building Telegram bots in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kamihi-5.2.0-py3-none-any.whl",
-  "download_time": "2025-11-16T13:39:08.725854",
+  "download_filename": "kamihi-5.3.0-py3-none-any.whl",
+  "download_time": "2025-11-17T12:54:49.066787",
   "package_url": "https://pypi.org/project/kamihi/"
 }

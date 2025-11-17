@@ -1,11 +1,11 @@
 {
   "name": "liblaf-grapes",
-  "version": "8.3.0",
+  "version": "8.4.0",
   "summary": "🍇 Supercharge your Python with rich logging, precise timing, and seamless serialization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liblaf_grapes-8.3.0.tar.gz",
-  "download_time": "2025-11-16T13:38:55.562971",
+  "download_filename": "liblaf_grapes-8.4.0.tar.gz",
+  "download_time": "2025-11-17T12:55:12.400203",
   "package_url": "https://pypi.org/project/liblaf-grapes/"
 }
