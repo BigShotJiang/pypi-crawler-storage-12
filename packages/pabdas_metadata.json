@@ -1,0 +1,11 @@
+{
+  "name": "pabdas",
+  "version": "0.1.1",
+  "summary": "Tiny package to ship text files and load them easily.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pabdas-0.1.1.tar.gz",
+  "download_time": "2025-11-17T16:36:27.115749",
+  "package_url": "https://pypi.org/project/pabdas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data-flow-diagram",
+  "version": "1.12.1.post3",
+  "summary": "Commandline tool to generate data flow diagrams from text",
+  "author": "Pascal Bauermeister",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/pbauermeister/dfd",
+  "download_filename": "data_flow_diagram-1.12.1.post3.tar.gz",
+  "download_time": "2025-11-17T16:36:43.181140",
+  "package_url": "https://pypi.org/project/data-flow-diagram/"
+}

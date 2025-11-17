@@ -1,0 +1,11 @@
+{
+  "name": "f32nodes",
+  "version": "0.1.0",
+  "summary": "Float32-focused node graph runtime with PyQt visualizer and real-time instrumentation.",
+  "author": "Jan Nouruzi-Pur",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "f32nodes-0.1.0.tar.gz",
+  "download_time": "2025-11-17T16:36:57.202679",
+  "package_url": "https://pypi.org/project/f32nodes/"
+}
