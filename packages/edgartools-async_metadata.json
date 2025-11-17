@@ -1,11 +1,11 @@
 {
   "name": "edgartools-async",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Async-enabled fork of edgartools with enhanced XBRL support for non-US GAAP financial statements",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edgartools_async-1.0.10.tar.gz",
-  "download_time": "2025-11-12T23:42:37.777835",
+  "download_filename": "edgartools_async-1.0.11-py3-none-any.whl",
+  "download_time": "2025-11-17T15:30:21.086152",
   "package_url": "https://pypi.org/project/edgartools-async/"
 }

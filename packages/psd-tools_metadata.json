@@ -1,11 +1,11 @@
 {
   "name": "psd-tools",
-  "version": "1.11.1",
+  "version": "1.12.0",
   "summary": "Python package for working with Adobe Photoshop PSD files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psd_tools-1.11.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-11-17T03:23:37.024752",
+  "download_filename": "psd_tools-1.12.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-17T15:30:27.655995",
   "package_url": "https://pypi.org/project/psd-tools/"
 }

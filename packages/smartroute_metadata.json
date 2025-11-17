@@ -1,0 +1,11 @@
+{
+  "name": "smartroute",
+  "version": "0.1.0",
+  "summary": "Instance-scoped routing engine for Python with hierarchical handlers and composable plugins",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartroute-0.1.0.tar.gz",
+  "download_time": "2025-11-17T15:31:03.860138",
+  "package_url": "https://pypi.org/project/smartroute/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mostlyai-engine",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Synthetic Data Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mostlyai_engine-2.0.0.tar.gz",
-  "download_time": "2025-11-13T09:54:06.180954",
+  "download_filename": "mostlyai_engine-2.0.1.tar.gz",
+  "download_time": "2025-11-17T15:31:10.108545",
   "package_url": "https://pypi.org/project/mostlyai-engine/"
 }

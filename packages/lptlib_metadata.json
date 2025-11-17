@@ -1,0 +1,11 @@
+{
+  "name": "lptlib",
+  "version": "0.0.5a9",
+  "summary": "One-way coupled Lagrangian Particle Tracking algorithms.",
+  "author": "Dilip Kalagotla",
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": "https://github.com/kalagotla/lptlib",
+  "download_filename": "lptlib-0.0.5a9.tar.gz",
+  "download_time": "2025-11-17T15:30:35.524014",
+  "package_url": "https://pypi.org/project/lptlib/"
+}

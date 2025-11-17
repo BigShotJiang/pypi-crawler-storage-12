@@ -1,0 +1,11 @@
+{
+  "name": "my-sort-prokopiv",
+  "version": "2.2.2",
+  "summary": "A small implementation of Unix sort (supports -r and -n) implemented with Click",
+  "author": "Ваше Ім'я",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_sort_prokopiv-2.2.2.tar.gz",
+  "download_time": "2025-11-17T15:30:52.106464",
+  "package_url": "https://pypi.org/project/my-sort-prokopiv/"
+}
