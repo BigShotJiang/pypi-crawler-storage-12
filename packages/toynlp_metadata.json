@@ -1,0 +1,11 @@
+{
+  "name": "toynlp",
+  "version": "0.3.0",
+  "summary": "Implementing classic NLP models from scratch.",
+  "author": "Xiangzhuang Shen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toynlp-0.3.0.tar.gz",
+  "download_time": "2025-11-17T10:52:16.721699",
+  "package_url": "https://pypi.org/project/toynlp/"
+}

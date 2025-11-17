@@ -1,0 +1,11 @@
+{
+  "name": "tmsproviderapisdk",
+  "version": "0.1.4",
+  "summary": "TVIP TMS provider api sdk",
+  "author": "Tvip",
+  "license": null,
+  "home_page": "https://github.com/tvip/tmsproviderapisdk",
+  "download_filename": "tmsproviderapisdk-0.1.4.tar.gz",
+  "download_time": "2025-11-17T10:52:12.600543",
+  "package_url": "https://pypi.org/project/tmsproviderapisdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vectorstores",
-  "version": "0.1.2.dev17",
+  "version": "0.1.2.dev32",
   "summary": "Project for uploading vector embeddings directly to weaviate.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vectorstores-0.1.2.dev17.tar.gz",
-  "download_time": "2025-11-17T09:37:35.706972",
+  "download_filename": "vectorstores-0.1.2.dev32.tar.gz",
+  "download_time": "2025-11-17T10:52:06.445573",
   "package_url": "https://pypi.org/project/vectorstores/"
 }

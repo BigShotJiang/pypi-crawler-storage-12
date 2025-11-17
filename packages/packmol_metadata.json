@@ -1,0 +1,11 @@
+{
+  "name": "packmol",
+  "version": "0.1.0",
+  "summary": "Packmol - Creates Initial Configurations for Molecular Dynamics Simulations",
+  "author": "Packmol Developers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "packmol-0.1.0.tar.gz",
+  "download_time": "2025-11-17T10:52:37.747118",
+  "package_url": "https://pypi.org/project/packmol/"
+}

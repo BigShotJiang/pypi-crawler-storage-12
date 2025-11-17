@@ -1,0 +1,11 @@
+{
+  "name": "artifact-core",
+  "version": "0.1.4",
+  "summary": "Artifact-ML foundation: a unified interface for the declarative computation of validation artifacts in ML experiments.",
+  "author": "Vasileios Ektor Papoulias",
+  "license": "MIT",
+  "home_page": "https://github.com/vasileios-ektor-papoulias/artifact-ml",
+  "download_filename": "artifact_core-0.1.4.tar.gz",
+  "download_time": "2025-11-17T10:52:33.678364",
+  "package_url": "https://pypi.org/project/artifact-core/"
+}

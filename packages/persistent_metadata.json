@@ -1,0 +1,11 @@
+{
+  "name": "persistent",
+  "version": "6.4",
+  "summary": "Translucent persistent objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "persistent-6.4.tar.gz",
+  "download_time": "2025-11-17T10:52:03.819561",
+  "package_url": "https://pypi.org/project/persistent/"
+}
