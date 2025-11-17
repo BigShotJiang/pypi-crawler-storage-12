@@ -1,11 +1,11 @@
 {
   "name": "brynq-sdk-zucchetti",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Zucchetti HR PERSONAL DATA import wrapper from BrynQ",
   "author": "BrynQ",
   "license": "BrynQ License",
   "home_page": null,
-  "download_filename": "brynq_sdk_zucchetti-1.0.1.tar.gz",
-  "download_time": "2025-11-14T11:54:25.409665",
+  "download_filename": "brynq_sdk_zucchetti-1.0.2.tar.gz",
+  "download_time": "2025-11-17T13:38:52.252685",
   "package_url": "https://pypi.org/project/brynq-sdk-zucchetti/"
 }

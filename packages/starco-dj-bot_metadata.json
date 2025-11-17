@@ -1,11 +1,11 @@
 {
   "name": "starco-dj-bot",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "A Django pluggable app for telegram bot development.",
   "author": "Mojtaba",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "starco_dj_bot-1.0.2.tar.gz",
-  "download_time": "2025-11-16T22:45:06.236112",
+  "download_filename": "starco_dj_bot-1.0.5.tar.gz",
+  "download_time": "2025-11-17T13:38:27.800119",
   "package_url": "https://pypi.org/project/starco-dj-bot/"
 }

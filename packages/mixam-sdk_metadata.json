@@ -1,11 +1,11 @@
 {
   "name": "mixam-sdk",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Mixam Python SDK: ItemSpecification Core Models & Enums. KeyBuilder & KeyParser For Working With Universal Keys",
   "author": "Mixam",
   "license": null,
   "home_page": null,
-  "download_filename": "mixam_sdk-0.1.30.tar.gz",
-  "download_time": "2025-11-14T11:55:00.859720",
+  "download_filename": "mixam_sdk-0.1.31.tar.gz",
+  "download_time": "2025-11-17T13:38:48.218245",
   "package_url": "https://pypi.org/project/mixam-sdk/"
 }

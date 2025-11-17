@@ -1,0 +1,11 @@
+{
+  "name": "firebolt-sqlalchemy",
+  "version": "1.1.2",
+  "summary": "Sqlalchemy adapter for Firebolt",
+  "author": "Firebolt",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/firebolt-db/firebolt-sqlalchemy",
+  "download_filename": "firebolt_sqlalchemy-1.1.2.tar.gz",
+  "download_time": "2025-11-17T13:38:38.520312",
+  "package_url": "https://pypi.org/project/firebolt-sqlalchemy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyANOVAapprox",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Approximation Package for High-Dimensional Functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyanovaapprox-0.2.2.tar.gz",
-  "download_time": "2025-11-11T10:28:37.210411",
+  "download_filename": "pyanovaapprox-0.2.3.tar.gz",
+  "download_time": "2025-11-17T13:38:49.880220",
   "package_url": "https://pypi.org/project/pyANOVAapprox/"
 }

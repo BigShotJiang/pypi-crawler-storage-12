@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-client",
+  "version": "1.16.0",
+  "summary": "Client library for the Qdrant vector search engine",
+  "author": "Andrey Vasnetsov",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qdrant_client-1.16.0.tar.gz",
+  "download_time": "2025-11-17T13:38:55.640015",
+  "package_url": "https://pypi.org/project/qdrant-client/"
+}

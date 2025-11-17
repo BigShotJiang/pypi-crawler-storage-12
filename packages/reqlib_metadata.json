@@ -1,11 +1,11 @@
 {
   "name": "reqlib",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "summary": "Simple HTTP client like requests",
   "author": "Mohhamed Yahea",
   "license": null,
   "home_page": "https://github.com/username/req",
-  "download_filename": "reqlib-1.2.3.tar.gz",
-  "download_time": "2025-11-17T11:56:36.093334",
+  "download_filename": "reqlib-1.2.5.tar.gz",
+  "download_time": "2025-11-17T13:38:55.090337",
   "package_url": "https://pypi.org/project/reqlib/"
 }

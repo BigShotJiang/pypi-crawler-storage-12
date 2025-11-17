@@ -1,0 +1,11 @@
+{
+  "name": "llmbuilder",
+  "version": "2.0.0",
+  "summary": "A comprehensive toolkit for building, training, and deploying language models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llmbuilder-2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-17T13:38:22.921997",
+  "package_url": "https://pypi.org/project/llmbuilder/"
+}
