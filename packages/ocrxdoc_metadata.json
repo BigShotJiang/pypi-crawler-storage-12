@@ -1,0 +1,11 @@
+{
+  "name": "ocrxdoc",
+  "version": "1.0.0",
+  "summary": "Python Framework for OCR using Qwen3-VL Models",
+  "author": "OCR Framework",
+  "license": "MIT",
+  "home_page": "https://github.com/tongnamtuanvu/ocrxdoc",
+  "download_filename": "ocrxdoc-1.0.0.tar.gz",
+  "download_time": "2025-11-17T10:31:00.185436",
+  "package_url": "https://pypi.org/project/ocrxdoc/"
+}

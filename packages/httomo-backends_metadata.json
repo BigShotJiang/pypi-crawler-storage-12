@@ -1,0 +1,11 @@
+{
+  "name": "httomo-backends",
+  "version": "0.8.0",
+  "summary": "Supplementary files for HTTomo backends.",
+  "author": "Garry ODonnell, Jacob Williamson",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "httomo_backends-0.8.0.tar.gz",
+  "download_time": "2025-11-17T10:30:45.776829",
+  "package_url": "https://pypi.org/project/httomo-backends/"
+}

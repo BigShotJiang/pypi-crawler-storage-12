@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-storage",
+  "version": "3.6.0",
+  "summary": "Google Cloud Storage API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-storage",
+  "download_filename": "google_cloud_storage-3.6.0-py3-none-any.whl",
+  "download_time": "2025-11-17T10:31:29.261837",
+  "package_url": "https://pypi.org/project/google-cloud-storage/"
+}
