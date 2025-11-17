@@ -1,0 +1,11 @@
+{
+  "name": "quri-sdk",
+  "version": "0.24.1",
+  "summary": "Platform-independent quantum computing software development kit",
+  "author": "QURI SDK Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QunaSys/quri-parts",
+  "download_filename": "quri_sdk-0.24.1.tar.gz",
+  "download_time": "2025-11-17T07:45:55.627764",
+  "package_url": "https://pypi.org/project/quri-sdk/"
+}

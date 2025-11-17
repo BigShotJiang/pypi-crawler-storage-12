@@ -1,0 +1,11 @@
+{
+  "name": "pyfcstm",
+  "version": "0.2.1",
+  "summary": "A Python framework for parsing finite state machine DSL and generating executable code in multiple target languages.",
+  "author": "HansBug",
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": "https://github.com/hansbug/pyfcstm",
+  "download_filename": "pyfcstm-0.2.1.tar.gz",
+  "download_time": "2025-11-17T07:46:11.753521",
+  "package_url": "https://pypi.org/project/pyfcstm/"
+}

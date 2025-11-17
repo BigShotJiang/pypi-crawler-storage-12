@@ -1,0 +1,11 @@
+{
+  "name": "quri-parts-openfermion",
+  "version": "0.24.1",
+  "summary": "A support library for using OpenFermion with QURI Parts",
+  "author": "QURI Parts Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QunaSys/quri-sdk",
+  "download_filename": "quri_parts_openfermion-0.24.1.tar.gz",
+  "download_time": "2025-11-17T07:46:01.775592",
+  "package_url": "https://pypi.org/project/quri-parts-openfermion/"
+}

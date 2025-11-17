@@ -1,0 +1,11 @@
+{
+  "name": "quri-parts-qiskit",
+  "version": "0.24.1",
+  "summary": "A plugin to use Qiskit with QURI Parts",
+  "author": "QURI Parts Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QunaSys/quri-sdk",
+  "download_filename": "quri_parts_qiskit-0.24.1.tar.gz",
+  "download_time": "2025-11-17T07:46:00.240149",
+  "package_url": "https://pypi.org/project/quri-parts-qiskit/"
+}

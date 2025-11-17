@@ -1,0 +1,11 @@
+{
+  "name": "tgframework-bot",
+  "version": "2.0.0",
+  "summary": "Полнофункциональный фреймворк для разработки Telegram ботов с встроенной БД, FSM, фильтрами и квизами",
+  "author": "Илья Кострицын",
+  "license": null,
+  "home_page": "https://github.com/LankiSer/TgBotFramework",
+  "download_filename": "tgframework_bot-2.0.0.tar.gz",
+  "download_time": "2025-11-17T07:46:08.474429",
+  "package_url": "https://pypi.org/project/tgframework-bot/"
+}

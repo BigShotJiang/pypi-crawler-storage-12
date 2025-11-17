@@ -1,0 +1,11 @@
+{
+  "name": "simple-fernet",
+  "version": "1.0.0",
+  "summary": "A Python package that streamlines the process of encrypting and decrypting data with Fernet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_fernet-1.0.0.tar.gz",
+  "download_time": "2025-11-17T07:46:14.406307",
+  "package_url": "https://pypi.org/project/simple-fernet/"
+}

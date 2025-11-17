@@ -1,0 +1,11 @@
+{
+  "name": "quri-parts-circuit",
+  "version": "0.24.1",
+  "summary": "Platform-independent quantum circuit library",
+  "author": "QURI Parts Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QunaSys/quri-sdk",
+  "download_filename": "quri_parts_circuit-0.24.1.tar.gz",
+  "download_time": "2025-11-17T07:46:04.848696",
+  "package_url": "https://pypi.org/project/quri-parts-circuit/"
+}

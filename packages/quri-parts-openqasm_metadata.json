@@ -1,0 +1,11 @@
+{
+  "name": "quri-parts-openqasm",
+  "version": "0.24.1",
+  "summary": "A support library for using OpenQASM 3 with QURI Parts",
+  "author": "QURI Parts Authors",
+  "license": null,
+  "home_page": "https://github.com/QunaSys/quri-sdk",
+  "download_filename": "quri_parts_openqasm-0.24.1.tar.gz",
+  "download_time": "2025-11-17T07:46:01.264580",
+  "package_url": "https://pypi.org/project/quri-parts-openqasm/"
+}
