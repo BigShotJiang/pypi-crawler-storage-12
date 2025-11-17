@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T06:40:46.685349
-- **Total Packages**: 90
-- **Total Size**: 23.63 MB
+- **Download Time**: 2025-11-17T07:01:22.886417
+- **Total Packages**: 97
+- **Total Size**: 21.9 MB
 
 ## Packages List
+- CheckmarxPythonSDK
+- utest-auto-core
+- pyya
+- sayou-document
+- acb
+- sleipnirgroup-jormungandr
+- epub2md
+- lithi
+- pycorelibs
+- helpr
+- tree2cmd
+- machineconfig
+- iflow-mcp_iac-memory-mcp-server
+- gitauth
+- crackerjack
+- merakicat
+- happylife
+- bouquin
+- omuserver
+- omuplugin-obs
+- omu-chatprovider
+- omu-chat-youtube
+- omu-chat-twitch
+- omu-chat
+- omu
+- bento-framework
+- ComicGUISpider
+- pulumi-aws-native
+- wpiformat
+- dde-agent-lib
+- par-term-emu-tui-rust
+- pyprotectorx
+- keywordsai-sdk
+- ketacli
+- nercone-modern
+- finter
+- dyff-schema
+- moyopy
+- ctyun-bootstrap
+- KairoCore
+- livekit-plugins-upliftai
+- livekit-plugins-ultravox
+- livekit-plugins-turn-detector
+- livekit-plugins-tavus
+- livekit-plugins-spitch
+- livekit-plugins-speechmatics
 - livekit-plugins-speechify
 - livekit-plugins-soniox
 - livekit-plugins-smallestai
@@ -57,42 +103,3 @@
 - daliuge-translator
 - daliuge-engine
 - daliuge-common
-- cdk-cloudformation-dev-fsx-storagevirtualmachine
-- qubitscope
-- PyAlgoEngine
-- orca-hls-utils
-- yamlpyconfig
-- ttkbootstrap-icons-gmi
-- ttkbootstrap-icons-fa
-- ttkbootstrap-icons
-- bqseine
-- vsdrba-distilled
-- flacopyus
-- mediaref
-- str-message
-- aio-kafka-manager
-- alphaaidig-datacenter-client
-- alphaaidig-datacenter-common
-- py-near
-- toonverter
-- archaea-core
-- dmpython
-- deepeval
-- maleo-identity
-- quri-algo
-- quri-vm
-- alibabacloud-paifeaturestore20230621
-- ssnipbox
-- gatling
-- mcp-tool-tingz
-- math-engine
-- pulumi-aws-native
-- antchain-collabinv
-- textmine-cli
-- logab
-- bento-framework
-- py-gnuplot
-- aliyun-python-sdk-paifeaturestore
-- expenselm-mcp-server
-- wpiformat
-- duckrun

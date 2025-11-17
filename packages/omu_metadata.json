@@ -1,11 +1,11 @@
 {
   "name": "omu",
-  "version": "0.9.31",
+  "version": "0.9.32",
   "summary": "OMUAPPS Python Implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omu-0.9.31.tar.gz",
-  "download_time": "2025-11-16T04:07:17.485929",
+  "download_filename": "omu-0.9.32.tar.gz",
+  "download_time": "2025-11-17T07:00:44.340070",
   "package_url": "https://pypi.org/project/omu/"
 }

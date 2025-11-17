@@ -1,11 +1,11 @@
 {
   "name": "bento-framework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Bento Framework — hexagonal, CQRS-friendly, multi-tenant ready.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bento_framework-0.1.0.tar.gz",
-  "download_time": "2025-11-17T06:40:43.525680",
+  "download_filename": "bento_framework-0.1.1.tar.gz",
+  "download_time": "2025-11-17T07:00:44.858761",
   "package_url": "https://pypi.org/project/bento-framework/"
 }

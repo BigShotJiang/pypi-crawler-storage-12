@@ -1,11 +1,11 @@
 {
   "name": "nercone-modern",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Modern CLI Library",
   "author": "Nercone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nercone_modern-1.9.0.tar.gz",
-  "download_time": "2025-11-16T13:39:05.664025",
+  "download_filename": "nercone_modern-1.9.1.tar.gz",
+  "download_time": "2025-11-17T07:00:49.551566",
   "package_url": "https://pypi.org/project/nercone-modern/"
 }
