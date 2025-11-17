@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_supabase-mcp-server",
+  "version": "0.4.2",
+  "summary": "Community Supabase MCP server that enables Cursor and Windsurf to end-to-end manage your Supabase project, execute SQL queries, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_supabase_mcp_server-0.4.2.tar.gz",
+  "download_time": "2025-11-17T01:58:31.612228",
+  "package_url": "https://pypi.org/project/iflow-mcp_supabase-mcp-server/"
+}

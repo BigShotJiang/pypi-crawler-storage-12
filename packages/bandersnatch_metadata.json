@@ -1,11 +1,11 @@
 {
   "name": "bandersnatch",
-  "version": "6.7.0",
+  "version": "6.8.0",
   "summary": "Mirroring tool that implements the client (mirror) side of PEP 381",
   "author": "Christian Theune",
   "license": "Academic Free License, version 3",
   "home_page": "https://github.com/pypa/bandersnatch/",
-  "download_filename": "bandersnatch-6.7.0.tar.gz",
-  "download_time": "2025-11-15T06:38:22.044824",
+  "download_filename": "bandersnatch-6.8.0.tar.gz",
+  "download_time": "2025-11-17T01:59:10.159256",
   "package_url": "https://pypi.org/project/bandersnatch/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "QuerySUTRA",
-  "version": "0.3.3",
-  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture",
+  "version": "0.4.0",
+  "summary": "SUTRA: Structured-Unstructured-Text-Retrieval-Architecture - Complete data extraction",
   "author": "Aditya Batta",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/querysutra",
-  "download_filename": "querysutra-0.3.3.tar.gz",
-  "download_time": "2025-11-16T22:45:11.396038",
+  "home_page": null,
+  "download_filename": "querysutra-0.4.0.tar.gz",
+  "download_time": "2025-11-17T01:58:49.646732",
   "package_url": "https://pypi.org/project/QuerySUTRA/"
 }

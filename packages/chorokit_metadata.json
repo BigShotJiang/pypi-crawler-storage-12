@@ -1,0 +1,11 @@
+{
+  "name": "chorokit",
+  "version": "0.1.0",
+  "summary": "Choropleth helper for GeoPandas with clean defaults for projection, layout and legend",
+  "author": "Matt Stiles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chorokit-0.1.0.tar.gz",
+  "download_time": "2025-11-17T01:58:46.822806",
+  "package_url": "https://pypi.org/project/chorokit/"
+}

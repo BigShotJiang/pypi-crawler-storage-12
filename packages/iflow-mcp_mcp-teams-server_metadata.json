@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-teams-server",
+  "version": "1.0.6",
+  "summary": "An MCP server implementation for Microsoft Teams integration",
+  "author": "Industria de Diseño Textil S.A.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_teams_server-1.0.6.tar.gz",
+  "download_time": "2025-11-17T01:58:56.196437",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-teams-server/"
+}

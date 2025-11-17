@@ -1,11 +1,11 @@
 {
   "name": "pydagu",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Python client library for Dagu - A cron alternative with a Web UI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydagu-0.2.2.tar.gz",
-  "download_time": "2025-11-11T01:56:32.794966",
+  "download_filename": "pydagu-0.2.5.tar.gz",
+  "download_time": "2025-11-17T01:58:39.727254",
   "package_url": "https://pypi.org/project/pydagu/"
 }

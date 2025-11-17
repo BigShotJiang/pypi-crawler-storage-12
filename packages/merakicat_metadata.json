@@ -1,0 +1,11 @@
+{
+  "name": "merakicat",
+  "version": "1.0.0",
+  "summary": "An app to check and translate Catalyst switch configs to Meraki.",
+  "author": "Ed Coen",
+  "license": "MIT license",
+  "home_page": "https://github.com/ecoen66/merakicat",
+  "download_filename": "merakicat-1.0.0.tar.gz",
+  "download_time": "2025-11-17T01:58:27.670912",
+  "package_url": "https://pypi.org/project/merakicat/"
+}

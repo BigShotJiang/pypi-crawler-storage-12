@@ -1,0 +1,11 @@
+{
+  "name": "csan",
+  "version": "0.1.0",
+  "summary": "CLI tool that generates a Cutter-Sanborn identifier, given a first and a last name.",
+  "author": "VERA LVX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csan-0.1.0.tar.gz",
+  "download_time": "2025-11-17T01:58:58.929481",
+  "package_url": "https://pypi.org/project/csan/"
+}
