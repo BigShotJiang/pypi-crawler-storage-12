@@ -1,0 +1,11 @@
+{
+  "name": "hana-cloud-interface",
+  "version": "0.2.1",
+  "summary": "Runs a SQL command on SAP HANA Cloud using OAuth single sign on and returns a pandas or polars dataframe",
+  "author": "charlotte corpe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hana_cloud_interface-0.2.1.tar.gz",
+  "download_time": "2025-11-17T03:23:26.903145",
+  "package_url": "https://pypi.org/project/hana-cloud-interface/"
+}

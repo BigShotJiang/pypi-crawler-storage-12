@@ -1,0 +1,11 @@
+{
+  "name": "pybulk",
+  "version": "0.2.19",
+  "summary": "PyBulk is a Python module that to allow simple and fast bulk data insertion into databases",
+  "author": "pengkailiao",
+  "license": null,
+  "home_page": "https://github.com/MrLpk/pybulk",
+  "download_filename": "pybulk-0.2.19.tar.gz",
+  "download_time": "2025-11-17T03:23:50.936907",
+  "package_url": "https://pypi.org/project/pybulk/"
+}

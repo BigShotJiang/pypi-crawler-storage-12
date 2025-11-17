@@ -1,0 +1,11 @@
+{
+  "name": "faiss-cpu",
+  "version": "1.13.0",
+  "summary": "A library for efficient similarity search and clustering of dense vectors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faiss_cpu-1.13.0-cp311-cp311-win_arm64.whl",
+  "download_time": "2025-11-17T03:23:54.075728",
+  "package_url": "https://pypi.org/project/faiss-cpu/"
+}

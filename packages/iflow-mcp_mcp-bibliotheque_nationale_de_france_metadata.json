@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-bibliotheque_nationale_de_france",
+  "version": "0.1.1",
+  "summary": "Un serveur MCP pour accéder à l'API Gallica de la Bibliothèque nationale de France (BnF)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_bibliotheque_nationale_de_france-0.1.1.tar.gz",
+  "download_time": "2025-11-17T03:23:51.448211",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-bibliotheque_nationale_de_france/"
+}

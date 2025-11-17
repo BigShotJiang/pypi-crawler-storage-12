@@ -1,11 +1,11 @@
 {
   "name": "auth-agent-sdk",
-  "version": "2.5.2",
+  "version": "0.0.2",
   "summary": "Official Python SDK for Auth Agent - OAuth 2.1 authentication for websites and AI agents. Includes client SDK for Python backends (Flask/FastAPI) and agent SDK for browser automation with browser-use integration.",
   "author": "Auth Agent Team",
   "license": "MIT",
   "home_page": "https://github.com/auth-agent/auth-agent",
-  "download_filename": "auth_agent_sdk-2.5.2.tar.gz",
-  "download_time": "2025-11-15T20:26:11.526756",
+  "download_filename": "auth_agent_sdk-0.0.2.tar.gz",
+  "download_time": "2025-11-17T03:23:34.949104",
   "package_url": "https://pypi.org/project/auth-agent-sdk/"
 }

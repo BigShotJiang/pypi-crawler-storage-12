@@ -1,11 +1,11 @@
 {
   "name": "exovista",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Python wrappers to the ExodusII finite element database model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exovista-1.0.4.tar.gz",
-  "download_time": "2025-11-16T17:22:02.607582",
+  "download_filename": "exovista-1.0.5.tar.gz",
+  "download_time": "2025-11-17T03:23:46.830608",
   "package_url": "https://pypi.org/project/exovista/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "turboloader",
-  "version": "0.8.0",
+  "version": "1.1.0",
   "summary": "High-performance ML data loading library (10,146 img/s, 12x faster than PyTorch). Features: 19 SIMD-accelerated transforms (AVX2/NEON), AutoAugment policies, PyTorch/TensorFlow tensor conversion, lock-free concurrent queues, memory-mapped I/O, WebDataset TAR format, professional documentation, and interactive benchmark web app. C++20 implementation with Python bindings.",
   "author": "TurboLoader Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "turboloader-0.8.0.tar.gz",
-  "download_time": "2025-11-16T23:55:53.327218",
+  "download_filename": "turboloader-1.1.0.tar.gz",
+  "download_time": "2025-11-17T03:23:44.263339",
   "package_url": "https://pypi.org/project/turboloader/"
 }
