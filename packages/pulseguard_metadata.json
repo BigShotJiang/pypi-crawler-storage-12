@@ -1,11 +1,11 @@
 {
   "name": "pulseguard",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Secure terminal-based password manager with encryption and interactive CLI",
   "author": "KazeTachinuu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pulseguard-0.5.0.tar.gz",
-  "download_time": "2025-11-17T12:54:51.149101",
+  "download_filename": "pulseguard-0.5.1.tar.gz",
+  "download_time": "2025-11-17T14:29:38.231881",
   "package_url": "https://pypi.org/project/pulseguard/"
 }

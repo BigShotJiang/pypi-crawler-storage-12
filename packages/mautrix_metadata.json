@@ -1,0 +1,11 @@
+{
+  "name": "mautrix",
+  "version": "0.21.0",
+  "summary": "A Python 3 asyncio Matrix framework.",
+  "author": "Tulir Asokan",
+  "license": null,
+  "home_page": "https://github.com/mautrix/python",
+  "download_filename": "mautrix-0.21.0.tar.gz",
+  "download_time": "2025-11-17T14:29:40.374702",
+  "package_url": "https://pypi.org/project/mautrix/"
+}

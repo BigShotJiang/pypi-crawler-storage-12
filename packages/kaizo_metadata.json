@@ -1,0 +1,11 @@
+{
+  "name": "kaizo",
+  "version": "0.0.1",
+  "summary": "A modular YML config file parser and runner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaizo-0.0.1.tar.gz",
+  "download_time": "2025-11-17T14:30:16.504555",
+  "package_url": "https://pypi.org/project/kaizo/"
+}

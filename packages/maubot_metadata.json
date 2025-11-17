@@ -1,0 +1,11 @@
+{
+  "name": "maubot",
+  "version": "0.6.0",
+  "summary": "A plugin-based Matrix bot system.",
+  "author": "Tulir Asokan",
+  "license": null,
+  "home_page": "https://github.com/maubot/maubot",
+  "download_filename": "maubot-0.6.0.tar.gz",
+  "download_time": "2025-11-17T14:29:30.697714",
+  "package_url": "https://pypi.org/project/maubot/"
+}

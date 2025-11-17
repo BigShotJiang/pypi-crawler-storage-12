@@ -1,11 +1,11 @@
 {
   "name": "synchronicity",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "summary": "Export blocking and async library versions from a single async implementation",
   "author": "Modal Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "synchronicity-0.10.3.tar.gz",
-  "download_time": "2025-11-12T13:37:11.971718",
+  "download_filename": "synchronicity-0.10.4.tar.gz",
+  "download_time": "2025-11-17T14:29:27.339488",
   "package_url": "https://pypi.org/project/synchronicity/"
 }

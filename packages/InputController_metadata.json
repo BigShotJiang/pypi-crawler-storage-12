@@ -1,11 +1,11 @@
 {
   "name": "InputController",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "This library provides a typesafe CLI input controller.",
   "author": "Christian Schinkel",
   "license": "MIT",
   "home_page": "https://github.com/ChristianSchinkel",
-  "download_filename": "inputcontroller-0.1.tar.gz",
-  "download_time": "2025-11-13T21:24:30.126933",
+  "download_filename": "inputcontroller-0.2.tar.gz",
+  "download_time": "2025-11-17T14:29:26.755792",
   "package_url": "https://pypi.org/project/InputController/"
 }

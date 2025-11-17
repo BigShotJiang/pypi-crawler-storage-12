@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-forms",
+  "version": "2.2.0",
+  "summary": "Pydantic-forms engine.",
+  "author": "SURF",
+  "license": null,
+  "home_page": "https://github.com/workfloworchestrator/pydantic-forms",
+  "download_filename": "pydantic_forms-2.2.0.tar.gz",
+  "download_time": "2025-11-17T14:30:04.155161",
+  "package_url": "https://pypi.org/project/pydantic-forms/"
+}

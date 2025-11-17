@@ -1,11 +1,11 @@
 {
   "name": "mal-toolbox",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "A collection of tools used to create MAL models and attack graphs.",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "mal_toolbox-1.1.2.tar.gz",
-  "download_time": "2025-11-13T11:23:25.373007",
+  "download_filename": "mal_toolbox-1.1.3.tar.gz",
+  "download_time": "2025-11-17T14:29:53.961828",
   "package_url": "https://pypi.org/project/mal-toolbox/"
 }

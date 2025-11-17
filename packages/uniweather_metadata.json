@@ -1,11 +1,11 @@
 {
   "name": "uniweather",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python client for the uniWeather Cloud API - Access IoT sensor data",
   "author": "ResearchConcepts io GmbH",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/your_username/uniWeather",
-  "download_filename": "uniweather-0.1.1.tar.gz",
-  "download_time": "2025-11-16T14:23:21.998717",
+  "download_filename": "uniweather-0.1.2.tar.gz",
+  "download_time": "2025-11-17T14:29:39.731941",
   "package_url": "https://pypi.org/project/uniweather/"
 }
