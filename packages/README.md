@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T07:01:22.886417
-- **Total Packages**: 97
-- **Total Size**: 21.9 MB
+- **Download Time**: 2025-11-17T07:31:05.203603
+- **Total Packages**: 95
+- **Total Size**: 33.78 MB
 
 ## Packages List
+- pyqueen
+- anise
+- agent-builder-gateway-sdk
+- duckdb-upgrade
+- partial-json-parser
+- egpu
+- scrapy-webarchive
+- test-keishis
+- alibabacloud-eds-aic20230930
+- ocpi-pydantic
+- gha-utils
+- tencent-wedata-feature-engineering-dev
+- colcon-cargo-ros2
+- warmth
+- realtimex-pyautogui-server
+- RedenPy
+- ai-edge-litert-nightly
+- flask-postgresql-audit
+- kailash-dataflow
+- wagtail-newsletter-django-backend
+- tritonparse
+- taolib
+- KairoCore
+- streamlit-nightly
+- wpiformat
+- rustychickpeas
+- flamehaven-doc-sanity
+- quannengbao
+- aiinbx
+- xparse-pipeline
+- foxops
+- v2simux
+- v2sim
+- bootlick
+- wn
+- cantools
+- ogeth
+- kachaka-api
+- watchdock
+- jvs-cli
+- video-representations-extractor
+- celai
+- tamar-model-client
+- passrule
+- maleo-identity
+- bohr-agent-sdk
+- finter
+- langchain-dev-utils
+- terminus-ai
+- kcli
+- cite-agent
 - CheckmarxPythonSDK
 - utest-auto-core
 - pyya
@@ -31,21 +82,17 @@
 - omu-chat-twitch
 - omu-chat
 - omu
-- bento-framework
 - ComicGUISpider
 - pulumi-aws-native
-- wpiformat
 - dde-agent-lib
 - par-term-emu-tui-rust
 - pyprotectorx
 - keywordsai-sdk
 - ketacli
 - nercone-modern
-- finter
 - dyff-schema
 - moyopy
 - ctyun-bootstrap
-- KairoCore
 - livekit-plugins-upliftai
 - livekit-plugins-ultravox
 - livekit-plugins-turn-detector
@@ -54,52 +101,3 @@
 - livekit-plugins-speechmatics
 - livekit-plugins-speechify
 - livekit-plugins-soniox
-- livekit-plugins-smallestai
-- livekit-plugins-simli
-- livekit-plugins-silero
-- livekit-plugins-sarvam
-- livekit-plugins-rtzr
-- livekit-plugins-rime
-- livekit-plugins-resemble
-- livekit-plugins-openai
-- livekit-plugins-nvidia
-- livekit-plugins-nltk
-- livekit-plugins-neuphonic
-- livekit-plugins-mistralai
-- livekit-plugins-minimax-ai
-- livekit-plugins-minimal
-- livekit-plugins-lmnt
-- livekit-plugins-langchain
-- livekit-plugins-inworld
-- livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-google
-- tlab
-- certapi
-- livekit-plugins-gladia
-- livekit-plugins-fishaudio
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- livekit-plugins-elevenlabs
-- ruuid4
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- prettyerr
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws
-- livekit-plugins-avatartalk
-- livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- livekit-agents
-- intellif-aihub
-- varray
-- par-term-emu-core-rust
-- daliuge-translator
-- daliuge-engine
-- daliuge-common

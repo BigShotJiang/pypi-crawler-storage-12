@@ -1,11 +1,11 @@
 {
   "name": "pyqueen",
-  "version": "1.1.10",
+  "version": "1.2.0",
   "summary": "Rule your Data",
   "author": "ts7ming",
   "license": null,
   "home_page": "https://github.com/ts7ming/pyqueen.git",
-  "download_filename": "pyqueen-1.1.10.tar.gz",
-  "download_time": "2025-11-17T04:03:38.879957",
+  "download_filename": "pyqueen-1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-17T07:30:12.466983",
   "package_url": "https://pypi.org/project/pyqueen/"
 }
