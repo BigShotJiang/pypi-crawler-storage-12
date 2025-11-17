@@ -1,11 +1,11 @@
 {
   "name": "san-cli",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "summary": "Space Agent Network CLI - Device management and OTP authentication",
   "author": "NexusCore",
   "license": null,
   "home_page": "https://github.com/Nexus-Core-Cloud/Nexus-Support-Tickets-AI",
-  "download_filename": "san_cli-1.0.40.tar.gz",
-  "download_time": "2025-11-17T04:03:08.942251",
+  "download_filename": "san_cli-1.0.41.tar.gz",
+  "download_time": "2025-11-17T05:48:08.977076",
   "package_url": "https://pypi.org/project/san-cli/"
 }

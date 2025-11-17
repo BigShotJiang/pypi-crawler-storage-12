@@ -1,0 +1,11 @@
+{
+  "name": "rtx-stone",
+  "version": "2.10.0a0",
+  "summary": "PyTorch 2.10 with native SM 12.0 (Blackwell) support for NVIDIA RTX 50-series GPUs on Windows",
+  "author": "RTX-STone Contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rtx_stone-2.10.0a0.tar.gz",
+  "download_time": "2025-11-17T05:47:55.508408",
+  "package_url": "https://pypi.org/project/rtx-stone/"
+}

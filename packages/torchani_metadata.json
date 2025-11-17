@@ -1,11 +1,11 @@
 {
   "name": "torchani",
-  "version": "2.7.6",
+  "version": "2.7.9",
   "summary": "PyTorch implementation of the ANI neural network potential family",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchani-2.7.6.tar.gz",
-  "download_time": "2025-11-13T19:54:10.323418",
+  "download_filename": "torchani-2.7.9.tar.gz",
+  "download_time": "2025-11-17T05:48:06.932266",
   "package_url": "https://pypi.org/project/torchani/"
 }

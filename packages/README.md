@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T05:29:40.659290
-- **Total Packages**: 87
-- **Total Size**: 35.01 MB
+- **Download Time**: 2025-11-17T05:48:38.911368
+- **Total Packages**: 86
+- **Total Size**: 35.21 MB
 
 ## Packages List
+- MeUtils
+- p2f-HydrateCalcLib
+- textmine-cli
+- rtx-stone
+- nldcsc-elastic-rules
+- tqsdk
+- modelforge-finetuning
+- lattica
+- python-uime
+- mercuto-client
+- cite-agent
+- enumex
+- slashed
+- BiRRe
+- shudaodao
+- PyEventEngine
+- bluer-ai
+- bluer-ugv
+- avionmqtt
+- bluer-sbc
+- logab
+- parallel-hill-climber
+- single_cell_metabolomics
+- torchani
+- agentic-kit-common
+- diffused
+- whywhytools
+- san-cli
+- ic-code
+- git2mind
+- fubon-api-mcp-server
+- botmaro-secrets-manager
+- acb
 - tria
 - gatling
 - localstack-core
@@ -18,13 +51,11 @@
 - wpiformat
 - albert
 - BoschMiniRpa
-- enumex
 - fiddler-strands
 - mcp-server-vefaas-function
 - PyTomoATT
 - flatflow
 - neoversity-group1-assistant-bot
-- modelforge-finetuning
 - turboloader
 - langgraph-checkpoint-redis
 - radboy
@@ -61,35 +92,3 @@
 - tsetmc
 - smoosense
 - pdf-craft
-- fluxloop-cli
-- workspace-agent
-- havenplayer-sdk
-- yeastvision
-- dandy
-- scmrepo
-- autocoder-nano
-- browserforge-local
-- anymap
-- luminescent
-- iamdata
-- jaxl-python
-- carelytics
-- realtimex-docs-server
-- cache-dit
-- oneliai
-- realtimex-pyautogui-server
-- ExploTest
-- trns
-- acdc_aws_etl_pipeline
-- google-nest-sdm
-- esphome
-- wnm
-- shancx
-- psyke
-- groundeddino-vl
-- areport
-- arbok-inspector
-- pmdsky-debug-py
-- baktfold
-- par-term-emu-tui-rust
-- ligonlibrary
