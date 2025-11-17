@@ -1,0 +1,11 @@
+{
+  "name": "beastx-python",
+  "version": "1.0.4",
+  "summary": "Pure Python 3 MTProto API Telegram client library, for bots and users",
+  "author": "GODMRUNAL",
+  "license": "MIT",
+  "home_page": "https://github.com/beastx-python",
+  "download_filename": "beastx_python-1.0.4.tar.gz",
+  "download_time": "2025-11-17T11:43:41.427113",
+  "package_url": "https://pypi.org/project/beastx-python/"
+}

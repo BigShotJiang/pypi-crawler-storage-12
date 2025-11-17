@@ -1,11 +1,11 @@
 {
   "name": "pyDetektia",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "summary": "A package for easily interaction with Detektia's API endpoints.",
   "author": "Detektia",
   "license": "ToBeChosen",
   "home_page": "https://github.com/detektia/pyDetektia",
-  "download_filename": "pydetektia-4.0.1.tar.gz",
-  "download_time": "2025-11-12T16:59:59.010487",
+  "download_filename": "pydetektia-4.0.2.tar.gz",
+  "download_time": "2025-11-17T11:43:39.711499",
   "package_url": "https://pypi.org/project/pyDetektia/"
 }
