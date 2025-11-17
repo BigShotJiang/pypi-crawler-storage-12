@@ -1,0 +1,11 @@
+{
+  "name": "tsetmc",
+  "version": "2.0.2",
+  "summary": "a library to retrieve data from tsetmc.com website",
+  "author": "5j9",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "tsetmc-2.0.2.tar.gz",
+  "download_time": "2025-11-17T04:58:15.227141",
+  "package_url": "https://pypi.org/project/tsetmc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "havenplayer-sdk",
+  "version": "0.1.2",
+  "summary": "Forked LiveKit RTC SDK for Haven Player",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/livekit/python-sdks",
+  "download_filename": "havenplayer_sdk-0.1.2.tar.gz",
+  "download_time": "2025-11-17T04:58:17.815342",
+  "package_url": "https://pypi.org/project/havenplayer-sdk/"
+}

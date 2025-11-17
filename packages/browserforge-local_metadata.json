@@ -1,0 +1,11 @@
+{
+  "name": "browserforge-local",
+  "version": "1.2.4",
+  "summary": "Intelligent browser header & fingerprint generator",
+  "author": "daijro",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browserforge_local-1.2.4.tar.gz",
+  "download_time": "2025-11-17T04:58:20.428283",
+  "package_url": "https://pypi.org/project/browserforge-local/"
+}
